@@ -1,0 +1,19 @@
+{
+  "name": "elections-opensearch",
+  "version": "1.0.0",
+  "description": "A school project based on creating & querying OpenSearch dataset. Mine is based on the French Presidential elections from 1965 to 2017.",
+  "main": "index.js",
+  "scripts": {
+    "csv-to-json": "node index.js csv-to-json",
+    "remove-spaces": "node index.js remove-spaces",
+    "create-opensearch-json": "node index.js create-opensearch-json"
+  },
+  "author": "limentic",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.8.0"
+  },
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}

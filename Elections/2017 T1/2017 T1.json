@@ -1,0 +1,6530 @@
+[
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "1",
+    "libelle": "AIN",
+    "inscrits": 415886,
+    "votants": 334379,
+    "exprimes": 325799,
+    "abstentions": 81507,
+    "blancs_nuls": 8580,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 81455
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 73692
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 51736
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 69805
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 16711
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 19788
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 3465
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 3098
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 3612
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1842
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 595
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "2",
+    "libelle": "AISNE",
+    "inscrits": 375752,
+    "votants": 295569,
+    "exprimes": 288140,
+    "abstentions": 80183,
+    "blancs_nuls": 7429,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 102770
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 51680
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 48950
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 46969
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 12230
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 14651
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 2264
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 3156
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 2171
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2763
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 536
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "3",
+    "libelle": "ALLIER",
+    "inscrits": 253508,
+    "votants": 199233,
+    "exprimes": 192460,
+    "abstentions": 54275,
+    "blancs_nuls": 6773,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 43004
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 45651
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 38311
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 36457
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 10619
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 9795
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 2986
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 2322
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 1422
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1540
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 353
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "4",
+    "libelle": "ALPES-DE-HAUTE-PROVENCE",
+    "inscrits": 126578,
+    "votants": 102255,
+    "exprimes": 99714,
+    "abstentions": 24323,
+    "blancs_nuls": 2541,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 24463
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 19960
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 22448
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 18442
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 4983
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 4861
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 1721
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 1178
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 932
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 521
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 205
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "5",
+    "libelle": "HAUTES-ALPES",
+    "inscrits": 109907,
+    "votants": 89086,
+    "exprimes": 86927,
+    "abstentions": 20821,
+    "blancs_nuls": 2159,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 18474
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 18948
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 18796
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 16645
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 5109
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 4938
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 1609
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 1049
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 783
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 411
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 165
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "6",
+    "libelle": "ALPES-MARITIMES",
+    "inscrits": 761761,
+    "votants": 599858,
+    "exprimes": 587932,
+    "abstentions": 161903,
+    "blancs_nuls": 11926,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 163141
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 111953
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 87941
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 161036
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 21067
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 25175
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 5262
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 3622
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 6067
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1729
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 939
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "7",
+    "libelle": "ARDECHE",
+    "inscrits": 249258,
+    "votants": 202640,
+    "exprimes": 195556,
+    "abstentions": 46618,
+    "blancs_nuls": 7084,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 45305
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 42320
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 42622
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 33835
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 11757
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 9926
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 3546
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 2602
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 1969
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1303
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 371
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "8",
+    "libelle": "ARDENNES",
+    "inscrits": 194379,
+    "votants": 150303,
+    "exprimes": 146803,
+    "abstentions": 44076,
+    "blancs_nuls": 3500,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 47578
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 26912
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 26172
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 25273
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 7234
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 7810
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 1406
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 1693
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 1080
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1378
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 267
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "9",
+    "libelle": "ARIEGE",
+    "inscrits": 117409,
+    "votants": 96017,
+    "exprimes": 93306,
+    "abstentions": 21392,
+    "blancs_nuls": 2711,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 20247
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 19523
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 24970
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 11892
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 7326
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 3369
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 3304
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 1180
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 799
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 556
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 140
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "10",
+    "libelle": "AUBE",
+    "inscrits": 203847,
+    "votants": 164896,
+    "exprimes": 161068,
+    "abstentions": 38951,
+    "blancs_nuls": 3828,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 48846
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 30565
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 22496
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 37122
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 6545
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 10235
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 1159
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 1387
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 1317
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1107
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 289
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "11",
+    "libelle": "AUDE",
+    "inscrits": 272695,
+    "votants": 220142,
+    "exprimes": 214361,
+    "abstentions": 52553,
+    "blancs_nuls": 5781,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 60585
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 43015
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 46126
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 32281
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 13614
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 8265
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 4642
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 2507
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 1783
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1195
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 348
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "12",
+    "libelle": "AVEYRON",
+    "inscrits": 218276,
+    "votants": 181898,
+    "exprimes": 176463,
+    "abstentions": 36378,
+    "blancs_nuls": 5435,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 28588
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 45584
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 34689
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 36664
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 10878
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 8554
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 6461
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 2322
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 1304
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1106
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 313
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "13",
+    "libelle": "BOUCHES-DU-RHONE",
+    "inscrits": 1372394,
+    "votants": 1072248,
+    "exprimes": 1049698,
+    "abstentions": 300146,
+    "blancs_nuls": 22550,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 286397
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 203312
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 231194
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 207466
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 47564
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 40447
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 10040
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 8006
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 9418
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 4114
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 1740
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "14",
+    "libelle": "CALVADOS",
+    "inscrits": 501153,
+    "votants": 410840,
+    "exprimes": 401622,
+    "abstentions": 90313,
+    "blancs_nuls": 9218,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 81770
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 99720
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 75620
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 82340
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 27293
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 20079
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 2911
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 5269
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 2830
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 3099
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 691
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "15",
+    "libelle": "CANTAL",
+    "inscrits": 117425,
+    "votants": 94658,
+    "exprimes": 91566,
+    "abstentions": 22767,
+    "blancs_nuls": 3092,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 16641
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 24477
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 14566
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 21589
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 4810
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 4047
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 2840
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 1179
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 527
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 692
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 198
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "16",
+    "libelle": "CHARENTE",
+    "inscrits": 259954,
+    "votants": 204974,
+    "exprimes": 199013,
+    "abstentions": 54980,
+    "blancs_nuls": 5961,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 42598
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 49889
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 40755
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 33744
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 12569
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 10008
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 3085
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 2724
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 1540
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1651
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 450
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "17",
+    "libelle": "CHARENTE-MARITIME",
+    "inscrits": 491369,
+    "votants": 392018,
+    "exprimes": 382065,
+    "abstentions": 99351,
+    "blancs_nuls": 9953,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 80764
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 91355
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 72491
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 78659
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 22023
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 20333
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 5276
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 4876
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 3020
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2576
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 692
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "18",
+    "libelle": "CHER",
+    "inscrits": 228983,
+    "votants": 178073,
+    "exprimes": 172686,
+    "abstentions": 50910,
+    "blancs_nuls": 5387,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 41753
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 38076
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 33694
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 32967
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 9157
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 9554
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 1925
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 2106
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 1479
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1630
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 345
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "19",
+    "libelle": "CORREZE",
+    "inscrits": 185277,
+    "votants": 150978,
+    "exprimes": 145613,
+    "abstentions": 34299,
+    "blancs_nuls": 5365,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 25253
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 39218
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 30357
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 25427
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 9263
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 7049
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 4253
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 2319
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 1094
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1051
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 329
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "21",
+    "libelle": "COTE-D'OR",
+    "inscrits": 360658,
+    "votants": 291978,
+    "exprimes": 285124,
+    "abstentions": 68680,
+    "blancs_nuls": 6854,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 64200
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 67436
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 50859
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 60625
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 16810
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 14980
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 2635
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 2818
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 2457
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1795
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 509
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "22",
+    "libelle": "COTES-D'ARMOR",
+    "inscrits": 455958,
+    "votants": 384341,
+    "exprimes": 374969,
+    "abstentions": 71617,
+    "blancs_nuls": 9372,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 61703
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 104969
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 76013
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 68916
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 32260
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 15958
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 3554
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 5468
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 2479
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 3028
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 621
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "23",
+    "libelle": "CREUSE",
+    "inscrits": 93113,
+    "votants": 73196,
+    "exprimes": 70251,
+    "abstentions": 19917,
+    "blancs_nuls": 2945,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 13966
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 15807
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 14827
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 12637
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 5494
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 3521
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 1352
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 1209
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 580
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 684
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 174
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "24",
+    "libelle": "DORDOGNE",
+    "inscrits": 314020,
+    "votants": 256500,
+    "exprimes": 248710,
+    "abstentions": 57520,
+    "blancs_nuls": 7790,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 52044
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 55945
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 57132
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 42510
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 15783
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 11424
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 6050
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 3578
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 2128
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1626
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 490
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "25",
+    "libelle": "DOUBS",
+    "inscrits": 368401,
+    "votants": 292202,
+    "exprimes": 284179,
+    "abstentions": 76199,
+    "blancs_nuls": 8023,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 66635
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 63954
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 50803
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 59929
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 16318
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 14733
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 2532
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 3565
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 3129
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2051
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 530
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "26",
+    "libelle": "DROME",
+    "inscrits": 369489,
+    "votants": 296279,
+    "exprimes": 288741,
+    "abstentions": 73210,
+    "blancs_nuls": 7538,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 68996
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 63164
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 58037
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 53403
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 17385
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 14997
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 3868
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 3174
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 2988
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2196
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 533
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "27",
+    "libelle": "EURE",
+    "inscrits": 427533,
+    "votants": 345318,
+    "exprimes": 336777,
+    "abstentions": 82215,
+    "blancs_nuls": 8541,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 98719
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 66986
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 58844
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 63436
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 16999
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 19096
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 2602
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 3933
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 2927
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2633
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 602
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "28",
+    "libelle": "EURE-ET-LOIR",
+    "inscrits": 301466,
+    "votants": 240992,
+    "exprimes": 234779,
+    "abstentions": 60474,
+    "blancs_nuls": 6213,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 58886
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 51038
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 38035
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 51275
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 12317
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 14103
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 1942
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 2659
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 2253
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1817
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 454
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "29",
+    "libelle": "FINISTERE",
+    "inscrits": 690571,
+    "votants": 569935,
+    "exprimes": 557185,
+    "abstentions": 120636,
+    "blancs_nuls": 12750,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 77366
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 164095
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 109607
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 99965
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 60781
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 22737
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 6192
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 8250
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 3697
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 3638
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 857
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "30",
+    "libelle": "GARD",
+    "inscrits": 537939,
+    "votants": 430662,
+    "exprimes": 420682,
+    "abstentions": 107277,
+    "blancs_nuls": 9980,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 123273
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 79006
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 90905
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 72366
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 20473
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 17808
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 5946
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 4044
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 4096
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2092
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 673
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "31",
+    "libelle": "HAUTE-GARONNE",
+    "inscrits": 906653,
+    "votants": 735868,
+    "exprimes": 719393,
+    "abstentions": 170785,
+    "blancs_nuls": 16475,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 120225
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 190128
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 170446
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 118608
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 60180
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 27833
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 14445
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 7116
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 5955
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 3166
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 1291
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "32",
+    "libelle": "GERS",
+    "inscrits": 144959,
+    "votants": 121932,
+    "exprimes": 118683,
+    "abstentions": 23027,
+    "blancs_nuls": 3249,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 23387
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 27775
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 23089
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 21312
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 9527
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 5378
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 5059
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 1254
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 1037
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 677
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 188
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "33",
+    "libelle": "GIRONDE",
+    "inscrits": 1086982,
+    "votants": 870380,
+    "exprimes": 850820,
+    "abstentions": 216602,
+    "blancs_nuls": 19560,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 155319
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 222287
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 185888
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 145283
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 64300
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 35530
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 16460
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 13233
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 7013
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 3980
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 1527
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "34",
+    "libelle": "HERAULT",
+    "inscrits": 800394,
+    "votants": 641024,
+    "exprimes": 626844,
+    "abstentions": 159370,
+    "blancs_nuls": 14180,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 161119
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 128621
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 143996
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 110339
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 36180
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 23159
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 8461
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 5660
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 5919
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2496
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 894
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "35",
+    "libelle": "ILLE-ET-VILAINE",
+    "inscrits": 730142,
+    "votants": 613437,
+    "exprimes": 599341,
+    "abstentions": 116705,
+    "blancs_nuls": 14096,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 84648
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 181373
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 118096
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 114034
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 53418
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 26822
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 4531
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 7065
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 3994
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 4339
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 1021
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "36",
+    "libelle": "INDRE",
+    "inscrits": 170409,
+    "votants": 135498,
+    "exprimes": 130934,
+    "abstentions": 34911,
+    "blancs_nuls": 4564,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 31985
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 27301
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 24938
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 25476
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 7786
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 7177
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 1728
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 1757
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 1098
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1390
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 298
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "37",
+    "libelle": "INDRE-ET-LOIRE",
+    "inscrits": 428871,
+    "votants": 348700,
+    "exprimes": 339905,
+    "abstentions": 80171,
+    "blancs_nuls": 8795,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 64522
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 83165
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 65931
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 72196
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 22898
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 18452
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 2929
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 3907
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 2620
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2606
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 679
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "38",
+    "libelle": "ISERE",
+    "inscrits": 856366,
+    "votants": 678362,
+    "exprimes": 662514,
+    "abstentions": 178004,
+    "blancs_nuls": 15848,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 147910
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 164091
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 135949
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 112927
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 43652
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 33773
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 6537
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 6382
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 6558
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 3595
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 1140
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "39",
+    "libelle": "JURA",
+    "inscrits": 190332,
+    "votants": 153808,
+    "exprimes": 149569,
+    "abstentions": 36524,
+    "blancs_nuls": 4239,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 36110
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 31896
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 30331
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 28373
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 7589
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 8533
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 1994
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 1980
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 1330
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1148
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 285
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "40",
+    "libelle": "LANDES",
+    "inscrits": 310197,
+    "votants": 254786,
+    "exprimes": 247866,
+    "abstentions": 55411,
+    "blancs_nuls": 6920,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 44956
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 61043
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 49949
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 42464
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 21550
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 11021
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 10485
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 2875
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 1916
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1235
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 372
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "41",
+    "libelle": "LOIR-ET-CHER",
+    "inscrits": 245321,
+    "votants": 198996,
+    "exprimes": 193738,
+    "abstentions": 46325,
+    "blancs_nuls": 5258,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 48662
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 40639
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 31576
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 42756
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 10956
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 11646
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 1843
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 2198
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 1516
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1542
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 404
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "42",
+    "libelle": "LOIRE",
+    "inscrits": 510809,
+    "votants": 401971,
+    "exprimes": 391367,
+    "abstentions": 108838,
+    "blancs_nuls": 10604,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 94222
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 90677
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 73388
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 71848
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 22698
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 22689
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 5041
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 4107
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 3483
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2547
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 667
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "43",
+    "libelle": "HAUTE-LOIRE",
+    "inscrits": 177158,
+    "votants": 144283,
+    "exprimes": 139577,
+    "abstentions": 32875,
+    "blancs_nuls": 4706,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 32185
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 32821
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 25419
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 25956
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 7435
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 8346
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 3112
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 1928
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 1050
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1043
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 282
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "44",
+    "libelle": "LOIRE-ATLANTIQUE",
+    "inscrits": 993538,
+    "votants": 830941,
+    "exprimes": 811457,
+    "abstentions": 162597,
+    "blancs_nuls": 19484,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 111194
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 232602
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 178357
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 159703
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 65140
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 36546
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 6029
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 9618
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 6129
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 4785
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 1354
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "45",
+    "libelle": "LOIRET",
+    "inscrits": 452607,
+    "votants": 364633,
+    "exprimes": 355572,
+    "abstentions": 87974,
+    "blancs_nuls": 9061,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 83662
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 83506
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 58134
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 75655
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 20438
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 21128
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 3203
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 3655
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 3109
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2380
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 702
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "46",
+    "libelle": "LOT",
+    "inscrits": 136322,
+    "votants": 113975,
+    "exprimes": 110787,
+    "abstentions": 22347,
+    "blancs_nuls": 3188,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 17865
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 29527
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 26014
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 18459
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 7951
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 4550
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 3073
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 1528
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 871
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 723
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 226
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "47",
+    "libelle": "LOT-ET-GARONNE",
+    "inscrits": 240931,
+    "votants": 194126,
+    "exprimes": 188822,
+    "abstentions": 46805,
+    "blancs_nuls": 5304,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 47271
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 39253
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 36018
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 34828
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 10639
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 9407
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 6083
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 2292
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 1660
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1044
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 327
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "48",
+    "libelle": "LOZERE",
+    "inscrits": 59508,
+    "votants": 49559,
+    "exprimes": 48147,
+    "abstentions": 9949,
+    "blancs_nuls": 1412,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 9097
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 10463
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 9483
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 10986
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 2733
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 2197
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 1764
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 683
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 354
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 294
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 93
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "49",
+    "libelle": "MAINE-ET-LOIRE",
+    "inscrits": 569425,
+    "votants": 472387,
+    "exprimes": 458958,
+    "abstentions": 97038,
+    "blancs_nuls": 13429,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 77935
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 121685
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 78293
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 108888
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 29553
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 25321
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 3483
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 5696
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 3439
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 3860
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 805
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "50",
+    "libelle": "MANCHE",
+    "inscrits": 379104,
+    "votants": 308902,
+    "exprimes": 300446,
+    "abstentions": 70202,
+    "blancs_nuls": 8456,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 61620
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 74683
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 51026
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 64909
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 19238
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 17052
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 2520
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 4134
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 2048
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2593
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 623
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "51",
+    "libelle": "MARNE",
+    "inscrits": 381696,
+    "votants": 300431,
+    "exprimes": 293769,
+    "abstentions": 81265,
+    "blancs_nuls": 6662,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 82473
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 60958
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 44424
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 65081
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 13683
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 16896
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 2350
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 2762
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 2441
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2176
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 525
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "52",
+    "libelle": "HAUTE-MARNE",
+    "inscrits": 134148,
+    "votants": 105379,
+    "exprimes": 102440,
+    "abstentions": 28769,
+    "blancs_nuls": 2939,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 34027
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 18438
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 15380
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 19590
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 4292
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 6417
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 1126
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 1233
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 813
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 926
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 198
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "53",
+    "libelle": "MAYENNE",
+    "inscrits": 222325,
+    "votants": 185933,
+    "exprimes": 180232,
+    "abstentions": 36392,
+    "blancs_nuls": 5701,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 30465
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 46938
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 26798
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 48772
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 10247
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 10107
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 1525
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 2242
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 1182
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1627
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 329
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "54",
+    "libelle": "MEURTHE-ET-MOSELLE",
+    "inscrits": 495091,
+    "votants": 388596,
+    "exprimes": 379766,
+    "abstentions": 106495,
+    "blancs_nuls": 8830,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 98194
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 83703
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 77400
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 62654
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 23632
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 19331
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 3236
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 4483
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 3458
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2942
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 733
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "55",
+    "libelle": "MEUSE",
+    "inscrits": 137629,
+    "votants": 109780,
+    "exprimes": 107045,
+    "abstentions": 27849,
+    "blancs_nuls": 2735,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 34602
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 20713
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 16020
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 19287
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 4918
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 6802
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 1294
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 1430
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 856
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 886
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 237
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "56",
+    "libelle": "MORBIHAN",
+    "inscrits": 577012,
+    "votants": 480899,
+    "exprimes": 468835,
+    "abstentions": 96113,
+    "blancs_nuls": 12064,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 82927
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 130639
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 82020
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 97900
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 34368
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 22411
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 4820
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 6309
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 3249
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 3291
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 901
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "57",
+    "libelle": "MOSELLE",
+    "inscrits": 751271,
+    "votants": 573771,
+    "exprimes": 559217,
+    "abstentions": 177500,
+    "blancs_nuls": 14554,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 158542
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 117738
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 100118
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 96003
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 29480
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 32525
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 5763
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 6975
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 5977
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 4929
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 1167
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "58",
+    "libelle": "NIEVRE",
+    "inscrits": 159425,
+    "votants": 123968,
+    "exprimes": 120434,
+    "abstentions": 35457,
+    "blancs_nuls": 3534,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 29817
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 27356
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 23079
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 20773
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 7854
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 6446
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 1365
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 1547
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 959
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1004
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 234
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "59",
+    "libelle": "NORD",
+    "inscrits": 1804668,
+    "votants": 1387595,
+    "exprimes": 1353803,
+    "abstentions": 417073,
+    "blancs_nuls": 33792,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 382030
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 268723
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 288115
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 226710
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 76531
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 65245
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 8535
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 13151
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 11450
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 10975
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 2338
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "60",
+    "libelle": "OISE",
+    "inscrits": 562085,
+    "votants": 448831,
+    "exprimes": 437793,
+    "abstentions": 113254,
+    "blancs_nuls": 11038,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 135188
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 86680
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 77415
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 76783
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 20525
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 23936
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 3414
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 4682
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 4666
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 3677
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 827
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "61",
+    "libelle": "ORNE",
+    "inscrits": 208734,
+    "votants": 170394,
+    "exprimes": 166057,
+    "abstentions": 38340,
+    "blancs_nuls": 4337,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 39532
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 35815
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 24542
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 41084
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 8659
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 9644
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 1480
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 2147
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 1291
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1513
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 350
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "62",
+    "libelle": "PAS-DE-CALAIS",
+    "inscrits": 1090368,
+    "votants": 856174,
+    "exprimes": 833152,
+    "abstentions": 234194,
+    "blancs_nuls": 23022,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 286147
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 153682
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 159342
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 119077
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 43084
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 41427
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 5832
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 9002
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 5484
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 8667
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 1408
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "63",
+    "libelle": "PUY-DE-DOME",
+    "inscrits": 460939,
+    "votants": 367576,
+    "exprimes": 356567,
+    "abstentions": 93363,
+    "blancs_nuls": 11009,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 63030
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 96797
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 78417
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 58432
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 25814
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 15635
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 7348
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 4730
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 2910
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2699
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 755
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "64",
+    "libelle": "PYRENEES-ATLANTIQUES",
+    "inscrits": 502378,
+    "votants": 405021,
+    "exprimes": 395653,
+    "abstentions": 97357,
+    "blancs_nuls": 9368,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 54376
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 103958
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 78803
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 71858
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 30589
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 14727
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 29882
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 6371
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 2782
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1799
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 508
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "65",
+    "libelle": "HAUTES-PYRENEES",
+    "inscrits": 177690,
+    "votants": 143415,
+    "exprimes": 139689,
+    "abstentions": 34275,
+    "blancs_nuls": 3726,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 25947
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 35070
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 32148
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 20220
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 9935
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 5876
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 6928
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 1575
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 1023
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 767
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 200
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "66",
+    "libelle": "PYRENEES-ORIENTALES",
+    "inscrits": 347914,
+    "votants": 273930,
+    "exprimes": 266787,
+    "abstentions": 73984,
+    "blancs_nuls": 7143,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 80169
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 49245
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 56392
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 45865
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 13455
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 9741
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 4634
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 3053
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 2303
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1477
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 453
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "67",
+    "libelle": "BAS-RHIN",
+    "inscrits": 766539,
+    "votants": 612502,
+    "exprimes": 598105,
+    "abstentions": 154037,
+    "blancs_nuls": 14397,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 147714
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 133347
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 88420
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 131564
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 31931
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 39299
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 6420
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 6549
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 6841
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 4823
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 1197
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "68",
+    "libelle": "HAUT-RHIN",
+    "inscrits": 526190,
+    "votants": 415694,
+    "exprimes": 403910,
+    "abstentions": 110496,
+    "blancs_nuls": 11784,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 109704
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 79798
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 57856
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 90237
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 18694
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 28562
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 5004
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 4727
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 5217
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 3101
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 1010
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "69",
+    "libelle": "RHONE",
+    "inscrits": 1155604,
+    "votants": 906531,
+    "exprimes": 888512,
+    "abstentions": 249073,
+    "blancs_nuls": 18019,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 144476
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 236137
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 175051
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 205781
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 60094
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 38429
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 6703
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 7146
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 9188
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 4061
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 1446
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "70",
+    "libelle": "HAUTE-SAONE",
+    "inscrits": 179214,
+    "votants": 144238,
+    "exprimes": 139522,
+    "abstentions": 34976,
+    "blancs_nuls": 4716,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 43753
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 27332
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 22150
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 25184
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 6596
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 8176
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 1512
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 2021
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 1206
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1325
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 267
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "71",
+    "libelle": "SAONE-ET-LOIRE",
+    "inscrits": 406418,
+    "votants": 319634,
+    "exprimes": 309951,
+    "abstentions": 86784,
+    "blancs_nuls": 9683,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 75258
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 69212
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 55249
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 60100
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 19184
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 18961
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 3153
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 3588
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 2535
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2201
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 510
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "72",
+    "libelle": "SARTHE",
+    "inscrits": 405440,
+    "votants": 331863,
+    "exprimes": 322444,
+    "abstentions": 73577,
+    "blancs_nuls": 9419,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 67083
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 64618
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 56851
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 92261
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 17195
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 13657
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 2141
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 3565
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 2074
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2452
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 547
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "73",
+    "libelle": "SAVOIE",
+    "inscrits": 310237,
+    "votants": 247491,
+    "exprimes": 241559,
+    "abstentions": 62746,
+    "blancs_nuls": 5932,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 52448
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 55871
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 45013
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 50815
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 13752
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 13673
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 3152
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 2578
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 2608
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1219
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 430
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "74",
+    "libelle": "HAUTE-SAVOIE",
+    "inscrits": 540033,
+    "votants": 423758,
+    "exprimes": 413498,
+    "abstentions": 116275,
+    "blancs_nuls": 10260,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 77919
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 100174
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 67079
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 105057
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 21805
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 24785
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 4649
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 4263
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 5021
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1919
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 827
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "75",
+    "libelle": "PARIS",
+    "inscrits": 1301637,
+    "votants": 1091437,
+    "exprimes": 1076559,
+    "abstentions": 210200,
+    "blancs_nuls": 14878,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 53719
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 375006
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 210548
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 284744
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 109550
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 17997
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 5490
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 6799
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 8337
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2897
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 1472
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "76",
+    "libelle": "SEINE-MARITIME",
+    "inscrits": 881658,
+    "votants": 704364,
+    "exprimes": 686526,
+    "abstentions": 177294,
+    "blancs_nuls": 17838,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 170945
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 145756
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 152394
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 118336
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 41516
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 33036
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 4383
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 8321
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 5205
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 5356
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 1278
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "77",
+    "libelle": "SEINE-ET-MARNE",
+    "inscrits": 881558,
+    "votants": 698256,
+    "exprimes": 680591,
+    "abstentions": 183302,
+    "blancs_nuls": 17665,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 155521
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 157314
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 141827
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 120968
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 38772
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 41505
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 5182
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 6354
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 8195
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 3706
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 1247
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "78",
+    "libelle": "YVELINES",
+    "inscrits": 951148,
+    "votants": 773663,
+    "exprimes": 758934,
+    "abstentions": 177485,
+    "blancs_nuls": 14729,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 98024
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 219063
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 126345
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 206835
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 52564
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 32906
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 5371
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 5448
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 8148
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2872
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 1358
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "79",
+    "libelle": "DEUX-SEVRES",
+    "inscrits": 272385,
+    "votants": 221229,
+    "exprimes": 214398,
+    "abstentions": 51156,
+    "blancs_nuls": 6831,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 38640
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 57826
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 41609
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 40195
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 14950
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 11356
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 2599
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 3483
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 1478
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1869
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 393
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "80",
+    "libelle": "SOMME",
+    "inscrits": 409014,
+    "votants": 328525,
+    "exprimes": 319636,
+    "abstentions": 80489,
+    "blancs_nuls": 8889,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 97081
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 69520
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 59491
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 51834
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 14260
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 15462
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 2365
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 3661
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 2272
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 3111
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 579
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "81",
+    "libelle": "TARN",
+    "inscrits": 291194,
+    "votants": 240687,
+    "exprimes": 233757,
+    "abstentions": 50507,
+    "blancs_nuls": 6930,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 52402
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 51755
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 48094
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 41052
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 15530
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 11440
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 7105
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 2721
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 1822
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1397
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 439
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "82",
+    "libelle": "TARN-ET-GARONNE",
+    "inscrits": 183341,
+    "votants": 150718,
+    "exprimes": 146801,
+    "abstentions": 32623,
+    "blancs_nuls": 3917,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 39183
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 30319
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 27841
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 25992
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 8567
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 7233
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 3660
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 1573
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 1337
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 830
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 266
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "83",
+    "libelle": "VAR",
+    "inscrits": 794777,
+    "votants": 625670,
+    "exprimes": 612438,
+    "abstentions": 169107,
+    "blancs_nuls": 13232,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 186376
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 108597
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 94184
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 152316
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 21089
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 29177
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 6933
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 4655
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 5860
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2274
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 977
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "84",
+    "libelle": "VAUCLUSE",
+    "inscrits": 402323,
+    "votants": 321721,
+    "exprimes": 314228,
+    "abstentions": 80602,
+    "blancs_nuls": 7493,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 95930
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 58208
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 60852
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 59619
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 13553
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 14452
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 3989
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 2804
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 2890
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1388
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 543
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "85",
+    "libelle": "VENDEE",
+    "inscrits": 514442,
+    "votants": 431575,
+    "exprimes": 418830,
+    "abstentions": 82867,
+    "blancs_nuls": 12745,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 77590
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 109989
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 63156
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 106804
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 21356
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 24211
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 3810
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 5219
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 2705
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 3294
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 696
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "86",
+    "libelle": "VIENNE",
+    "inscrits": 307014,
+    "votants": 244887,
+    "exprimes": 237748,
+    "abstentions": 62127,
+    "blancs_nuls": 7139,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 47024
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 59146
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 49061
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 42703
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 16861
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 11920
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 2861
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 3642
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 1896
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2074
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 560
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "87",
+    "libelle": "HAUTE-VIENNE",
+    "inscrits": 266322,
+    "votants": 215699,
+    "exprimes": 208415,
+    "abstentions": 50623,
+    "blancs_nuls": 7284,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 37937
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 55577
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 46549
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 32522
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 16136
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 9285
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 3518
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 3044
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 1557
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1850
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 440
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "88",
+    "libelle": "VOSGES",
+    "inscrits": 282612,
+    "votants": 226219,
+    "exprimes": 219502,
+    "abstentions": 56393,
+    "blancs_nuls": 6717,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 63924
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 43604
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 36524
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 39579
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 10887
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 14323
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 2750
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 3229
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 2223
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2004
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 455
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "89",
+    "libelle": "YONNE",
+    "inscrits": 241918,
+    "votants": 189179,
+    "exprimes": 184553,
+    "abstentions": 52739,
+    "blancs_nuls": 4626,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 52640
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 36234
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 30815
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 36739
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 8846
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 11668
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 1987
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 2128
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 1775
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1380
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 341
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "90",
+    "libelle": "TERRITOIRE DE BELFORT",
+    "inscrits": 95290,
+    "votants": 73652,
+    "exprimes": 71574,
+    "abstentions": 21638,
+    "blancs_nuls": 2078,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 19249
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 14771
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 13672
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 12668
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 4189
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 3770
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 669
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 886
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 941
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 592
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 167
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "91",
+    "libelle": "ESSONNE",
+    "inscrits": 795227,
+    "votants": 637787,
+    "exprimes": 623487,
+    "abstentions": 157440,
+    "blancs_nuls": 14300,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 102461
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 163389
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 136392
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 112478
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 42072
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 44793
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 4468
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 5755
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 7514
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2924
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 1241
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "92",
+    "libelle": "HAUTS-DE-SEINE",
+    "inscrits": 986730,
+    "votants": 810015,
+    "exprimes": 794758,
+    "abstentions": 176715,
+    "blancs_nuls": 15257,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 60731
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 256687
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 145289
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 231553
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 57114
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 21359
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 4747
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 5033
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 8453
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2447
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 1345
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "93",
+    "libelle": "SEINE-SAINT-DENIS",
+    "inscrits": 766894,
+    "votants": 555942,
+    "exprimes": 541202,
+    "abstentions": 210952,
+    "blancs_nuls": 14740,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 73534
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 130103
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 184123
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 69063
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 45506
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 16601
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 3160
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 6050
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 8739
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 3235
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 1088
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "94",
+    "libelle": "VAL-DE-MARNE",
+    "inscrits": 785540,
+    "votants": 621472,
+    "exprimes": 607787,
+    "abstentions": 164068,
+    "blancs_nuls": 13685,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 69878
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 172202
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 149112
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 122814
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 47228
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 26252
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 3957
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 5226
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 7303
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2749
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 1066
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "95",
+    "libelle": "VAL-D'OISE",
+    "inscrits": 730497,
+    "votants": 562937,
+    "exprimes": 548138,
+    "abstentions": 167560,
+    "blancs_nuls": 14799,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 94158
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 138752
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 131342
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 101131
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 37518
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 24790
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 3975
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 5040
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 7702
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2752
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 978
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "2A",
+    "libelle": "CORSE-DU-SUD",
+    "inscrits": 108781,
+    "votants": 75023,
+    "exprimes": 72868,
+    "abstentions": 33758,
+    "blancs_nuls": 2155,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 20858
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 13022
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 10085
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 18714
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 2546
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 2218
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 3948
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 657
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 485
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 218
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 117
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 1,
+    "code": "2B",
+    "libelle": "HAUTE-CORSE",
+    "inscrits": 124875,
+    "votants": 83968,
+    "exprimes": 81508,
+    "abstentions": 40907,
+    "blancs_nuls": 2460,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 22183
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 15506
+      },
+      {
+        "nom": "Jean-Luc MÉLENCHON",
+        "parti": "LFI",
+        "votes": 11229
+      },
+      {
+        "nom": "François FILLON",
+        "parti": "LR",
+        "votes": 20739
+      },
+      {
+        "nom": "Benoît HAMON",
+        "parti": "PS",
+        "votes": 3234
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLF",
+        "votes": 2244
+      },
+      {
+        "nom": "Jean LASSALLE",
+        "parti": "R",
+        "votes": 4763
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 717
+      },
+      {
+        "nom": "François ASSELINEAU",
+        "parti": "UPR",
+        "votes": 480
+      },
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 277
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 136
+      }
+    ]
+  }
+]

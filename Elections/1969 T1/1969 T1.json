@@ -1,0 +1,4562 @@
+[
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "1",
+    "libelle": "AIN",
+    "inscrits": 202239,
+    "votants": 147973,
+    "exprimes": 146330,
+    "abstentions": 54266,
+    "blancs_nuls": 1643,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1357
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 4858
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 26274
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 5820
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 67929
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 38197
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 1895
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "2",
+    "libelle": "AISNE",
+    "inscrits": 296738,
+    "votants": 239265,
+    "exprimes": 236028,
+    "abstentions": 57473,
+    "blancs_nuls": 3237,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 2788
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 7966
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 65433
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 9566
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 95894
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 50575
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 3806
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "3",
+    "libelle": "ALLIER",
+    "inscrits": 243779,
+    "votants": 189432,
+    "exprimes": 186828,
+    "abstentions": 54347,
+    "blancs_nuls": 2604,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1646
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 5718
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 59572
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 9446
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 72003
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 36195
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 2248
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "4",
+    "libelle": "ALPES-DE-HAUTE-PROVENCE",
+    "inscrits": 65485,
+    "votants": 50106,
+    "exprimes": 49192,
+    "abstentions": 15379,
+    "blancs_nuls": 914,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 626
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 1886
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 12151
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 3886
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 19002
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 10841
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 800
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "5",
+    "libelle": "HAUTES-ALPES",
+    "inscrits": 58734,
+    "votants": 43661,
+    "exprimes": 42975,
+    "abstentions": 15073,
+    "blancs_nuls": 686,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 580
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 1525
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 9849
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 1643
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 18776
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 9973
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 629
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "6",
+    "libelle": "ALPES-MARITIMES",
+    "inscrits": 426582,
+    "votants": 325408,
+    "exprimes": 320744,
+    "abstentions": 101174,
+    "blancs_nuls": 4664,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 3656
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 7837
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 74424
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 10610
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 125270
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 94352
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 4595
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "7",
+    "libelle": "ARDECHE",
+    "inscrits": 167157,
+    "votants": 129890,
+    "exprimes": 128418,
+    "abstentions": 37267,
+    "blancs_nuls": 1472,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1170
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 4004
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 27386
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 5741
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 58441
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 30170
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 1506
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "8",
+    "libelle": "ARDENNES",
+    "inscrits": 166706,
+    "votants": 130037,
+    "exprimes": 128182,
+    "abstentions": 36669,
+    "blancs_nuls": 1855,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1725
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 4721
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 31579
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 6453
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 54514
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 27150
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 2040
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "9",
+    "libelle": "ARIEGE",
+    "inscrits": 94833,
+    "votants": 72133,
+    "exprimes": 71164,
+    "abstentions": 22700,
+    "blancs_nuls": 969,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 970
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 2278
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 18086
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 5079
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 26732
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 17344
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 675
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "10",
+    "libelle": "AUBE",
+    "inscrits": 155992,
+    "votants": 122764,
+    "exprimes": 121116,
+    "abstentions": 33228,
+    "blancs_nuls": 1648,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1232
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 3171
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 26066
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 6527
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 53184
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 29237
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 1699
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "11",
+    "libelle": "AUDE",
+    "inscrits": 176905,
+    "votants": 141793,
+    "exprimes": 139541,
+    "abstentions": 35112,
+    "blancs_nuls": 2252,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1414
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 4670
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 34988
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 11948
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 51538
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 33587
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 1396
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "12",
+    "libelle": "AVEYRON",
+    "inscrits": 188614,
+    "votants": 151530,
+    "exprimes": 149015,
+    "abstentions": 37084,
+    "blancs_nuls": 2515,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1345
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 4308
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 18617
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 5878
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 82735
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 34470
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 1662
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "13",
+    "libelle": "BOUCHES-DU-RHONE",
+    "inscrits": 767852,
+    "votants": 567562,
+    "exprimes": 560694,
+    "abstentions": 200290,
+    "blancs_nuls": 6868,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 5130
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 16466
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 172595
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 61156
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 194989
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 104092
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 6266
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "14",
+    "libelle": "CALVADOS",
+    "inscrits": 293125,
+    "votants": 231831,
+    "exprimes": 229512,
+    "abstentions": 61294,
+    "blancs_nuls": 2319,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 2457
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 8748
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 35566
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 8020
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 110643
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 60677
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 3401
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "15",
+    "libelle": "CANTAL",
+    "inscrits": 110360,
+    "votants": 84662,
+    "exprimes": 84034,
+    "abstentions": 25698,
+    "blancs_nuls": 628,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 597
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 1944
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 11777
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 3053
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 58645
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 7477
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 541
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "16",
+    "libelle": "CHARENTE",
+    "inscrits": 207021,
+    "votants": 159578,
+    "exprimes": 157269,
+    "abstentions": 47443,
+    "blancs_nuls": 2309,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1427
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 4920
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 37095
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 6654
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 66520
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 38348
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 2305
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "17",
+    "libelle": "CHARENTE-MARITIME",
+    "inscrits": 297115,
+    "votants": 221539,
+    "exprimes": 218827,
+    "abstentions": 75576,
+    "blancs_nuls": 2712,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 2091
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 8208
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 42531
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 9337
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 92239
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 60781
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 3640
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "18",
+    "libelle": "CHER",
+    "inscrits": 187582,
+    "votants": 146258,
+    "exprimes": 144507,
+    "abstentions": 41324,
+    "blancs_nuls": 1751,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1477
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 3670
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 41789
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 4633
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 57767
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 33177
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 1994
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "19",
+    "libelle": "CORREZE",
+    "inscrits": 161858,
+    "votants": 130630,
+    "exprimes": 129197,
+    "abstentions": 31228,
+    "blancs_nuls": 1433,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1111
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 3441
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 40979
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 5628
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 56695
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 20273
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 1070
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "20",
+    "libelle": "CORSE",
+    "inscrits": 181364,
+    "votants": 110947,
+    "exprimes": 110516,
+    "abstentions": 70417,
+    "blancs_nuls": 431,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 466
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 1231
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 17735
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 4770
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 59076
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 26978
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 260
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "21",
+    "libelle": "COTE-D'OR",
+    "inscrits": 239094,
+    "votants": 181332,
+    "exprimes": 179387,
+    "abstentions": 57762,
+    "blancs_nuls": 1945,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1929
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 7020
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 28365
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 8569
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 81946
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 49347
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 2211
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "22",
+    "libelle": "COTES-D'ARMOR",
+    "inscrits": 331467,
+    "votants": 266406,
+    "exprimes": 263750,
+    "abstentions": 65061,
+    "blancs_nuls": 2656,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 2633
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 12557
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 62584
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 10059
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 113520
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 59523
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 2874
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "23",
+    "libelle": "CREUSE",
+    "inscrits": 110772,
+    "votants": 78162,
+    "exprimes": 77325,
+    "abstentions": 32610,
+    "blancs_nuls": 837,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 727
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 1893
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 23919
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 4898
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 31884
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 13207
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 797
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "24",
+    "libelle": "DORDOGNE",
+    "inscrits": 253591,
+    "votants": 205106,
+    "exprimes": 201976,
+    "abstentions": 48485,
+    "blancs_nuls": 3130,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1811
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 5467
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 52213
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 9233
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 80312
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 50562
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 2378
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "25",
+    "libelle": "DOUBS",
+    "inscrits": 229086,
+    "votants": 178353,
+    "exprimes": 176314,
+    "abstentions": 50733,
+    "blancs_nuls": 2039,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 2294
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 8629
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 27996
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 9571
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 86203
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 39401
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 2220
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "26",
+    "libelle": "DROME",
+    "inscrits": 203138,
+    "votants": 153790,
+    "exprimes": 152013,
+    "abstentions": 49348,
+    "blancs_nuls": 1777,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1707
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 6114
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 33119
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 8125
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 60083
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 40342
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 2523
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "27",
+    "libelle": "EURE",
+    "inscrits": 221839,
+    "votants": 178856,
+    "exprimes": 176714,
+    "abstentions": 42983,
+    "blancs_nuls": 2142,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1487
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 5016
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 24897
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 12342
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 261632
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 35727
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 2711
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "28",
+    "libelle": "EURE-ET-LOIR",
+    "inscrits": 179777,
+    "votants": 144435,
+    "exprimes": 142498,
+    "abstentions": 35342,
+    "blancs_nuls": 1937,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1342
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 4871
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 26247
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 7811
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 64069
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 36143
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 2015
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "29",
+    "libelle": "FINISTERE",
+    "inscrits": 500540,
+    "votants": 396073,
+    "exprimes": 393672,
+    "abstentions": 104467,
+    "blancs_nuls": 2401,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 3382
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 18273
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 67141
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 16547
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 210416
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 74226
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 3687
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "30",
+    "libelle": "GARD",
+    "inscrits": 287719,
+    "votants": 219251,
+    "exprimes": 216164,
+    "abstentions": 68468,
+    "blancs_nuls": 3087,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 2212
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 7941
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 65483
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 11427
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 81998
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 44334
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 2769
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "31",
+    "libelle": "HAUTE-GARONNE",
+    "inscrits": 398749,
+    "votants": 308847,
+    "exprimes": 304835,
+    "abstentions": 89902,
+    "blancs_nuls": 4012,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 4457
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 13737
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 59561
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 20482
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 120898
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 82845
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 2855
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "32",
+    "libelle": "GERS",
+    "inscrits": 115119,
+    "votants": 86829,
+    "exprimes": 85601,
+    "abstentions": 28290,
+    "blancs_nuls": 1228,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1173
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 3809
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 15868
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 5508
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 29715
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 28600
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 928
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "33",
+    "libelle": "GIRONDE",
+    "inscrits": 597506,
+    "votants": 455160,
+    "exprimes": 450149,
+    "abstentions": 142346,
+    "blancs_nuls": 5011,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 4347
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 16541
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 82698
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 30145
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 182559
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 129110
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 4749
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "34",
+    "libelle": "HERAULT",
+    "inscrits": 339415,
+    "votants": 257773,
+    "exprimes": 254880,
+    "abstentions": 81642,
+    "blancs_nuls": 2893,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 2445
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 8281
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 65430
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 15891
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 100779
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 59022
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 3032
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "35",
+    "libelle": "ILLE-ET-VILAINE",
+    "inscrits": 392368,
+    "votants": 313212,
+    "exprimes": 309378,
+    "abstentions": 79156,
+    "blancs_nuls": 3834,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 2463
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 10112
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 36813
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 11838
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 162518
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 81948
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 3686
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "36",
+    "libelle": "INDRE",
+    "inscrits": 161332,
+    "votants": 124021,
+    "exprimes": 121929,
+    "abstentions": 37311,
+    "blancs_nuls": 2092,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1113
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 2838
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 33115
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 4468
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 44464
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 34205
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 1726
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "37",
+    "libelle": "INDRE-ET-LOIRE",
+    "inscrits": 253517,
+    "votants": 196079,
+    "exprimes": 193104,
+    "abstentions": 57438,
+    "blancs_nuls": 2975,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1670
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 6934
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 33865
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 9271
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 79717
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 58511
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 3136
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "38",
+    "libelle": "ISERE",
+    "inscrits": 457712,
+    "votants": 343633,
+    "exprimes": 340098,
+    "abstentions": 114079,
+    "blancs_nuls": 3535,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 3726
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 16275
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 80847
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 18402
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 132980
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 82752
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 5116
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "39",
+    "libelle": "JURA",
+    "inscrits": 144478,
+    "votants": 109175,
+    "exprimes": 107659,
+    "abstentions": 35303,
+    "blancs_nuls": 1516,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1316
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 4165
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 18997
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 4201
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 47598
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 29505
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 1877
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "40",
+    "libelle": "LANDES",
+    "inscrits": 180699,
+    "votants": 146792,
+    "exprimes": 144742,
+    "abstentions": 33907,
+    "blancs_nuls": 2050,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1396
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 3968
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 27249
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 9335
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 66508
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 34789
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 1497
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "41",
+    "libelle": "LOIR-ET-CHER",
+    "inscrits": 165374,
+    "votants": 130197,
+    "exprimes": 128315,
+    "abstentions": 35177,
+    "blancs_nuls": 1882,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1272
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 4003
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 25704
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 5823
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 48999
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 40902
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 1612
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "42",
+    "libelle": "LOIRE",
+    "inscrits": 417404,
+    "votants": 311184,
+    "exprimes": 307541,
+    "abstentions": 106220,
+    "blancs_nuls": 3643,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 3242
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 13145
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 61909
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 12890
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 135191
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 76698
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 4466
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "43",
+    "libelle": "HAUTE-LOIRE",
+    "inscrits": 137977,
+    "votants": 103679,
+    "exprimes": 102315,
+    "abstentions": 34298,
+    "blancs_nuls": 1364,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 863
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 3171
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 12789
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 5026
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 54025
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 25028
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 1413
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "44",
+    "libelle": "LOIRE-ATLANTIQUE",
+    "inscrits": 507597,
+    "votants": 406605,
+    "exprimes": 402518,
+    "abstentions": 100992,
+    "blancs_nuls": 4087,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 3474
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 20678
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 50932
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 18041
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 199390
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 105801
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 4202
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "45",
+    "libelle": "LOIRET",
+    "inscrits": 252010,
+    "votants": 201196,
+    "exprimes": 198275,
+    "abstentions": 50814,
+    "blancs_nuls": 2921,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 2000
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 6902
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 35764
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 9223
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 92414
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 49185
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 2787
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "46",
+    "libelle": "LOT",
+    "inscrits": 101415,
+    "votants": 83072,
+    "exprimes": 82263,
+    "abstentions": 18343,
+    "blancs_nuls": 809,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 760
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 2267
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 14804
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 2686
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 39144
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 21999
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 603
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "47",
+    "libelle": "LOT-ET-GARONNE",
+    "inscrits": 178358,
+    "votants": 142684,
+    "exprimes": 140680,
+    "abstentions": 35674,
+    "blancs_nuls": 2004,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1651
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 4449
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 35837
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 5814
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 51573
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 39549
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 1807
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "48",
+    "libelle": "LOZERE",
+    "inscrits": 53265,
+    "votants": 40857,
+    "exprimes": 40398,
+    "abstentions": 12408,
+    "blancs_nuls": 459,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 349
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 1125
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 4963
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 1308
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 25509
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 6699
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 445
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "49",
+    "libelle": "MAINE-ET-LOIRE",
+    "inscrits": 340093,
+    "votants": 269580,
+    "exprimes": 265827,
+    "abstentions": 70513,
+    "blancs_nuls": 3753,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 2144
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 10915
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 28751
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 10193
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 143690
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 66718
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 3416
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "50",
+    "libelle": "MANCHE",
+    "inscrits": 270424,
+    "votants": 209552,
+    "exprimes": 207287,
+    "abstentions": 60872,
+    "blancs_nuls": 2265,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1681
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 6931
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 16610
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 7769
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 117403
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 54417
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 2476
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "51",
+    "libelle": "MARNE",
+    "inscrits": 267759,
+    "votants": 209049,
+    "exprimes": 206481,
+    "abstentions": 58710,
+    "blancs_nuls": 2568,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 2141
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 7596
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 46581
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 10252
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 91069
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 46044
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 2798
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "52",
+    "libelle": "HAUTE-MARNE",
+    "inscrits": 122625,
+    "votants": 96238,
+    "exprimes": 94650,
+    "abstentions": 26387,
+    "blancs_nuls": 1588,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1009
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 3818
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 15870
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 3463
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 44922
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 24117
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 1451
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "53",
+    "libelle": "MAYENNE",
+    "inscrits": 154557,
+    "votants": 127795,
+    "exprimes": 125277,
+    "abstentions": 26762,
+    "blancs_nuls": 2518,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 943
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 3534
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 11291
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 4463
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 67431
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 35902
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 1713
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "54",
+    "libelle": "MEURTHE-ET-MOSELLE",
+    "inscrits": 378213,
+    "votants": 292870,
+    "exprimes": 288737,
+    "abstentions": 85343,
+    "blancs_nuls": 4133,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 3516
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 11729
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 60034
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 10885
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 126763
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 72624
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 3186
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "55",
+    "libelle": "MEUSE",
+    "inscrits": 121014,
+    "votants": 95409,
+    "exprimes": 93885,
+    "abstentions": 25605,
+    "blancs_nuls": 1524,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1685
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 2881
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 13470
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 3052
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 46643
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 24720
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 1434
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "56",
+    "libelle": "MORBIHAN",
+    "inscrits": 340344,
+    "votants": 270160,
+    "exprimes": 267674,
+    "abstentions": 70184,
+    "blancs_nuls": 2486,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1896
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 6971
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 40349
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 9263
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 146901
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 59586
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 2708
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "57",
+    "libelle": "MOSELLE",
+    "inscrits": 495336,
+    "votants": 380020,
+    "exprimes": 372159,
+    "abstentions": 115316,
+    "blancs_nuls": 7861,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 6092
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 13071
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 53279
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 10433
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 189268
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 95833
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 4183
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "58",
+    "libelle": "NIEVRE",
+    "inscrits": 156459,
+    "votants": 121065,
+    "exprimes": 119535,
+    "abstentions": 35394,
+    "blancs_nuls": 1530,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1188
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 3437
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 30962
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 7754
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 42384
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 32429
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 1381
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "59",
+    "libelle": "NORD",
+    "inscrits": 1336423,
+    "votants": 1104705,
+    "exprimes": 1087054,
+    "abstentions": 231718,
+    "blancs_nuls": 17651,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 10357
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 36527
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 292022
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 79019
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 463255
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 186376
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 19498
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "60",
+    "libelle": "OISE",
+    "inscrits": 294322,
+    "votants": 238521,
+    "exprimes": 234899,
+    "abstentions": 55801,
+    "blancs_nuls": 3622,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 2887
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 9287
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 57034
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 10306
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 99479
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 52081
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 3825
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "61",
+    "libelle": "ORNE",
+    "inscrits": 170261,
+    "votants": 134836,
+    "exprimes": 133183,
+    "abstentions": 35425,
+    "blancs_nuls": 1653,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1166
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 4273
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 15017
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 4706
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 61860
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 44185
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 1976
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "62",
+    "libelle": "PAS-DE-CALAIS",
+    "inscrits": 772822,
+    "votants": 641213,
+    "exprimes": 630789,
+    "abstentions": 131609,
+    "blancs_nuls": 10424,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 6394
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 20119
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 179256
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 47141
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 247358
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 114590
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 15931
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "63",
+    "libelle": "PUY-DE-DOME",
+    "inscrits": 323866,
+    "votants": 246161,
+    "exprimes": 243370,
+    "abstentions": 77705,
+    "blancs_nuls": 2791,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 2505
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 10404
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 54853
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 17763
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 108421
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 46204
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 3220
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "64",
+    "libelle": "PYRENEES-ATLANTIQUES",
+    "inscrits": 315272,
+    "votants": 245325,
+    "exprimes": 242569,
+    "abstentions": 69947,
+    "blancs_nuls": 2756,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 2687
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 8352
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 33189
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 13122
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 122615
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 60174
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 2430
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "65",
+    "libelle": "HAUTES-PYRENEES",
+    "inscrits": 141310,
+    "votants": 107292,
+    "exprimes": 105950,
+    "abstentions": 34018,
+    "blancs_nuls": 1342,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1163
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 3754
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 26335
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 4556
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 41837
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 27340
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 965
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "66",
+    "libelle": "PYRENEES-ORIENTALES",
+    "inscrits": 169909,
+    "votants": 124842,
+    "exprimes": 123194,
+    "abstentions": 45067,
+    "blancs_nuls": 1648,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1369
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 3744
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 34887
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 5379
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 47453
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 28951
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 1411
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "67",
+    "libelle": "BAS-RHIN",
+    "inscrits": 470873,
+    "votants": 347530,
+    "exprimes": 340375,
+    "abstentions": 123343,
+    "blancs_nuls": 7155,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 3406
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 6303
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 20659
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 10039
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 203416
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 93997
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 2555
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "68",
+    "libelle": "HAUT-RHIN",
+    "inscrits": 343511,
+    "votants": 263437,
+    "exprimes": 256333,
+    "abstentions": 80074,
+    "blancs_nuls": 7104,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 2860
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 6018
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 17098
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 8803
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 147200
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 71985
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 2369
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "69",
+    "libelle": "RHONE",
+    "inscrits": 639372,
+    "votants": 504547,
+    "exprimes": 489855,
+    "abstentions": 134825,
+    "blancs_nuls": 14692,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 4242
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 21629
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 95391
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 20807
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 211940
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 129585
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 6261
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "70",
+    "libelle": "HAUTE-SAONE",
+    "inscrits": 133204,
+    "votants": 105950,
+    "exprimes": 104310,
+    "abstentions": 27254,
+    "blancs_nuls": 1640,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1187
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 4071
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 16331
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 4381
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 46419
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 30657
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 1264
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "71",
+    "libelle": "SAONE-ET-LOIRE",
+    "inscrits": 334460,
+    "votants": 247127,
+    "exprimes": 244269,
+    "abstentions": 87333,
+    "blancs_nuls": 2858,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 2059
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 7260
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 56397
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 10263
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 104896
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 60338
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 3056
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "72",
+    "libelle": "SARTHE",
+    "inscrits": 272996,
+    "votants": 213695,
+    "exprimes": 210608,
+    "abstentions": 59301,
+    "blancs_nuls": 3087,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1703
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 7409
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 45388
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 9745
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 86761
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 56730
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 2872
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "73",
+    "libelle": "SAVOIE",
+    "inscrits": 166938,
+    "votants": 122624,
+    "exprimes": 121473,
+    "abstentions": 44314,
+    "blancs_nuls": 1151,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1291
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 5076
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 24448
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 4797
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 53604
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 30582
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 1675
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "74",
+    "libelle": "HAUTE-SAVOIE",
+    "inscrits": 212622,
+    "votants": 156481,
+    "exprimes": 154783,
+    "abstentions": 56141,
+    "blancs_nuls": 1698,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1716
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 5362
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 23164
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 6202
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 72891
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 43179
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 2269
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "75",
+    "libelle": "PARIS",
+    "inscrits": 1445744,
+    "votants": 1103827,
+    "exprimes": 1095799,
+    "abstentions": 341917,
+    "blancs_nuls": 8028,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 16280
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 46910
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 203989
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 65216
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 495648
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 258605
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 9151
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "76",
+    "libelle": "SEINE-MARITIME",
+    "inscrits": 637829,
+    "votants": 503496,
+    "exprimes": 496879,
+    "abstentions": 134333,
+    "blancs_nuls": 6617,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 5009
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 19858
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 132556
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 22095
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 205916
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 104162
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 7283
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "77",
+    "libelle": "SEINE-ET-MARNE",
+    "inscrits": 341203,
+    "votants": 269860,
+    "exprimes": 266640,
+    "abstentions": 71343,
+    "blancs_nuls": 3220,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 3003
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 9520
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 61506
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 9789
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 118151
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 60524
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 4147
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "78",
+    "libelle": "YVELINES",
+    "inscrits": 456051,
+    "votants": 369366,
+    "exprimes": 366094,
+    "abstentions": 86685,
+    "blancs_nuls": 3272,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 4460
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 18110
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 80796
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 18206
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 159666
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 80631
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 4225
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "79",
+    "libelle": "DEUX-SEVRES",
+    "inscrits": 201697,
+    "votants": 159680,
+    "exprimes": 157051,
+    "abstentions": 42017,
+    "blancs_nuls": 2629,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1400
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 6186
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 17392
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 7528
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 77029
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 45508
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 2008
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "80",
+    "libelle": "SOMME",
+    "inscrits": 302977,
+    "votants": 255433,
+    "exprimes": 251314,
+    "abstentions": 47544,
+    "blancs_nuls": 4119,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 2847
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 8322
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 72738
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 10956
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 100497
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 51308
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 4646
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "81",
+    "libelle": "TARN",
+    "inscrits": 211456,
+    "votants": 175463,
+    "exprimes": 172104,
+    "abstentions": 35993,
+    "blancs_nuls": 3359,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1822
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 5621
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 31503
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 11169
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 77305
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 42793
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 1891
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "82",
+    "libelle": "TARN-ET-GARONNE",
+    "inscrits": 112893,
+    "votants": 90931,
+    "exprimes": 89396,
+    "abstentions": 21962,
+    "blancs_nuls": 1535,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 954
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 3025
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 15368
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 4835
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 38198
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 25819
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 1197
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "83",
+    "libelle": "VAR",
+    "inscrits": 329023,
+    "votants": 245291,
+    "exprimes": 242047,
+    "abstentions": 83732,
+    "blancs_nuls": 3244,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 2130
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 6817
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 59708
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 13766
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 98265
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 57998
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 3363
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "84",
+    "libelle": "VAUCLUSE",
+    "inscrits": 203853,
+    "votants": 160791,
+    "exprimes": 157497,
+    "abstentions": 43062,
+    "blancs_nuls": 3294,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1817
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 5628
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 38698
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 10521
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 54425
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 43680
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 2728
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "85",
+    "libelle": "VENDEE",
+    "inscrits": 260320,
+    "votants": 213955,
+    "exprimes": 209938,
+    "abstentions": 46365,
+    "blancs_nuls": 4017,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1575
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 6102
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 18858
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 7607
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 125389
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 47379
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 3028
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "86",
+    "libelle": "VIENNE",
+    "inscrits": 208077,
+    "votants": 162420,
+    "exprimes": 160048,
+    "abstentions": 45657,
+    "blancs_nuls": 2372,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1411
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 5368
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 30114
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 5943
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 70344
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 44702
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 2166
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "87",
+    "libelle": "HAUTE-VIENNE",
+    "inscrits": 228404,
+    "votants": 177333,
+    "exprimes": 174392,
+    "abstentions": 51071,
+    "blancs_nuls": 2941,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1498
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 5341
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 58677
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 13479
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 66486
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 26981
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 1930
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "88",
+    "libelle": "VOSGES",
+    "inscrits": 233502,
+    "votants": 181243,
+    "exprimes": 177158,
+    "abstentions": 52259,
+    "blancs_nuls": 4085,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 2280
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 6019
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 29236
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 7292
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 85630
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 44133
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 2568
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "89",
+    "libelle": "YONNE",
+    "inscrits": 174965,
+    "votants": 136656,
+    "exprimes": 135061,
+    "abstentions": 38309,
+    "blancs_nuls": 1595,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1339
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 4058
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 26906
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 5615
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 60632
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 34627
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 1884
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "90",
+    "libelle": "TERRITOIRE DE BELFORT",
+    "inscrits": 65292,
+    "votants": 49097,
+    "exprimes": 48392,
+    "abstentions": 16195,
+    "blancs_nuls": 705,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 604
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 2240
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 8976
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 3015
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 21614
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 11360
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 583
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "91",
+    "libelle": "ESSONNE",
+    "inscrits": 348879,
+    "votants": 292216,
+    "exprimes": 289407,
+    "abstentions": 56663,
+    "blancs_nuls": 2809,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 3890
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 14669
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 78205
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 13163
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 114515
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 61625
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 3340
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "92",
+    "libelle": "HAUTS-DE-SEINE",
+    "inscrits": 797875,
+    "votants": 640152,
+    "exprimes": 635183,
+    "abstentions": 157723,
+    "blancs_nuls": 4969,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 8858
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 31411
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 163188
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 33850
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 264394
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 127499
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 5983
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "93",
+    "libelle": "SEINE-SAINT-DENIS",
+    "inscrits": 628930,
+    "votants": 503462,
+    "exprimes": 498367,
+    "abstentions": 125468,
+    "blancs_nuls": 5095,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 5679
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 20588
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 192502
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 19875
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 169296
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 84970
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 5457
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "94",
+    "libelle": "VAL-DE-MARNE",
+    "inscrits": 595435,
+    "votants": 476874,
+    "exprimes": 472889,
+    "abstentions": 118561,
+    "blancs_nuls": 3985,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 5803
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 21418
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 143743
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 21525
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 182007
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 93558
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 4835
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 1,
+    "code": "95",
+    "libelle": "VAL-D'OISE",
+    "inscrits": 361563,
+    "votants": 290843,
+    "exprimes": 288078,
+    "abstentions": 70720,
+    "blancs_nuls": 2765,
+    "candidats": [
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 3373
+      },
+      {
+        "nom": "Michel ROCARD",
+        "parti": "PSU",
+        "votes": 12991
+      },
+      {
+        "nom": "Jacques DUCLOS",
+        "parti": "PCF",
+        "votes": 84531
+      },
+      {
+        "nom": "Gaston DEFFERRE",
+        "parti": "SFIO",
+        "votes": 12572
+      },
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 113315
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 58111
+      },
+      {
+        "nom": "Louis DUCATEL",
+        "parti": "DIV",
+        "votes": 3185
+      }
+    ]
+  }
+]

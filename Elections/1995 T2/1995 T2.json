@@ -1,0 +1,2210 @@
+[
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "1",
+    "libelle": "AIN",
+    "inscrits": 314136,
+    "votants": 251562,
+    "exprimes": 234703,
+    "abstentions": 62574,
+    "blancs_nuls": 16859,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 99920
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 134783
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "2",
+    "libelle": "AISNE",
+    "inscrits": 371936,
+    "votants": 305113,
+    "exprimes": 287618,
+    "abstentions": 66823,
+    "blancs_nuls": 17495,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 156883
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 130735
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "3",
+    "libelle": "ALLIER",
+    "inscrits": 263964,
+    "votants": 215301,
+    "exprimes": 201406,
+    "abstentions": 48663,
+    "blancs_nuls": 13895,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 101223
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 100183
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "4",
+    "libelle": "ALPES-DE-HAUTE-PROVENCE",
+    "inscrits": 103853,
+    "votants": 85485,
+    "exprimes": 79643,
+    "abstentions": 18368,
+    "blancs_nuls": 5842,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 38183
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 41460
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "5",
+    "libelle": "HAUTES-ALPES",
+    "inscrits": 88680,
+    "votants": 72425,
+    "exprimes": 67988,
+    "abstentions": 16255,
+    "blancs_nuls": 4437,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 30616
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 37372
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "6",
+    "libelle": "ALPES-MARITIMES",
+    "inscrits": 680821,
+    "votants": 522626,
+    "exprimes": 490929,
+    "abstentions": 158195,
+    "blancs_nuls": 31697,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 169487
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 321442
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "7",
+    "libelle": "ARDECHE",
+    "inscrits": 211198,
+    "votants": 175147,
+    "exprimes": 164323,
+    "abstentions": 36051,
+    "blancs_nuls": 10824,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 79487
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 84836
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "8",
+    "libelle": "ARDENNES",
+    "inscrits": 194247,
+    "votants": 155808,
+    "exprimes": 147042,
+    "abstentions": 38439,
+    "blancs_nuls": 8766,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 78353
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 68689
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "9",
+    "libelle": "ARIEGE",
+    "inscrits": 108169,
+    "votants": 90677,
+    "exprimes": 85539,
+    "abstentions": 17492,
+    "blancs_nuls": 5138,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 51182
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 34357
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "10",
+    "libelle": "AUBE",
+    "inscrits": 192753,
+    "votants": 156956,
+    "exprimes": 146759,
+    "abstentions": 35797,
+    "blancs_nuls": 10197,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 65580
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 81179
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "11",
+    "libelle": "AUDE",
+    "inscrits": 225831,
+    "votants": 190801,
+    "exprimes": 178710,
+    "abstentions": 35030,
+    "blancs_nuls": 12091,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 99411
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 79299
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "12",
+    "libelle": "AVEYRON",
+    "inscrits": 212698,
+    "votants": 181207,
+    "exprimes": 172705,
+    "abstentions": 31491,
+    "blancs_nuls": 8502,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 76209
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 96496
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "13",
+    "libelle": "BOUCHES-DU-RHONE",
+    "inscrits": 1108867,
+    "votants": 860890,
+    "exprimes": 797351,
+    "abstentions": 247977,
+    "blancs_nuls": 63539,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 363114
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 434237
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "14",
+    "libelle": "CALVADOS",
+    "inscrits": 437163,
+    "votants": 354498,
+    "exprimes": 336792,
+    "abstentions": 82665,
+    "blancs_nuls": 17706,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 164646
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 172146
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "15",
+    "libelle": "CANTAL",
+    "inscrits": 125641,
+    "votants": 105987,
+    "exprimes": 102366,
+    "abstentions": 19654,
+    "blancs_nuls": 3621,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 37935
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 64431
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "16",
+    "libelle": "CHARENTE",
+    "inscrits": 254492,
+    "votants": 205902,
+    "exprimes": 195213,
+    "abstentions": 48590,
+    "blancs_nuls": 10689,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 103519
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 91694
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "17",
+    "libelle": "CHARENTE-MARITIME",
+    "inscrits": 396990,
+    "votants": 319465,
+    "exprimes": 302175,
+    "abstentions": 77525,
+    "blancs_nuls": 17290,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 146040
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 156135
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "18",
+    "libelle": "CHER",
+    "inscrits": 228867,
+    "votants": 182550,
+    "exprimes": 170632,
+    "abstentions": 46317,
+    "blancs_nuls": 11918,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 84204
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 86428
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "19",
+    "libelle": "CORREZE",
+    "inscrits": 185044,
+    "votants": 162041,
+    "exprimes": 155737,
+    "abstentions": 23003,
+    "blancs_nuls": 6304,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 60168
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 95569
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "21",
+    "libelle": "COTE-D'OR",
+    "inscrits": 326912,
+    "votants": 265031,
+    "exprimes": 249729,
+    "abstentions": 61881,
+    "blancs_nuls": 15302,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 114394
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 135335
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "22",
+    "libelle": "COTES-D'ARMOR",
+    "inscrits": 420460,
+    "votants": 357790,
+    "exprimes": 342523,
+    "abstentions": 62670,
+    "blancs_nuls": 15267,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 185233
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 157290
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "23",
+    "libelle": "CREUSE",
+    "inscrits": 105775,
+    "votants": 87043,
+    "exprimes": 83166,
+    "abstentions": 18732,
+    "blancs_nuls": 3877,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 38553
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 44613
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "24",
+    "libelle": "DORDOGNE",
+    "inscrits": 302916,
+    "votants": 259581,
+    "exprimes": 244890,
+    "abstentions": 43335,
+    "blancs_nuls": 14691,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 122408
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 122482
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "25",
+    "libelle": "DOUBS",
+    "inscrits": 325780,
+    "votants": 270727,
+    "exprimes": 255000,
+    "abstentions": 55053,
+    "blancs_nuls": 15727,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 121359
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 133641
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "26",
+    "libelle": "DROME",
+    "inscrits": 292163,
+    "votants": 237701,
+    "exprimes": 221823,
+    "abstentions": 54462,
+    "blancs_nuls": 15878,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 104649
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 117174
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "27",
+    "libelle": "EURE",
+    "inscrits": 359154,
+    "votants": 290941,
+    "exprimes": 272219,
+    "abstentions": 68213,
+    "blancs_nuls": 18722,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 128025
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 144194
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "28",
+    "libelle": "EURE-ET-LOIR",
+    "inscrits": 273150,
+    "votants": 219653,
+    "exprimes": 205268,
+    "abstentions": 53497,
+    "blancs_nuls": 14385,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 93864
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 111404
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "29",
+    "libelle": "FINISTERE",
+    "inscrits": 625020,
+    "votants": 517951,
+    "exprimes": 496148,
+    "abstentions": 107069,
+    "blancs_nuls": 21803,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 242305
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 253843
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "30",
+    "libelle": "GARD",
+    "inscrits": 420214,
+    "votants": 341529,
+    "exprimes": 315173,
+    "abstentions": 78685,
+    "blancs_nuls": 26356,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 154201
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 160972
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "31",
+    "libelle": "HAUTE-GARONNE",
+    "inscrits": 654471,
+    "votants": 533125,
+    "exprimes": 503118,
+    "abstentions": 121346,
+    "blancs_nuls": 30007,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 274029
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 229089
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "32",
+    "libelle": "GERS",
+    "inscrits": 136479,
+    "votants": 115520,
+    "exprimes": 108991,
+    "abstentions": 20959,
+    "blancs_nuls": 6529,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 55345
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 53646
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "33",
+    "libelle": "GIRONDE",
+    "inscrits": 827744,
+    "votants": 677256,
+    "exprimes": 639204,
+    "abstentions": 150488,
+    "blancs_nuls": 38052,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 327351
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 311853
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "34",
+    "libelle": "HERAULT",
+    "inscrits": 576596,
+    "votants": 472265,
+    "exprimes": 440555,
+    "abstentions": 104331,
+    "blancs_nuls": 31710,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 215525
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 225030
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "35",
+    "libelle": "ILLE-ET-VILAINE",
+    "inscrits": 581508,
+    "votants": 474087,
+    "exprimes": 453106,
+    "abstentions": 107421,
+    "blancs_nuls": 20981,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 221177
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 231929
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "36",
+    "libelle": "INDRE",
+    "inscrits": 180699,
+    "votants": 148329,
+    "exprimes": 138743,
+    "abstentions": 32370,
+    "blancs_nuls": 9586,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 69784
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 68959
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "37",
+    "libelle": "INDRE-ET-LOIRE",
+    "inscrits": 369195,
+    "votants": 294817,
+    "exprimes": 277533,
+    "abstentions": 74378,
+    "blancs_nuls": 17284,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 137157
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 140376
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "38",
+    "libelle": "ISERE",
+    "inscrits": 662221,
+    "votants": 525641,
+    "exprimes": 491032,
+    "abstentions": 136580,
+    "blancs_nuls": 34609,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 247332
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 243700
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "39",
+    "libelle": "JURA",
+    "inscrits": 177773,
+    "votants": 147003,
+    "exprimes": 136913,
+    "abstentions": 30770,
+    "blancs_nuls": 10090,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 65324
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 71589
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "40",
+    "libelle": "LANDES",
+    "inscrits": 244719,
+    "votants": 207843,
+    "exprimes": 197292,
+    "abstentions": 36876,
+    "blancs_nuls": 10551,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 103989
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 93303
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "41",
+    "libelle": "LOIR-ET-CHER",
+    "inscrits": 228164,
+    "votants": 186533,
+    "exprimes": 174171,
+    "abstentions": 41631,
+    "blancs_nuls": 12362,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 83952
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 90219
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "42",
+    "libelle": "LOIRE",
+    "inscrits": 486481,
+    "votants": 378779,
+    "exprimes": 352379,
+    "abstentions": 107702,
+    "blancs_nuls": 26400,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 156951
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 195428
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "43",
+    "libelle": "HAUTE-LOIRE",
+    "inscrits": 159891,
+    "votants": 132761,
+    "exprimes": 124636,
+    "abstentions": 27130,
+    "blancs_nuls": 8125,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 52655
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 71981
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "44",
+    "libelle": "LOIRE-ATLANTIQUE",
+    "inscrits": 768116,
+    "votants": 612654,
+    "exprimes": 580316,
+    "abstentions": 155462,
+    "blancs_nuls": 32338,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 288239
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 292077
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "45",
+    "libelle": "LOIRET",
+    "inscrits": 394869,
+    "votants": 321226,
+    "exprimes": 300204,
+    "abstentions": 73643,
+    "blancs_nuls": 21022,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 131798
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 168406
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "46",
+    "libelle": "LOT",
+    "inscrits": 124755,
+    "votants": 108220,
+    "exprimes": 102823,
+    "abstentions": 16535,
+    "blancs_nuls": 5397,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 53351
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 49472
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "47",
+    "libelle": "LOT-ET-GARONNE",
+    "inscrits": 224828,
+    "votants": 189530,
+    "exprimes": 176771,
+    "abstentions": 35298,
+    "blancs_nuls": 12759,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 84746
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 92025
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "48",
+    "libelle": "LOZERE",
+    "inscrits": 57682,
+    "votants": 49377,
+    "exprimes": 47157,
+    "abstentions": 8305,
+    "blancs_nuls": 2220,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 18179
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 28978
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "49",
+    "libelle": "MAINE-ET-LOIRE",
+    "inscrits": 489674,
+    "votants": 399255,
+    "exprimes": 376333,
+    "abstentions": 90419,
+    "blancs_nuls": 22922,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 161865
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 214468
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "50",
+    "libelle": "MANCHE",
+    "inscrits": 351735,
+    "votants": 287095,
+    "exprimes": 273317,
+    "abstentions": 64640,
+    "blancs_nuls": 13778,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 112406
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 160911
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "51",
+    "libelle": "MARNE",
+    "inscrits": 366184,
+    "votants": 287291,
+    "exprimes": 269978,
+    "abstentions": 78893,
+    "blancs_nuls": 17313,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 122748
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 147230
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "52",
+    "libelle": "HAUTE-MARNE",
+    "inscrits": 145957,
+    "votants": 116799,
+    "exprimes": 108707,
+    "abstentions": 29158,
+    "blancs_nuls": 8092,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 51991
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 56716
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "53",
+    "libelle": "MAYENNE",
+    "inscrits": 206353,
+    "votants": 169559,
+    "exprimes": 160661,
+    "abstentions": 36794,
+    "blancs_nuls": 8898,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 65081
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 95580
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "54",
+    "libelle": "MEURTHE-ET-MOSELLE",
+    "inscrits": 470561,
+    "votants": 372664,
+    "exprimes": 349157,
+    "abstentions": 97897,
+    "blancs_nuls": 23507,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 181544
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 167613
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "55",
+    "libelle": "MEUSE",
+    "inscrits": 140745,
+    "votants": 114717,
+    "exprimes": 107277,
+    "abstentions": 26028,
+    "blancs_nuls": 7440,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 51178
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 56099
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "56",
+    "libelle": "MORBIHAN",
+    "inscrits": 525396,
+    "votants": 430675,
+    "exprimes": 409492,
+    "abstentions": 94721,
+    "blancs_nuls": 21183,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 194454
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 215038
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "57",
+    "libelle": "MOSELLE",
+    "inscrits": 707157,
+    "votants": 553826,
+    "exprimes": 512607,
+    "abstentions": 153331,
+    "blancs_nuls": 41219,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 248410
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 264197
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "58",
+    "libelle": "NIEVRE",
+    "inscrits": 173969,
+    "votants": 142234,
+    "exprimes": 134196,
+    "abstentions": 31735,
+    "blancs_nuls": 8038,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 76563
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 57633
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "59",
+    "libelle": "NORD",
+    "inscrits": 1677826,
+    "votants": 1324163,
+    "exprimes": 1237789,
+    "abstentions": 353663,
+    "blancs_nuls": 86374,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 664653
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 573136
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "60",
+    "libelle": "OISE",
+    "inscrits": 488261,
+    "votants": 396020,
+    "exprimes": 368860,
+    "abstentions": 92241,
+    "blancs_nuls": 27160,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 180301
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 188559
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "61",
+    "libelle": "ORNE",
+    "inscrits": 213586,
+    "votants": 175720,
+    "exprimes": 166319,
+    "abstentions": 37866,
+    "blancs_nuls": 9401,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 70497
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 95822
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "62",
+    "libelle": "PAS-DE-CALAIS",
+    "inscrits": 1016147,
+    "votants": 823739,
+    "exprimes": 769378,
+    "abstentions": 192408,
+    "blancs_nuls": 54361,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 440736
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 328642
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "63",
+    "libelle": "PUY-DE-DOME",
+    "inscrits": 415519,
+    "votants": 344159,
+    "exprimes": 323738,
+    "abstentions": 71360,
+    "blancs_nuls": 20421,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 158254
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 165484
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "64",
+    "libelle": "PYRENEES-ATLANTIQUES",
+    "inscrits": 432464,
+    "votants": 356632,
+    "exprimes": 337710,
+    "abstentions": 75832,
+    "blancs_nuls": 18922,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 155693
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 182017
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "65",
+    "libelle": "HAUTES-PYRENEES",
+    "inscrits": 173648,
+    "votants": 141849,
+    "exprimes": 133616,
+    "abstentions": 31799,
+    "blancs_nuls": 8233,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 71373
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 62243
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "66",
+    "libelle": "PYRENEES-ORIENTALES",
+    "inscrits": 266821,
+    "votants": 216926,
+    "exprimes": 202257,
+    "abstentions": 49895,
+    "blancs_nuls": 14669,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 97557
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 104700
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "67",
+    "libelle": "BAS-RHIN",
+    "inscrits": 653633,
+    "votants": 507947,
+    "exprimes": 466687,
+    "abstentions": 145686,
+    "blancs_nuls": 41260,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 191484
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 275203
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "68",
+    "libelle": "HAUT-RHIN",
+    "inscrits": 458381,
+    "votants": 359460,
+    "exprimes": 328677,
+    "abstentions": 98921,
+    "blancs_nuls": 30783,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 140489
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 188188
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "69",
+    "libelle": "RHONE",
+    "inscrits": 922551,
+    "votants": 726554,
+    "exprimes": 681540,
+    "abstentions": 195997,
+    "blancs_nuls": 45014,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 286757
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 394783
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "70",
+    "libelle": "HAUTE-SAONE",
+    "inscrits": 170055,
+    "votants": 143227,
+    "exprimes": 133637,
+    "abstentions": 26828,
+    "blancs_nuls": 9590,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 66303
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 67334
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "71",
+    "libelle": "SAONE-ET-LOIRE",
+    "inscrits": 399705,
+    "votants": 319444,
+    "exprimes": 299841,
+    "abstentions": 80261,
+    "blancs_nuls": 19603,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 145797
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 154044
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "72",
+    "libelle": "SARTHE",
+    "inscrits": 378348,
+    "votants": 302668,
+    "exprimes": 284879,
+    "abstentions": 75680,
+    "blancs_nuls": 17789,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 144695
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 140184
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "73",
+    "libelle": "SAVOIE",
+    "inscrits": 249228,
+    "votants": 199661,
+    "exprimes": 187483,
+    "abstentions": 49567,
+    "blancs_nuls": 12178,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 82356
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 105127
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "74",
+    "libelle": "HAUTE-SAVOIE",
+    "inscrits": 385590,
+    "votants": 308045,
+    "exprimes": 289088,
+    "abstentions": 77545,
+    "blancs_nuls": 18957,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 109963
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 179125
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "75",
+    "libelle": "PARIS",
+    "inscrits": 1167533,
+    "votants": 904069,
+    "exprimes": 871950,
+    "abstentions": 263464,
+    "blancs_nuls": 32119,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 347331
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 524619
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "76",
+    "libelle": "SEINE-MARITIME",
+    "inscrits": 831570,
+    "votants": 658378,
+    "exprimes": 617023,
+    "abstentions": 173192,
+    "blancs_nuls": 41355,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 328426
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 288597
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "77",
+    "libelle": "SEINE-ET-MARNE",
+    "inscrits": 691031,
+    "votants": 548131,
+    "exprimes": 513095,
+    "abstentions": 142900,
+    "blancs_nuls": 35036,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 228347
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 284748
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "78",
+    "libelle": "YVELINES",
+    "inscrits": 822619,
+    "votants": 669433,
+    "exprimes": 635254,
+    "abstentions": 153186,
+    "blancs_nuls": 34179,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 250027
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 385227
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "79",
+    "libelle": "DEUX-SEVRES",
+    "inscrits": 259241,
+    "votants": 213371,
+    "exprimes": 202893,
+    "abstentions": 45870,
+    "blancs_nuls": 10478,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 96399
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 106494
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "80",
+    "libelle": "SOMME",
+    "inscrits": 390933,
+    "votants": 326005,
+    "exprimes": 307288,
+    "abstentions": 64928,
+    "blancs_nuls": 18717,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 163254
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 144034
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "81",
+    "libelle": "TARN",
+    "inscrits": 284805,
+    "votants": 218060,
+    "exprimes": 204333,
+    "abstentions": 66745,
+    "blancs_nuls": 13727,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 103314
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 101019
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "82",
+    "libelle": "TARN-ET-GARONNE",
+    "inscrits": 151138,
+    "votants": 127638,
+    "exprimes": 119874,
+    "abstentions": 23500,
+    "blancs_nuls": 7764,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 58829
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 61045
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "83",
+    "libelle": "VAR",
+    "inscrits": 601342,
+    "votants": 471300,
+    "exprimes": 437730,
+    "abstentions": 130042,
+    "blancs_nuls": 33570,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 168118
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 269612
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "84",
+    "libelle": "VAUCLUSE",
+    "inscrits": 325230,
+    "votants": 263589,
+    "exprimes": 242313,
+    "abstentions": 61641,
+    "blancs_nuls": 21276,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 106977
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 135336
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "85",
+    "libelle": "VENDEE",
+    "inscrits": 394169,
+    "votants": 328804,
+    "exprimes": 311134,
+    "abstentions": 65365,
+    "blancs_nuls": 17670,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 122912
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 188222
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "86",
+    "libelle": "VIENNE",
+    "inscrits": 281388,
+    "votants": 229491,
+    "exprimes": 217291,
+    "abstentions": 51897,
+    "blancs_nuls": 12200,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 107920
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 109371
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "87",
+    "libelle": "HAUTE-VIENNE",
+    "inscrits": 263175,
+    "votants": 220556,
+    "exprimes": 207603,
+    "abstentions": 42619,
+    "blancs_nuls": 12953,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 107691
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 99912
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "88",
+    "libelle": "VOSGES",
+    "inscrits": 278847,
+    "votants": 228285,
+    "exprimes": 211694,
+    "abstentions": 50562,
+    "blancs_nuls": 16591,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 102807
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 108887
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "89",
+    "libelle": "YONNE",
+    "inscrits": 230230,
+    "votants": 186696,
+    "exprimes": 174723,
+    "abstentions": 43534,
+    "blancs_nuls": 11973,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 78932
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 95791
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "90",
+    "libelle": "TERRITOIRE DE BELFORT",
+    "inscrits": 87640,
+    "votants": 73406,
+    "exprimes": 66775,
+    "abstentions": 14234,
+    "blancs_nuls": 6631,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 34326
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 32449
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "91",
+    "libelle": "ESSONNE",
+    "inscrits": 683504,
+    "votants": 551623,
+    "exprimes": 519717,
+    "abstentions": 131881,
+    "blancs_nuls": 31906,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 242705
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 277012
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "92",
+    "libelle": "HAUTS-DE-SEINE",
+    "inscrits": 823940,
+    "votants": 646277,
+    "exprimes": 617059,
+    "abstentions": 177663,
+    "blancs_nuls": 29218,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 252845
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 364214
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "93",
+    "libelle": "SEINE-SAINT-DENIS",
+    "inscrits": 683704,
+    "votants": 508634,
+    "exprimes": 474746,
+    "abstentions": 175070,
+    "blancs_nuls": 33888,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 246125
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 228621
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "94",
+    "libelle": "VAL-DE-MARNE",
+    "inscrits": 692107,
+    "votants": 542740,
+    "exprimes": 512437,
+    "abstentions": 149367,
+    "blancs_nuls": 30303,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 240906
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 271531
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "95",
+    "libelle": "VAL-D'OISE",
+    "inscrits": 611697,
+    "votants": 482980,
+    "exprimes": 453374,
+    "abstentions": 128717,
+    "blancs_nuls": 29606,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 209551
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 243823
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "2A",
+    "libelle": "CORSE-DU-SUD",
+    "inscrits": 80982,
+    "votants": 60693,
+    "exprimes": 58627,
+    "abstentions": 20289,
+    "blancs_nuls": 2066,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 22203
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 36424
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 2,
+    "code": "2B",
+    "libelle": "HAUTE-CORSE",
+    "inscrits": 98873,
+    "votants": 74264,
+    "exprimes": 71834,
+    "abstentions": 24609,
+    "blancs_nuls": 2430,
+    "candidats": [
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 30726
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 41108
+      }
+    ]
+  }
+]

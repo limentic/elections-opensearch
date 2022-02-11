@@ -1,0 +1,2210 @@
+[
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "1",
+    "libelle": "AIN",
+    "inscrits": 285010,
+    "votants": 240362,
+    "exprimes": 231916,
+    "abstentions": 44648,
+    "blancs_nuls": 8446,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 114295
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 117621
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "2",
+    "libelle": "AISNE",
+    "inscrits": 365213,
+    "votants": 315620,
+    "exprimes": 304562,
+    "abstentions": 49593,
+    "blancs_nuls": 11058,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 187699
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 116863
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "3",
+    "libelle": "ALLIER",
+    "inscrits": 266171,
+    "votants": 226073,
+    "exprimes": 217058,
+    "abstentions": 40098,
+    "blancs_nuls": 9015,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 125709
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 91349
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "4",
+    "libelle": "ALPES-DE-HAUTE-PROVENCE",
+    "inscrits": 97378,
+    "votants": 83816,
+    "exprimes": 80347,
+    "abstentions": 13562,
+    "blancs_nuls": 3469,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 42645
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 37702
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "5",
+    "libelle": "HAUTES-ALPES",
+    "inscrits": 81739,
+    "votants": 70647,
+    "exprimes": 68137,
+    "abstentions": 11092,
+    "blancs_nuls": 2510,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 33847
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 34290
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "6",
+    "libelle": "ALPES-MARITIMES",
+    "inscrits": 648664,
+    "votants": 535810,
+    "exprimes": 519001,
+    "abstentions": 112854,
+    "blancs_nuls": 16809,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 212528
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 306473
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "7",
+    "libelle": "ARDECHE",
+    "inscrits": 203485,
+    "votants": 175302,
+    "exprimes": 169289,
+    "abstentions": 28183,
+    "blancs_nuls": 6013,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 88528
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 80761
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "8",
+    "libelle": "ARDENNES",
+    "inscrits": 193795,
+    "votants": 164533,
+    "exprimes": 158978,
+    "abstentions": 29262,
+    "blancs_nuls": 5555,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 94642
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 64336
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "9",
+    "libelle": "ARIEGE",
+    "inscrits": 108104,
+    "votants": 93814,
+    "exprimes": 90832,
+    "abstentions": 14290,
+    "blancs_nuls": 2982,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 58073
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 32759
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "10",
+    "libelle": "AUBE",
+    "inscrits": 192309,
+    "votants": 161569,
+    "exprimes": 155265,
+    "abstentions": 30740,
+    "blancs_nuls": 6304,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 81118
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 74147
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "11",
+    "libelle": "AUDE",
+    "inscrits": 216655,
+    "votants": 190189,
+    "exprimes": 182454,
+    "abstentions": 26466,
+    "blancs_nuls": 7735,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 111709
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 70745
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "12",
+    "libelle": "AVEYRON",
+    "inscrits": 212348,
+    "votants": 187689,
+    "exprimes": 182029,
+    "abstentions": 24659,
+    "blancs_nuls": 5660,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 91943
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 90086
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "13",
+    "libelle": "BOUCHES-DU-RHONE",
+    "inscrits": 1084148,
+    "votants": 888570,
+    "exprimes": 850195,
+    "abstentions": 195578,
+    "blancs_nuls": 38375,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 429180
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 421015
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "14",
+    "libelle": "CALVADOS",
+    "inscrits": 414263,
+    "votants": 350185,
+    "exprimes": 339420,
+    "abstentions": 64078,
+    "blancs_nuls": 10765,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 189458
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 149962
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "15",
+    "libelle": "CANTAL",
+    "inscrits": 125187,
+    "votants": 109122,
+    "exprimes": 106661,
+    "abstentions": 16065,
+    "blancs_nuls": 2461,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 48754
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 57907
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "16",
+    "libelle": "CHARENTE",
+    "inscrits": 252056,
+    "votants": 216405,
+    "exprimes": 209466,
+    "abstentions": 35651,
+    "blancs_nuls": 6939,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 125330
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 84136
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "17",
+    "libelle": "CHARENTE-MARITIME",
+    "inscrits": 380808,
+    "votants": 319576,
+    "exprimes": 309163,
+    "abstentions": 61232,
+    "blancs_nuls": 10413,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 168163
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 141000
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "18",
+    "libelle": "CHER",
+    "inscrits": 225184,
+    "votants": 191203,
+    "exprimes": 183656,
+    "abstentions": 33981,
+    "blancs_nuls": 7547,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 104805
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 78851
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "19",
+    "libelle": "CORREZE",
+    "inscrits": 186009,
+    "votants": 168091,
+    "exprimes": 162923,
+    "abstentions": 17918,
+    "blancs_nuls": 5168,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 82855
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 80068
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "21",
+    "libelle": "COTE-D'OR",
+    "inscrits": 312697,
+    "votants": 266379,
+    "exprimes": 257573,
+    "abstentions": 46318,
+    "blancs_nuls": 8806,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 135472
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 122101
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "22",
+    "libelle": "COTES-D'ARMOR",
+    "inscrits": 412702,
+    "votants": 365582,
+    "exprimes": 355640,
+    "abstentions": 47120,
+    "blancs_nuls": 9942,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 211120
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 144520
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "23",
+    "libelle": "CREUSE",
+    "inscrits": 111097,
+    "votants": 93849,
+    "exprimes": 90884,
+    "abstentions": 17248,
+    "blancs_nuls": 2965,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 50811
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 40073
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "24",
+    "libelle": "DORDOGNE",
+    "inscrits": 301880,
+    "votants": 267404,
+    "exprimes": 258138,
+    "abstentions": 34476,
+    "blancs_nuls": 9266,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 146156
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 111982
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "25",
+    "libelle": "DOUBS",
+    "inscrits": 306721,
+    "votants": 266099,
+    "exprimes": 256532,
+    "abstentions": 40622,
+    "blancs_nuls": 9567,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 137136
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 119396
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "26",
+    "libelle": "DROME",
+    "inscrits": 274955,
+    "votants": 234211,
+    "exprimes": 225302,
+    "abstentions": 40744,
+    "blancs_nuls": 8909,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 118236
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 107066
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "27",
+    "libelle": "EURE",
+    "inscrits": 336157,
+    "votants": 286915,
+    "exprimes": 277056,
+    "abstentions": 49242,
+    "blancs_nuls": 9859,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 153981
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 123075
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "28",
+    "libelle": "EURE-ET-LOIR",
+    "inscrits": 256459,
+    "votants": 220047,
+    "exprimes": 211940,
+    "abstentions": 36412,
+    "blancs_nuls": 8107,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 113993
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 97947
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "29",
+    "libelle": "FINISTERE",
+    "inscrits": 615115,
+    "votants": 529796,
+    "exprimes": 516674,
+    "abstentions": 85319,
+    "blancs_nuls": 13122,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 281128
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 235546
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "30",
+    "libelle": "GARD",
+    "inscrits": 394448,
+    "votants": 335686,
+    "exprimes": 320306,
+    "abstentions": 58762,
+    "blancs_nuls": 15380,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 174078
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 146228
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "31",
+    "libelle": "HAUTE-GARONNE",
+    "inscrits": 589518,
+    "votants": 498141,
+    "exprimes": 481134,
+    "abstentions": 91377,
+    "blancs_nuls": 17007,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 287139
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 193995
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "32",
+    "libelle": "GERS",
+    "inscrits": 137965,
+    "votants": 119497,
+    "exprimes": 115525,
+    "abstentions": 18468,
+    "blancs_nuls": 3972,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 66456
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 49069
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "33",
+    "libelle": "GIRONDE",
+    "inscrits": 775215,
+    "votants": 658282,
+    "exprimes": 637254,
+    "abstentions": 116933,
+    "blancs_nuls": 21028,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 362978
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 274276
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "34",
+    "libelle": "HERAULT",
+    "inscrits": 516220,
+    "votants": 439565,
+    "exprimes": 423039,
+    "abstentions": 76655,
+    "blancs_nuls": 16526,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 225556
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 197483
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "35",
+    "libelle": "ILLE-ET-VILAINE",
+    "inscrits": 531313,
+    "votants": 457481,
+    "exprimes": 444457,
+    "abstentions": 73832,
+    "blancs_nuls": 13024,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 240984
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 203473
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "36",
+    "libelle": "INDRE",
+    "inscrits": 181887,
+    "votants": 157974,
+    "exprimes": 151463,
+    "abstentions": 23913,
+    "blancs_nuls": 6511,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 88649
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 62814
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "37",
+    "libelle": "INDRE-ET-LOIRE",
+    "inscrits": 351026,
+    "votants": 295126,
+    "exprimes": 284306,
+    "abstentions": 55900,
+    "blancs_nuls": 10820,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 159299
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 125007
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "38",
+    "libelle": "ISERE",
+    "inscrits": 612725,
+    "votants": 520312,
+    "exprimes": 501490,
+    "abstentions": 92413,
+    "blancs_nuls": 18822,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 278841
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 222649
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "39",
+    "libelle": "JURA",
+    "inscrits": 173384,
+    "votants": 150265,
+    "exprimes": 144058,
+    "abstentions": 23119,
+    "blancs_nuls": 6207,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 78297
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 65761
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "40",
+    "libelle": "LANDES",
+    "inscrits": 233660,
+    "votants": 205659,
+    "exprimes": 199496,
+    "abstentions": 28001,
+    "blancs_nuls": 6163,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 115012
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 84484
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "41",
+    "libelle": "LOIR-ET-CHER",
+    "inscrits": 216783,
+    "votants": 188663,
+    "exprimes": 181360,
+    "abstentions": 28120,
+    "blancs_nuls": 7303,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 99674
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 81686
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "42",
+    "libelle": "LOIRE",
+    "inscrits": 477641,
+    "votants": 394784,
+    "exprimes": 379159,
+    "abstentions": 82857,
+    "blancs_nuls": 15625,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 196872
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 182287
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "43",
+    "libelle": "HAUTE-LOIRE",
+    "inscrits": 156669,
+    "votants": 135409,
+    "exprimes": 130310,
+    "abstentions": 21260,
+    "blancs_nuls": 5099,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 63534
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 66776
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "44",
+    "libelle": "LOIRE-ATLANTIQUE",
+    "inscrits": 704534,
+    "votants": 591307,
+    "exprimes": 571944,
+    "abstentions": 113227,
+    "blancs_nuls": 19363,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 313263
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 258681
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "45",
+    "libelle": "LOIRET",
+    "inscrits": 364733,
+    "votants": 314658,
+    "exprimes": 302035,
+    "abstentions": 50075,
+    "blancs_nuls": 12623,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 154224
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 147811
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "46",
+    "libelle": "LOT",
+    "inscrits": 121744,
+    "votants": 108613,
+    "exprimes": 105158,
+    "abstentions": 13131,
+    "blancs_nuls": 3455,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 60953
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 44205
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "47",
+    "libelle": "LOT-ET-GARONNE",
+    "inscrits": 224023,
+    "votants": 195078,
+    "exprimes": 187260,
+    "abstentions": 28945,
+    "blancs_nuls": 7818,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 101155
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 86105
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "48",
+    "libelle": "LOZERE",
+    "inscrits": 57111,
+    "votants": 49947,
+    "exprimes": 48556,
+    "abstentions": 7164,
+    "blancs_nuls": 1391,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 20908
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 27648
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "49",
+    "libelle": "MAINE-ET-LOIRE",
+    "inscrits": 460544,
+    "votants": 395639,
+    "exprimes": 381116,
+    "abstentions": 64905,
+    "blancs_nuls": 14523,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 186672
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 194444
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "50",
+    "libelle": "MANCHE",
+    "inscrits": 340887,
+    "votants": 290893,
+    "exprimes": 282166,
+    "abstentions": 49994,
+    "blancs_nuls": 8727,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 139093
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 143073
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "51",
+    "libelle": "MARNE",
+    "inscrits": 352619,
+    "votants": 294961,
+    "exprimes": 284641,
+    "abstentions": 57658,
+    "blancs_nuls": 10320,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 153323
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 131318
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "52",
+    "libelle": "HAUTE-MARNE",
+    "inscrits": 147146,
+    "votants": 123869,
+    "exprimes": 119082,
+    "abstentions": 23277,
+    "blancs_nuls": 4787,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 65120
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 53962
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "53",
+    "libelle": "MAYENNE",
+    "inscrits": 196587,
+    "votants": 171554,
+    "exprimes": 165551,
+    "abstentions": 25033,
+    "blancs_nuls": 6003,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 79839
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 85712
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "54",
+    "libelle": "MEURTHE-ET-MOSELLE",
+    "inscrits": 469317,
+    "votants": 387793,
+    "exprimes": 372934,
+    "abstentions": 81524,
+    "blancs_nuls": 14859,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 217369
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 155565
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "55",
+    "libelle": "MEUSE",
+    "inscrits": 140223,
+    "votants": 120795,
+    "exprimes": 116234,
+    "abstentions": 19428,
+    "blancs_nuls": 4561,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 62443
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 53791
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "56",
+    "libelle": "MORBIHAN",
+    "inscrits": 443338,
+    "votants": 381337,
+    "exprimes": 370009,
+    "abstentions": 62001,
+    "blancs_nuls": 11328,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 196131
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 173878
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "57",
+    "libelle": "MOSELLE",
+    "inscrits": 666352,
+    "votants": 558710,
+    "exprimes": 534025,
+    "abstentions": 107642,
+    "blancs_nuls": 24685,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 297237
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 236788
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "58",
+    "libelle": "NIEVRE",
+    "inscrits": 177107,
+    "votants": 151978,
+    "exprimes": 146915,
+    "abstentions": 25129,
+    "blancs_nuls": 5063,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 93970
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 52945
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "59",
+    "libelle": "NORD",
+    "inscrits": 1634341,
+    "votants": 1385909,
+    "exprimes": 1330483,
+    "abstentions": 248432,
+    "blancs_nuls": 55426,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 805236
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 525247
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "60",
+    "libelle": "OISE",
+    "inscrits": 443430,
+    "votants": 383133,
+    "exprimes": 368622,
+    "abstentions": 60297,
+    "blancs_nuls": 14511,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 214255
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 154367
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "61",
+    "libelle": "ORNE",
+    "inscrits": 210079,
+    "votants": 181795,
+    "exprimes": 175973,
+    "abstentions": 28284,
+    "blancs_nuls": 5822,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 89282
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 86691
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "62",
+    "libelle": "PAS-DE-CALAIS",
+    "inscrits": 985481,
+    "votants": 853067,
+    "exprimes": 818309,
+    "abstentions": 132414,
+    "blancs_nuls": 34758,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 529208
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 289101
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "63",
+    "libelle": "PUY-DE-DOME",
+    "inscrits": 401047,
+    "votants": 345084,
+    "exprimes": 332023,
+    "abstentions": 55963,
+    "blancs_nuls": 13061,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 182213
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 149810
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "64",
+    "libelle": "PYRENEES-ATLANTIQUES",
+    "inscrits": 413388,
+    "votants": 354515,
+    "exprimes": 343524,
+    "abstentions": 58873,
+    "blancs_nuls": 10991,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 172155
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 171369
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "65",
+    "libelle": "HAUTES-PYRENEES",
+    "inscrits": 171714,
+    "votants": 145276,
+    "exprimes": 140269,
+    "abstentions": 26438,
+    "blancs_nuls": 5007,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 83196
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 57073
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "66",
+    "libelle": "PYRENEES-ORIENTALES",
+    "inscrits": 251848,
+    "votants": 211913,
+    "exprimes": 204033,
+    "abstentions": 39935,
+    "blancs_nuls": 7880,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 107358
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 96675
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "67",
+    "libelle": "BAS-RHIN",
+    "inscrits": 617036,
+    "votants": 511780,
+    "exprimes": 488660,
+    "abstentions": 105256,
+    "blancs_nuls": 23120,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 236450
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 252210
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "68",
+    "libelle": "HAUT-RHIN",
+    "inscrits": 436093,
+    "votants": 363050,
+    "exprimes": 345895,
+    "abstentions": 73043,
+    "blancs_nuls": 17155,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 173479
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 172416
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "69",
+    "libelle": "RHONE",
+    "inscrits": 880685,
+    "votants": 726199,
+    "exprimes": 698703,
+    "abstentions": 154486,
+    "blancs_nuls": 27496,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 338370
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 360333
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "70",
+    "libelle": "HAUTE-SAONE",
+    "inscrits": 165563,
+    "votants": 146024,
+    "exprimes": 139964,
+    "abstentions": 19539,
+    "blancs_nuls": 6060,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 77165
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 62799
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "71",
+    "libelle": "SAONE-ET-LOIRE",
+    "inscrits": 396427,
+    "votants": 330430,
+    "exprimes": 318512,
+    "abstentions": 65997,
+    "blancs_nuls": 11918,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 176335
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 142177
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "72",
+    "libelle": "SARTHE",
+    "inscrits": 362781,
+    "votants": 307455,
+    "exprimes": 296104,
+    "abstentions": 55326,
+    "blancs_nuls": 11351,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 171521
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 124583
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "73",
+    "libelle": "SAVOIE",
+    "inscrits": 230101,
+    "votants": 192507,
+    "exprimes": 186122,
+    "abstentions": 37594,
+    "blancs_nuls": 6385,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 93402
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 92720
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "74",
+    "libelle": "HAUTE-SAVOIE",
+    "inscrits": 336653,
+    "votants": 281838,
+    "exprimes": 272194,
+    "abstentions": 54815,
+    "blancs_nuls": 9644,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 118823
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 153371
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "75",
+    "libelle": "PARIS",
+    "inscrits": 1238758,
+    "votants": 994456,
+    "exprimes": 968662,
+    "abstentions": 244302,
+    "blancs_nuls": 25794,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 439007
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 529655
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "76",
+    "libelle": "SEINE-MARITIME",
+    "inscrits": 807671,
+    "votants": 680713,
+    "exprimes": 657122,
+    "abstentions": 126958,
+    "blancs_nuls": 23591,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 398619
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 258503
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "77",
+    "libelle": "SEINE-ET-MARNE",
+    "inscrits": 609053,
+    "votants": 510694,
+    "exprimes": 490357,
+    "abstentions": 98359,
+    "blancs_nuls": 20337,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 260124
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 230233
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "78",
+    "libelle": "YVELINES",
+    "inscrits": 772371,
+    "votants": 651153,
+    "exprimes": 628633,
+    "abstentions": 121218,
+    "blancs_nuls": 22520,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 294723
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 333910
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "79",
+    "libelle": "DEUX-SEVRES",
+    "inscrits": 250082,
+    "votants": 216436,
+    "exprimes": 208701,
+    "abstentions": 33646,
+    "blancs_nuls": 7735,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 112010
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 96691
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "80",
+    "libelle": "SOMME",
+    "inscrits": 380852,
+    "votants": 335532,
+    "exprimes": 323563,
+    "abstentions": 45320,
+    "blancs_nuls": 11969,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 194286
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 129277
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "81",
+    "libelle": "TARN",
+    "inscrits": 253361,
+    "votants": 224416,
+    "exprimes": 215556,
+    "abstentions": 28945,
+    "blancs_nuls": 8860,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 119359
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 96197
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "82",
+    "libelle": "TARN-ET-GARONNE",
+    "inscrits": 145346,
+    "votants": 127529,
+    "exprimes": 122882,
+    "abstentions": 17817,
+    "blancs_nuls": 4647,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 67550
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 55332
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "83",
+    "libelle": "VAR",
+    "inscrits": 542587,
+    "votants": 455346,
+    "exprimes": 438652,
+    "abstentions": 87241,
+    "blancs_nuls": 16694,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 191555
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 247097
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "84",
+    "libelle": "VAUCLUSE",
+    "inscrits": 304082,
+    "votants": 261446,
+    "exprimes": 249327,
+    "abstentions": 42636,
+    "blancs_nuls": 12119,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 125511
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 123816
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "85",
+    "libelle": "VENDEE",
+    "inscrits": 364404,
+    "votants": 319426,
+    "exprimes": 309091,
+    "abstentions": 44978,
+    "blancs_nuls": 10335,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 142380
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 166711
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "86",
+    "libelle": "VIENNE",
+    "inscrits": 270900,
+    "votants": 232657,
+    "exprimes": 224553,
+    "abstentions": 38243,
+    "blancs_nuls": 8104,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 126209
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 98344
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "87",
+    "libelle": "HAUTE-VIENNE",
+    "inscrits": 262264,
+    "votants": 228743,
+    "exprimes": 219234,
+    "abstentions": 33521,
+    "blancs_nuls": 9509,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 135927
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 83307
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "88",
+    "libelle": "VOSGES",
+    "inscrits": 275142,
+    "votants": 235928,
+    "exprimes": 224994,
+    "abstentions": 39214,
+    "blancs_nuls": 10934,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 123281
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 101713
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "89",
+    "libelle": "YONNE",
+    "inscrits": 220999,
+    "votants": 189049,
+    "exprimes": 181808,
+    "abstentions": 31950,
+    "blancs_nuls": 7241,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 94794
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 87014
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "90",
+    "libelle": "TERRITOIRE DE BELFORT",
+    "inscrits": 84899,
+    "votants": 72858,
+    "exprimes": 69443,
+    "abstentions": 12041,
+    "blancs_nuls": 3415,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 39956
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 29487
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "91",
+    "libelle": "ESSONNE",
+    "inscrits": 635956,
+    "votants": 534461,
+    "exprimes": 513752,
+    "abstentions": 101495,
+    "blancs_nuls": 20709,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 282319
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 231433
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "92",
+    "libelle": "HAUTS-DE-SEINE",
+    "inscrits": 816648,
+    "votants": 682184,
+    "exprimes": 659555,
+    "abstentions": 134464,
+    "blancs_nuls": 22629,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 320285
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 339270
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "93",
+    "libelle": "SEINE-SAINT-DENIS",
+    "inscrits": 710131,
+    "votants": 562632,
+    "exprimes": 537749,
+    "abstentions": 147499,
+    "blancs_nuls": 24883,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 327567
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 210182
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "94",
+    "libelle": "VAL-DE-MARNE",
+    "inscrits": 699619,
+    "votants": 572283,
+    "exprimes": 550227,
+    "abstentions": 127336,
+    "blancs_nuls": 22056,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 304980
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 245247
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "95",
+    "libelle": "VAL-D'OISE",
+    "inscrits": 572145,
+    "votants": 474029,
+    "exprimes": 455119,
+    "abstentions": 98116,
+    "blancs_nuls": 18910,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 252724
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 202395
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "2A",
+    "libelle": "CORSE-DU-SUD",
+    "inscrits": 91995,
+    "votants": 70789,
+    "exprimes": 69206,
+    "abstentions": 21206,
+    "blancs_nuls": 1583,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 29466
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 39740
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 2,
+    "code": "2B",
+    "libelle": "HAUTE-CORSE",
+    "inscrits": 114465,
+    "votants": 87116,
+    "exprimes": 85361,
+    "abstentions": 27349,
+    "blancs_nuls": 1755,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 41261
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 44100
+      }
+    ]
+  }
+]

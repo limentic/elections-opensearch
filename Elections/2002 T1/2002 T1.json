@@ -1,0 +1,8930 @@
+[
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "1",
+    "libelle": "AIN",
+    "inscrits": 338220,
+    "votants": 249217,
+    "exprimes": 240652,
+    "abstentions": 89003,
+    "blancs_nuls": 8565,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 1077
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 11562
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 9404
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 5134
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 30418
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 4527
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 14665
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 12339
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 5258
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 18614
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 12580
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 41348
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 2966
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 52617
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 8425
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 9718
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "2",
+    "libelle": "AISNE",
+    "inscrits": 366934,
+    "votants": 270651,
+    "exprimes": 261803,
+    "abstentions": 96283,
+    "blancs_nuls": 8848,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 1877
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 21369
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 12412
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 10286
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 40209
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 3228
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 12230
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 9379
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 3727
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 13972
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 8462
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 49280
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 2333
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 55562
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 6831
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 10646
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "3",
+    "libelle": "ALLIER",
+    "inscrits": 256113,
+    "votants": 189047,
+    "exprimes": 179768,
+    "abstentions": 67066,
+    "blancs_nuls": 9279,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 973
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 11241
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 8467
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 14616
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 28814
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 2669
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 9337
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 6961
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 2597
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 11576
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 6018
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 37533
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 2375
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 25387
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 3268
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 7936
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "4",
+    "libelle": "ALPES-DE-HAUTE-PROVENCE",
+    "inscrits": 108943,
+    "votants": 82395,
+    "exprimes": 79430,
+    "abstentions": 26548,
+    "blancs_nuls": 2965,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 421
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4366
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 4056
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 3465
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 10845
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 1700
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 4654
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 4468
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 1459
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 4651
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 2943
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 12998
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 845
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 13184
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 2252
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 7123
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "5",
+    "libelle": "HAUTES-ALPES",
+    "inscrits": 95100,
+    "votants": 72049,
+    "exprimes": 69402,
+    "abstentions": 23051,
+    "blancs_nuls": 2647,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 320
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3437
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 3797
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 2376
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 9152
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 1664
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 4068
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 4677
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 1593
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 4816
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 3579
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 12036
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 926
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 9965
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 1933
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 5063
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "6",
+    "libelle": "ALPES-MARITIMES",
+    "inscrits": 690348,
+    "votants": 478074,
+    "exprimes": 467040,
+    "abstentions": 212274,
+    "blancs_nuls": 11034,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 1337
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 17544
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 11992
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 13984
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 56868
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 6939
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 22634
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 22388
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 8283
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 31729
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 22671
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 102588
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 3466
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 121362
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 11825
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 11430
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "7",
+    "libelle": "ARDECHE",
+    "inscrits": 219897,
+    "votants": 167677,
+    "exprimes": 161445,
+    "abstentions": 52220,
+    "blancs_nuls": 6232,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 870
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 8613
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 8287
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 6717
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 22946
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 3086
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 9072
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 8467
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 3039
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 10984
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 5289
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 27861
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 2536
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 27043
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 4244
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 12391
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "8",
+    "libelle": "ARDENNES",
+    "inscrits": 192422,
+    "votants": 138608,
+    "exprimes": 134498,
+    "abstentions": 53814,
+    "blancs_nuls": 4110,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 664
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 9799
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 5863
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 4548
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 21767
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 1490
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 5637
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 5207
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 1817
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 7551
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 3914
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 24038
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 1246
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 30826
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 4848
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 5283
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "9",
+    "libelle": "ARIEGE",
+    "inscrits": 109027,
+    "votants": 82873,
+    "exprimes": 79606,
+    "abstentions": 26154,
+    "blancs_nuls": 3267,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 349
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4388
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 4442
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 4162
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 18890
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 1476
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 3703
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 4207
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 1076
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 3236
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 1629
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 11394
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 687
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 12027
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 1256
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 6684
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "10",
+    "libelle": "AUBE",
+    "inscrits": 193701,
+    "votants": 142924,
+    "exprimes": 138140,
+    "abstentions": 50777,
+    "blancs_nuls": 4784,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 734
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 7731
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 4990
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 4417
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 18882
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 2071
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 6485
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 5072
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 2490
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 8608
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 5661
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 28915
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 1476
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 30009
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 3693
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 6906
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "11",
+    "libelle": "AUDE",
+    "inscrits": 236852,
+    "votants": 179992,
+    "exprimes": 173434,
+    "abstentions": 56860,
+    "blancs_nuls": 6558,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 745
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 9344
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 7700
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 8365
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 37021
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 2619
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 8707
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 6999
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 2113
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 7521
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 4151
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 26021
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 1405
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 34357
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 4316
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 12050
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "12",
+    "libelle": "AVEYRON",
+    "inscrits": 214595,
+    "votants": 167871,
+    "exprimes": 159798,
+    "abstentions": 46724,
+    "blancs_nuls": 8073,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 641
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 7903
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 7780
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 4702
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 26062
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 3029
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 7994
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 7611
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 2999
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 11435
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 6705
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 35438
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 2538
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 19344
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 2502
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 13115
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "13",
+    "libelle": "BOUCHES-DU-RHONE",
+    "inscrits": 1144969,
+    "votants": 838148,
+    "exprimes": 815890,
+    "abstentions": 306821,
+    "blancs_nuls": 22258,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 2979
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 40220
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 26860
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 39032
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 114323
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 14078
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 44947
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 41563
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 12823
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 47530
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 31371
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 138189
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 6472
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 182778
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 40628
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 32097
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "14",
+    "libelle": "CALVADOS",
+    "inscrits": 458071,
+    "votants": 336490,
+    "exprimes": 325572,
+    "abstentions": 121581,
+    "blancs_nuls": 10918,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 1801
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 24204
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 15698
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 7593
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 51516
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 6902
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 15556
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 17279
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 7256
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 22631
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 12511
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 63580
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 3822
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 46258
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 6497
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 22468
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "15",
+    "libelle": "CANTAL",
+    "inscrits": 123827,
+    "votants": 92562,
+    "exprimes": 88595,
+    "abstentions": 31265,
+    "blancs_nuls": 3967,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 457
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4456
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 3839
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 2455
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 12737
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 1227
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 3918
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 2935
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 1423
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 4885
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 2453
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 27351
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 812
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 9848
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 1542
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 8257
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "16",
+    "libelle": "CHARENTE",
+    "inscrits": 255110,
+    "votants": 187788,
+    "exprimes": 180176,
+    "abstentions": 67322,
+    "blancs_nuls": 7612,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 972
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 12415
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 9650
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 6810
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 31870
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 3194
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 8017
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 8981
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 3167
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 10501
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 5909
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 35396
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 1857
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 24735
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 3445
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 13257
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "17",
+    "libelle": "CHARENTE-MARITIME",
+    "inscrits": 417856,
+    "votants": 305202,
+    "exprimes": 294002,
+    "abstentions": 112654,
+    "blancs_nuls": 11200,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 1550
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 17534
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 13453
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 9266
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 47399
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 6404
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 13372
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 15162
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 5411
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 18238
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 11697
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 59749
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 2679
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 39427
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 5531
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 27130
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "18",
+    "libelle": "CHER",
+    "inscrits": 228120,
+    "votants": 167310,
+    "exprimes": 160858,
+    "abstentions": 60810,
+    "blancs_nuls": 6452,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 906
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 11121
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 6887
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 10377
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 23688
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 2838
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 7950
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 6500
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 2608
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 9493
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 5549
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 33276
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 1728
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 25449
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 3597
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 8891
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "19",
+    "libelle": "CORREZE",
+    "inscrits": 184267,
+    "votants": 146745,
+    "exprimes": 140736,
+    "abstentions": 37522,
+    "blancs_nuls": 6009,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 556
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 7836
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 6169
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 9685
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 23130
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 1918
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 5461
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 4572
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 1931
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 4613
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 2813
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 48170
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 936
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 12463
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 1675
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 8808
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "21",
+    "libelle": "COTE-D'OR",
+    "inscrits": 330318,
+    "votants": 249448,
+    "exprimes": 241535,
+    "abstentions": 80870,
+    "blancs_nuls": 7913,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 1350
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 14009
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 10545
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 5258
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 36933
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 4649
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 16664
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 12195
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 5026
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 18264
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 9962
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 45983
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 3013
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 43391
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 6294
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 7999
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "22",
+    "libelle": "COTES-D'ARMOR",
+    "inscrits": 428856,
+    "votants": 327955,
+    "exprimes": 317112,
+    "abstentions": 100901,
+    "blancs_nuls": 10843,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 1534
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 21324
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 18142
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 15329
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 61040
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 6341
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 13918
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 19495
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 6263
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 20172
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 12379
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 64332
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 3764
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 37049
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 3514
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 12516
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "23",
+    "libelle": "CREUSE",
+    "inscrits": 101812,
+    "votants": 73871,
+    "exprimes": 70142,
+    "abstentions": 27941,
+    "blancs_nuls": 3729,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 330
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4207
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 3531
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 3827
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 12798
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 1025
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 3325
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 2406
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 909
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 3143
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 1832
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 18378
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 555
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 7831
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 1155
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 4890
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "24",
+    "libelle": "DORDOGNE",
+    "inscrits": 303991,
+    "votants": 231846,
+    "exprimes": 221063,
+    "abstentions": 72145,
+    "blancs_nuls": 10783,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 1060
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 12494
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 11407
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 13750
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 38526
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 3851
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 9862
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 10228
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 3649
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 11412
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 6233
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 47864
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 1895
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 27014
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 4573
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 17245
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "25",
+    "libelle": "DOUBS",
+    "inscrits": 334718,
+    "votants": 256375,
+    "exprimes": 246884,
+    "abstentions": 78343,
+    "blancs_nuls": 9491,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 1180
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 13667
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 11238
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 4305
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 35993
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 4256
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 22406
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 12862
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 4747
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 15519
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 9147
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 46190
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 3528
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 46988
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 7655
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 7203
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "26",
+    "libelle": "DROME",
+    "inscrits": 309557,
+    "votants": 231154,
+    "exprimes": 223509,
+    "abstentions": 78403,
+    "blancs_nuls": 7645,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 955
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 10947
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 10005
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 6963
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 31172
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 4787
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 13353
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 12859
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 4499
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 15518
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 8399
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 35553
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 4149
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 46484
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 6577
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 11289
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "27",
+    "libelle": "EURE",
+    "inscrits": 378410,
+    "votants": 280875,
+    "exprimes": 271340,
+    "abstentions": 97535,
+    "blancs_nuls": 9535,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 1523
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 18640
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 12634
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 8007
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 37737
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 5217
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 12672
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 11909
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 5100
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 17574
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 10126
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 52432
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 2555
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 53120
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 7990
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 14104
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "28",
+    "libelle": "EURE-ET-LOIR",
+    "inscrits": 278123,
+    "votants": 205306,
+    "exprimes": 198533,
+    "abstentions": 72817,
+    "blancs_nuls": 6773,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 1076
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 11773
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 7731
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 4619
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 28635
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 4030
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 9792
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 8588
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 3676
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 13511
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 8510
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 40167
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 2688
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 37905
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 5412
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 10420
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "29",
+    "libelle": "FINISTERE",
+    "inscrits": 635751,
+    "votants": 476554,
+    "exprimes": 463100,
+    "abstentions": 159197,
+    "blancs_nuls": 13454,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 2108
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 29702
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 27352
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 13479
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 85911
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 10579
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 22132
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 30395
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 9399
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 34930
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 18988
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 101792
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 5467
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 50028
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 4427
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 16411
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "30",
+    "libelle": "GARD",
+    "inscrits": 445560,
+    "votants": 331084,
+    "exprimes": 320855,
+    "abstentions": 114476,
+    "blancs_nuls": 10229,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 1452
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 16332
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 12556
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 16868
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 44406
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 5471
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 16563
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 13901
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 4753
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 19577
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 10718
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 48342
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 3046
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 79743
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 9969
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 17158
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "31",
+    "libelle": "HAUTE-GARONNE",
+    "inscrits": 709805,
+    "votants": 539821,
+    "exprimes": 520547,
+    "abstentions": 169984,
+    "blancs_nuls": 19274,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 2166
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 28887
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 24285
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 16024
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 110550
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 12391
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 30276
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 35867
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 10582
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 33291
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 16422
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 79080
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 4985
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 86395
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 9284
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 20062
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "32",
+    "libelle": "GERS",
+    "inscrits": 135423,
+    "votants": 104683,
+    "exprimes": 100099,
+    "abstentions": 30740,
+    "blancs_nuls": 4584,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 368
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4946
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 4566
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 3471
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 19902
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 2202
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 4404
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 4574
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 1569
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 6459
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 2757
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 17961
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 1098
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 13331
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 1663
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 10828
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "33",
+    "libelle": "GIRONDE",
+    "inscrits": 867452,
+    "votants": 621759,
+    "exprimes": 603256,
+    "abstentions": 245693,
+    "blancs_nuls": 18503,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 2555
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 35582
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 26856
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 20193
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 109017
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 11752
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 29080
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 37641
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 10660
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 40358
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 18128
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 113648
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 5432
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 85813
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 8906
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 47635
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "34",
+    "libelle": "HERAULT",
+    "inscrits": 632459,
+    "votants": 470172,
+    "exprimes": 456254,
+    "abstentions": 162287,
+    "blancs_nuls": 13918,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 1910
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 22552
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 18369
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 18669
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 73208
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 9185
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 24362
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 25245
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 6950
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 25452
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 15696
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 68502
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 3890
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 104841
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 11120
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 26303
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "35",
+    "libelle": "ILLE-ET-VILAINE",
+    "inscrits": 618329,
+    "votants": 460065,
+    "exprimes": 444257,
+    "abstentions": 158264,
+    "blancs_nuls": 15808,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 2253
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 29955
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 23863
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 9373
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 79142
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 11137
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 20231
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 31346
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 10878
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 34958
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 22559
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 94703
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 7112
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 46449
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 5047
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 15251
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "36",
+    "libelle": "INDRE",
+    "inscrits": 176678,
+    "votants": 132708,
+    "exprimes": 126098,
+    "abstentions": 43970,
+    "blancs_nuls": 6610,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 747
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 8267
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 5959
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 5614
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 20876
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 2041
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 5489
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 4613
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 2140
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 6631
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 3985
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 26714
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 1635
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 19331
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 2601
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 9455
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "37",
+    "libelle": "INDRE-ET-LOIRE",
+    "inscrits": 381130,
+    "votants": 281686,
+    "exprimes": 271536,
+    "abstentions": 99444,
+    "blancs_nuls": 10150,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 1579
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 17796
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 12143
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 7600
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 44624
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 5763
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 15263
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 14367
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 5764
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 19009
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 12688
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 53504
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 3836
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 39359
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 5503
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 12738
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "38",
+    "libelle": "ISERE",
+    "inscrits": 708265,
+    "votants": 522650,
+    "exprimes": 506050,
+    "abstentions": 185615,
+    "blancs_nuls": 16600,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 2563
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 29345
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 22930
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 17988
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 80852
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 10856
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 34192
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 35248
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 11855
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 34650
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 22132
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 77215
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 6339
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 92576
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 13649
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 13660
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "39",
+    "libelle": "JURA",
+    "inscrits": 181347,
+    "votants": 137575,
+    "exprimes": 132054,
+    "abstentions": 43772,
+    "blancs_nuls": 5521,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 838
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 7605
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 6952
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 3873
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 17756
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 2253
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 9623
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 7315
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 2586
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 9332
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 5533
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 22837
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 2034
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 24134
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 4127
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 5256
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "40",
+    "libelle": "LANDES",
+    "inscrits": 258936,
+    "votants": 193898,
+    "exprimes": 186336,
+    "abstentions": 65038,
+    "blancs_nuls": 7562,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 666
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 8938
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 8064
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 8351
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 40798
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 2601
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 7223
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 7768
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 2416
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 13101
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 4714
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 35769
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 1682
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 19516
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 2166
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 22563
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "41",
+    "libelle": "LOIR-ET-CHER",
+    "inscrits": 232656,
+    "votants": 174623,
+    "exprimes": 167886,
+    "abstentions": 58033,
+    "blancs_nuls": 6737,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 874
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 10191
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 7095
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 5624
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 24494
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 2853
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 8131
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 7154
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 3003
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 12587
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 6163
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 32004
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 1772
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 30818
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 4038
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 11085
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "42",
+    "libelle": "LOIRE",
+    "inscrits": 483976,
+    "votants": 352329,
+    "exprimes": 339745,
+    "abstentions": 131647,
+    "blancs_nuls": 12584,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 1681
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 19208
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 14887
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 11404
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 45519
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 5449
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 20567
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 17096
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 6154
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 27300
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 13951
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 57378
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 4823
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 73638
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 9808
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 10882
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "43",
+    "libelle": "HAUTE-LOIRE",
+    "inscrits": 166347,
+    "votants": 126480,
+    "exprimes": 120479,
+    "abstentions": 39867,
+    "blancs_nuls": 6001,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 675
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 6982
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 6259
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 2903
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 15435
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 1995
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 6514
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 5529
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 1972
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 10287
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 4167
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 24631
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 1952
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 22171
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 3131
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 5876
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "44",
+    "libelle": "LOIRE-ATLANTIQUE",
+    "inscrits": 814585,
+    "votants": 603023,
+    "exprimes": 582166,
+    "abstentions": 211562,
+    "blancs_nuls": 20857,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 3305
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 36753
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 31914
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 14466
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 104631
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 13072
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 29602
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 41111
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 14597
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 46017
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 24310
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 109247
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 10884
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 67214
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 8776
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 26267
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "45",
+    "libelle": "LOIRET",
+    "inscrits": 409309,
+    "votants": 306712,
+    "exprimes": 296816,
+    "abstentions": 102597,
+    "blancs_nuls": 9896,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 1330
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 15286
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 10780
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 8963
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 41857
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 6017
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 15858
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 13876
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 6164
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 21184
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 12342
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 58575
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 3542
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 57523
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 8973
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 14546
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "46",
+    "libelle": "LOT",
+    "inscrits": 128177,
+    "votants": 99961,
+    "exprimes": 95501,
+    "abstentions": 28216,
+    "blancs_nuls": 4460,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 482
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5439
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 5200
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 4357
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 16789
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 2833
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 5278
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 5175
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 1789
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 4771
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 2749
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 18283
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 981
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 10263
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 1432
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 9680
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "47",
+    "libelle": "LOT-ET-GARONNE",
+    "inscrits": 229022,
+    "votants": 171351,
+    "exprimes": 164946,
+    "abstentions": 57671,
+    "blancs_nuls": 6405,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 602
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 7993
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 7043
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 6704
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 25955
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 2766
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 6708
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 7482
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 2396
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 11065
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 4972
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 28802
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 1646
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 31184
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 4347
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 15281
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "48",
+    "libelle": "LOZERE",
+    "inscrits": 58864,
+    "votants": 45517,
+    "exprimes": 43873,
+    "abstentions": 13347,
+    "blancs_nuls": 1644,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 176
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2035
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 2040
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 1464
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 5637
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 822
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 2091
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 1944
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 690
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 3277
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 1875
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 10838
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 633
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 5958
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 749
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 3644
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "49",
+    "libelle": "MAINE-ET-LOIRE",
+    "inscrits": 510019,
+    "votants": 382953,
+    "exprimes": 364753,
+    "abstentions": 127066,
+    "blancs_nuls": 18200,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 1986
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 21853
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 17258
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 6975
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 54721
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 7584
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 15866
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 22621
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 8337
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 36297
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 16761
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 80628
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 8109
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 42583
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 6638
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 16536
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "50",
+    "libelle": "MANCHE",
+    "inscrits": 358965,
+    "votants": 265401,
+    "exprimes": 255930,
+    "abstentions": 93564,
+    "blancs_nuls": 9471,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 1304
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 17002
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 12192
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 4949
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 34993
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 4338
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 12233
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 10161
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 4919
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 17001
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 9851
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 64961
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 3090
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 34069
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 4567
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 20300
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "51",
+    "libelle": "MARNE",
+    "inscrits": 372077,
+    "votants": 262980,
+    "exprimes": 255131,
+    "abstentions": 109097,
+    "blancs_nuls": 7849,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 1180
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 17682
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 10072
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 6867
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 35287
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 3778
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 12119
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 11973
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 4932
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 19663
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 10848
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 52510
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 2724
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 49349
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 7275
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 8872
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "52",
+    "libelle": "HAUTE-MARNE",
+    "inscrits": 143635,
+    "votants": 103704,
+    "exprimes": 99721,
+    "abstentions": 39931,
+    "blancs_nuls": 3983,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 549
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 6195
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 4751
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 2470
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 13057
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 1487
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 4467
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 4320
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 1683
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 5647
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 3817
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 19862
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 1046
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 22355
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 2921
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 5094
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "53",
+    "libelle": "MAYENNE",
+    "inscrits": 214016,
+    "votants": 160097,
+    "exprimes": 151800,
+    "abstentions": 53919,
+    "blancs_nuls": 8297,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 861
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 8344
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 8047
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 2368
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 21860
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 2804
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 5965
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 8676
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 3364
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 12792
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 7377
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 39198
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 3939
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 18020
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 2427
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 5758
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "54",
+    "libelle": "MEURTHE-ET-MOSELLE",
+    "inscrits": 469462,
+    "votants": 333211,
+    "exprimes": 323144,
+    "abstentions": 136251,
+    "blancs_nuls": 10067,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 1770
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 24407
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 15604
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 11979
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 52222
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 6211
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 18505
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 17307
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 6035
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 20540
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 11316
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 59478
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 3542
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 58515
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 8892
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 6821
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "55",
+    "libelle": "MEUSE",
+    "inscrits": 138972,
+    "votants": 101751,
+    "exprimes": 98025,
+    "abstentions": 37221,
+    "blancs_nuls": 3726,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 490
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 6475
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 4441
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 2254
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 13987
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 1509
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 4376
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 4458
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 1865
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 7126
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 3479
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 19302
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 1129
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 19943
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 2764
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 4427
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "56",
+    "libelle": "MORBIHAN",
+    "inscrits": 498938,
+    "votants": 373926,
+    "exprimes": 361300,
+    "abstentions": 125012,
+    "blancs_nuls": 12626,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 1605
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 20519
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 18577
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 9791
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 60422
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 7189
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 15097
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 20898
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 8162
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 23860
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 16371
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 81711
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 5168
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 53797
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 3925
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 14208
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "57",
+    "libelle": "MOSELLE",
+    "inscrits": 712299,
+    "votants": 491118,
+    "exprimes": 473506,
+    "abstentions": 221181,
+    "blancs_nuls": 17612,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 2823
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 33421
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 20379
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 10061
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 68611
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 7271
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 21671
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 24762
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 8047
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 30906
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 15504
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 89936
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 5739
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 112092
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 16022
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 6261
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "58",
+    "libelle": "NIEVRE",
+    "inscrits": 170396,
+    "votants": 123135,
+    "exprimes": 118192,
+    "abstentions": 47261,
+    "blancs_nuls": 4943,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 693
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 7656
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 5742
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 6978
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 23775
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 1821
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 6253
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 4627
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 1718
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 6205
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 3649
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 20421
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 1137
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 19138
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 2510
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 5869
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "59",
+    "libelle": "NORD",
+    "inscrits": 1721267,
+    "votants": 1224201,
+    "exprimes": 1184186,
+    "abstentions": 497066,
+    "blancs_nuls": 40015,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 5631
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 85680
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 50131
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 57639
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 199036
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 15119
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 54733
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 56414
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 16528
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 78071
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 40684
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 209977
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 12232
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 230015
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 30415
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 41881
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "60",
+    "libelle": "OISE",
+    "inscrits": 506844,
+    "votants": 373919,
+    "exprimes": 362848,
+    "abstentions": 132925,
+    "blancs_nuls": 11071,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 2004
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 25167
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 14719
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 12029
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 49549
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 7028
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 18736
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 16142
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 6513
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 21596
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 12920
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 66362
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 4064
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 82589
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 11654
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 11776
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "61",
+    "libelle": "ORNE",
+    "inscrits": 214215,
+    "votants": 159377,
+    "exprimes": 153910,
+    "abstentions": 54838,
+    "blancs_nuls": 5467,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 828
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 9816
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 6839
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 3023
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 20344
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 2541
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 5685
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 6719
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 3077
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 10813
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 6164
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 35949
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 2190
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 28076
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 3229
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 8617
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "62",
+    "libelle": "PAS-DE-CALAIS",
+    "inscrits": 1047845,
+    "votants": 766539,
+    "exprimes": 735144,
+    "abstentions": 281306,
+    "blancs_nuls": 31395,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 3974
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 61395
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 34291
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 39553
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 128435
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 7837
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 39066
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 27992
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 8023
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 36146
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 21247
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 121943
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 6580
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 135330
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 16219
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 47113
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "63",
+    "libelle": "PUY-DE-DOME",
+    "inscrits": 425502,
+    "votants": 317550,
+    "exprimes": 303483,
+    "abstentions": 107952,
+    "blancs_nuls": 14067,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 1742
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 23363
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 17695
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 11123
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 51571
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 5991
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 19203
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 15345
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 5576
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 21691
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 10482
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 57551
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 3326
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 41307
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 6027
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 11490
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "64",
+    "libelle": "PYRENEES-ATLANTIQUES",
+    "inscrits": 450504,
+    "votants": 327615,
+    "exprimes": 315251,
+    "abstentions": 122889,
+    "blancs_nuls": 12364,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 1154
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 16291
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 15865
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 9313
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 55996
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 5566
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 12118
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 18087
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 4675
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 41432
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 7700
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 58976
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 2851
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 32644
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 3280
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 29303
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "65",
+    "libelle": "HAUTES-PYRENEES",
+    "inscrits": 169135,
+    "votants": 126983,
+    "exprimes": 121633,
+    "abstentions": 42152,
+    "blancs_nuls": 5350,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 524
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 6799
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 6553
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 6643
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 24355
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 2774
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 5365
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 5712
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 2035
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 9385
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 2752
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 19852
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 1227
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 14965
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 1680
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 11012
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "66",
+    "libelle": "PYRENEES-ORIENTALES",
+    "inscrits": 285980,
+    "votants": 208397,
+    "exprimes": 201473,
+    "abstentions": 77583,
+    "blancs_nuls": 6924,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 842
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 10567
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 8573
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 9701
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 33498
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 3191
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 10406
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 8825
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 2650
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 12355
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 6414
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 34199
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 1467
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 42196
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 4854
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 11735
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "67",
+    "libelle": "BAS-RHIN",
+    "inscrits": 674812,
+    "votants": 498750,
+    "exprimes": 481339,
+    "abstentions": 176062,
+    "blancs_nuls": 17411,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 2202
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 22459
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 16416
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 4320
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 53772
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 8734
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 21717
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 28968
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 10196
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 57496
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 22249
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 89176
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 7416
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 112555
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 18690
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 4973
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "68",
+    "libelle": "HAUT-RHIN",
+    "inscrits": 478445,
+    "votants": 353268,
+    "exprimes": 340188,
+    "abstentions": 125177,
+    "blancs_nuls": 13080,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 1536
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 17711
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 12026
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 3709
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 36730
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 5766
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 21452
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 20443
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 7619
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 31033
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 14015
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 61640
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 6080
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 80028
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 16970
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 3430
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "69",
+    "libelle": "RHONE",
+    "inscrits": 932406,
+    "votants": 691830,
+    "exprimes": 673620,
+    "abstentions": 240576,
+    "blancs_nuls": 18210,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 2633
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 30042
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 24135
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 17013
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 94101
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 15923
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 44823
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 40908
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 16208
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 59622
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 38039
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 121703
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 10025
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 130367
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 17005
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 11073
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "70",
+    "libelle": "HAUTE-SAONE",
+    "inscrits": 174508,
+    "votants": 133163,
+    "exprimes": 127362,
+    "abstentions": 41345,
+    "blancs_nuls": 5801,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 634
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 7047
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 5970
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 2725
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 17091
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 1878
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 11055
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 4957
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 1955
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 6768
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 4353
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 22908
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 1286
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 28418
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 4354
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 5963
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "71",
+    "libelle": "SAONE-ET-LOIRE",
+    "inscrits": 398818,
+    "votants": 291043,
+    "exprimes": 278322,
+    "abstentions": 107775,
+    "blancs_nuls": 12721,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 1479
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 16167
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 13282
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 9604
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 46968
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 4515
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 14362
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 11589
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 4308
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 17735
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 12976
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 53346
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 3490
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 49446
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 7482
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 11573
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "72",
+    "libelle": "SARTHE",
+    "inscrits": 385397,
+    "votants": 278476,
+    "exprimes": 264946,
+    "abstentions": 106921,
+    "blancs_nuls": 13530,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 1633
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 19496
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 13626
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 8730
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 44115
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 4643
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 12428
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 14120
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 5367
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 16546
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 9605
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 56362
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 3362
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 39762
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 5463
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 9688
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "73",
+    "libelle": "SAVOIE",
+    "inscrits": 265061,
+    "votants": 195013,
+    "exprimes": 188579,
+    "abstentions": 70048,
+    "blancs_nuls": 6434,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 1090
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 9213
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 8326
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 5886
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 24688
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 3831
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 11936
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 11923
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 4738
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 13352
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 9186
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 33958
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 2339
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 37312
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 5197
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 5604
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "74",
+    "libelle": "HAUTE-SAVOIE",
+    "inscrits": 421449,
+    "votants": 306394,
+    "exprimes": 296052,
+    "abstentions": 115055,
+    "blancs_nuls": 10342,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 1221
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 13380
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 11268
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 5105
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 33776
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 6325
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 16785
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 21431
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 9400
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 24573
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 18182
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 55175
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 4250
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 61547
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 6929
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 6705
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "75",
+    "libelle": "PARIS",
+    "inscrits": 1081420,
+    "votants": 759030,
+    "exprimes": 744943,
+    "abstentions": 322390,
+    "blancs_nuls": 14087,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 2498
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 22714
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 25476
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 16299
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 148624
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 28189
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 49342
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 55050
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 18285
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 58924
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 48403
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 178841
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 11119
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 69658
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 7616
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 3905
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "76",
+    "libelle": "SEINE-MARITIME",
+    "inscrits": 837659,
+    "votants": 616057,
+    "exprimes": 595854,
+    "abstentions": 221602,
+    "blancs_nuls": 20203,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 3316
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 46966
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 30415
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 27170
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 100010
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 11256
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 27872
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 29290
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 10297
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 35963
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 19315
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 113654
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 5478
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 96671
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 15861
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 22320
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "77",
+    "libelle": "SEINE-ET-MARNE",
+    "inscrits": 721818,
+    "votants": 488201,
+    "exprimes": 474959,
+    "abstentions": 233617,
+    "blancs_nuls": 13242,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 2414
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 26786
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 18294
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 14323
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 70566
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 13895
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 30142
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 25654
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 10094
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 30955
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 19105
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 93472
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 4400
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 89719
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 14738
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 10402
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "78",
+    "libelle": "YVELINES",
+    "inscrits": 825397,
+    "votants": 567885,
+    "exprimes": 555378,
+    "abstentions": 257512,
+    "blancs_nuls": 12507,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 1965
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 23116
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 17194
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 12861
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 83305
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 14324
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 35850
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 32022
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 15050
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 49163
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 30074
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 125635
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 12977
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 81906
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 11127
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 8809
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "79",
+    "libelle": "DEUX-SEVRES",
+    "inscrits": 260937,
+    "votants": 197203,
+    "exprimes": 187329,
+    "abstentions": 63734,
+    "blancs_nuls": 9874,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 1094
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 12960
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 10108
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 3819
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 33998
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 3900
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 7639
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 11134
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 3587
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 15008
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 6758
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 41890
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 3135
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 17367
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 2416
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 12516
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "80",
+    "libelle": "SOMME",
+    "inscrits": 400012,
+    "votants": 302856,
+    "exprimes": 292635,
+    "abstentions": 97156,
+    "blancs_nuls": 10221,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 1598
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 23372
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 12864
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 13109
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 40764
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 3609
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 12240
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 10704
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 4643
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 18730
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 7570
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 51488
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 2451
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 47729
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 6351
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 35413
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "81",
+    "libelle": "TARN",
+    "inscrits": 261605,
+    "votants": 203705,
+    "exprimes": 194192,
+    "abstentions": 57900,
+    "blancs_nuls": 9513,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 772
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 11122
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 8957
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 6720
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 36275
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 3431
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 9416
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 9595
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 3057
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 11712
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 5693
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 35064
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 2327
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 32617
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 4608
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 12826
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "82",
+    "libelle": "TARN-ET-GARONNE",
+    "inscrits": 153826,
+    "votants": 119619,
+    "exprimes": 115107,
+    "abstentions": 34207,
+    "blancs_nuls": 4512,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 452
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5961
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 4796
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 3364
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 18004
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 2751
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 5232
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 5251
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 1762
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 6685
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 3373
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 20325
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 1236
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 23160
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 3065
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 9690
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "83",
+    "libelle": "VAR",
+    "inscrits": 645315,
+    "votants": 464740,
+    "exprimes": 453174,
+    "abstentions": 180575,
+    "blancs_nuls": 11566,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 1651
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 20363
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 13621
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 13844
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 54781
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 6858
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 23995
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 19748
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 7807
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 27628
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 18901
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 96365
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 4624
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 106710
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 14330
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 21948
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "84",
+    "libelle": "VAUCLUSE",
+    "inscrits": 342881,
+    "votants": 259077,
+    "exprimes": 251333,
+    "abstentions": 83804,
+    "blancs_nuls": 7744,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 1061
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 11274
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 9313
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 7729
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 31611
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 4481
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 12190
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 11891
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 4350
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 14270
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 9025
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 41935
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 2319
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 64831
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 9924
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 15129
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "85",
+    "libelle": "VENDEE",
+    "inscrits": 427889,
+    "votants": 325448,
+    "exprimes": 310059,
+    "abstentions": 102441,
+    "blancs_nuls": 15389,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 1496
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 17559
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 13664
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 5663
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 45770
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 5670
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 11941
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 15943
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 7044
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 25890
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 14323
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 77311
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 6385
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 36437
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 4973
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 19990
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "86",
+    "libelle": "VIENNE",
+    "inscrits": 286933,
+    "votants": 215991,
+    "exprimes": 206967,
+    "abstentions": 70942,
+    "blancs_nuls": 9024,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 1185
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 14804
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 10668
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 6523
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 35860
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 4327
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 9383
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 11890
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 3935
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 13613
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 6646
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 44459
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 2621
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 22968
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 3019
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 15066
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "87",
+    "libelle": "HAUTE-VIENNE",
+    "inscrits": 261252,
+    "votants": 201251,
+    "exprimes": 190969,
+    "abstentions": 60001,
+    "blancs_nuls": 10282,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 1001
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 14233
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 10431
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 10764
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 37587
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 3389
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 10049
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 8436
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 3127
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 8788
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 5012
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 41677
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 1750
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 21393
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 3332
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 10000
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "88",
+    "libelle": "VOSGES",
+    "inscrits": 283175,
+    "votants": 207178,
+    "exprimes": 197564,
+    "abstentions": 75997,
+    "blancs_nuls": 9614,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 1070
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 13378
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 10051
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 4133
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 28119
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 3194
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 10860
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 8941
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 3681
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 12555
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 7798
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 37939
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 2665
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 41379
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 5533
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 6268
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "89",
+    "libelle": "YONNE",
+    "inscrits": 235687,
+    "votants": 173279,
+    "exprimes": 167309,
+    "abstentions": 62408,
+    "blancs_nuls": 5970,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 955
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 9287
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 6945
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 5254
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 22805
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 2852
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 8774
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 7102
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 3010
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 10651
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 6551
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 33444
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 1752
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 35071
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 5821
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 7035
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "90",
+    "libelle": "TERRITOIRE DE BELFORT",
+    "inscrits": 89644,
+    "votants": 68467,
+    "exprimes": 66047,
+    "abstentions": 21177,
+    "blancs_nuls": 2420,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 330
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3667
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 2643
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 1179
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 6548
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 909
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 12826
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 2819
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 1064
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 3366
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 1621
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 9391
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 777
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 14836
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 2644
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 1427
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "91",
+    "libelle": "ESSONNE",
+    "inscrits": 681706,
+    "votants": 464854,
+    "exprimes": 452921,
+    "abstentions": 216852,
+    "blancs_nuls": 11933,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 1986
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 24612
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 17139
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 15562
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 76215
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 15555
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 33059
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 28029
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 10627
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 32319
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 17702
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 86563
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 4517
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 72286
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 9556
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 7194
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "92",
+    "libelle": "HAUTS-DE-SEINE",
+    "inscrits": 814866,
+    "votants": 551789,
+    "exprimes": 539997,
+    "abstentions": 263077,
+    "blancs_nuls": 11792,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 1749
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 20572
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 16209
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 18086
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 89958
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 18432
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 35165
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 31570
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 13633
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 47834
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 31962
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 129297
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 7996
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 64204
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 9040
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 4290
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "93",
+    "libelle": "SEINE-SAINT-DENIS",
+    "inscrits": 630897,
+    "votants": 406465,
+    "exprimes": 396476,
+    "abstentions": 224432,
+    "blancs_nuls": 9989,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 1831
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 23699
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 14965
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 24856
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 70757
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 20790
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 25383
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 24325
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 5562
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 20734
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 13988
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 63920
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 2431
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 70326
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 9780
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 3129
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "94",
+    "libelle": "VAL-DE-MARNE",
+    "inscrits": 676285,
+    "votants": 452910,
+    "exprimes": 442065,
+    "abstentions": 223375,
+    "blancs_nuls": 10845,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 1926
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 20764
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 15854
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 23964
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 75838
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 18190
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 30332
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 27748
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 8957
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 31862
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 21640
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 85658
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 3412
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 63397
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 8634
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 3889
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "95",
+    "libelle": "VAL-D'OISE",
+    "inscrits": 604309,
+    "votants": 408658,
+    "exprimes": 398552,
+    "abstentions": 195651,
+    "blancs_nuls": 10106,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 1802
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 20860
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 13876
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 16063
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 64903
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 14981
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 26409
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 22217
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 8016
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 27250
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 17401
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 74994
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 3340
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 72177
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 8836
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 5427
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "2A",
+    "libelle": "CORSE-DU-SUD",
+    "inscrits": 86526,
+    "votants": 51450,
+    "exprimes": 50261,
+    "abstentions": 35076,
+    "blancs_nuls": 1189,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 168
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 1666
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 1408
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 2360
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 7539
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 1161
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 3400
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 1630
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 421
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 1831
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 1198
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 13899
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 225
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 8749
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 721
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 3885
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 1,
+    "code": "2B",
+    "libelle": "HAUTE-CORSE",
+    "inscrits": 104774,
+    "votants": 60687,
+    "exprimes": 59201,
+    "abstentions": 44087,
+    "blancs_nuls": 1486,
+    "candidats": [
+      {
+        "nom": "Daniel GLUCKSTEIN",
+        "parti": "PT",
+        "votes": 116
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 1963
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 1592
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 3141
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 9297
+      },
+      {
+        "nom": "Christiane TAUBIRA",
+        "parti": "PRG",
+        "votes": 2801
+      },
+      {
+        "nom": "Jean-Pierre CHEVENEMENT",
+        "parti": "P. REP",
+        "votes": 4300
+      },
+      {
+        "nom": "Noël MAMERE",
+        "parti": "VERTS",
+        "votes": 1635
+      },
+      {
+        "nom": "Corinne LEPAGE",
+        "parti": "CAP 21",
+        "votes": 499
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 1829
+      },
+      {
+        "nom": "Alain MADELIN",
+        "parti": "DL",
+        "votes": 1005
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 16281
+      },
+      {
+        "nom": "Christine BOUTIN",
+        "parti": "UDF DISS.",
+        "votes": 244
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 8417
+      },
+      {
+        "nom": "Bruno MEGRET",
+        "parti": "MNR",
+        "votes": 958
+      },
+      {
+        "nom": "Jean SAINT-JOSSE",
+        "parti": "CNPT",
+        "votes": 5123
+      }
+    ]
+  }
+]

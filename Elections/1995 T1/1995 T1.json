@@ -1,0 +1,5570 @@
+[
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "1",
+    "libelle": "AIN",
+    "inscrits": 314259,
+    "votants": 251533,
+    "exprimes": 243797,
+    "abstentions": 62726,
+    "blancs_nuls": 7736,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 11918
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 14999
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 49970
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 9534
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 48264
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 46891
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 13118
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 48417
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 686
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "2",
+    "libelle": "AISNE",
+    "inscrits": 371939,
+    "votants": 301990,
+    "exprimes": 294084,
+    "abstentions": 69949,
+    "blancs_nuls": 7906,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 17053
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 32132
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 71700
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 7136
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 45951
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 53422
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 13819
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 52026
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 845
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "3",
+    "libelle": "ALLIER",
+    "inscrits": 264005,
+    "votants": 211875,
+    "exprimes": 204147,
+    "abstentions": 52130,
+    "blancs_nuls": 7728,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 9763
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 31960
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 45190
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 5654
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 34255
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 44190
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 9650
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 22928
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 557
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "4",
+    "libelle": "ALPES-DE-HAUTE-PROVENCE",
+    "inscrits": 103874,
+    "votants": 82761,
+    "exprimes": 80056,
+    "abstentions": 21113,
+    "blancs_nuls": 2705,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4211
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 8932
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 18169
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 3353
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 13585
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 14709
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 4186
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 12642
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 269
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "5",
+    "libelle": "HAUTES-ALPES",
+    "inscrits": 88719,
+    "votants": 70725,
+    "exprimes": 68355,
+    "abstentions": 17994,
+    "blancs_nuls": 2370,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3505
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 5897
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 15005
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 3413
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 13990
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 13862
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 3743
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 8711
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 229
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "6",
+    "libelle": "ALPES-MARITIMES",
+    "inscrits": 680770,
+    "votants": 514382,
+    "exprimes": 505031,
+    "abstentions": 166388,
+    "blancs_nuls": 9351,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 18662
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 34273
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 82646
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 13724
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 104788
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 113545
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 22786
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 113543
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 1064
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "7",
+    "libelle": "ARDECHE",
+    "inscrits": 211247,
+    "votants": 171292,
+    "exprimes": 166040,
+    "abstentions": 39955,
+    "blancs_nuls": 5252,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 8986
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 16547
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 38151
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 6524
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 33326
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 30055
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 8372
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 23548
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 531
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "8",
+    "libelle": "ARDENNES",
+    "inscrits": 194299,
+    "votants": 152424,
+    "exprimes": 148791,
+    "abstentions": 41875,
+    "blancs_nuls": 3633,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 7956
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 14086
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 36149
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 4094
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 26217
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 26091
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 6985
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 26836
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 377
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "9",
+    "libelle": "ARIEGE",
+    "inscrits": 108226,
+    "votants": 88265,
+    "exprimes": 85602,
+    "abstentions": 19961,
+    "blancs_nuls": 2663,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4263
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 10665
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 28938
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 3004
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 12352
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 14276
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 2833
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 8984
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 287
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "10",
+    "libelle": "AUBE",
+    "inscrits": 192789,
+    "votants": 155156,
+    "exprimes": 150763,
+    "abstentions": 37633,
+    "blancs_nuls": 4393,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 7135
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 11834
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 30342
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 4190
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 28672
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 31585
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 8998
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 27567
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 440
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "11",
+    "libelle": "AUDE",
+    "inscrits": 225975,
+    "votants": 186986,
+    "exprimes": 181783,
+    "abstentions": 38989,
+    "blancs_nuls": 5203,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 8887
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 21137
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 56613
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 4901
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 24997
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 33039
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 7107
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 24643
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 459
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "12",
+    "libelle": "AVEYRON",
+    "inscrits": 212792,
+    "votants": 177548,
+    "exprimes": 171404,
+    "abstentions": 35244,
+    "blancs_nuls": 6144,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 8101
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 11874
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 42115
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 5881
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 36077
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 44609
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 7643
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 14586
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 518
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "13",
+    "libelle": "BOUCHES-DU-RHONE",
+    "inscrits": 1108942,
+    "votants": 849671,
+    "exprimes": 829757,
+    "abstentions": 259271,
+    "blancs_nuls": 19914,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 41462
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 98030
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 169139
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 23287
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 147713
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 140160
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 30291
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 177779
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 1896
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "14",
+    "libelle": "CALVADOS",
+    "inscrits": 437282,
+    "votants": 353904,
+    "exprimes": 344319,
+    "abstentions": 83378,
+    "blancs_nuls": 9585,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 23061
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 25102
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 81989
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 12548
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 71801
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 68955
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 17158
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 42680
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 1025
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "15",
+    "libelle": "CANTAL",
+    "inscrits": 125662,
+    "votants": 102301,
+    "exprimes": 99668,
+    "abstentions": 23361,
+    "blancs_nuls": 2633,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4112
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 6816
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 20964
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 2061
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 14046
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 40848
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 3390
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 7092
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 339
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "16",
+    "libelle": "CHARENTE",
+    "inscrits": 254536,
+    "votants": 203521,
+    "exprimes": 196166,
+    "abstentions": 51015,
+    "blancs_nuls": 7355,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 10284
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 18430
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 55088
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 6108
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 32035
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 41353
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 12202
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 20030
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 636
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "17",
+    "libelle": "CHARENTE-MARITIME",
+    "inscrits": 397086,
+    "votants": 313519,
+    "exprimes": 303498,
+    "abstentions": 83567,
+    "blancs_nuls": 10021,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 14721
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 25667
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 74907
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 9999
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 58549
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 60687
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 23688
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 34327
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 953
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "18",
+    "libelle": "CHER",
+    "inscrits": 228986,
+    "votants": 182025,
+    "exprimes": 175975,
+    "abstentions": 46961,
+    "blancs_nuls": 6050,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 9562
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 24234
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 36727
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 5064
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 31672
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 35663
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 8671
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 23823
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 559
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "19",
+    "libelle": "CORREZE",
+    "inscrits": 185134,
+    "votants": 158857,
+    "exprimes": 155436,
+    "abstentions": 26277,
+    "blancs_nuls": 3421,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5323
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 21729
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 30869
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 3217
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 7170
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 76632
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 3035
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 7122
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 339
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "21",
+    "libelle": "COTE-D'OR",
+    "inscrits": 326948,
+    "votants": 262497,
+    "exprimes": 255454,
+    "abstentions": 64451,
+    "blancs_nuls": 7043,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 13118
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 15882
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 60470
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 10159
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 47943
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 53539
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 13247
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 40468
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 628
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "22",
+    "libelle": "COTES-D'ARMOR",
+    "inscrits": 420696,
+    "votants": 351393,
+    "exprimes": 342737,
+    "abstentions": 69303,
+    "blancs_nuls": 8656,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 18807
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 38386
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 94522
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 12760
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 68951
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 65565
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 12617
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 30282
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 847
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "23",
+    "libelle": "CREUSE",
+    "inscrits": 105801,
+    "votants": 83764,
+    "exprimes": 81010,
+    "abstentions": 22037,
+    "blancs_nuls": 2754,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3453
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 9606
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 20091
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 2240
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 8900
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 27984
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 2811
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 5694
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 231
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "24",
+    "libelle": "DORDOGNE",
+    "inscrits": 303089,
+    "votants": 251837,
+    "exprimes": 242724,
+    "abstentions": 51252,
+    "blancs_nuls": 9113,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 10620
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 34353
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 60811
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 7213
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 33680
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 61708
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 12352
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 21268
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 719
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "25",
+    "libelle": "DOUBS",
+    "inscrits": 325938,
+    "votants": 266668,
+    "exprimes": 259253,
+    "abstentions": 59270,
+    "blancs_nuls": 7415,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 14003
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 13921
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 64277
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 12852
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 47708
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 53716
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 12180
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 39923
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 673
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "26",
+    "libelle": "DROME",
+    "inscrits": 292297,
+    "votants": 234054,
+    "exprimes": 227192,
+    "abstentions": 58243,
+    "blancs_nuls": 6862,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 11957
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 18543
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 53162
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 9845
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 42532
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 38526
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 12475
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 39438
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 714
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "27",
+    "libelle": "EURE",
+    "inscrits": 359333,
+    "votants": 290809,
+    "exprimes": 282571,
+    "abstentions": 68524,
+    "blancs_nuls": 8238,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 16043
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 24111
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 58464
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 8560
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 52784
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 55050
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 14790
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 51898
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 871
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "28",
+    "libelle": "EURE-ET-LOIR",
+    "inscrits": 273171,
+    "votants": 219421,
+    "exprimes": 213390,
+    "abstentions": 53750,
+    "blancs_nuls": 6031,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 10822
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 14488
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 45602
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 6281
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 43443
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 40155
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 13194
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 38883
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 522
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "29",
+    "libelle": "FINISTERE",
+    "inscrits": 625550,
+    "votants": 510067,
+    "exprimes": 498966,
+    "abstentions": 115483,
+    "blancs_nuls": 11101,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 30313
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 37211
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 130415
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 20970
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 105061
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 108697
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 19188
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 45911
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 1200
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "30",
+    "libelle": "GARD",
+    "inscrits": 420294,
+    "votants": 338036,
+    "exprimes": 329047,
+    "abstentions": 82258,
+    "blancs_nuls": 8989,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 16973
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 42183
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 70874
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 9823
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 53776
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 53159
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 14737
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 66729
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 793
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "31",
+    "libelle": "HAUTE-GARONNE",
+    "inscrits": 654466,
+    "votants": 532483,
+    "exprimes": 516398,
+    "abstentions": 121983,
+    "blancs_nuls": 16085,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 31249
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 40103
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 164580
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 18877
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 82702
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 94453
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 17847
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 65200
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 1387
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "32",
+    "libelle": "GERS",
+    "inscrits": 136625,
+    "votants": 111988,
+    "exprimes": 107827,
+    "abstentions": 24637,
+    "blancs_nuls": 4161,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5202
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 8991
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 31813
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 3406
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 19008
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 22905
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 6054
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 10059
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 389
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "33",
+    "libelle": "GIRONDE",
+    "inscrits": 827836,
+    "votants": 664379,
+    "exprimes": 646417,
+    "abstentions": 163457,
+    "blancs_nuls": 17962,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 38431
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 54762
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 179050
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 19471
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 114546
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 126026
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 29772
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 82612
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 1747
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "34",
+    "libelle": "HERAULT",
+    "inscrits": 576736,
+    "votants": 464408,
+    "exprimes": 452703,
+    "abstentions": 112328,
+    "blancs_nuls": 11705,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 23620
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 46348
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 109366
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 14710
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 73038
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 80144
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 18636
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 85843
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 998
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "35",
+    "libelle": "ILLE-ET-VILAINE",
+    "inscrits": 581428,
+    "votants": 476907,
+    "exprimes": 463324,
+    "abstentions": 104521,
+    "blancs_nuls": 13583,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 30188
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 29204
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 118780
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 20062
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 104104
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 97480
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 20762
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 41594
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 1150
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "36",
+    "libelle": "INDRE",
+    "inscrits": 180705,
+    "votants": 145544,
+    "exprimes": 139780,
+    "abstentions": 35161,
+    "blancs_nuls": 5764,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 7212
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 14925
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 33365
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 4073
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 23742
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 29652
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 8172
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 18182
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 457
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "37",
+    "libelle": "INDRE-ET-LOIRE",
+    "inscrits": 369275,
+    "votants": 295109,
+    "exprimes": 285449,
+    "abstentions": 74166,
+    "blancs_nuls": 9660,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 15172
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 21717
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 70285
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 10349
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 60546
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 51617
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 17904
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 37033
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 826
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "38",
+    "libelle": "ISERE",
+    "inscrits": 672788,
+    "votants": 536655,
+    "exprimes": 521631,
+    "abstentions": 136133,
+    "blancs_nuls": 15024,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 31264
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 45042
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 131417
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 22888
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 93629
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 82311
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 22587
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 91156
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 1337
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "39",
+    "libelle": "JURA",
+    "inscrits": 177806,
+    "votants": 144987,
+    "exprimes": 140045,
+    "abstentions": 32819,
+    "blancs_nuls": 4942,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 7435
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 11533
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 30638
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 8227
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 28339
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 24270
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 7581
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 21646
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 376
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "40",
+    "libelle": "LANDES",
+    "inscrits": 244917,
+    "votants": 202458,
+    "exprimes": 195836,
+    "abstentions": 42459,
+    "blancs_nuls": 6622,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 8294
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 18660
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 62598
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 4340
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 34299
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 41472
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 8228
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 17425
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 520
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "41",
+    "libelle": "LOIR-ET-CHER",
+    "inscrits": 228208,
+    "votants": 186321,
+    "exprimes": 180026,
+    "abstentions": 41887,
+    "blancs_nuls": 6295,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 8879
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 15370
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 40834
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 5540
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 36165
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 31800
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 13288
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 27653
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 497
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "42",
+    "libelle": "LOIRE",
+    "inscrits": 486507,
+    "votants": 384041,
+    "exprimes": 373250,
+    "abstentions": 102466,
+    "blancs_nuls": 10791,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 18858
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 31573
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 76096
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 12544
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 70354
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 65906
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 18296
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 78674
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 949
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "43",
+    "libelle": "HAUTE-LOIRE",
+    "inscrits": 159947,
+    "votants": 130280,
+    "exprimes": 125810,
+    "abstentions": 29667,
+    "blancs_nuls": 4470,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 6867
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 8388
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 25528
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 4184
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 24888
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 28843
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 6822
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 19880
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 410
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "44",
+    "libelle": "LOIRE-ATLANTIQUE",
+    "inscrits": 768340,
+    "votants": 618958,
+    "exprimes": 600334,
+    "abstentions": 149382,
+    "blancs_nuls": 18624,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 37195
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 43141
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 157015
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 25261
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 125494
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 111077
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 41818
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 57668
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 1665
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "45",
+    "libelle": "LOIRET",
+    "inscrits": 395218,
+    "votants": 320426,
+    "exprimes": 310844,
+    "abstentions": 74792,
+    "blancs_nuls": 9582,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 15641
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 25107
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 65197
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 10428
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 62526
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 63637
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 18192
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 49198
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 918
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "46",
+    "libelle": "LOT",
+    "inscrits": 131509,
+    "votants": 110895,
+    "exprimes": 107076,
+    "abstentions": 20614,
+    "blancs_nuls": 3819,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5483
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 11552
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 31018
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 3969
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 14772
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 26817
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 4641
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 8504
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 320
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "47",
+    "libelle": "LOT-ET-GARONNE",
+    "inscrits": 224985,
+    "votants": 185011,
+    "exprimes": 178755,
+    "abstentions": 39974,
+    "blancs_nuls": 6256,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 8908
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 19010
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 41867
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 5384
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 29377
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 36091
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 11231
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 26345
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 542
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "48",
+    "libelle": "LOZERE",
+    "inscrits": 57701,
+    "votants": 48161,
+    "exprimes": 46920,
+    "abstentions": 9540,
+    "blancs_nuls": 1241,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 1937
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 3300
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 9645
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 1522
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 11423
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 12594
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 1847
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 4512
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 140
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "49",
+    "libelle": "MAINE-ET-LOIRE",
+    "inscrits": 489715,
+    "votants": 404960,
+    "exprimes": 389748,
+    "abstentions": 84755,
+    "blancs_nuls": 15212,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 20837
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 21338
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 81544
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 14721
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 97763
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 78077
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 34982
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 39333
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 1153
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "50",
+    "libelle": "MANCHE",
+    "inscrits": 351768,
+    "votants": 285914,
+    "exprimes": 278088,
+    "abstentions": 65854,
+    "blancs_nuls": 7826,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 15740
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 16162
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 56155
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 9424
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 67254
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 66848
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 14786
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 30794
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 925
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "51",
+    "libelle": "MARNE",
+    "inscrits": 366488,
+    "votants": 285862,
+    "exprimes": 278999,
+    "abstentions": 80626,
+    "blancs_nuls": 6863,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 16240
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 20825
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 57380
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 9204
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 52591
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 58141
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 14655
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 49161
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 802
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "52",
+    "libelle": "HAUTE-MARNE",
+    "inscrits": 145981,
+    "votants": 114832,
+    "exprimes": 111197,
+    "abstentions": 31149,
+    "blancs_nuls": 3635,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5899
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 7689
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 23394
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 3923
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 19891
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 21843
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 5547
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 22624
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 387
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "53",
+    "libelle": "MAYENNE",
+    "inscrits": 206397,
+    "votants": 171952,
+    "exprimes": 165257,
+    "abstentions": 34445,
+    "blancs_nuls": 6695,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 8513
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 7789
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 32615
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 6210
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 44224
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 39104
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 10628
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 15645
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 529
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "54",
+    "libelle": "MEURTHE-ET-MOSELLE",
+    "inscrits": 470685,
+    "votants": 369781,
+    "exprimes": 360232,
+    "abstentions": 100904,
+    "blancs_nuls": 9549,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 23313
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 30039
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 85039
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 12457
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 65107
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 63832
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 14177
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 65291
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 977
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "55",
+    "libelle": "MEUSE",
+    "inscrits": 140834,
+    "votants": 113257,
+    "exprimes": 110039,
+    "abstentions": 27577,
+    "blancs_nuls": 3218,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5853
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 6558
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 23388
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 3988
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 23467
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 19121
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 5572
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 21741
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 351
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "56",
+    "libelle": "MORBIHAN",
+    "inscrits": 472281,
+    "votants": 389421,
+    "exprimes": 380036,
+    "abstentions": 82860,
+    "blancs_nuls": 9385,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 20296
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 27122
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 86034
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 13229
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 88820
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 75872
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 15436
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 52369
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 858
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "57",
+    "libelle": "MOSELLE",
+    "inscrits": 690316,
+    "votants": 540547,
+    "exprimes": 524999,
+    "abstentions": 149769,
+    "blancs_nuls": 15548,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 33762
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 30091
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 101858
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 16295
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 107475
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 90174
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 18763
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 125065
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 1516
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "58",
+    "libelle": "NIEVRE",
+    "inscrits": 173997,
+    "votants": 138823,
+    "exprimes": 134349,
+    "abstentions": 35174,
+    "blancs_nuls": 4474,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 6026
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 16991
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 40340
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 3522
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 21242
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 24237
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 5663
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 15959
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 369
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "59",
+    "libelle": "NORD",
+    "inscrits": 1677860,
+    "votants": 1337941,
+    "exprimes": 1302277,
+    "abstentions": 339919,
+    "blancs_nuls": 35664,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 73270
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 155288
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 302492
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 30965
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 228281
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 219467
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 52639
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 236730
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 3145
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "60",
+    "libelle": "OISE",
+    "inscrits": 488437,
+    "votants": 397437,
+    "exprimes": 387761,
+    "abstentions": 91000,
+    "blancs_nuls": 9676,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 23270
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 35493
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 80689
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 11516
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 62055
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 76390
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 17822
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 79415
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 1111
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "61",
+    "libelle": "ORNE",
+    "inscrits": 213690,
+    "votants": 174859,
+    "exprimes": 169886,
+    "abstentions": 38831,
+    "blancs_nuls": 4973,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 9008
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 9577
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 33657
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 5860
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 36662
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 39387
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 10051
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 25161
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 523
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "62",
+    "libelle": "PAS-DE-CALAIS",
+    "inscrits": 1016315,
+    "votants": 828074,
+    "exprimes": 799856,
+    "abstentions": 188241,
+    "blancs_nuls": 28218,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 49284
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 111222
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 201379
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 17247
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 127766
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 135223
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 34052
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 121652
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 2031
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "63",
+    "libelle": "PUY-DE-DOME",
+    "inscrits": 415645,
+    "votants": 339055,
+    "exprimes": 327349,
+    "abstentions": 76590,
+    "blancs_nuls": 11706,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 22638
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 31262
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 83082
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 11320
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 54978
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 73590
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 13487
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 36019
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 973
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "64",
+    "libelle": "PYRENEES-ATLANTIQUES",
+    "inscrits": 432701,
+    "votants": 345280,
+    "exprimes": 333929,
+    "abstentions": 87421,
+    "blancs_nuls": 11351,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 18642
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 23706
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 85451
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 12176
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 70655
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 76946
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 13326
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 32100
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 927
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "65",
+    "libelle": "HAUTES-PYRENEES",
+    "inscrits": 173682,
+    "votants": 138861,
+    "exprimes": 133878,
+    "abstentions": 34821,
+    "blancs_nuls": 4983,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 7099
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 16206
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 37936
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 4251
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 23560
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 26807
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 5065
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 12559
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 395
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "66",
+    "libelle": "PYRENEES-ORIENTALES",
+    "inscrits": 266855,
+    "votants": 212069,
+    "exprimes": 206634,
+    "abstentions": 54786,
+    "blancs_nuls": 5435,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 10084
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 21987
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 47587
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 5600
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 32454
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 39282
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 9000
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 40187
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 453
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "67",
+    "libelle": "BAS-RHIN",
+    "inscrits": 653671,
+    "votants": 518931,
+    "exprimes": 505329,
+    "abstentions": 134740,
+    "blancs_nuls": 13602,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 24227
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 14429
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 84491
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 19291
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 124954
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 84046
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 21725
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 130548
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 1618
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "68",
+    "libelle": "HAUT-RHIN",
+    "inscrits": 458432,
+    "votants": 365774,
+    "exprimes": 355278,
+    "abstentions": 92658,
+    "blancs_nuls": 10496,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 17980
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 12657
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 60712
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 13643
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 86111
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 59413
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 15530
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 88100
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 1132
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "69",
+    "libelle": "RHONE",
+    "inscrits": 922695,
+    "votants": 739828,
+    "exprimes": 722974,
+    "abstentions": 182867,
+    "blancs_nuls": 16854,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 36871
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 47464
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 156922
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 27389
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 149259
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 133847
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 30993
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 138401
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 1828
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "70",
+    "libelle": "HAUTE-SAONE",
+    "inscrits": 170138,
+    "votants": 139347,
+    "exprimes": 134311,
+    "abstentions": 30791,
+    "blancs_nuls": 5036,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 6755
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 8804
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 33511
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 5058
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 24309
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 26407
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 6646
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 22440
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 381
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "71",
+    "libelle": "SAONE-ET-LOIRE",
+    "inscrits": 399842,
+    "votants": 314437,
+    "exprimes": 302560,
+    "abstentions": 85405,
+    "blancs_nuls": 11877,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 14634
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 27620
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 75288
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 9039
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 57796
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 61438
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 15874
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 40069
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 802
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "72",
+    "libelle": "SARTHE",
+    "inscrits": 378616,
+    "votants": 304510,
+    "exprimes": 292604,
+    "abstentions": 74106,
+    "blancs_nuls": 11906,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 17368
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 25365
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 68714
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 10682
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 63289
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 54907
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 17897
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 33445
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 937
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "73",
+    "libelle": "SAVOIE",
+    "inscrits": 249352,
+    "votants": 199399,
+    "exprimes": 194038,
+    "abstentions": 49953,
+    "blancs_nuls": 5361,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 10275
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 15399
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 41392
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 8325
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 39398
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 36186
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 9895
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 32644
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 524
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "74",
+    "libelle": "HAUTE-SAVOIE",
+    "inscrits": 385732,
+    "votants": 307167,
+    "exprimes": 298515,
+    "abstentions": 78565,
+    "blancs_nuls": 8652,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 14656
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 15007
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 55312
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 13849
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 73852
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 59826
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 16087
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 49055
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 871
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "75",
+    "libelle": "PARIS",
+    "inscrits": 1168036,
+    "votants": 856512,
+    "exprimes": 842661,
+    "abstentions": 311524,
+    "blancs_nuls": 13851,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 40693
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 39469
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 219254
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 30608
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 139869
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 271278
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 21923
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 77909
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 1658
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "76",
+    "libelle": "SEINE-MARITIME",
+    "inscrits": 831766,
+    "votants": 662374,
+    "exprimes": 644130,
+    "abstentions": 169392,
+    "blancs_nuls": 18244,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 41689
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 74903
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 152328
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 19842
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 117988
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 109160
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 24811
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 101722
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 1687
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "77",
+    "libelle": "SEINE-ET-MARNE",
+    "inscrits": 691005,
+    "votants": 522600,
+    "exprimes": 510588,
+    "abstentions": 168405,
+    "blancs_nuls": 12012,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 28253
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 42074
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 108507
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 17195
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 79488
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 116185
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 23642
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 93947
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 1297
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "78",
+    "libelle": "YVELINES",
+    "inscrits": 822940,
+    "votants": 634622,
+    "exprimes": 621393,
+    "abstentions": 188318,
+    "blancs_nuls": 13229,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 30432
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 39549
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 132703
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 21185
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 121607
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 161243
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 27560
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 85656
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 1458
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "79",
+    "libelle": "DEUX-SEVRES",
+    "inscrits": 259259,
+    "votants": 211650,
+    "exprimes": 203274,
+    "abstentions": 47609,
+    "blancs_nuls": 8376,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 11600
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 11613
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 51890
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 7848
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 41885
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 44343
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 18411
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 15008
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 676
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "80",
+    "libelle": "SOMME",
+    "inscrits": 391302,
+    "votants": 323792,
+    "exprimes": 314514,
+    "abstentions": 67510,
+    "blancs_nuls": 9278,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 18431
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 39081
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 71669
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 7656
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 53438
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 59293
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 16142
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 47928
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 876
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "81",
+    "libelle": "TARN",
+    "inscrits": 257286,
+    "votants": 215538,
+    "exprimes": 207477,
+    "abstentions": 41748,
+    "blancs_nuls": 8061,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 10366
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 16691
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 58446
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 6939
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 36600
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 40762
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 10200
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 26860
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 613
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "82",
+    "libelle": "TARN-ET-GARONNE",
+    "inscrits": 151233,
+    "votants": 125216,
+    "exprimes": 121294,
+    "abstentions": 26017,
+    "blancs_nuls": 3922,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5851
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 9391
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 31669
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 3748
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 19381
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 24192
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 7532
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 19125
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 405
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "83",
+    "libelle": "VAR",
+    "inscrits": 601391,
+    "votants": 457528,
+    "exprimes": 447439,
+    "abstentions": 143863,
+    "blancs_nuls": 10089,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 18704
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 36882
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 77389
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 11519
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 94382
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 85284
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 22284
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 100004
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 991
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "84",
+    "libelle": "VAUCLUSE",
+    "inscrits": 325284,
+    "votants": 259867,
+    "exprimes": 252649,
+    "abstentions": 65417,
+    "blancs_nuls": 7218,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 11793
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 21603
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 51214
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 8343
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 44945
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 42121
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 13534
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 58402
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 694
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "85",
+    "libelle": "VENDEE",
+    "inscrits": 394215,
+    "votants": 332278,
+    "exprimes": 321151,
+    "abstentions": 61937,
+    "blancs_nuls": 11127,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 14508
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 15254
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 62543
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 10481
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 64826
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 58462
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 70725
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 23460
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 892
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "86",
+    "libelle": "VIENNE",
+    "inscrits": 281401,
+    "votants": 227807,
+    "exprimes": 219358,
+    "abstentions": 53594,
+    "blancs_nuls": 8449,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 11822
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 18124
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 55743
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 8538
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 40066
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 47870
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 13497
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 23002
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 696
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "87",
+    "libelle": "HAUTE-VIENNE",
+    "inscrits": 263199,
+    "votants": 218477,
+    "exprimes": 209914,
+    "abstentions": 44722,
+    "blancs_nuls": 8563,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 10429
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 28891
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 57533
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 6617
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 22506
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 60450
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 7051
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 15894
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 543
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "88",
+    "libelle": "VOSGES",
+    "inscrits": 278909,
+    "votants": 226002,
+    "exprimes": 217866,
+    "abstentions": 52907,
+    "blancs_nuls": 8136,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 12064
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 12413
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 47960
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 7680
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 39203
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 43094
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 11190
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 43539
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 723
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "89",
+    "libelle": "YONNE",
+    "inscrits": 230305,
+    "votants": 183969,
+    "exprimes": 178400,
+    "abstentions": 46336,
+    "blancs_nuls": 5569,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 8828
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 14581
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 37089
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 6118
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 34038
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 36095
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 10688
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 30406
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 557
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "90",
+    "libelle": "TERRITOIRE DE BELFORT",
+    "inscrits": 87668,
+    "votants": 71356,
+    "exprimes": 69139,
+    "abstentions": 16312,
+    "blancs_nuls": 2217,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4212
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 5086
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 17835
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 3132
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 10678
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 12548
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 2529
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 12965
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 154
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "91",
+    "libelle": "ESSONNE",
+    "inscrits": 683626,
+    "votants": 524787,
+    "exprimes": 512619,
+    "abstentions": 158839,
+    "blancs_nuls": 12168,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 30757
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 46645
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 123720
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 20068
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 79700
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 116811
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 20190
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 73534
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 1194
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "92",
+    "libelle": "HAUTS-DE-SEINE",
+    "inscrits": 823909,
+    "votants": 616102,
+    "exprimes": 604652,
+    "abstentions": 207807,
+    "blancs_nuls": 11450,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 28529
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 47762
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 139497
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 19714
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 116410
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 160605
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 20344
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 70458
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 1333
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "93",
+    "libelle": "SEINE-SAINT-DENIS",
+    "inscrits": 683919,
+    "votants": 496106,
+    "exprimes": 485489,
+    "abstentions": 187813,
+    "blancs_nuls": 10617,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 28108
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 68395
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 113567
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 15314
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 57258
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 96629
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 13924
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 91176
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 1118
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "94",
+    "libelle": "VAL-DE-MARNE",
+    "inscrits": 692561,
+    "votants": 522817,
+    "exprimes": 510878,
+    "abstentions": 169744,
+    "blancs_nuls": 11939,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 26819
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 64067
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 120799
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 17594
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 76404
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 119624
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 16355
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 68131
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 1085
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "95",
+    "libelle": "VAL-D'OISE",
+    "inscrits": 611098,
+    "votants": 462112,
+    "exprimes": 452111,
+    "abstentions": 148986,
+    "blancs_nuls": 10001,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 24251
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 48178
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 100551
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 14822
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 67342
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 99713
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 17093
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 79103
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 1058
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "2A",
+    "libelle": "CORSE-DU-SUD",
+    "inscrits": 81100,
+    "votants": 54852,
+    "exprimes": 53866,
+    "abstentions": 26248,
+    "blancs_nuls": 986,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 1636
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 4906
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 9733
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 1427
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 12165
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 16381
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 1222
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 6251
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 145
+      }
+    ]
+  },
+  {
+    "election": 1995,
+    "tour": 1,
+    "code": "2B",
+    "libelle": "HAUTE-CORSE",
+    "inscrits": 98947,
+    "votants": 65745,
+    "exprimes": 64313,
+    "abstentions": 33202,
+    "blancs_nuls": 1432,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 1965
+      },
+      {
+        "nom": "Robert HUE",
+        "parti": "PCF",
+        "votes": 6533
+      },
+      {
+        "nom": "Lionel JOSPIN",
+        "parti": "PS",
+        "votes": 14502
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 1569
+      },
+      {
+        "nom": "Edouard BALLADUR",
+        "parti": "UDF",
+        "votes": 11634
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 20199
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 1423
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 6321
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "POE",
+        "votes": 167
+      }
+    ]
+  }
+]

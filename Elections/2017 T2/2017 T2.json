@@ -1,0 +1,2210 @@
+[
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "1",
+    "libelle": "AIN",
+    "inscrits": 415950,
+    "votants": 322820,
+    "exprimes": 285230,
+    "abstentions": 93130,
+    "blancs_nuls": 37590,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 111421
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 173809
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "2",
+    "libelle": "AISNE",
+    "inscrits": 375791,
+    "votants": 285046,
+    "exprimes": 253141,
+    "abstentions": 90745,
+    "blancs_nuls": 31905,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 133939
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 119202
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "3",
+    "libelle": "ALLIER",
+    "inscrits": 253479,
+    "votants": 194185,
+    "exprimes": 166786,
+    "abstentions": 59294,
+    "blancs_nuls": 27399,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 60207
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 106579
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "4",
+    "libelle": "ALPES-DE-HAUTE-PROVENCE",
+    "inscrits": 126459,
+    "votants": 97204,
+    "exprimes": 83811,
+    "abstentions": 29255,
+    "blancs_nuls": 13393,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 34817
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 48994
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "5",
+    "libelle": "HAUTES-ALPES",
+    "inscrits": 109892,
+    "votants": 84997,
+    "exprimes": 73628,
+    "abstentions": 24895,
+    "blancs_nuls": 11369,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 26417
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 47211
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "6",
+    "libelle": "ALPES-MARITIMES",
+    "inscrits": 761780,
+    "votants": 563149,
+    "exprimes": 502951,
+    "abstentions": 198631,
+    "blancs_nuls": 60198,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 224544
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 278407
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "7",
+    "libelle": "ARDECHE",
+    "inscrits": 249216,
+    "votants": 194729,
+    "exprimes": 167708,
+    "abstentions": 54487,
+    "blancs_nuls": 27021,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 63109
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 104599
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "8",
+    "libelle": "ARDENNES",
+    "inscrits": 194349,
+    "votants": 144463,
+    "exprimes": 126995,
+    "abstentions": 49886,
+    "blancs_nuls": 17468,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 62571
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 64424
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "9",
+    "libelle": "ARIEGE",
+    "inscrits": 117406,
+    "votants": 90708,
+    "exprimes": 76057,
+    "abstentions": 26698,
+    "blancs_nuls": 14651,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 28074
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 47983
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "10",
+    "libelle": "AUBE",
+    "inscrits": 203800,
+    "votants": 158130,
+    "exprimes": 139990,
+    "abstentions": 45670,
+    "blancs_nuls": 18140,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 64180
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 75810
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "11",
+    "libelle": "AUDE",
+    "inscrits": 272643,
+    "votants": 210813,
+    "exprimes": 182353,
+    "abstentions": 61830,
+    "blancs_nuls": 28460,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 81452
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 100901
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "12",
+    "libelle": "AVEYRON",
+    "inscrits": 218097,
+    "votants": 174246,
+    "exprimes": 150178,
+    "abstentions": 43851,
+    "blancs_nuls": 24068,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 40838
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 109340
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "13",
+    "libelle": "BOUCHES-DU-RHONE",
+    "inscrits": 1370057,
+    "votants": 1006037,
+    "exprimes": 897791,
+    "abstentions": 364020,
+    "blancs_nuls": 108246,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 378456
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 519335
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "14",
+    "libelle": "CALVADOS",
+    "inscrits": 501062,
+    "votants": 391362,
+    "exprimes": 346617,
+    "abstentions": 109700,
+    "blancs_nuls": 44745,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 114002
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 232615
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "15",
+    "libelle": "CANTAL",
+    "inscrits": 117394,
+    "votants": 92115,
+    "exprimes": 79349,
+    "abstentions": 25279,
+    "blancs_nuls": 12766,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 23938
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 55411
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "16",
+    "libelle": "CHARENTE",
+    "inscrits": 259951,
+    "votants": 199411,
+    "exprimes": 173616,
+    "abstentions": 60540,
+    "blancs_nuls": 25795,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 59916
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 113700
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "17",
+    "libelle": "CHARENTE-MARITIME",
+    "inscrits": 491298,
+    "votants": 379474,
+    "exprimes": 332319,
+    "abstentions": 111824,
+    "blancs_nuls": 47155,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 116854
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 215465
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "18",
+    "libelle": "CHER",
+    "inscrits": 228984,
+    "votants": 170963,
+    "exprimes": 147734,
+    "abstentions": 58021,
+    "blancs_nuls": 23229,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 57358
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 90376
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "19",
+    "libelle": "CORREZE",
+    "inscrits": 185245,
+    "votants": 147085,
+    "exprimes": 123984,
+    "abstentions": 38160,
+    "blancs_nuls": 23101,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 35955
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 88029
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "21",
+    "libelle": "COTE-D'OR",
+    "inscrits": 360646,
+    "votants": 283391,
+    "exprimes": 248766,
+    "abstentions": 77255,
+    "blancs_nuls": 34625,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 89121
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 159645
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "22",
+    "libelle": "COTES-D'ARMOR",
+    "inscrits": 455840,
+    "votants": 368170,
+    "exprimes": 322507,
+    "abstentions": 87670,
+    "blancs_nuls": 45663,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 85554
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 236953
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "23",
+    "libelle": "CREUSE",
+    "inscrits": 93122,
+    "votants": 71384,
+    "exprimes": 59667,
+    "abstentions": 21738,
+    "blancs_nuls": 11717,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 20428
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 39239
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "24",
+    "libelle": "DORDOGNE",
+    "inscrits": 313901,
+    "votants": 248144,
+    "exprimes": 210868,
+    "abstentions": 65757,
+    "blancs_nuls": 37276,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 75335
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 135533
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "25",
+    "libelle": "DOUBS",
+    "inscrits": 368314,
+    "votants": 283690,
+    "exprimes": 248239,
+    "abstentions": 84624,
+    "blancs_nuls": 35451,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 89935
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 158304
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "26",
+    "libelle": "DROME",
+    "inscrits": 369462,
+    "votants": 287353,
+    "exprimes": 252304,
+    "abstentions": 82109,
+    "blancs_nuls": 35049,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 94312
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 157992
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "27",
+    "libelle": "EURE",
+    "inscrits": 427522,
+    "votants": 330226,
+    "exprimes": 292275,
+    "abstentions": 97296,
+    "blancs_nuls": 37951,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 133417
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 158858
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "28",
+    "libelle": "EURE-ET-LOIR",
+    "inscrits": 301455,
+    "votants": 230239,
+    "exprimes": 203116,
+    "abstentions": 71216,
+    "blancs_nuls": 27123,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 80696
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 122420
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "29",
+    "libelle": "FINISTERE",
+    "inscrits": 690439,
+    "votants": 545901,
+    "exprimes": 480222,
+    "abstentions": 144538,
+    "blancs_nuls": 65679,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 108890
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 371332
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "30",
+    "libelle": "GARD",
+    "inscrits": 537840,
+    "votants": 407415,
+    "exprimes": 356114,
+    "abstentions": 130425,
+    "blancs_nuls": 51301,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 161125
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 194989
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "31",
+    "libelle": "HAUTE-GARONNE",
+    "inscrits": 906832,
+    "votants": 686285,
+    "exprimes": 603260,
+    "abstentions": 220547,
+    "blancs_nuls": 83025,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 166595
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 436665
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "32",
+    "libelle": "GERS",
+    "inscrits": 144950,
+    "votants": 117315,
+    "exprimes": 100995,
+    "abstentions": 27635,
+    "blancs_nuls": 16320,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 33424
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 67571
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "33",
+    "libelle": "GIRONDE",
+    "inscrits": 1086565,
+    "votants": 834740,
+    "exprimes": 735752,
+    "abstentions": 251825,
+    "blancs_nuls": 98988,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 220261
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 515491
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "34",
+    "libelle": "HERAULT",
+    "inscrits": 800264,
+    "votants": 602635,
+    "exprimes": 527566,
+    "abstentions": 197629,
+    "blancs_nuls": 75069,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 215147
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 312419
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "35",
+    "libelle": "ILLE-ET-VILAINE",
+    "inscrits": 730055,
+    "votants": 581187,
+    "exprimes": 519289,
+    "abstentions": 148868,
+    "blancs_nuls": 61898,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 115942
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 403347
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "36",
+    "libelle": "INDRE",
+    "inscrits": 170405,
+    "votants": 130494,
+    "exprimes": 111800,
+    "abstentions": 39911,
+    "blancs_nuls": 18694,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 43627
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 68173
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "37",
+    "libelle": "INDRE-ET-LOIRE",
+    "inscrits": 428840,
+    "votants": 330328,
+    "exprimes": 290649,
+    "abstentions": 98512,
+    "blancs_nuls": 39679,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 89438
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 201211
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "38",
+    "libelle": "ISERE",
+    "inscrits": 856330,
+    "votants": 653687,
+    "exprimes": 582294,
+    "abstentions": 202643,
+    "blancs_nuls": 71393,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 199097
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 383197
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "39",
+    "libelle": "JURA",
+    "inscrits": 190316,
+    "votants": 149254,
+    "exprimes": 129156,
+    "abstentions": 41062,
+    "blancs_nuls": 20098,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 49888
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 79268
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "40",
+    "libelle": "LANDES",
+    "inscrits": 310122,
+    "votants": 247309,
+    "exprimes": 213280,
+    "abstentions": 62813,
+    "blancs_nuls": 34029,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 66661
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 146619
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "41",
+    "libelle": "LOIR-ET-CHER",
+    "inscrits": 245294,
+    "votants": 190727,
+    "exprimes": 166685,
+    "abstentions": 54567,
+    "blancs_nuls": 24042,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 65896
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 100789
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "42",
+    "libelle": "LOIRE",
+    "inscrits": 510903,
+    "votants": 387541,
+    "exprimes": 342317,
+    "abstentions": 123362,
+    "blancs_nuls": 45224,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 123714
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 218603
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "43",
+    "libelle": "HAUTE-LOIRE",
+    "inscrits": 177116,
+    "votants": 139475,
+    "exprimes": 120345,
+    "abstentions": 37641,
+    "blancs_nuls": 19130,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 44112
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 76233
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "44",
+    "libelle": "LOIRE-ATLANTIQUE",
+    "inscrits": 993413,
+    "votants": 778673,
+    "exprimes": 680553,
+    "abstentions": 214740,
+    "blancs_nuls": 98120,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 155353
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 525200
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "45",
+    "libelle": "LOIRET",
+    "inscrits": 452621,
+    "votants": 348978,
+    "exprimes": 308739,
+    "abstentions": 103643,
+    "blancs_nuls": 40239,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 113735
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 195004
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "46",
+    "libelle": "LOT",
+    "inscrits": 136265,
+    "votants": 108968,
+    "exprimes": 92739,
+    "abstentions": 27297,
+    "blancs_nuls": 16229,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 25802
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 66937
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "47",
+    "libelle": "LOT-ET-GARONNE",
+    "inscrits": 240882,
+    "votants": 188619,
+    "exprimes": 163811,
+    "abstentions": 52263,
+    "blancs_nuls": 24808,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 66393
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 97418
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "48",
+    "libelle": "LOZERE",
+    "inscrits": 59496,
+    "votants": 47612,
+    "exprimes": 40269,
+    "abstentions": 11884,
+    "blancs_nuls": 7343,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 13275
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 26994
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "49",
+    "libelle": "MAINE-ET-LOIRE",
+    "inscrits": 569235,
+    "votants": 447667,
+    "exprimes": 396598,
+    "abstentions": 121568,
+    "blancs_nuls": 51069,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 107781
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 288817
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "50",
+    "libelle": "MANCHE",
+    "inscrits": 379038,
+    "votants": 296235,
+    "exprimes": 262790,
+    "abstentions": 82803,
+    "blancs_nuls": 33445,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 86126
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 176664
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "51",
+    "libelle": "MARNE",
+    "inscrits": 381657,
+    "votants": 286507,
+    "exprimes": 254067,
+    "abstentions": 95150,
+    "blancs_nuls": 32440,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 109227
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 144840
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "52",
+    "libelle": "HAUTE-MARNE",
+    "inscrits": 134119,
+    "votants": 102038,
+    "exprimes": 89523,
+    "abstentions": 32081,
+    "blancs_nuls": 12515,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 44331
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 45192
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "53",
+    "libelle": "MAYENNE",
+    "inscrits": 222338,
+    "votants": 176103,
+    "exprimes": 155773,
+    "abstentions": 46235,
+    "blancs_nuls": 20330,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 43581
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 112192
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "54",
+    "libelle": "MEURTHE-ET-MOSELLE",
+    "inscrits": 495086,
+    "votants": 370227,
+    "exprimes": 327652,
+    "abstentions": 124859,
+    "blancs_nuls": 42575,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 128902
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 198750
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "55",
+    "libelle": "MEUSE",
+    "inscrits": 137552,
+    "votants": 106074,
+    "exprimes": 93570,
+    "abstentions": 31478,
+    "blancs_nuls": 12504,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 45267
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 48303
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "56",
+    "libelle": "MORBIHAN",
+    "inscrits": 576899,
+    "votants": 459670,
+    "exprimes": 404670,
+    "abstentions": 117229,
+    "blancs_nuls": 55000,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 115076
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 289594
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "57",
+    "libelle": "MOSELLE",
+    "inscrits": 751246,
+    "votants": 549514,
+    "exprimes": 490314,
+    "abstentions": 201732,
+    "blancs_nuls": 59200,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 207597
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 282717
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "58",
+    "libelle": "NIEVRE",
+    "inscrits": 159382,
+    "votants": 121212,
+    "exprimes": 104668,
+    "abstentions": 38170,
+    "blancs_nuls": 16544,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 41946
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 62722
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "59",
+    "libelle": "NORD",
+    "inscrits": 1804404,
+    "votants": 1321471,
+    "exprimes": 1177240,
+    "abstentions": 482933,
+    "blancs_nuls": 144231,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 507434
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 669806
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "60",
+    "libelle": "OISE",
+    "inscrits": 561950,
+    "votants": 428251,
+    "exprimes": 380058,
+    "abstentions": 133699,
+    "blancs_nuls": 48193,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 177549
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 202509
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "61",
+    "libelle": "ORNE",
+    "inscrits": 208691,
+    "votants": 163114,
+    "exprimes": 143554,
+    "abstentions": 45577,
+    "blancs_nuls": 19560,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 55070
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 88484
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "62",
+    "libelle": "PAS-DE-CALAIS",
+    "inscrits": 1090441,
+    "votants": 828222,
+    "exprimes": 735340,
+    "abstentions": 262219,
+    "blancs_nuls": 92882,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 382782
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 352558
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "63",
+    "libelle": "PUY-DE-DOME",
+    "inscrits": 460919,
+    "votants": 355885,
+    "exprimes": 307592,
+    "abstentions": 105034,
+    "blancs_nuls": 48293,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 88155
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 219437
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "64",
+    "libelle": "PYRENEES-ATLANTIQUES",
+    "inscrits": 502323,
+    "votants": 391990,
+    "exprimes": 338994,
+    "abstentions": 110333,
+    "blancs_nuls": 52996,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 85377
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 253617
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "65",
+    "libelle": "HAUTES-PYRENEES",
+    "inscrits": 177678,
+    "votants": 137016,
+    "exprimes": 117019,
+    "abstentions": 40662,
+    "blancs_nuls": 19997,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 37225
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 79794
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "66",
+    "libelle": "PYRENEES-ORIENTALES",
+    "inscrits": 347864,
+    "votants": 261153,
+    "exprimes": 224518,
+    "abstentions": 86711,
+    "blancs_nuls": 36635,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 105874
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 118644
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "67",
+    "libelle": "BAS-RHIN",
+    "inscrits": 766650,
+    "votants": 583401,
+    "exprimes": 524729,
+    "abstentions": 183249,
+    "blancs_nuls": 58672,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 193788
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 330941
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "68",
+    "libelle": "HAUT-RHIN",
+    "inscrits": 526161,
+    "votants": 397361,
+    "exprimes": 351198,
+    "abstentions": 128800,
+    "blancs_nuls": 46163,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 147599
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 203599
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "69",
+    "libelle": "RHONE",
+    "inscrits": 1155506,
+    "votants": 865658,
+    "exprimes": 777332,
+    "abstentions": 289848,
+    "blancs_nuls": 88326,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 205317
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 572015
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "70",
+    "libelle": "HAUTE-SAONE",
+    "inscrits": 179187,
+    "votants": 141900,
+    "exprimes": 122882,
+    "abstentions": 37287,
+    "blancs_nuls": 19018,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 59341
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 63541
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "71",
+    "libelle": "SAONE-ET-LOIRE",
+    "inscrits": 406311,
+    "votants": 311675,
+    "exprimes": 270870,
+    "abstentions": 94636,
+    "blancs_nuls": 40805,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 103925
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 166945
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "72",
+    "libelle": "SARTHE",
+    "inscrits": 405623,
+    "votants": 311124,
+    "exprimes": 268676,
+    "abstentions": 94499,
+    "blancs_nuls": 42448,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 98523
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 170153
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "73",
+    "libelle": "SAVOIE",
+    "inscrits": 310179,
+    "votants": 237888,
+    "exprimes": 208716,
+    "abstentions": 72291,
+    "blancs_nuls": 29172,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 73598
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 135118
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "74",
+    "libelle": "HAUTE-SAVOIE",
+    "inscrits": 538007,
+    "votants": 410371,
+    "exprimes": 362944,
+    "abstentions": 127636,
+    "blancs_nuls": 47427,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 113746
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 249198
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "75",
+    "libelle": "PARIS",
+    "inscrits": 1301537,
+    "votants": 1021639,
+    "exprimes": 947027,
+    "abstentions": 279898,
+    "blancs_nuls": 74612,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 97770
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 849257
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "76",
+    "libelle": "SEINE-MARITIME",
+    "inscrits": 880756,
+    "votants": 669363,
+    "exprimes": 588298,
+    "abstentions": 211393,
+    "blancs_nuls": 81065,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 232857
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 355441
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "77",
+    "libelle": "SEINE-ET-MARNE",
+    "inscrits": 880940,
+    "votants": 652931,
+    "exprimes": 578983,
+    "abstentions": 228009,
+    "blancs_nuls": 73948,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 209221
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 369762
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "78",
+    "libelle": "YVELINES",
+    "inscrits": 950821,
+    "votants": 725644,
+    "exprimes": 652799,
+    "abstentions": 225177,
+    "blancs_nuls": 72845,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 149138
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 503661
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "79",
+    "libelle": "DEUX-SEVRES",
+    "inscrits": 272387,
+    "votants": 214802,
+    "exprimes": 189866,
+    "abstentions": 57585,
+    "blancs_nuls": 24936,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 54039
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 135827
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "80",
+    "libelle": "SOMME",
+    "inscrits": 408957,
+    "votants": 318369,
+    "exprimes": 282791,
+    "abstentions": 90588,
+    "blancs_nuls": 35578,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 129465
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 153326
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "81",
+    "libelle": "TARN",
+    "inscrits": 291153,
+    "votants": 228889,
+    "exprimes": 197447,
+    "abstentions": 62264,
+    "blancs_nuls": 31442,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 71856
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 125591
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "82",
+    "libelle": "TARN-ET-GARONNE",
+    "inscrits": 183329,
+    "votants": 143807,
+    "exprimes": 125154,
+    "abstentions": 39522,
+    "blancs_nuls": 18653,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 53166
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 71988
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "83",
+    "libelle": "VAR",
+    "inscrits": 794665,
+    "votants": 592642,
+    "exprimes": 524493,
+    "abstentions": 202023,
+    "blancs_nuls": 68149,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 257769
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 266724
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "84",
+    "libelle": "VAUCLUSE",
+    "inscrits": 402307,
+    "votants": 308199,
+    "exprimes": 273078,
+    "abstentions": 94108,
+    "blancs_nuls": 35121,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 127113
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 145965
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "85",
+    "libelle": "VENDEE",
+    "inscrits": 514425,
+    "votants": 411277,
+    "exprimes": 362949,
+    "abstentions": 103148,
+    "blancs_nuls": 48328,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 109035
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 253914
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "86",
+    "libelle": "VIENNE",
+    "inscrits": 306977,
+    "votants": 238266,
+    "exprimes": 208967,
+    "abstentions": 68711,
+    "blancs_nuls": 29299,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 65255
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 143712
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "87",
+    "libelle": "HAUTE-VIENNE",
+    "inscrits": 266309,
+    "votants": 209017,
+    "exprimes": 178181,
+    "abstentions": 57292,
+    "blancs_nuls": 30836,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 51763
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 126418
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "88",
+    "libelle": "VOSGES",
+    "inscrits": 282532,
+    "votants": 219253,
+    "exprimes": 191970,
+    "abstentions": 63279,
+    "blancs_nuls": 27283,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 85894
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 106076
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "89",
+    "libelle": "YONNE",
+    "inscrits": 241891,
+    "votants": 184902,
+    "exprimes": 161590,
+    "abstentions": 56989,
+    "blancs_nuls": 23312,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 72651
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 88939
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "90",
+    "libelle": "TERRITOIRE DE BELFORT",
+    "inscrits": 95258,
+    "votants": 72079,
+    "exprimes": 62473,
+    "abstentions": 23179,
+    "blancs_nuls": 9606,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 26128
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 36345
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "91",
+    "libelle": "ESSONNE",
+    "inscrits": 795235,
+    "votants": 595794,
+    "exprimes": 530159,
+    "abstentions": 199441,
+    "blancs_nuls": 65635,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 147509
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 382650
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "92",
+    "libelle": "HAUTS-DE-SEINE",
+    "inscrits": 983522,
+    "votants": 756676,
+    "exprimes": 689995,
+    "abstentions": 226846,
+    "blancs_nuls": 66681,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 99032
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 590963
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "93",
+    "libelle": "SEINE-SAINT-DENIS",
+    "inscrits": 766977,
+    "votants": 517764,
+    "exprimes": 466648,
+    "abstentions": 249213,
+    "blancs_nuls": 51116,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 98825
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 367823
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "94",
+    "libelle": "VAL-DE-MARNE",
+    "inscrits": 785586,
+    "votants": 578131,
+    "exprimes": 521818,
+    "abstentions": 207455,
+    "blancs_nuls": 56313,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 102673
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 419145
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "95",
+    "libelle": "VAL-D'OISE",
+    "inscrits": 730335,
+    "votants": 526133,
+    "exprimes": 471536,
+    "abstentions": 204202,
+    "blancs_nuls": 54597,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 129518
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 342018
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "2A",
+    "libelle": "CORSE-DU-SUD",
+    "inscrits": 108760,
+    "votants": 70248,
+    "exprimes": 61554,
+    "abstentions": 38512,
+    "blancs_nuls": 8694,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 30415
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 31139
+      }
+    ]
+  },
+  {
+    "election": 2017,
+    "tour": 2,
+    "code": "2B",
+    "libelle": "HAUTE-CORSE",
+    "inscrits": 124873,
+    "votants": 79234,
+    "exprimes": 68247,
+    "abstentions": 45639,
+    "blancs_nuls": 10987,
+    "candidats": [
+      {
+        "nom": "Marine LE PEN",
+        "parti": "RN",
+        "votes": 32567
+      },
+      {
+        "nom": "Emmanuel MACRON",
+        "parti": "LREM",
+        "votes": 35680
+      }
+    ]
+  }
+]

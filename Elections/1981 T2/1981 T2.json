@@ -1,0 +1,2210 @@
+[
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "1",
+    "libelle": "AIN",
+    "inscrits": 261921,
+    "votants": 224982,
+    "exprimes": 218914,
+    "abstentions": 36939,
+    "blancs_nuls": 6068,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 104587
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 114327
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "2",
+    "libelle": "AISNE",
+    "inscrits": 360677,
+    "votants": 319079,
+    "exprimes": 311225,
+    "abstentions": 41598,
+    "blancs_nuls": 7854,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 175813
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 135412
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "3",
+    "libelle": "ALLIER",
+    "inscrits": 266522,
+    "votants": 232448,
+    "exprimes": 225263,
+    "abstentions": 34074,
+    "blancs_nuls": 7185,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 126244
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 99019
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "4",
+    "libelle": "ALPES-DE-HAUTE-PROVENCE",
+    "inscrits": 87503,
+    "votants": 76462,
+    "exprimes": 73773,
+    "abstentions": 11041,
+    "blancs_nuls": 2689,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 39493
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 34280
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "5",
+    "libelle": "HAUTES-ALPES",
+    "inscrits": 74993,
+    "votants": 65017,
+    "exprimes": 62933,
+    "abstentions": 9976,
+    "blancs_nuls": 2084,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 32236
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 30697
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "6",
+    "libelle": "ALPES-MARITIMES",
+    "inscrits": 594894,
+    "votants": 501373,
+    "exprimes": 488291,
+    "abstentions": 93521,
+    "blancs_nuls": 13082,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 222796
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 265495
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "7",
+    "libelle": "ARDECHE",
+    "inscrits": 193104,
+    "votants": 168175,
+    "exprimes": 163861,
+    "abstentions": 24929,
+    "blancs_nuls": 4314,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 82945
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 80916
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "8",
+    "libelle": "ARDENNES",
+    "inscrits": 192968,
+    "votants": 170115,
+    "exprimes": 166123,
+    "abstentions": 22853,
+    "blancs_nuls": 3992,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 92856
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 73267
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "9",
+    "libelle": "ARIEGE",
+    "inscrits": 106803,
+    "votants": 92815,
+    "exprimes": 90409,
+    "abstentions": 13988,
+    "blancs_nuls": 2406,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 57162
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 33247
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "10",
+    "libelle": "AUBE",
+    "inscrits": 188494,
+    "votants": 162778,
+    "exprimes": 158095,
+    "abstentions": 25716,
+    "blancs_nuls": 4683,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 79153
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 78942
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "11",
+    "libelle": "AUDE",
+    "inscrits": 204916,
+    "votants": 181550,
+    "exprimes": 175866,
+    "abstentions": 23366,
+    "blancs_nuls": 5684,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 111970
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 63896
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "12",
+    "libelle": "AVEYRON",
+    "inscrits": 209655,
+    "votants": 185952,
+    "exprimes": 180174,
+    "abstentions": 23703,
+    "blancs_nuls": 5778,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 86686
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 93488
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "13",
+    "libelle": "BOUCHES-DU-RHONE",
+    "inscrits": 1036153,
+    "votants": 856070,
+    "exprimes": 830139,
+    "abstentions": 180083,
+    "blancs_nuls": 25931,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 465917
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 364222
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "14",
+    "libelle": "CALVADOS",
+    "inscrits": 389715,
+    "votants": 338786,
+    "exprimes": 328958,
+    "abstentions": 50929,
+    "blancs_nuls": 9828,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 165823
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 163135
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "15",
+    "libelle": "CANTAL",
+    "inscrits": 124443,
+    "votants": 107216,
+    "exprimes": 104220,
+    "abstentions": 17227,
+    "blancs_nuls": 2996,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 44878
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 59342
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "16",
+    "libelle": "CHARENTE",
+    "inscrits": 245530,
+    "votants": 215346,
+    "exprimes": 209344,
+    "abstentions": 30184,
+    "blancs_nuls": 6002,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 117477
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 91867
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "17",
+    "libelle": "CHARENTE-MARITIME",
+    "inscrits": 366280,
+    "votants": 314215,
+    "exprimes": 304637,
+    "abstentions": 52065,
+    "blancs_nuls": 9578,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 163058
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 141579
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "18",
+    "libelle": "CHER",
+    "inscrits": 219830,
+    "votants": 192567,
+    "exprimes": 186852,
+    "abstentions": 27263,
+    "blancs_nuls": 5715,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 98688
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 88164
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "19",
+    "libelle": "CORREZE",
+    "inscrits": 184016,
+    "votants": 163701,
+    "exprimes": 155164,
+    "abstentions": 20315,
+    "blancs_nuls": 8537,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 92849
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 62315
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "21",
+    "libelle": "COTE-D'OR",
+    "inscrits": 299721,
+    "votants": 259242,
+    "exprimes": 251786,
+    "abstentions": 40479,
+    "blancs_nuls": 7456,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 132266
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 119520
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "22",
+    "libelle": "COTES-D'ARMOR",
+    "inscrits": 395513,
+    "votants": 355647,
+    "exprimes": 347884,
+    "abstentions": 39866,
+    "blancs_nuls": 7763,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 193146
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 154738
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "23",
+    "libelle": "CREUSE",
+    "inscrits": 113977,
+    "votants": 96701,
+    "exprimes": 93380,
+    "abstentions": 17276,
+    "blancs_nuls": 3321,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 52578
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 40802
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "24",
+    "libelle": "DORDOGNE",
+    "inscrits": 293598,
+    "votants": 261632,
+    "exprimes": 252989,
+    "abstentions": 31966,
+    "blancs_nuls": 8643,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 146464
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 106525
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "25",
+    "libelle": "DOUBS",
+    "inscrits": 294649,
+    "votants": 257668,
+    "exprimes": 250153,
+    "abstentions": 36981,
+    "blancs_nuls": 7515,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 131064
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 119089
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "26",
+    "libelle": "DROME",
+    "inscrits": 256736,
+    "votants": 221543,
+    "exprimes": 214885,
+    "abstentions": 35193,
+    "blancs_nuls": 6658,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 117106
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 97779
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "27",
+    "libelle": "EURE",
+    "inscrits": 307990,
+    "votants": 271316,
+    "exprimes": 263857,
+    "abstentions": 36674,
+    "blancs_nuls": 7459,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 134695
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 129162
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "28",
+    "libelle": "EURE-ET-LOIR",
+    "inscrits": 237987,
+    "votants": 209408,
+    "exprimes": 203462,
+    "abstentions": 28579,
+    "blancs_nuls": 5946,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 100109
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 103353
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "29",
+    "libelle": "FINISTERE",
+    "inscrits": 595187,
+    "votants": 519026,
+    "exprimes": 507641,
+    "abstentions": 76161,
+    "blancs_nuls": 11385,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 249061
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 258580
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "30",
+    "libelle": "GARD",
+    "inscrits": 363792,
+    "votants": 312715,
+    "exprimes": 303314,
+    "abstentions": 51077,
+    "blancs_nuls": 9401,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 174300
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 129014
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "31",
+    "libelle": "HAUTE-GARONNE",
+    "inscrits": 528364,
+    "votants": 454457,
+    "exprimes": 441131,
+    "abstentions": 73907,
+    "blancs_nuls": 13326,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 268136
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 172995
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "32",
+    "libelle": "GERS",
+    "inscrits": 133544,
+    "votants": 117989,
+    "exprimes": 114595,
+    "abstentions": 15555,
+    "blancs_nuls": 3394,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 67637
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 46958
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "33",
+    "libelle": "GIRONDE",
+    "inscrits": 735338,
+    "votants": 633092,
+    "exprimes": 615786,
+    "abstentions": 102246,
+    "blancs_nuls": 17306,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 356185
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 259601
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "34",
+    "libelle": "HERAULT",
+    "inscrits": 458202,
+    "votants": 394484,
+    "exprimes": 383301,
+    "abstentions": 63718,
+    "blancs_nuls": 11183,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 216017
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 167284
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "35",
+    "libelle": "ILLE-ET-VILAINE",
+    "inscrits": 591816,
+    "votants": 431383,
+    "exprimes": 419731,
+    "abstentions": 160433,
+    "blancs_nuls": 11652,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 192291
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 227440
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "36",
+    "libelle": "INDRE",
+    "inscrits": 180602,
+    "votants": 158478,
+    "exprimes": 153178,
+    "abstentions": 22124,
+    "blancs_nuls": 5300,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 81631
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 71547
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "37",
+    "libelle": "INDRE-ET-LOIRE",
+    "inscrits": 329707,
+    "votants": 284417,
+    "exprimes": 275828,
+    "abstentions": 45290,
+    "blancs_nuls": 8589,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 145042
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 130786
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "38",
+    "libelle": "ISERE",
+    "inscrits": 559600,
+    "votants": 482320,
+    "exprimes": 468737,
+    "abstentions": 77280,
+    "blancs_nuls": 13583,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 261935
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 206802
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "39",
+    "libelle": "JURA",
+    "inscrits": 169782,
+    "votants": 150072,
+    "exprimes": 145477,
+    "abstentions": 19710,
+    "blancs_nuls": 4595,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 76312
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 69165
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "40",
+    "libelle": "LANDES",
+    "inscrits": 219293,
+    "votants": 195337,
+    "exprimes": 190571,
+    "abstentions": 23956,
+    "blancs_nuls": 4766,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 107032
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 83539
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "41",
+    "libelle": "LOIR-ET-CHER",
+    "inscrits": 208006,
+    "votants": 183957,
+    "exprimes": 178365,
+    "abstentions": 24049,
+    "blancs_nuls": 5592,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 90134
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 88231
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "42",
+    "libelle": "LOIRE",
+    "inscrits": 475590,
+    "votants": 403050,
+    "exprimes": 391984,
+    "abstentions": 72540,
+    "blancs_nuls": 11066,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 200287
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 191697
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "43",
+    "libelle": "HAUTE-LOIRE",
+    "inscrits": 152683,
+    "votants": 133789,
+    "exprimes": 130407,
+    "abstentions": 18894,
+    "blancs_nuls": 3382,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 57343
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 73064
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "44",
+    "libelle": "LOIRE-ATLANTIQUE",
+    "inscrits": 653011,
+    "votants": 563226,
+    "exprimes": 548380,
+    "abstentions": 89785,
+    "blancs_nuls": 14846,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 273667
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 274713
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "45",
+    "libelle": "LOIRET",
+    "inscrits": 340538,
+    "votants": 299717,
+    "exprimes": 289986,
+    "abstentions": 40821,
+    "blancs_nuls": 9731,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 138667
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 151319
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "46",
+    "libelle": "LOT",
+    "inscrits": 116997,
+    "votants": 105465,
+    "exprimes": 102060,
+    "abstentions": 11532,
+    "blancs_nuls": 3405,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 60804
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 41256
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "47",
+    "libelle": "LOT-ET-GARONNE",
+    "inscrits": 214939,
+    "votants": 190232,
+    "exprimes": 184407,
+    "abstentions": 24707,
+    "blancs_nuls": 5825,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 104420
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 79987
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "48",
+    "libelle": "LOZERE",
+    "inscrits": 57261,
+    "votants": 49769,
+    "exprimes": 48577,
+    "abstentions": 7492,
+    "blancs_nuls": 1192,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 19696
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 28881
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "49",
+    "libelle": "MAINE-ET-LOIRE",
+    "inscrits": 429975,
+    "votants": 374995,
+    "exprimes": 363842,
+    "abstentions": 54980,
+    "blancs_nuls": 11153,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 154123
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 209719
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "50",
+    "libelle": "MANCHE",
+    "inscrits": 326924,
+    "votants": 284249,
+    "exprimes": 276367,
+    "abstentions": 42675,
+    "blancs_nuls": 7882,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 112933
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 163434
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "51",
+    "libelle": "MARNE",
+    "inscrits": 342465,
+    "votants": 295107,
+    "exprimes": 287421,
+    "abstentions": 47358,
+    "blancs_nuls": 7686,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 142574
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 144847
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "52",
+    "libelle": "HAUTE-MARNE",
+    "inscrits": 144728,
+    "votants": 125807,
+    "exprimes": 122173,
+    "abstentions": 18921,
+    "blancs_nuls": 3634,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 63498
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 58675
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "53",
+    "libelle": "MAYENNE",
+    "inscrits": 187947,
+    "votants": 166300,
+    "exprimes": 161002,
+    "abstentions": 21647,
+    "blancs_nuls": 5298,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 64846
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 96156
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "54",
+    "libelle": "MEURTHE-ET-MOSELLE",
+    "inscrits": 464199,
+    "votants": 396888,
+    "exprimes": 387528,
+    "abstentions": 67311,
+    "blancs_nuls": 9360,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 209973
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 177555
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "55",
+    "libelle": "MEUSE",
+    "inscrits": 138922,
+    "votants": 122493,
+    "exprimes": 119526,
+    "abstentions": 16429,
+    "blancs_nuls": 2967,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 58365
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 61161
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "56",
+    "libelle": "MORBIHAN",
+    "inscrits": 413720,
+    "votants": 360842,
+    "exprimes": 352547,
+    "abstentions": 52878,
+    "blancs_nuls": 8295,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 162271
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 190276
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "57",
+    "libelle": "MOSELLE",
+    "inscrits": 634071,
+    "votants": 545920,
+    "exprimes": 532337,
+    "abstentions": 88151,
+    "blancs_nuls": 13583,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 260557
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 271780
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "58",
+    "libelle": "NIEVRE",
+    "inscrits": 176994,
+    "votants": 154273,
+    "exprimes": 150774,
+    "abstentions": 22721,
+    "blancs_nuls": 3499,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 94867
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 55907
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "59",
+    "libelle": "NORD",
+    "inscrits": 1602085,
+    "votants": 1413559,
+    "exprimes": 1375717,
+    "abstentions": 188526,
+    "blancs_nuls": 37842,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 761921
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 613796
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "60",
+    "libelle": "OISE",
+    "inscrits": 409743,
+    "votants": 362366,
+    "exprimes": 352517,
+    "abstentions": 47377,
+    "blancs_nuls": 9849,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 192459
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 160058
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "61",
+    "libelle": "ORNE",
+    "inscrits": 205607,
+    "votants": 180366,
+    "exprimes": 174780,
+    "abstentions": 25241,
+    "blancs_nuls": 5586,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 78694
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 96086
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "62",
+    "libelle": "PAS-DE-CALAIS",
+    "inscrits": 945514,
+    "votants": 843455,
+    "exprimes": 820150,
+    "abstentions": 102059,
+    "blancs_nuls": 23305,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 477346
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 342804
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "63",
+    "libelle": "PUY-DE-DOME",
+    "inscrits": 387529,
+    "votants": 341086,
+    "exprimes": 331963,
+    "abstentions": 46443,
+    "blancs_nuls": 9123,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 172403
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 159560
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "64",
+    "libelle": "PYRENEES-ATLANTIQUES",
+    "inscrits": 390853,
+    "votants": 341501,
+    "exprimes": 333228,
+    "abstentions": 49352,
+    "blancs_nuls": 8273,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 165177
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 168051
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "65",
+    "libelle": "HAUTES-PYRENEES",
+    "inscrits": 167946,
+    "votants": 143907,
+    "exprimes": 140183,
+    "abstentions": 24039,
+    "blancs_nuls": 3724,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 84181
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 56002
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "66",
+    "libelle": "PYRENEES-ORIENTALES",
+    "inscrits": 224873,
+    "votants": 190160,
+    "exprimes": 184635,
+    "abstentions": 34713,
+    "blancs_nuls": 5525,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 103952
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 80683
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "67",
+    "libelle": "BAS-RHIN",
+    "inscrits": 580175,
+    "votants": 495851,
+    "exprimes": 482898,
+    "abstentions": 84324,
+    "blancs_nuls": 12953,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 168458
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 314440
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "68",
+    "libelle": "HAUT-RHIN",
+    "inscrits": 413311,
+    "votants": 352430,
+    "exprimes": 341558,
+    "abstentions": 60881,
+    "blancs_nuls": 10872,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 137585
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 203973
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "69",
+    "libelle": "RHONE",
+    "inscrits": 849289,
+    "votants": 716188,
+    "exprimes": 695247,
+    "abstentions": 133101,
+    "blancs_nuls": 20941,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 352858
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 342389
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "70",
+    "libelle": "HAUTE-SAONE",
+    "inscrits": 159599,
+    "votants": 142606,
+    "exprimes": 138289,
+    "abstentions": 16993,
+    "blancs_nuls": 4317,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 72833
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 65456
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "71",
+    "libelle": "SAONE-ET-LOIRE",
+    "inscrits": 388740,
+    "votants": 332328,
+    "exprimes": 323242,
+    "abstentions": 56412,
+    "blancs_nuls": 9086,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 171808
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 151434
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "72",
+    "libelle": "SARTHE",
+    "inscrits": 345839,
+    "votants": 302242,
+    "exprimes": 294793,
+    "abstentions": 43597,
+    "blancs_nuls": 7449,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 149459
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 145334
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "73",
+    "libelle": "SAVOIE",
+    "inscrits": 215256,
+    "votants": 183836,
+    "exprimes": 178784,
+    "abstentions": 31420,
+    "blancs_nuls": 5052,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 90193
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 88591
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "74",
+    "libelle": "HAUTE-SAVOIE",
+    "inscrits": 301615,
+    "votants": 255869,
+    "exprimes": 247841,
+    "abstentions": 45746,
+    "blancs_nuls": 8028,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 109596
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 138245
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "75",
+    "libelle": "PARIS",
+    "inscrits": 1272587,
+    "votants": 1052222,
+    "exprimes": 1017372,
+    "abstentions": 220365,
+    "blancs_nuls": 34850,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 472390
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 544982
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "76",
+    "libelle": "SEINE-MARITIME",
+    "inscrits": 783343,
+    "votants": 684780,
+    "exprimes": 667485,
+    "abstentions": 98563,
+    "blancs_nuls": 17295,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 370238
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 297247
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "77",
+    "libelle": "SEINE-ET-MARNE",
+    "inscrits": 537167,
+    "votants": 462718,
+    "exprimes": 448259,
+    "abstentions": 74449,
+    "blancs_nuls": 14459,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 235937
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 212322
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "78",
+    "libelle": "YVELINES",
+    "inscrits": 710108,
+    "votants": 614109,
+    "exprimes": 594023,
+    "abstentions": 95999,
+    "blancs_nuls": 20086,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 290520
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 303503
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "79",
+    "libelle": "DEUX-SEVRES",
+    "inscrits": 240263,
+    "votants": 212407,
+    "exprimes": 206217,
+    "abstentions": 27856,
+    "blancs_nuls": 6190,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 98092
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 108125
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "80",
+    "libelle": "SOMME",
+    "inscrits": 371984,
+    "votants": 335862,
+    "exprimes": 327213,
+    "abstentions": 36122,
+    "blancs_nuls": 8649,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 180256
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 146957
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "81",
+    "libelle": "TARN",
+    "inscrits": 246735,
+    "votants": 221725,
+    "exprimes": 213984,
+    "abstentions": 25010,
+    "blancs_nuls": 7741,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 117970
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 96014
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "82",
+    "libelle": "TARN-ET-GARONNE",
+    "inscrits": 137150,
+    "votants": 122300,
+    "exprimes": 118235,
+    "abstentions": 14850,
+    "blancs_nuls": 4065,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 66176
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 52059
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "83",
+    "libelle": "VAR",
+    "inscrits": 470613,
+    "votants": 405944,
+    "exprimes": 394597,
+    "abstentions": 64669,
+    "blancs_nuls": 11347,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 190840
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 203757
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "84",
+    "libelle": "VAUCLUSE",
+    "inscrits": 275547,
+    "votants": 239099,
+    "exprimes": 231235,
+    "abstentions": 36448,
+    "blancs_nuls": 7864,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 125491
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 105744
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "85",
+    "libelle": "VENDEE",
+    "inscrits": 335645,
+    "votants": 299830,
+    "exprimes": 290958,
+    "abstentions": 35815,
+    "blancs_nuls": 8872,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 115260
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 175698
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "86",
+    "libelle": "VIENNE",
+    "inscrits": 259361,
+    "votants": 227486,
+    "exprimes": 220618,
+    "abstentions": 31875,
+    "blancs_nuls": 6868,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 116889
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 103729
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "87",
+    "libelle": "HAUTE-VIENNE",
+    "inscrits": 259979,
+    "votants": 229966,
+    "exprimes": 220786,
+    "abstentions": 30013,
+    "blancs_nuls": 9180,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 137300
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 83486
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "88",
+    "libelle": "VOSGES",
+    "inscrits": 271174,
+    "votants": 238054,
+    "exprimes": 230419,
+    "abstentions": 33120,
+    "blancs_nuls": 7635,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 114808
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 115611
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "89",
+    "libelle": "YONNE",
+    "inscrits": 216241,
+    "votants": 189198,
+    "exprimes": 182291,
+    "abstentions": 27043,
+    "blancs_nuls": 6907,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 91326
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 90965
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "90",
+    "libelle": "TERRITOIRE DE BELFORT",
+    "inscrits": 81290,
+    "votants": 71335,
+    "exprimes": 69292,
+    "abstentions": 9955,
+    "blancs_nuls": 2043,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 39099
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 30193
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "91",
+    "libelle": "ESSONNE",
+    "inscrits": 594415,
+    "votants": 513819,
+    "exprimes": 496817,
+    "abstentions": 80596,
+    "blancs_nuls": 17002,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 280795
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 216022
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "92",
+    "libelle": "HAUTS-DE-SEINE",
+    "inscrits": 852998,
+    "votants": 722401,
+    "exprimes": 698557,
+    "abstentions": 130597,
+    "blancs_nuls": 23844,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 357580
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 340977
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "93",
+    "libelle": "SEINE-SAINT-DENIS",
+    "inscrits": 744200,
+    "votants": 617521,
+    "exprimes": 596718,
+    "abstentions": 126679,
+    "blancs_nuls": 20803,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 375774
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 220944
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "94",
+    "libelle": "VAL-DE-MARNE",
+    "inscrits": 716431,
+    "votants": 602388,
+    "exprimes": 581929,
+    "abstentions": 114043,
+    "blancs_nuls": 20459,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 330093
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 251836
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "95",
+    "libelle": "VAL-D'OISE",
+    "inscrits": 533843,
+    "votants": 458888,
+    "exprimes": 444199,
+    "abstentions": 74955,
+    "blancs_nuls": 14689,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 252475
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 191724
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "2A",
+    "libelle": "CORSE-DU-SUD",
+    "inscrits": 115528,
+    "votants": 83284,
+    "exprimes": 81617,
+    "abstentions": 32244,
+    "blancs_nuls": 1667,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 40387
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 41230
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 2,
+    "code": "2B",
+    "libelle": "HAUTE-CORSE",
+    "inscrits": 90298,
+    "votants": 67601,
+    "exprimes": 66145,
+    "abstentions": 22697,
+    "blancs_nuls": 1456,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 30350
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 35795
+      }
+    ]
+  }
+]

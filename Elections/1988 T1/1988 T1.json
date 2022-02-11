@@ -1,0 +1,5570 @@
+[
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "1",
+    "libelle": "AIN",
+    "inscrits": 284999,
+    "votants": 230959,
+    "exprimes": 226668,
+    "abstentions": 54040,
+    "blancs_nuls": 4291,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 836
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3416
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 10036
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 4120
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 71195
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 9176
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 48082
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 43343
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 36464
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "2",
+    "libelle": "AISNE",
+    "inscrits": 365387,
+    "votants": 306266,
+    "exprimes": 299997,
+    "abstentions": 59121,
+    "blancs_nuls": 6269,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 1400
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 7368
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 26918
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 4181
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 118641
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 9802
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 39969
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 51498
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 40220
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "3",
+    "libelle": "ALLIER",
+    "inscrits": 266230,
+    "votants": 220197,
+    "exprimes": 214919,
+    "abstentions": 46033,
+    "blancs_nuls": 5278,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 864
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3161
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 38943
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 4583
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 65073
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 6443
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 32230
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 41821
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 21801
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "4",
+    "libelle": "ALPES-DE-HAUTE-PROVENCE",
+    "inscrits": 97417,
+    "votants": 80298,
+    "exprimes": 78689,
+    "abstentions": 17119,
+    "blancs_nuls": 1609,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 316
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 1345
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 7224
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 2417
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 23895
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 3555
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 12345
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 14436
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 13156
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "5",
+    "libelle": "HAUTES-ALPES",
+    "inscrits": 81702,
+    "votants": 66614,
+    "exprimes": 65265,
+    "abstentions": 15088,
+    "blancs_nuls": 1349,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 255
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 1156
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 4215
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 1865
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 18971
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 3475
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 12930
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 13457
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 8941
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "6",
+    "libelle": "ALPES-MARITIMES",
+    "inscrits": 648690,
+    "votants": 519502,
+    "exprimes": 512820,
+    "abstentions": 129188,
+    "blancs_nuls": 6682,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 1191
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 6007
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 31751
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 7643
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 125032
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 15534
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 76761
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 124595
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 124306
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "7",
+    "libelle": "ARDECHE",
+    "inscrits": 203525,
+    "votants": 168246,
+    "exprimes": 164977,
+    "abstentions": 35279,
+    "blancs_nuls": 3269,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 668
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3253
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 13248
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 4761
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 50554
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 6825
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 31409
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 32987
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 21272
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "8",
+    "libelle": "ARDENNES",
+    "inscrits": 193851,
+    "votants": 158133,
+    "exprimes": 155398,
+    "abstentions": 35718,
+    "blancs_nuls": 2735,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 654
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3617
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 12748
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 2584
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 57802
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 5539
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 22111
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 26928
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 23415
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "9",
+    "libelle": "ARIEGE",
+    "inscrits": 108146,
+    "votants": 88467,
+    "exprimes": 86818,
+    "abstentions": 19679,
+    "blancs_nuls": 1649,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 300
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 1857
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 9146
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 2751
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 35946
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 3055
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 9046
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 15781
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 8936
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "10",
+    "libelle": "AUBE",
+    "inscrits": 192336,
+    "votants": 156220,
+    "exprimes": 151483,
+    "abstentions": 36116,
+    "blancs_nuls": 4737,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 598
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2869
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 9826
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 2012
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 51069
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 5302
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 26929
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 31040
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 21838
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "11",
+    "libelle": "AUDE",
+    "inscrits": 216722,
+    "votants": 183673,
+    "exprimes": 179923,
+    "abstentions": 33049,
+    "blancs_nuls": 3750,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 565
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3294
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 18533
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 4644
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 72185
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 5676
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 18588
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 31753
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 24685
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "12",
+    "libelle": "AVEYRON",
+    "inscrits": 212409,
+    "votants": 179497,
+    "exprimes": 175305,
+    "abstentions": 32912,
+    "blancs_nuls": 4192,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 682
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3804
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 7852
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 4062
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 58860
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 6903
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 32429
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 45171
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 15542
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "13",
+    "libelle": "BOUCHES-DU-RHONE",
+    "inscrits": 1084250,
+    "votants": 868008,
+    "exprimes": 854539,
+    "abstentions": 216242,
+    "blancs_nuls": 13469,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 2399
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 11221
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 95450
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 19374
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 230388
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 25118
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 118745
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 126249
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 225595
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "14",
+    "libelle": "CALVADOS",
+    "inscrits": 414386,
+    "votants": 339478,
+    "exprimes": 333018,
+    "abstentions": 74908,
+    "blancs_nuls": 6460,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 1392
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 7733
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 15176
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 6811
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 124590
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 13639
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 60613
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 66242
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 36822
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "15",
+    "libelle": "CANTAL",
+    "inscrits": 125240,
+    "votants": 103568,
+    "exprimes": 101737,
+    "abstentions": 21672,
+    "blancs_nuls": 1831,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 273
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 1966
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 5776
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 1850
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 32340
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 2487
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 11723
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 38097
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 7225
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "16",
+    "libelle": "CHARENTE",
+    "inscrits": 252073,
+    "votants": 208149,
+    "exprimes": 203288,
+    "abstentions": 43924,
+    "blancs_nuls": 4861,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 787
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4476
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 14282
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 4112
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 84146
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 6547
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 31089
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 39768
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 18081
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "17",
+    "libelle": "CHARENTE-MARITIME",
+    "inscrits": 380931,
+    "votants": 306646,
+    "exprimes": 299939,
+    "abstentions": 74285,
+    "blancs_nuls": 6707,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 1315
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 6315
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 17926
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 5858
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 109272
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 11003
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 54219
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 60534
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 33497
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "18",
+    "libelle": "CHER",
+    "inscrits": 225337,
+    "votants": 186246,
+    "exprimes": 181212,
+    "abstentions": 39091,
+    "blancs_nuls": 5034,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 744
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4180
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 21363
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 3810
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 60319
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 5873
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 30034
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 33926
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 20963
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "19",
+    "libelle": "CORREZE",
+    "inscrits": 186142,
+    "votants": 162865,
+    "exprimes": 159708,
+    "abstentions": 23277,
+    "blancs_nuls": 3157,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 408
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2568
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 21786
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 5029
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 46248
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 3878
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 7716
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 62579
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 9496
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "21",
+    "libelle": "COTE-D'OR",
+    "inscrits": 312752,
+    "votants": 254912,
+    "exprimes": 250227,
+    "abstentions": 57840,
+    "blancs_nuls": 4685,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 1237
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4723
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 9866
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 4605
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 89469
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 10244
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 40075
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 55175
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 34833
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "22",
+    "libelle": "COTES-D'ARMOR",
+    "inscrits": 412856,
+    "votants": 353138,
+    "exprimes": 347495,
+    "abstentions": 59718,
+    "blancs_nuls": 5643,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 1191
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 8672
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 26448
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 9703
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 132970
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 14307
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 59859
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 65718
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 28627
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "23",
+    "libelle": "CREUSE",
+    "inscrits": 111152,
+    "votants": 89162,
+    "exprimes": 86933,
+    "abstentions": 21990,
+    "blancs_nuls": 2229,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 361
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 1995
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 9725
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 2437
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 30269
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 2196
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 8658
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 24522
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 6770
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "24",
+    "libelle": "DORDOGNE",
+    "inscrits": 302007,
+    "votants": 257874,
+    "exprimes": 251557,
+    "abstentions": 44133,
+    "blancs_nuls": 6317,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 843
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4581
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 28529
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 6979
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 87646
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 8087
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 30419
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 59791
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 24682
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "25",
+    "libelle": "DOUBS",
+    "inscrits": 306829,
+    "votants": 255616,
+    "exprimes": 250444,
+    "abstentions": 51213,
+    "blancs_nuls": 5172,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 1055
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 6439
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 8631
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 5414
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 87532
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 12243
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 39135
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 53886
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 36109
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "26",
+    "libelle": "DROME",
+    "inscrits": 274843,
+    "votants": 225782,
+    "exprimes": 221206,
+    "abstentions": 49061,
+    "blancs_nuls": 4576,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 847
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4292
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 14130
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 6547
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 69913
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 10130
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 37840
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 40569
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 36938
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "27",
+    "libelle": "EURE",
+    "inscrits": 336347,
+    "votants": 279167,
+    "exprimes": 272666,
+    "abstentions": 57180,
+    "blancs_nuls": 6501,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 1191
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5949
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 15611
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 4458
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 99559
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 9384
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 44589
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 53637
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 38288
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "28",
+    "libelle": "EURE-ET-LOIR",
+    "inscrits": 256470,
+    "votants": 213817,
+    "exprimes": 209405,
+    "abstentions": 42653,
+    "blancs_nuls": 4412,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 940
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4189
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 9506
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 3307
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 74834
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 7078
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 36879
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 40427
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 32245
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "29",
+    "libelle": "FINISTERE",
+    "inscrits": 615200,
+    "votants": 512128,
+    "exprimes": 505646,
+    "abstentions": 103072,
+    "blancs_nuls": 6482,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 1655
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 11046
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 21918
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 14007
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 180541
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 21604
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 98919
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 105807
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 50149
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "30",
+    "libelle": "GARD",
+    "inscrits": 394405,
+    "votants": 325968,
+    "exprimes": 319464,
+    "abstentions": 68437,
+    "blancs_nuls": 6504,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 1190
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5611
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 38566
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 9420
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 92800
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 10514
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 46525
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 49060
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 65778
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "31",
+    "libelle": "HAUTE-GARONNE",
+    "inscrits": 587570,
+    "votants": 478936,
+    "exprimes": 470504,
+    "abstentions": 108634,
+    "blancs_nuls": 8432,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 1538
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 9442
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 27776
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 14254
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 189847
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 17430
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 69344
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 78996
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 61877
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "32",
+    "libelle": "GERS",
+    "inscrits": 138019,
+    "votants": 113734,
+    "exprimes": 111208,
+    "abstentions": 24285,
+    "blancs_nuls": 2526,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 364
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2175
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 6614
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 2684
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 44650
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 4195
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 16073
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 22571
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 11882
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "33",
+    "libelle": "GIRONDE",
+    "inscrits": 775467,
+    "votants": 638770,
+    "exprimes": 627507,
+    "abstentions": 136697,
+    "blancs_nuls": 11263,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 2318
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 12674
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 39532
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 13702
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 243844
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 18951
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 97846
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 121460
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 77180
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "34",
+    "libelle": "HERAULT",
+    "inscrits": 516321,
+    "votants": 422195,
+    "exprimes": 415050,
+    "abstentions": 94126,
+    "blancs_nuls": 7145,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 1526
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 7120
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 37516
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 14681
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 129162
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 13867
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 56629
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 71894
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 82655
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "35",
+    "libelle": "ILLE-ET-VILAINE",
+    "inscrits": 531342,
+    "votants": 440908,
+    "exprimes": 432401,
+    "abstentions": 90434,
+    "blancs_nuls": 8507,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 1801
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 11236
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 12278
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 9260
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 162633
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 19071
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 88213
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 90568
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 37341
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "36",
+    "libelle": "INDRE",
+    "inscrits": 181927,
+    "votants": 152369,
+    "exprimes": 147931,
+    "abstentions": 29558,
+    "blancs_nuls": 4438,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 635
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3844
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 12483
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 3137
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 55690
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 4291
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 21672
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 29401
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 16778
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "37",
+    "libelle": "INDRE-ET-LOIRE",
+    "inscrits": 351292,
+    "votants": 285979,
+    "exprimes": 279289,
+    "abstentions": 65313,
+    "blancs_nuls": 6690,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 1375
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 6229
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 13874
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 5697
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 104833
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 9655
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 52366
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 51105
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 34155
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "38",
+    "libelle": "ISERE",
+    "inscrits": 611953,
+    "votants": 501375,
+    "exprimes": 492308,
+    "abstentions": 110578,
+    "blancs_nuls": 9067,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 1977
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 8820
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 33703
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 13977
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 166941
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 22632
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 83318
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 81737
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 79203
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "39",
+    "libelle": "JURA",
+    "inscrits": 173510,
+    "votants": 143277,
+    "exprimes": 140076,
+    "abstentions": 30233,
+    "blancs_nuls": 3201,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 651
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3445
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 7814
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 2790
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 46825
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 7497
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 24415
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 26292
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 20347
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "40",
+    "libelle": "LANDES",
+    "inscrits": 233725,
+    "votants": 199548,
+    "exprimes": 195604,
+    "abstentions": 34177,
+    "blancs_nuls": 3944,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 578
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2881
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 13583
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 3845
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 82290
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 4549
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 29273
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 41076
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 17529
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "41",
+    "libelle": "LOIR-ET-CHER",
+    "inscrits": 216851,
+    "votants": 183361,
+    "exprimes": 178605,
+    "abstentions": 33490,
+    "blancs_nuls": 4756,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 721
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3973
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 11438
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 3449
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 63492
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 5579
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 32550
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 34562
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 22841
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "42",
+    "libelle": "LOIRE",
+    "inscrits": 477662,
+    "votants": 380938,
+    "exprimes": 373215,
+    "abstentions": 96724,
+    "blancs_nuls": 7723,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 1710
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 7574
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 26054
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 8429
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 113515
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 15141
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 69075
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 66909
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 64808
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "43",
+    "libelle": "HAUTE-LOIRE",
+    "inscrits": 156620,
+    "votants": 129093,
+    "exprimes": 126073,
+    "abstentions": 27527,
+    "blancs_nuls": 3020,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 600
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2891
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 5608
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 2912
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 37791
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 5034
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 27016
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 26470
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 17751
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "44",
+    "libelle": "LOIRE-ATLANTIQUE",
+    "inscrits": 704725,
+    "votants": 573653,
+    "exprimes": 562105,
+    "abstentions": 131072,
+    "blancs_nuls": 11548,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 2862
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 13449
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 22359
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 13345
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 206809
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 23978
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 111809
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 111074
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 56420
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "45",
+    "libelle": "LOIRET",
+    "inscrits": 364925,
+    "votants": 305573,
+    "exprimes": 298538,
+    "abstentions": 59352,
+    "blancs_nuls": 7035,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 1253
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 6057
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 17843
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 5318
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 95010
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 11161
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 54581
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 62761
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 44554
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "46",
+    "libelle": "LOT",
+    "inscrits": 121744,
+    "votants": 103752,
+    "exprimes": 101401,
+    "abstentions": 17992,
+    "blancs_nuls": 2351,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 377
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2138
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 7172
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 3038
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 39313
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 4466
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 12285
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 24160
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 8452
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "47",
+    "libelle": "LOT-ET-GARONNE",
+    "inscrits": 224088,
+    "votants": 189102,
+    "exprimes": 184797,
+    "abstentions": 34986,
+    "blancs_nuls": 4305,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 600
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3242
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 15705
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 4313
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 62147
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 6431
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 29635
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 34239
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 28485
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "48",
+    "libelle": "LOZERE",
+    "inscrits": 57132,
+    "votants": 47046,
+    "exprimes": 46225,
+    "abstentions": 10086,
+    "blancs_nuls": 821,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 180
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 800
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 2253
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 1195
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 12406
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 1583
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 9982
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 12449
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 5377
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "49",
+    "libelle": "MAINE-ET-LOIRE",
+    "inscrits": 460587,
+    "votants": 387508,
+    "exprimes": 376863,
+    "abstentions": 73079,
+    "blancs_nuls": 10645,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 1683
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 9673
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 10353
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 6022
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 122978
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 15622
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 91498
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 83133
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 35901
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "50",
+    "libelle": "MANCHE",
+    "inscrits": 340966,
+    "votants": 281733,
+    "exprimes": 276140,
+    "abstentions": 59233,
+    "blancs_nuls": 5593,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 1285
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 6041
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 7802
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 4210
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 93265
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 11917
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 57655
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 64212
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 29753
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "51",
+    "libelle": "MARNE",
+    "inscrits": 352702,
+    "votants": 284626,
+    "exprimes": 279538,
+    "abstentions": 68076,
+    "blancs_nuls": 5088,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 1081
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5734
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 16351
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 3960
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 96748
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 11047
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 48122
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 57278
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 39217
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "52",
+    "libelle": "HAUTE-MARNE",
+    "inscrits": 147196,
+    "votants": 119162,
+    "exprimes": 116285,
+    "abstentions": 28034,
+    "blancs_nuls": 2877,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 548
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2800
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 6257
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 1652
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 41028
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 4891
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 18166
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 22767
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 18176
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "53",
+    "libelle": "MAYENNE",
+    "inscrits": 196618,
+    "votants": 167797,
+    "exprimes": 162600,
+    "abstentions": 28821,
+    "blancs_nuls": 5197,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 841
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3711
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 3554
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 2551
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 54702
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 6604
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 38060
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 39231
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 13346
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "54",
+    "libelle": "MEURTHE-ET-MOSELLE",
+    "inscrits": 469562,
+    "votants": 375727,
+    "exprimes": 368323,
+    "abstentions": 93835,
+    "blancs_nuls": 7404,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 1684
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 9697
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 25075
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 8676
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 129199
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 15484
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 66230
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 57583
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 54695
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "55",
+    "libelle": "MEUSE",
+    "inscrits": 140246,
+    "votants": 116850,
+    "exprimes": 114166,
+    "abstentions": 23396,
+    "blancs_nuls": 2684,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 475
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2975
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 5181
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 1540
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 40108
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 5111
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 21029
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 20617
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 17130
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "56",
+    "libelle": "MORBIHAN",
+    "inscrits": 443426,
+    "votants": 372343,
+    "exprimes": 366068,
+    "abstentions": 71083,
+    "blancs_nuls": 6275,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 1254
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 7666
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 15954
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 6403
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 128057
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 14280
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 72011
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 72918
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 47525
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "57",
+    "libelle": "MOSELLE",
+    "inscrits": 666371,
+    "votants": 547638,
+    "exprimes": 535978,
+    "abstentions": 118733,
+    "blancs_nuls": 11660,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 2481
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 16341
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 21881
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 7521
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 178707
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 25855
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 89343
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 87136
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 106713
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "58",
+    "libelle": "NIEVRE",
+    "inscrits": 177164,
+    "votants": 146095,
+    "exprimes": 143199,
+    "abstentions": 31069,
+    "blancs_nuls": 2896,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 520
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2501
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 13733
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 2533
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 63766
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 4013
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 17831
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 24377
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 13925
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "59",
+    "libelle": "NORD",
+    "inscrits": 1634459,
+    "votants": 1360070,
+    "exprimes": 1329195,
+    "abstentions": 274389,
+    "blancs_nuls": 30875,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 5056
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 30575
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 137487
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 20434
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 488371
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 38846
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 207212
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 199741
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 201473
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "60",
+    "libelle": "OISE",
+    "inscrits": 443577,
+    "votants": 374626,
+    "exprimes": 367477,
+    "abstentions": 68951,
+    "blancs_nuls": 7149,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 1423
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 8678
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 26894
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 5781
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 134132
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 12253
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 51639
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 65199
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 61478
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "61",
+    "libelle": "ORNE",
+    "inscrits": 210113,
+    "votants": 175976,
+    "exprimes": 172246,
+    "abstentions": 34137,
+    "blancs_nuls": 3730,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 645
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4029
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 5136
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 2862
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 58774
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 6907
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 33282
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 40298
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 20313
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "62",
+    "libelle": "PAS-DE-CALAIS",
+    "inscrits": 983461,
+    "votants": 838702,
+    "exprimes": 816851,
+    "abstentions": 144759,
+    "blancs_nuls": 21851,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 3294
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 22359
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 94589
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 11699
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 336810
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 22454
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 114001
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 118546
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 93099
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "63",
+    "libelle": "PUY-DE-DOME",
+    "inscrits": 401079,
+    "votants": 330982,
+    "exprimes": 322984,
+    "abstentions": 70097,
+    "blancs_nuls": 7998,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 1604
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 7491
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 22971
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 10279
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 110494
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 13021
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 56408
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 63316
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 37400
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "64",
+    "libelle": "PYRENEES-ATLANTIQUES",
+    "inscrits": 413587,
+    "votants": 341711,
+    "exprimes": 335141,
+    "abstentions": 71876,
+    "blancs_nuls": 6570,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 1072
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 6413
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 16585
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 7787
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 113375
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 11428
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 60678
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 81986
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 35817
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "65",
+    "libelle": "HAUTES-PYRENEES",
+    "inscrits": 171749,
+    "votants": 138837,
+    "exprimes": 135854,
+    "abstentions": 32912,
+    "blancs_nuls": 2983,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 485
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2489
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 13258
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 4232
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 51421
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 4336
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 21219
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 24917
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 13497
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "66",
+    "libelle": "PYRENEES-ORIENTALES",
+    "inscrits": 251898,
+    "votants": 202274,
+    "exprimes": 198501,
+    "abstentions": 49624,
+    "blancs_nuls": 3773,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 591
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3111
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 18637
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 4816
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 62341
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 6329
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 26584
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 35354
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 40738
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "67",
+    "libelle": "BAS-RHIN",
+    "inscrits": 617322,
+    "votants": 503573,
+    "exprimes": 493935,
+    "abstentions": 113749,
+    "blancs_nuls": 9638,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 1480
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 8982
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 6465
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 4321
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 139247
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 46300
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 91884
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 86906
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 108350
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "68",
+    "libelle": "HAUT-RHIN",
+    "inscrits": 436205,
+    "votants": 358361,
+    "exprimes": 350803,
+    "abstentions": 77844,
+    "blancs_nuls": 7558,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 887
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 6032
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 5327
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 2637
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 103851
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 32610
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 63421
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 59880
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 76158
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "69",
+    "libelle": "RHONE",
+    "inscrits": 880708,
+    "votants": 706837,
+    "exprimes": 695528,
+    "abstentions": 173871,
+    "blancs_nuls": 11309,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 2415
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 10517
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 37946
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 15121
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 203960
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 26478
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 152918
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 120767
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 125406
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "70",
+    "libelle": "HAUTE-SAONE",
+    "inscrits": 165622,
+    "votants": 139138,
+    "exprimes": 135349,
+    "abstentions": 26484,
+    "blancs_nuls": 3789,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 547
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3144
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 6261
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 2228
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 50658
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 5562
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 20964
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 27237
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 18748
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "71",
+    "libelle": "SAONE-ET-LOIRE",
+    "inscrits": 396539,
+    "votants": 316867,
+    "exprimes": 309299,
+    "abstentions": 79672,
+    "blancs_nuls": 7568,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 1167
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5748
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 19960
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 5031
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 116184
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 10089
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 53137
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 63609
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 34374
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "72",
+    "libelle": "SARTHE",
+    "inscrits": 362926,
+    "votants": 298184,
+    "exprimes": 289781,
+    "abstentions": 64742,
+    "blancs_nuls": 8403,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 1370
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 7708
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 17863
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 6256
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 110379
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 10551
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 52584
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 55993
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 27077
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "73",
+    "libelle": "SAVOIE",
+    "inscrits": 230132,
+    "votants": 183935,
+    "exprimes": 180616,
+    "abstentions": 46197,
+    "blancs_nuls": 3319,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 762
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3391
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 10654
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 4019
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 54852
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 9034
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 32596
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 37843
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 27465
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "74",
+    "libelle": "HAUTE-SAVOIE",
+    "inscrits": 336725,
+    "votants": 270188,
+    "exprimes": 265382,
+    "abstentions": 66537,
+    "blancs_nuls": 4806,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 899
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3910
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 8520
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 4305
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 72066
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 14294
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 60556
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 59765
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 41067
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "75",
+    "libelle": "PARIS",
+    "inscrits": 1238623,
+    "votants": 952963,
+    "exprimes": 942315,
+    "abstentions": 285660,
+    "blancs_nuls": 10648,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 3215
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 14820
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 34467
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 25964
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 277768
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 34316
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 128128
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 297514
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 126123
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "76",
+    "libelle": "SEINE-MARITIME",
+    "inscrits": 808059,
+    "votants": 664599,
+    "exprimes": 650980,
+    "abstentions": 143460,
+    "blancs_nuls": 13619,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 2842
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 15701
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 56327
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 13460
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 254044
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 21820
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 104552
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 109137
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 73097
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "77",
+    "libelle": "SEINE-ET-MARNE",
+    "inscrits": 609181,
+    "votants": 496608,
+    "exprimes": 488006,
+    "abstentions": 112573,
+    "blancs_nuls": 8602,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 2054
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 8993
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 30721
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 9248
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 161061
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 18612
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 73770
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 96909
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 86638
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "78",
+    "libelle": "YVELINES",
+    "inscrits": 772804,
+    "votants": 634293,
+    "exprimes": 625150,
+    "abstentions": 138511,
+    "blancs_nuls": 9143,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 2209
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 9874
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 29282
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 12634
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 183684
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 24713
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 115565
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 153090
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 94099
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "79",
+    "libelle": "DEUX-SEVRES",
+    "inscrits": 250098,
+    "votants": 210519,
+    "exprimes": 204237,
+    "abstentions": 39579,
+    "blancs_nuls": 6282,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 1199
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5430
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 6507
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 3667
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 76530
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 9121
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 43181
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 43303
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 15299
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "80",
+    "libelle": "SOMME",
+    "inscrits": 381128,
+    "votants": 326637,
+    "exprimes": 319563,
+    "abstentions": 54491,
+    "blancs_nuls": 7074,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 1246
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 8390
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 32181
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 5808
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 117217
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 9171
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 47458
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 53997
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 44095
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "81",
+    "libelle": "TARN",
+    "inscrits": 253432,
+    "votants": 216090,
+    "exprimes": 210540,
+    "abstentions": 37342,
+    "blancs_nuls": 5550,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 780
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4358
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 12998
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 4862
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 76917
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 8158
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 31038
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 40319
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 31110
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "82",
+    "libelle": "TARN-ET-GARONNE",
+    "inscrits": 145630,
+    "votants": 122071,
+    "exprimes": 119316,
+    "abstentions": 23559,
+    "blancs_nuls": 2755,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 428
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2368
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 7093
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 2522
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 43389
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 4692
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 16350
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 24351
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 18123
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "83",
+    "libelle": "VAR",
+    "inscrits": 542667,
+    "votants": 440140,
+    "exprimes": 433521,
+    "abstentions": 102527,
+    "blancs_nuls": 6619,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 1134
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5302
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 30871
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 8350
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 110356
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 12335
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 70101
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 86320
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 108752
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "84",
+    "libelle": "VAUCLUSE",
+    "inscrits": 304161,
+    "votants": 255111,
+    "exprimes": 249682,
+    "abstentions": 49050,
+    "blancs_nuls": 5429,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 1002
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3954
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 19551
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 5086
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 73445
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 9240
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 37911
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 41769
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 57724
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "85",
+    "libelle": "VENDEE",
+    "inscrits": 364447,
+    "votants": 313778,
+    "exprimes": 305641,
+    "abstentions": 50669,
+    "blancs_nuls": 8137,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 1150
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 6748
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 8306
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 4186
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 98386
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 11956
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 73397
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 74923
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 26589
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "86",
+    "libelle": "VIENNE",
+    "inscrits": 270883,
+    "votants": 224464,
+    "exprimes": 218446,
+    "abstentions": 46419,
+    "blancs_nuls": 6018,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 1035
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4952
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 12761
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 4930
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 82706
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 8382
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 35797
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 47558
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 20325
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "87",
+    "libelle": "HAUTE-VIENNE",
+    "inscrits": 262298,
+    "votants": 221440,
+    "exprimes": 215029,
+    "abstentions": 40858,
+    "blancs_nuls": 6411,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 845
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4941
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 24430
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 8710
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 81401
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 6637
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 23614
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 47599
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 16852
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "88",
+    "libelle": "VOSGES",
+    "inscrits": 275186,
+    "votants": 227660,
+    "exprimes": 220582,
+    "abstentions": 47526,
+    "blancs_nuls": 7078,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 1009
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5612
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 8666
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 3190
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 78034
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 10612
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 38298
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 42324
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 32837
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "89",
+    "libelle": "YONNE",
+    "inscrits": 221498,
+    "votants": 181770,
+    "exprimes": 177801,
+    "abstentions": 39728,
+    "blancs_nuls": 3969,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 875
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3211
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 11211
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 3010
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 58944
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 6451
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 30639
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 35494
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 27966
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "90",
+    "libelle": "TERRITOIRE DE BELFORT",
+    "inscrits": 84928,
+    "votants": 69549,
+    "exprimes": 67921,
+    "abstentions": 15379,
+    "blancs_nuls": 1628,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 350
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 1966
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 3047
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 1410
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 24983
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 3589
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 9437
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 11749
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 11390
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "91",
+    "libelle": "ESSONNE",
+    "inscrits": 636234,
+    "votants": 520086,
+    "exprimes": 511634,
+    "abstentions": 116148,
+    "blancs_nuls": 8452,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 2094
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 9569
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 35100
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 17509
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 168539
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 22179
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 81061
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 98927
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 76656
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "92",
+    "libelle": "HAUTS-DE-SEINE",
+    "inscrits": 816877,
+    "votants": 660647,
+    "exprimes": 652129,
+    "abstentions": 156230,
+    "blancs_nuls": 8518,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 2343
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 10267
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 44758
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 15775
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 189811
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 23964
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 107684
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 161206
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 96321
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "93",
+    "libelle": "SEINE-SAINT-DENIS",
+    "inscrits": 710336,
+    "votants": 552340,
+    "exprimes": 543551,
+    "abstentions": 157996,
+    "blancs_nuls": 8789,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 2284
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 9846
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 73425
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 13880
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 178928
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 17768
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 60309
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 79419
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 107692
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "94",
+    "libelle": "VAL-DE-MARNE",
+    "inscrits": 696241,
+    "votants": 557544,
+    "exprimes": 549296,
+    "abstentions": 138697,
+    "blancs_nuls": 8248,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 2317
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 8976
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 60123
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 14763
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 172814
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 20875
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 77060
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 106428
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 85940
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "95",
+    "libelle": "VAL-D'OISE",
+    "inscrits": 572242,
+    "votants": 463048,
+    "exprimes": 455681,
+    "abstentions": 109194,
+    "blancs_nuls": 7367,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 2002
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 8224
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 35983
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 10198
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 151269
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 17356
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 66223
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 82039
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 82387
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "2A",
+    "libelle": "CORSE-DU-SUD",
+    "inscrits": 92030,
+    "votants": 62985,
+    "exprimes": 61927,
+    "abstentions": 29045,
+    "blancs_nuls": 1058,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 90
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 388
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 5261
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 1106
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 15996
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 1472
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 8790
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 19650
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 9174
+      }
+    ]
+  },
+  {
+    "election": 1988,
+    "tour": 1,
+    "code": "2B",
+    "libelle": "HAUTE-CORSE",
+    "inscrits": 114551,
+    "votants": 76494,
+    "exprimes": 75255,
+    "abstentions": 38057,
+    "blancs_nuls": 1239,
+    "candidats": [
+      {
+        "nom": "Pierre BOUSSEL",
+        "parti": "MPT",
+        "votes": 107
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 497
+      },
+      {
+        "nom": "André LAJOINIE",
+        "parti": "PCF",
+        "votes": 5914
+      },
+      {
+        "nom": "Pierre JUQUIN",
+        "parti": "PSU & LCR",
+        "votes": 2323
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 23461
+      },
+      {
+        "nom": "Antoine WAECHTER",
+        "parti": "V",
+        "votes": 1980
+      },
+      {
+        "nom": "Raymond BARRE",
+        "parti": "UDF",
+        "votes": 9065
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 22868
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 9040
+      }
+    ]
+  }
+]

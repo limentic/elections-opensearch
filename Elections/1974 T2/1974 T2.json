@@ -1,0 +1,2187 @@
+[
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "1",
+    "libelle": "AIN",
+    "inscrits": 212581,
+    "votants": 184572,
+    "exprimes": 182411,
+    "abstentions": 28009,
+    "blancs_nuls": 2161,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 82281
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 100130
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "2",
+    "libelle": "AISNE",
+    "inscrits": 304866,
+    "votants": 275368,
+    "exprimes": 270942,
+    "abstentions": 29498,
+    "blancs_nuls": 4426,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 150748
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 120194
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "3",
+    "libelle": "ALLIER",
+    "inscrits": 241165,
+    "votants": 213881,
+    "exprimes": 211312,
+    "abstentions": 27284,
+    "blancs_nuls": 2569,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 115102
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 96210
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "4",
+    "libelle": "ALPES-DE-HAUTE-PROVENCE",
+    "inscrits": 70077,
+    "votants": 62550,
+    "exprimes": 61685,
+    "abstentions": 7527,
+    "blancs_nuls": 865,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 33013
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 28672
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "5",
+    "libelle": "HAUTES-ALPES",
+    "inscrits": 62509,
+    "votants": 55119,
+    "exprimes": 54302,
+    "abstentions": 7390,
+    "blancs_nuls": 817,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 26167
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 28135
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "6",
+    "libelle": "ALPES-MARITIMES",
+    "inscrits": 462380,
+    "votants": 406540,
+    "exprimes": 401261,
+    "abstentions": 55840,
+    "blancs_nuls": 5279,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 185968
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 215293
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "7",
+    "libelle": "ARDECHE",
+    "inscrits": 169406,
+    "votants": 151146,
+    "exprimes": 149199,
+    "abstentions": 18260,
+    "blancs_nuls": 1947,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 71065
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 78134
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "8",
+    "libelle": "ARDENNES",
+    "inscrits": 167530,
+    "votants": 149660,
+    "exprimes": 147968,
+    "abstentions": 17870,
+    "blancs_nuls": 1692,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 79250
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 68718
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "9",
+    "libelle": "ARIEGE",
+    "inscrits": 96313,
+    "votants": 85376,
+    "exprimes": 84301,
+    "abstentions": 10937,
+    "blancs_nuls": 1075,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 53561
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 30740
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "10",
+    "libelle": "AUBE",
+    "inscrits": 161018,
+    "votants": 142730,
+    "exprimes": 140713,
+    "abstentions": 18288,
+    "blancs_nuls": 2017,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 68913
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 71800
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "11",
+    "libelle": "AUDE",
+    "inscrits": 180319,
+    "votants": 162503,
+    "exprimes": 160295,
+    "abstentions": 17816,
+    "blancs_nuls": 2208,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 99263
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 61032
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "12",
+    "libelle": "AVEYRON",
+    "inscrits": 189078,
+    "votants": 169332,
+    "exprimes": 167176,
+    "abstentions": 19746,
+    "blancs_nuls": 2156,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 72530
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 94646
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "13",
+    "libelle": "BOUCHES-DU-RHONE",
+    "inscrits": 818706,
+    "votants": 693937,
+    "exprimes": 685868,
+    "abstentions": 124769,
+    "blancs_nuls": 8069,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 386541
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 299327
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "14",
+    "libelle": "CALVADOS",
+    "inscrits": 314438,
+    "votants": 277110,
+    "exprimes": 273432,
+    "abstentions": 37328,
+    "blancs_nuls": 3678,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 121628
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 151804
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "15",
+    "libelle": "CANTAL",
+    "inscrits": 111744,
+    "votants": 96534,
+    "exprimes": 95547,
+    "abstentions": 15210,
+    "blancs_nuls": 987,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 36786
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 58761
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "16",
+    "libelle": "CHARENTE",
+    "inscrits": 206132,
+    "votants": 184027,
+    "exprimes": 180714,
+    "abstentions": 22105,
+    "blancs_nuls": 3313,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 97597
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 83117
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "17",
+    "libelle": "CHARENTE-MARITIME",
+    "inscrits": 307577,
+    "votants": 263654,
+    "exprimes": 259763,
+    "abstentions": 43923,
+    "blancs_nuls": 3891,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 128837
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 130926
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "18",
+    "libelle": "CHER",
+    "inscrits": 190758,
+    "votants": 168971,
+    "exprimes": 166698,
+    "abstentions": 21787,
+    "blancs_nuls": 2273,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 86709
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 79989
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "19",
+    "libelle": "CORREZE",
+    "inscrits": 165132,
+    "votants": 148921,
+    "exprimes": 146885,
+    "abstentions": 16211,
+    "blancs_nuls": 2036,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 81617
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 65268
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "20",
+    "libelle": "CORSE",
+    "inscrits": 258717,
+    "votants": 207635,
+    "exprimes": 205858,
+    "abstentions": 51082,
+    "blancs_nuls": 1777,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 97838
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 108020
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "21",
+    "libelle": "COTE-D'OR",
+    "inscrits": 257787,
+    "votants": 227525,
+    "exprimes": 225139,
+    "abstentions": 30262,
+    "blancs_nuls": 2386,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 108422
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 116717
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "22",
+    "libelle": "COTES-D'ARMOR",
+    "inscrits": 304386,
+    "votants": 273196,
+    "exprimes": 270787,
+    "abstentions": 31190,
+    "blancs_nuls": 2409,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 139431
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 131356
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "23",
+    "libelle": "CREUSE",
+    "inscrits": 125411,
+    "votants": 110354,
+    "exprimes": 108769,
+    "abstentions": 15057,
+    "blancs_nuls": 1585,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 61221
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 47548
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "24",
+    "libelle": "DORDOGNE",
+    "inscrits": 281696,
+    "votants": 251632,
+    "exprimes": 247975,
+    "abstentions": 30064,
+    "blancs_nuls": 3657,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 130026
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 117949
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "25",
+    "libelle": "DOUBS",
+    "inscrits": 228021,
+    "votants": 202996,
+    "exprimes": 200538,
+    "abstentions": 25025,
+    "blancs_nuls": 2458,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 99266
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 101272
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "26",
+    "libelle": "DROME",
+    "inscrits": 207279,
+    "votants": 183248,
+    "exprimes": 180919,
+    "abstentions": 24031,
+    "blancs_nuls": 2329,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 91955
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 88964
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "27",
+    "libelle": "EURE",
+    "inscrits": 233511,
+    "votants": 210002,
+    "exprimes": 207203,
+    "abstentions": 23509,
+    "blancs_nuls": 2799,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 101543
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 105660
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "28",
+    "libelle": "EURE-ET-LOIR",
+    "inscrits": 195119,
+    "votants": 173759,
+    "exprimes": 171758,
+    "abstentions": 21360,
+    "blancs_nuls": 2001,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 81349
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 90409
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "29",
+    "libelle": "FINISTERE",
+    "inscrits": 524471,
+    "votants": 459743,
+    "exprimes": 456216,
+    "abstentions": 64728,
+    "blancs_nuls": 3527,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 194033
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 262183
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "30",
+    "libelle": "GARD",
+    "inscrits": 276799,
+    "votants": 247391,
+    "exprimes": 244191,
+    "abstentions": 29408,
+    "blancs_nuls": 3200,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 137237
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 106954
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "31",
+    "libelle": "HAUTE-GARONNE",
+    "inscrits": 428976,
+    "votants": 378456,
+    "exprimes": 373515,
+    "abstentions": 50520,
+    "blancs_nuls": 4941,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 213116
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 160399
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "32",
+    "libelle": "GERS",
+    "inscrits": 129536,
+    "votants": 111008,
+    "exprimes": 109095,
+    "abstentions": 18528,
+    "blancs_nuls": 1913,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 56719
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 52376
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "33",
+    "libelle": "GIRONDE",
+    "inscrits": 624583,
+    "votants": 536999,
+    "exprimes": 526650,
+    "abstentions": 87584,
+    "blancs_nuls": 10349,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 288212
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 238438
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "34",
+    "libelle": "HERAULT",
+    "inscrits": 357329,
+    "votants": 312197,
+    "exprimes": 308569,
+    "abstentions": 45132,
+    "blancs_nuls": 3628,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 165471
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 143098
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "35",
+    "libelle": "ILLE-ET-VILAINE",
+    "inscrits": 384435,
+    "votants": 339881,
+    "exprimes": 335910,
+    "abstentions": 44554,
+    "blancs_nuls": 3971,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 130605
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 205305
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "36",
+    "libelle": "INDRE",
+    "inscrits": 176261,
+    "votants": 152207,
+    "exprimes": 149769,
+    "abstentions": 24054,
+    "blancs_nuls": 2438,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 75691
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 74078
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "37",
+    "libelle": "INDRE-ET-LOIRE",
+    "inscrits": 262652,
+    "votants": 230242,
+    "exprimes": 226307,
+    "abstentions": 32410,
+    "blancs_nuls": 3935,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 108887
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 117420
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "38",
+    "libelle": "ISERE",
+    "inscrits": 454024,
+    "votants": 398087,
+    "exprimes": 393369,
+    "abstentions": 55937,
+    "blancs_nuls": 4718,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 206894
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 186475
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "39",
+    "libelle": "JURA",
+    "inscrits": 135925,
+    "votants": 120609,
+    "exprimes": 118913,
+    "abstentions": 15316,
+    "blancs_nuls": 1696,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 60856
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 58057
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "40",
+    "libelle": "LANDES",
+    "inscrits": 192620,
+    "votants": 172723,
+    "exprimes": 170242,
+    "abstentions": 19897,
+    "blancs_nuls": 2481,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 88811
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 81431
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "41",
+    "libelle": "LOIR-ET-CHER",
+    "inscrits": 159328,
+    "votants": 138786,
+    "exprimes": 136806,
+    "abstentions": 20542,
+    "blancs_nuls": 1980,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 67089
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 69717
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "42",
+    "libelle": "LOIRE",
+    "inscrits": 438227,
+    "votants": 377487,
+    "exprimes": 372698,
+    "abstentions": 60740,
+    "blancs_nuls": 4789,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 170870
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 201828
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "43",
+    "libelle": "HAUTE-LOIRE",
+    "inscrits": 152282,
+    "votants": 131309,
+    "exprimes": 129826,
+    "abstentions": 20973,
+    "blancs_nuls": 1483,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 58749
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 71077
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "44",
+    "libelle": "LOIRE-ATLANTIQUE",
+    "inscrits": 521519,
+    "votants": 457844,
+    "exprimes": 452186,
+    "abstentions": 63675,
+    "blancs_nuls": 5658,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 191832
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 260354
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "45",
+    "libelle": "LOIRET",
+    "inscrits": 250265,
+    "votants": 224537,
+    "exprimes": 221297,
+    "abstentions": 25728,
+    "blancs_nuls": 3240,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 104504
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 116793
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "46",
+    "libelle": "LOT",
+    "inscrits": 120091,
+    "votants": 107134,
+    "exprimes": 105591,
+    "abstentions": 12957,
+    "blancs_nuls": 1543,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 56764
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 48827
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "47",
+    "libelle": "LOT-ET-GARONNE",
+    "inscrits": 144858,
+    "votants": 129449,
+    "exprimes": 126822,
+    "abstentions": 15409,
+    "blancs_nuls": 2627,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 66587
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 60235
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "48",
+    "libelle": "LOZERE",
+    "inscrits": 77096,
+    "votants": 66196,
+    "exprimes": 65372,
+    "abstentions": 10900,
+    "blancs_nuls": 824,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 25136
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 40236
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "49",
+    "libelle": "MAINE-ET-LOIRE",
+    "inscrits": 357381,
+    "votants": 315357,
+    "exprimes": 311036,
+    "abstentions": 42024,
+    "blancs_nuls": 4321,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 109300
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 201736
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "50",
+    "libelle": "MANCHE",
+    "inscrits": 296321,
+    "votants": 260010,
+    "exprimes": 256873,
+    "abstentions": 36311,
+    "blancs_nuls": 3137,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 100311
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 156562
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "51",
+    "libelle": "MARNE",
+    "inscrits": 276466,
+    "votants": 242242,
+    "exprimes": 239233,
+    "abstentions": 34224,
+    "blancs_nuls": 3009,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 115100
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 124133
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "52",
+    "libelle": "HAUTE-MARNE",
+    "inscrits": 120309,
+    "votants": 106665,
+    "exprimes": 105122,
+    "abstentions": 13644,
+    "blancs_nuls": 1543,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 45822
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 59300
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "53",
+    "libelle": "MAYENNE",
+    "inscrits": 166256,
+    "votants": 146823,
+    "exprimes": 144870,
+    "abstentions": 19433,
+    "blancs_nuls": 1953,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 54610
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 90260
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "54",
+    "libelle": "MEURTHE-ET-MOSELLE",
+    "inscrits": 391505,
+    "votants": 342950,
+    "exprimes": 339180,
+    "abstentions": 48555,
+    "blancs_nuls": 3770,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 169020
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 170160
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "55",
+    "libelle": "MEUSE",
+    "inscrits": 124780,
+    "votants": 109854,
+    "exprimes": 108865,
+    "abstentions": 14926,
+    "blancs_nuls": 989,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 39330
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 69535
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "56",
+    "libelle": "MORBIHAN",
+    "inscrits": 369398,
+    "votants": 322216,
+    "exprimes": 319328,
+    "abstentions": 47182,
+    "blancs_nuls": 2888,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 136609
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 182719
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "57",
+    "libelle": "MOSELLE",
+    "inscrits": 491172,
+    "votants": 430118,
+    "exprimes": 424521,
+    "abstentions": 61054,
+    "blancs_nuls": 5597,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 199509
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 225012
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "58",
+    "libelle": "NIEVRE",
+    "inscrits": 146463,
+    "votants": 129653,
+    "exprimes": 128079,
+    "abstentions": 16810,
+    "blancs_nuls": 1574,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 70381
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 57698
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "59",
+    "libelle": "NORD",
+    "inscrits": 1386710,
+    "votants": 1246832,
+    "exprimes": 1230812,
+    "abstentions": 139878,
+    "blancs_nuls": 16020,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 669840
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 560972
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "60",
+    "libelle": "OISE",
+    "inscrits": 318126,
+    "votants": 283629,
+    "exprimes": 279709,
+    "abstentions": 34497,
+    "blancs_nuls": 3920,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 140090
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 139619
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "61",
+    "libelle": "ORNE",
+    "inscrits": 185591,
+    "votants": 167588,
+    "exprimes": 165648,
+    "abstentions": 18003,
+    "blancs_nuls": 1940,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 77300
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 88348
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "62",
+    "libelle": "PAS-DE-CALAIS",
+    "inscrits": 816382,
+    "votants": 737069,
+    "exprimes": 728115,
+    "abstentions": 79313,
+    "blancs_nuls": 8954,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 417869
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 310246
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "63",
+    "libelle": "PUY-DE-DOME",
+    "inscrits": 354408,
+    "votants": 313644,
+    "exprimes": 310184,
+    "abstentions": 40764,
+    "blancs_nuls": 3460,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 144464
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 165720
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "64",
+    "libelle": "PYRENEES-ATLANTIQUES",
+    "inscrits": 291212,
+    "votants": 254021,
+    "exprimes": 250621,
+    "abstentions": 37191,
+    "blancs_nuls": 3400,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 115520
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 135101
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "65",
+    "libelle": "HAUTES-PYRENEES",
+    "inscrits": 178527,
+    "votants": 153876,
+    "exprimes": 151769,
+    "abstentions": 24651,
+    "blancs_nuls": 2107,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 84700
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 67069
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "66",
+    "libelle": "PYRENEES-ORIENTALES",
+    "inscrits": 124286,
+    "votants": 106555,
+    "exprimes": 105148,
+    "abstentions": 17731,
+    "blancs_nuls": 1407,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 51579
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 53569
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "67",
+    "libelle": "BAS-RHIN",
+    "inscrits": 511355,
+    "votants": 439780,
+    "exprimes": 433096,
+    "abstentions": 71575,
+    "blancs_nuls": 6684,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 140751
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 292345
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "68",
+    "libelle": "HAUT-RHIN",
+    "inscrits": 347874,
+    "votants": 298145,
+    "exprimes": 293102,
+    "abstentions": 49729,
+    "blancs_nuls": 5043,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 111083
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 182019
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "69",
+    "libelle": "RHONE",
+    "inscrits": 719015,
+    "votants": 627057,
+    "exprimes": 619927,
+    "abstentions": 91958,
+    "blancs_nuls": 7130,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 291279
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 328648
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "70",
+    "libelle": "HAUTE-SAONE",
+    "inscrits": 140551,
+    "votants": 124324,
+    "exprimes": 122676,
+    "abstentions": 16227,
+    "blancs_nuls": 1648,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 62214
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 60462
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "71",
+    "libelle": "SAONE-ET-LOIRE",
+    "inscrits": 324759,
+    "votants": 281916,
+    "exprimes": 278352,
+    "abstentions": 42843,
+    "blancs_nuls": 3564,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 138441
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 139911
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "72",
+    "libelle": "SARTHE",
+    "inscrits": 295474,
+    "votants": 261266,
+    "exprimes": 257828,
+    "abstentions": 34208,
+    "blancs_nuls": 3438,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 128226
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 129602
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "73",
+    "libelle": "SAVOIE",
+    "inscrits": 208546,
+    "votants": 181905,
+    "exprimes": 179761,
+    "abstentions": 26641,
+    "blancs_nuls": 2144,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 82145
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 97616
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "74",
+    "libelle": "HAUTE-SAVOIE",
+    "inscrits": 173428,
+    "votants": 147986,
+    "exprimes": 146068,
+    "abstentions": 25442,
+    "blancs_nuls": 1918,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 60708
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 85360
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "75",
+    "libelle": "PARIS",
+    "inscrits": 1286323,
+    "votants": 1099863,
+    "exprimes": 1084318,
+    "abstentions": 186460,
+    "blancs_nuls": 15545,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 469523
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 614795
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "76",
+    "libelle": "SEINE-MARITIME",
+    "inscrits": 704682,
+    "votants": 620071,
+    "exprimes": 612453,
+    "abstentions": 84611,
+    "blancs_nuls": 7618,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 326474
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 285979
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "77",
+    "libelle": "SEINE-ET-MARNE",
+    "inscrits": 343413,
+    "votants": 300511,
+    "exprimes": 296395,
+    "abstentions": 42902,
+    "blancs_nuls": 4116,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 146000
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 150395
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "78",
+    "libelle": "YVELINES",
+    "inscrits": 553796,
+    "votants": 490043,
+    "exprimes": 483941,
+    "abstentions": 63753,
+    "blancs_nuls": 6102,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 227758
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 256183
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "79",
+    "libelle": "DEUX-SEVRES",
+    "inscrits": 205778,
+    "votants": 184180,
+    "exprimes": 181414,
+    "abstentions": 21598,
+    "blancs_nuls": 2766,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 79551
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 101863
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "80",
+    "libelle": "SOMME",
+    "inscrits": 313018,
+    "votants": 287964,
+    "exprimes": 283711,
+    "abstentions": 25054,
+    "blancs_nuls": 4253,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 154425
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 129286
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "81",
+    "libelle": "TARN",
+    "inscrits": 195806,
+    "votants": 177939,
+    "exprimes": 174922,
+    "abstentions": 17867,
+    "blancs_nuls": 3017,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 85778
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 89144
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "82",
+    "libelle": "TARN-ET-GARONNE",
+    "inscrits": 140802,
+    "votants": 125517,
+    "exprimes": 123774,
+    "abstentions": 15285,
+    "blancs_nuls": 1743,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 68941
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 54833
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "83",
+    "libelle": "VAR",
+    "inscrits": 364180,
+    "votants": 315844,
+    "exprimes": 311332,
+    "abstentions": 48336,
+    "blancs_nuls": 4512,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 156026
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 155306
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "84",
+    "libelle": "VAUCLUSE",
+    "inscrits": 200962,
+    "votants": 181427,
+    "exprimes": 178399,
+    "abstentions": 19535,
+    "blancs_nuls": 3028,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 84830
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 93569
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "85",
+    "libelle": "VENDEE",
+    "inscrits": 293403,
+    "votants": 262033,
+    "exprimes": 258023,
+    "abstentions": 31370,
+    "blancs_nuls": 4010,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 94853
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 163170
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "86",
+    "libelle": "VIENNE",
+    "inscrits": 209643,
+    "votants": 185904,
+    "exprimes": 183017,
+    "abstentions": 23739,
+    "blancs_nuls": 2887,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 97138
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 85879
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "87",
+    "libelle": "HAUTE-VIENNE",
+    "inscrits": 228637,
+    "votants": 203087,
+    "exprimes": 199917,
+    "abstentions": 25550,
+    "blancs_nuls": 3170,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 111271
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 88646
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "88",
+    "libelle": "VOSGES",
+    "inscrits": 223523,
+    "votants": 197509,
+    "exprimes": 194485,
+    "abstentions": 26014,
+    "blancs_nuls": 3024,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 89318
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 105167
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "89",
+    "libelle": "YONNE",
+    "inscrits": 164411,
+    "votants": 145757,
+    "exprimes": 143786,
+    "abstentions": 18654,
+    "blancs_nuls": 1971,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 69678
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 74108
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "90",
+    "libelle": "TERRITOIRE DE BELFORT",
+    "inscrits": 129367,
+    "votants": 115059,
+    "exprimes": 113607,
+    "abstentions": 14308,
+    "blancs_nuls": 1452,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 61412
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 52195
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "91",
+    "libelle": "ESSONNE",
+    "inscrits": 363398,
+    "votants": 324313,
+    "exprimes": 320058,
+    "abstentions": 39085,
+    "blancs_nuls": 4255,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 175114
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 144944
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "92",
+    "libelle": "HAUTS-DE-SEINE",
+    "inscrits": 807915,
+    "votants": 706858,
+    "exprimes": 695184,
+    "abstentions": 101057,
+    "blancs_nuls": 11674,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 346668
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 348516
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "93",
+    "libelle": "SEINE-SAINT-DENIS",
+    "inscrits": 642242,
+    "votants": 555640,
+    "exprimes": 548366,
+    "abstentions": 86602,
+    "blancs_nuls": 7274,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 338538
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 209828
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "94",
+    "libelle": "VAL-DE-MARNE",
+    "inscrits": 618595,
+    "votants": 547492,
+    "exprimes": 539936,
+    "abstentions": 71103,
+    "blancs_nuls": 7556,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 288083
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 251853
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 2,
+    "code": "95",
+    "libelle": "VAL-D'OISE",
+    "inscrits": 328586,
+    "votants": 289525,
+    "exprimes": 285890,
+    "abstentions": 39061,
+    "blancs_nuls": 3635,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 156783
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 129107
+      }
+    ]
+  }
+]

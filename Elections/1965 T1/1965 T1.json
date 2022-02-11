@@ -1,0 +1,3872 @@
+[
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "1",
+    "libelle": "AIN",
+    "inscrits": 206496,
+    "votants": 166986,
+    "exprimes": 165555,
+    "abstentions": 39510,
+    "blancs_nuls": 1431,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 50418
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 71246
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 30416
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 8317
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 3006
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 2152
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "2",
+    "libelle": "AISNE",
+    "inscrits": 290750,
+    "votants": 253634,
+    "exprimes": 250550,
+    "abstentions": 37116,
+    "blancs_nuls": 3084,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 79897
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 118720
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 37036
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 8804
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 3147
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 2946
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "3",
+    "libelle": "ALLIER",
+    "inscrits": 244364,
+    "votants": 204542,
+    "exprimes": 202388,
+    "abstentions": 39822,
+    "blancs_nuls": 2154,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 84861
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 73973
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 26369
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 11045
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 4014
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 2126
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "4",
+    "libelle": "ALPES-DE-HAUTE-PROVENCE",
+    "inscrits": 62596,
+    "votants": 51365,
+    "exprimes": 50654,
+    "abstentions": 11231,
+    "blancs_nuls": 711,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 19990
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 17738
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 6782
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 4573
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 893
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 678
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "5",
+    "libelle": "HAUTES-ALPES",
+    "inscrits": 57578,
+    "votants": 45770,
+    "exprimes": 45192,
+    "abstentions": 11808,
+    "blancs_nuls": 578,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 14638
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 19328
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 7347
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 2289
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 773
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 817
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "6",
+    "libelle": "ALPES-MARITIMES",
+    "inscrits": 408969,
+    "votants": 345781,
+    "exprimes": 341740,
+    "abstentions": 63188,
+    "blancs_nuls": 4041,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 96884
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 140830
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 50935
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 42760
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 6303
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 4028
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "7",
+    "libelle": "ARDECHE",
+    "inscrits": 165626,
+    "votants": 138440,
+    "exprimes": 137170,
+    "abstentions": 27186,
+    "blancs_nuls": 1270,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 44526
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 58538
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 23172
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 7396
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 1780
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 1758
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "8",
+    "libelle": "ARDENNES",
+    "inscrits": 166779,
+    "votants": 142197,
+    "exprimes": 140700,
+    "abstentions": 24582,
+    "blancs_nuls": 1497,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 47046
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 65432
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 20423
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 4502
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 1663
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 1634
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "9",
+    "libelle": "ARIEGE",
+    "inscrits": 94742,
+    "votants": 77254,
+    "exprimes": 76443,
+    "abstentions": 17488,
+    "blancs_nuls": 811,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 38316
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 26206
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 5861
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 4465
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 990
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 605
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "10",
+    "libelle": "AUBE",
+    "inscrits": 153423,
+    "votants": 131715,
+    "exprimes": 130280,
+    "abstentions": 21708,
+    "blancs_nuls": 1435,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 45400
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 56532
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 20667
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 4724
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 1737
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 1220
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "11",
+    "libelle": "AUDE",
+    "inscrits": 173977,
+    "votants": 149089,
+    "exprimes": 146993,
+    "abstentions": 24888,
+    "blancs_nuls": 2096,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 73485
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 44123
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 15874
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 10028
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 2136
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 1347
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "12",
+    "libelle": "AVEYRON",
+    "inscrits": 189045,
+    "votants": 159265,
+    "exprimes": 157076,
+    "abstentions": 29780,
+    "blancs_nuls": 2189,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 43974
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 63337
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 37745
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 6864
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 3442
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 1714
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "13",
+    "libelle": "BOUCHES-DU-RHONE",
+    "inscrits": 750783,
+    "votants": 609669,
+    "exprimes": 603841,
+    "abstentions": 141114,
+    "blancs_nuls": 5828,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 237573
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 215475
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 58070
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 75206
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 9911
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 7606
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "14",
+    "libelle": "CALVADOS",
+    "inscrits": 281587,
+    "votants": 242609,
+    "exprimes": 240368,
+    "abstentions": 38978,
+    "blancs_nuls": 2241,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 48975
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 117219
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 56790
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 10482
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 4530
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 2372
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "15",
+    "libelle": "CANTAL",
+    "inscrits": 110678,
+    "votants": 86639,
+    "exprimes": 85972,
+    "abstentions": 24039,
+    "blancs_nuls": 667,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 21830
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 42169
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 15808
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 3642
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 1730
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 793
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "16",
+    "libelle": "CHARENTE",
+    "inscrits": 206323,
+    "votants": 173848,
+    "exprimes": 172038,
+    "abstentions": 32475,
+    "blancs_nuls": 1810,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 53840
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 72440
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 16622
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 8409
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 19380
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 1347
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "17",
+    "libelle": "CHARENTE-MARITIME",
+    "inscrits": 290581,
+    "votants": 238241,
+    "exprimes": 235817,
+    "abstentions": 52340,
+    "blancs_nuls": 2424,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 74895
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 95813
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 38541
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 15196
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 8752
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 2620
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "18",
+    "libelle": "CHER",
+    "inscrits": 186105,
+    "votants": 155881,
+    "exprimes": 154287,
+    "abstentions": 30224,
+    "blancs_nuls": 1594,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 59749
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 63405
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 19026
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 7233
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 3102
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 1772
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "19",
+    "libelle": "CORREZE",
+    "inscrits": 161901,
+    "votants": 135370,
+    "exprimes": 134255,
+    "abstentions": 26531,
+    "blancs_nuls": 1115,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 60187
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 53010
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 12621
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 4822
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 2377
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 1238
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "20",
+    "libelle": "CORSE",
+    "inscrits": 178329,
+    "votants": 100617,
+    "exprimes": 100038,
+    "abstentions": 77712,
+    "blancs_nuls": 579,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 25661
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 56524
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 7717
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 9140
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 540
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 456
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "21",
+    "libelle": "COTE-D'OR",
+    "inscrits": 232752,
+    "votants": 193743,
+    "exprimes": 192050,
+    "abstentions": 39009,
+    "blancs_nuls": 1693,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 62076
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 76536
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 37804
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 9921
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 3178
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 2535
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "22",
+    "libelle": "COTES-D'ARMOR",
+    "inscrits": 326726,
+    "votants": 282184,
+    "exprimes": 280456,
+    "abstentions": 44542,
+    "blancs_nuls": 1728,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 97981
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 123355
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 48103
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 5814
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 3033
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 2170
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "23",
+    "libelle": "CREUSE",
+    "inscrits": 113157,
+    "votants": 85468,
+    "exprimes": 84699,
+    "abstentions": 27689,
+    "blancs_nuls": 769,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 35718
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 35211
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 8453
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 3268
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 1325
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 724
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "24",
+    "libelle": "DORDOGNE",
+    "inscrits": 253060,
+    "votants": 216543,
+    "exprimes": 214061,
+    "abstentions": 36517,
+    "blancs_nuls": 2482,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 83771
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 85780
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 25223
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 12826
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 4345
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 2116
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "25",
+    "libelle": "DOUBS",
+    "inscrits": 219965,
+    "votants": 190715,
+    "exprimes": 189176,
+    "abstentions": 29250,
+    "blancs_nuls": 1539,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 58716
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 89562
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 30126
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 6367
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 1996
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 2409
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "26",
+    "libelle": "DROME",
+    "inscrits": 195367,
+    "votants": 162910,
+    "exprimes": 161411,
+    "abstentions": 32457,
+    "blancs_nuls": 1499,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 56367
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 63808
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 23813
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 10613
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 3402
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 3408
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "27",
+    "libelle": "EURE",
+    "inscrits": 214077,
+    "votants": 187064,
+    "exprimes": 185157,
+    "abstentions": 27013,
+    "blancs_nuls": 1907,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 54035
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 81263
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 37640
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 7119
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 3008
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 2092
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "28",
+    "libelle": "EURE-ET-LOIR",
+    "inscrits": 173875,
+    "votants": 149923,
+    "exprimes": 148180,
+    "abstentions": 23952,
+    "blancs_nuls": 1743,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 43751
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 67747
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 25987
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 6277
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 2536
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 1882
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "29",
+    "libelle": "FINISTERE",
+    "inscrits": 495023,
+    "votants": 420612,
+    "exprimes": 418689,
+    "abstentions": 74411,
+    "blancs_nuls": 1923,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 115487
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 207615
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 77223
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 10145
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 4826
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 3393
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "30",
+    "libelle": "GARD",
+    "inscrits": 279277,
+    "votants": 236592,
+    "exprimes": 234100,
+    "abstentions": 42685,
+    "blancs_nuls": 2492,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 104144
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 73892
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 29121
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 19821
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 4280
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 2842
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "31",
+    "libelle": "HAUTE-GARONNE",
+    "inscrits": 387132,
+    "votants": 324804,
+    "exprimes": 321180,
+    "abstentions": 62328,
+    "blancs_nuls": 3624,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 129579
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 115419
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 38856
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 28476
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 5492
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 3358
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "32",
+    "libelle": "GERS",
+    "inscrits": 115101,
+    "votants": 94614,
+    "exprimes": 93525,
+    "abstentions": 20487,
+    "blancs_nuls": 1089,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 41337
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 25177
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 16311
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 8078
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 1818
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 804
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "33",
+    "libelle": "GIRONDE",
+    "inscrits": 582038,
+    "votants": 490147,
+    "exprimes": 486130,
+    "abstentions": 91891,
+    "blancs_nuls": 4017,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 147899
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 205744
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 74812
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 41291
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 10962
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 5422
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "34",
+    "libelle": "HERAULT",
+    "inscrits": 324983,
+    "votants": 274093,
+    "exprimes": 271671,
+    "abstentions": 50890,
+    "blancs_nuls": 2422,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 114145
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 84880
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 33721
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 30810
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 4860
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 3255
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "35",
+    "libelle": "ILLE-ET-VILAINE",
+    "inscrits": 381833,
+    "votants": 325805,
+    "exprimes": 322907,
+    "abstentions": 56028,
+    "blancs_nuls": 2898,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 67156
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 168730
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 65764
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 11623
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 6470
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 3164
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "36",
+    "libelle": "INDRE",
+    "inscrits": 161082,
+    "votants": 133308,
+    "exprimes": 131403,
+    "abstentions": 27774,
+    "blancs_nuls": 1905,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 50271
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 49265
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 20372
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 7235
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 2531
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 1729
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "37",
+    "libelle": "INDRE-ET-LOIRE",
+    "inscrits": 246918,
+    "votants": 208908,
+    "exprimes": 206477,
+    "abstentions": 38010,
+    "blancs_nuls": 2431,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 61224
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 86900
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 37409
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 13715
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 4813
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 2416
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "38",
+    "libelle": "ISERE",
+    "inscrits": 434101,
+    "votants": 358262,
+    "exprimes": 355471,
+    "abstentions": 75839,
+    "blancs_nuls": 2791,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 132869
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 133193
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 54101
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 22270
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 7318
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 5720
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "39",
+    "libelle": "JURA",
+    "inscrits": 141771,
+    "votants": 118773,
+    "exprimes": 117659,
+    "abstentions": 22998,
+    "blancs_nuls": 1114,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 37787
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 50294
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 22498
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 3821
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 1564
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 1695
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "40",
+    "libelle": "LANDES",
+    "inscrits": 176443,
+    "votants": 152073,
+    "exprimes": 150587,
+    "abstentions": 24370,
+    "blancs_nuls": 1486,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 51731
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 67832
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 19697
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 8138
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 2198
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 991
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "41",
+    "libelle": "LOIR-ET-CHER",
+    "inscrits": 162485,
+    "votants": 139190,
+    "exprimes": 137325,
+    "abstentions": 23295,
+    "blancs_nuls": 1865,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 43176
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 57029
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 25335
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 7438
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 2611
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 1736
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "42",
+    "libelle": "LOIRE",
+    "inscrits": 411765,
+    "votants": 341190,
+    "exprimes": 337888,
+    "abstentions": 70575,
+    "blancs_nuls": 3302,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 103668
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 130557
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 75250
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 16887
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 6325
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 5201
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "43",
+    "libelle": "HAUTE-LOIRE",
+    "inscrits": 138799,
+    "votants": 113960,
+    "exprimes": 112867,
+    "abstentions": 24839,
+    "blancs_nuls": 1093,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 25614
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 45533
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 29870
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 8292
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 1958
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 1600
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "44",
+    "libelle": "LOIRE-ATLANTIQUE",
+    "inscrits": 489365,
+    "votants": 418605,
+    "exprimes": 415127,
+    "abstentions": 70760,
+    "blancs_nuls": 3478,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 105779
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 184559
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 96328
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 17272
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 7424
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 3765
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "45",
+    "libelle": "LOIRET",
+    "inscrits": 243096,
+    "votants": 209582,
+    "exprimes": 206895,
+    "abstentions": 33514,
+    "blancs_nuls": 2687,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 60344
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 96322
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 33300
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 10109
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 4123
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 2697
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "46",
+    "libelle": "LOT",
+    "inscrits": 101088,
+    "votants": 85529,
+    "exprimes": 84512,
+    "abstentions": 15559,
+    "blancs_nuls": 1017,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 30933
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 33246
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 14100
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 3948
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 1443
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 842
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "47",
+    "libelle": "LOT-ET-GARONNE",
+    "inscrits": 174013,
+    "votants": 150422,
+    "exprimes": 148717,
+    "abstentions": 23591,
+    "blancs_nuls": 1705,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 57734
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 46654
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 24127
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 15154
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 3384
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 1664
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "48",
+    "libelle": "LOZERE",
+    "inscrits": 54151,
+    "votants": 43557,
+    "exprimes": 43181,
+    "abstentions": 10594,
+    "blancs_nuls": 376,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 9702
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 22333
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 7818
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 2375
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 515
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 438
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "49",
+    "libelle": "MAINE-ET-LOIRE",
+    "inscrits": 331808,
+    "votants": 280227,
+    "exprimes": 277294,
+    "abstentions": 51581,
+    "blancs_nuls": 2933,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 50977
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 135520
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 70078
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 12534
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 5445
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 2740
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "50",
+    "libelle": "MANCHE",
+    "inscrits": 268177,
+    "votants": 229314,
+    "exprimes": 227513,
+    "abstentions": 38863,
+    "blancs_nuls": 1801,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 33599
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 130594
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 49155
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 8428
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 3826
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 1911
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "51",
+    "libelle": "MARNE",
+    "inscrits": 258504,
+    "votants": 218276,
+    "exprimes": 216242,
+    "abstentions": 40228,
+    "blancs_nuls": 2034,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 68748
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 95892
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 39190
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 7205
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 2759
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 2448
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "52",
+    "libelle": "HAUTE-MARNE",
+    "inscrits": 120192,
+    "votants": 103045,
+    "exprimes": 101857,
+    "abstentions": 17147,
+    "blancs_nuls": 1188,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 29166
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 53527
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 13623
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 3297
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 1114
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 1130
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "53",
+    "libelle": "MAYENNE",
+    "inscrits": 152468,
+    "votants": 135178,
+    "exprimes": 133126,
+    "abstentions": 17290,
+    "blancs_nuls": 2052,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 20383
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 66475
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 37504
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 5019
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 2542
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 1203
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "54",
+    "libelle": "MEURTHE-ET-MOSELLE",
+    "inscrits": 369435,
+    "votants": 320283,
+    "exprimes": 317550,
+    "abstentions": 49152,
+    "blancs_nuls": 2733,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 95838
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 154820
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 50131
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 9961
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 3310
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 3490
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "55",
+    "libelle": "MEUSE",
+    "inscrits": 120871,
+    "votants": 104744,
+    "exprimes": 103581,
+    "abstentions": 16127,
+    "blancs_nuls": 1163,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 21967
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 57477
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 18324
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 3552
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 1076
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 1185
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "56",
+    "libelle": "MORBIHAN",
+    "inscrits": 336778,
+    "votants": 281848,
+    "exprimes": 279917,
+    "abstentions": 54930,
+    "blancs_nuls": 1931,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 66997
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 148824
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 51339
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 7668
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 3069
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 2020
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "57",
+    "libelle": "MOSELLE",
+    "inscrits": 479367,
+    "votants": 414113,
+    "exprimes": 409796,
+    "abstentions": 65254,
+    "blancs_nuls": 4317,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 76613
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 259049
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 56575
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 9723
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 3481
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 4355
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "58",
+    "libelle": "NIEVRE",
+    "inscrits": 156261,
+    "votants": 133209,
+    "exprimes": 131812,
+    "abstentions": 23052,
+    "blancs_nuls": 1397,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 69188
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 42554
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 13588
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 3982
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 1438
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 1062
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "59",
+    "libelle": "NORD",
+    "inscrits": 1317096,
+    "votants": 1164237,
+    "exprimes": 1149826,
+    "abstentions": 152859,
+    "blancs_nuls": 14411,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 409462
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 552584
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 124794
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 36910
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 13068
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 13008
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "60",
+    "libelle": "OISE",
+    "inscrits": 283198,
+    "votants": 248698,
+    "exprimes": 245492,
+    "abstentions": 34500,
+    "blancs_nuls": 3206,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 73994
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 119008
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 33526
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 11374
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 4312
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 3278
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "61",
+    "libelle": "ORNE",
+    "inscrits": 169026,
+    "votants": 145957,
+    "exprimes": 144467,
+    "abstentions": 23069,
+    "blancs_nuls": 1490,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 26121
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 73803
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 34145
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 6057
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 2727
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 1614
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "62",
+    "libelle": "PAS-DE-CALAIS",
+    "inscrits": 754447,
+    "votants": 667319,
+    "exprimes": 659788,
+    "abstentions": 87128,
+    "blancs_nuls": 7531,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 264052
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 295281
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 65954
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 20296
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 7429
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 6776
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "63",
+    "libelle": "PUY-DE-DOME",
+    "inscrits": 315855,
+    "votants": 260584,
+    "exprimes": 258371,
+    "abstentions": 55271,
+    "blancs_nuls": 2213,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 91811
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 105756
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 36771
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 14375
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 6320
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 3338
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "64",
+    "libelle": "PYRENEES-ATLANTIQUES",
+    "inscrits": 307350,
+    "votants": 259436,
+    "exprimes": 257342,
+    "abstentions": 47914,
+    "blancs_nuls": 2094,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 60489
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 118496
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 48946
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 23226
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 4006
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 2179
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "65",
+    "libelle": "HAUTES-PYRENEES",
+    "inscrits": 139183,
+    "votants": 114589,
+    "exprimes": 113617,
+    "abstentions": 24594,
+    "blancs_nuls": 972,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 47033
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 41356
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 14249
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 8081
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 1942
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 956
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "66",
+    "libelle": "PYRENEES-ORIENTALES",
+    "inscrits": 162867,
+    "votants": 131578,
+    "exprimes": 129914,
+    "abstentions": 31289,
+    "blancs_nuls": 1664,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 53010
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 45163
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 15379
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 13456
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 1778
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 1128
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "67",
+    "libelle": "BAS-RHIN",
+    "inscrits": 465601,
+    "votants": 389470,
+    "exprimes": 384821,
+    "abstentions": 76131,
+    "blancs_nuls": 4649,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 39532
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 244970
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 85231
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 8980
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 2764
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 3344
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "68",
+    "libelle": "HAUT-RHIN",
+    "inscrits": 340279,
+    "votants": 292417,
+    "exprimes": 287443,
+    "abstentions": 47862,
+    "blancs_nuls": 4974,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 38651
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 169895
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 66788
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 7056
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 2105
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 2948
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "69",
+    "libelle": "RHONE",
+    "inscrits": 623073,
+    "votants": 525985,
+    "exprimes": 521929,
+    "abstentions": 97088,
+    "blancs_nuls": 4056,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 161726
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 197913
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 110182
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 34272
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 10051
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 7785
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "70",
+    "libelle": "HAUTE-SAONE",
+    "inscrits": 131843,
+    "votants": 112934,
+    "exprimes": 111540,
+    "abstentions": 18909,
+    "blancs_nuls": 1394,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 38229
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 51543
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 15920
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 3638
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 1081
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 1129
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "71",
+    "libelle": "SAONE-ET-LOIRE",
+    "inscrits": 330416,
+    "votants": 265220,
+    "exprimes": 262911,
+    "abstentions": 65196,
+    "blancs_nuls": 2309,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 93846
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 106752
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 42548
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 12447
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 4272
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 3046
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "72",
+    "libelle": "SARTHE",
+    "inscrits": 267118,
+    "votants": 227683,
+    "exprimes": 224891,
+    "abstentions": 39435,
+    "blancs_nuls": 2792,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 73254
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 95960
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 39342
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 9550
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 4212
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 2573
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "73",
+    "libelle": "SAVOIE",
+    "inscrits": 161284,
+    "votants": 129239,
+    "exprimes": 128373,
+    "abstentions": 32045,
+    "blancs_nuls": 866,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 42795
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 53185
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 22296
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 5964
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 2286
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 1847
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "74",
+    "libelle": "HAUTE-SAVOIE",
+    "inscrits": 201066,
+    "votants": 165854,
+    "exprimes": 164735,
+    "abstentions": 35212,
+    "blancs_nuls": 1119,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 41513
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 78809
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 32786
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 6667
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 2918
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 2042
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "75",
+    "libelle": "SEINE",
+    "inscrits": 3220059,
+    "votants": 2780002,
+    "exprimes": 2755863,
+    "abstentions": 440057,
+    "blancs_nuls": 24139,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 983453
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 1152349
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 398464
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 132616
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 51426
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 37555
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "76",
+    "libelle": "SEINE-MARITIME",
+    "inscrits": 620379,
+    "votants": 533266,
+    "exprimes": 528142,
+    "abstentions": 87113,
+    "blancs_nuls": 5124,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 178890
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 217420
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 101889
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 17012
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 7221
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 5710
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "77",
+    "libelle": "SEINE-ET-MARNE",
+    "inscrits": 324024,
+    "votants": 279234,
+    "exprimes": 276159,
+    "abstentions": 44790,
+    "blancs_nuls": 3075,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 84691
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 126260
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 43412
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 13031
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 5073
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 3692
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "78",
+    "libelle": "YVELINES",
+    "inscrits": 1414232,
+    "votants": 1244571,
+    "exprimes": 1233482,
+    "abstentions": 169661,
+    "blancs_nuls": 11089,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 441356
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 515091
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 173366
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 60525
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 23824
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 19320
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "79",
+    "libelle": "DEUX-SEVRES",
+    "inscrits": 199663,
+    "votants": 169920,
+    "exprimes": 168008,
+    "abstentions": 29743,
+    "blancs_nuls": 1912,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 45786
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 71695
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 37917
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 7344
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 3728
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 1538
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "80",
+    "libelle": "SOMME",
+    "inscrits": 296674,
+    "votants": 266578,
+    "exprimes": 263331,
+    "abstentions": 30096,
+    "blancs_nuls": 3247,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 93382
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 121271
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 32240
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 10191
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 3295
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 2952
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "81",
+    "libelle": "TARN",
+    "inscrits": 208056,
+    "votants": 182728,
+    "exprimes": 179665,
+    "abstentions": 25328,
+    "blancs_nuls": 3063,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 68565
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 64683
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 27930
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 13074
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 3362
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 2051
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "82",
+    "libelle": "TARN-ET-GARONNE",
+    "inscrits": 111336,
+    "votants": 96444,
+    "exprimes": 95021,
+    "abstentions": 14892,
+    "blancs_nuls": 1423,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 36208
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 32736
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 13867
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 9217
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 2050
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 943
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "83",
+    "libelle": "VAR",
+    "inscrits": 313027,
+    "votants": 259684,
+    "exprimes": 256848,
+    "abstentions": 53343,
+    "blancs_nuls": 2836,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 84899
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 101018
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 27334
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 36096
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 4781
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 2720
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "84",
+    "libelle": "VAUCLUSE",
+    "inscrits": 194343,
+    "votants": 167792,
+    "exprimes": 165101,
+    "abstentions": 26551,
+    "blancs_nuls": 2691,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 63053
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 53899
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 21452
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 20108
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 3892
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 2697
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "85",
+    "libelle": "VENDEE",
+    "inscrits": 254569,
+    "votants": 221617,
+    "exprimes": 218590,
+    "abstentions": 32952,
+    "blancs_nuls": 3027,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 37960
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 112640
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 52448
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 9985
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 3869
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 1688
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "86",
+    "libelle": "VIENNE",
+    "inscrits": 206914,
+    "votants": 173952,
+    "exprimes": 171828,
+    "abstentions": 32962,
+    "blancs_nuls": 2124,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 47187
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 78509
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 31679
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 8767
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 3819
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 1867
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "87",
+    "libelle": "HAUTE-VIENNE",
+    "inscrits": 226817,
+    "votants": 191261,
+    "exprimes": 188893,
+    "abstentions": 35556,
+    "blancs_nuls": 2368,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 87185
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 74564
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 13958
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 7090
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 4083
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 2013
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "88",
+    "libelle": "VOSGES",
+    "inscrits": 230176,
+    "votants": 195290,
+    "exprimes": 192104,
+    "abstentions": 34886,
+    "blancs_nuls": 3186,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 48658
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 100820
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 30463
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 6996
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 2456
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 2711
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "89",
+    "libelle": "YONNE",
+    "inscrits": 172499,
+    "votants": 145763,
+    "exprimes": 144083,
+    "abstentions": 26736,
+    "blancs_nuls": 1680,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 45257
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 64148
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 23261
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 7425
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 2315
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 1677
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 1,
+    "code": "90",
+    "libelle": "TERRITOIRE DE BELFORT",
+    "inscrits": 64222,
+    "votants": 54010,
+    "exprimes": 53474,
+    "abstentions": 10212,
+    "blancs_nuls": 536,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 18137
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 23935
+      },
+      {
+        "nom": "Jean LECANUET",
+        "parti": "MRP",
+        "votes": 8341
+      },
+      {
+        "nom": "Jean-Louis TIXIER-VIGNANCOUR",
+        "parti": "EXD",
+        "votes": 1778
+      },
+      {
+        "nom": "Pierre MARCILHACY",
+        "parti": "DVD",
+        "votes": 604
+      },
+      {
+        "nom": "Marcel BARBU",
+        "parti": "DIV",
+        "votes": 679
+      }
+    ]
+  }
+]

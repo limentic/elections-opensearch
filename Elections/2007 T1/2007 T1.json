@@ -1,0 +1,7010 @@
+[
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "1",
+    "libelle": "AIN",
+    "inscrits": 372899,
+    "votants": 320859,
+    "exprimes": 316598,
+    "abstentions": 52040,
+    "blancs_nuls": 4261,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 1059
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3665
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 10819
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 4004
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 4243
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 65449
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 5473
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 62119
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 109211
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 8013
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 38873
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 3670
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "2",
+    "libelle": "AISNE",
+    "inscrits": 377475,
+    "votants": 315501,
+    "exprimes": 310965,
+    "abstentions": 61974,
+    "blancs_nuls": 4536,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 1313
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 7223
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 17059
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 3347
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 6327
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 72835
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 3695
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 42000
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 91118
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 8124
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 53744
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 4180
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "3",
+    "libelle": "ALLIER",
+    "inscrits": 259537,
+    "votants": 221525,
+    "exprimes": 217384,
+    "abstentions": 38012,
+    "blancs_nuls": 4141,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 918
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3370
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 10981
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 2646
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 9897
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 55744
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 2863
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 39700
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 60994
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 5292
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 21860
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 3119
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "4",
+    "libelle": "ALPES-DE-HAUTE-PROVENCE",
+    "inscrits": 118936,
+    "votants": 102793,
+    "exprimes": 101140,
+    "abstentions": 16143,
+    "blancs_nuls": 1653,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 623
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 1222
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 4332
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 2258
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 2737
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 25531
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 1727
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 16781
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 30321
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 2187
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 11365
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 2056
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "5",
+    "libelle": "HAUTES-ALPES",
+    "inscrits": 102955,
+    "votants": 88527,
+    "exprimes": 87323,
+    "abstentions": 14428,
+    "blancs_nuls": 1204,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 319
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 872
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 3634
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 2164
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 1621
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 21385
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 1805
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 17289
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 26774
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 1948
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 7792
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 1720
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "6",
+    "libelle": "ALPES-MARITIMES",
+    "inscrits": 721716,
+    "votants": 599324,
+    "exprimes": 593254,
+    "abstentions": 122392,
+    "blancs_nuls": 6070,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 1442
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4545
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 14223
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 6220
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 10533
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 106216
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 8512
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 89143
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 258626
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 10883
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 79926
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 2985
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "7",
+    "libelle": "ARDECHE",
+    "inscrits": 235578,
+    "votants": 204732,
+    "exprimes": 201882,
+    "abstentions": 30846,
+    "blancs_nuls": 2850,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 1001
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2425
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 9220
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 4387
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 4986
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 50755
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 3354
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 37453
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 55803
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 4962
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 22912
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 4624
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "8",
+    "libelle": "ARDENNES",
+    "inscrits": 199115,
+    "votants": 163570,
+    "exprimes": 161598,
+    "abstentions": 35545,
+    "blancs_nuls": 1972,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 503
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3557
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 8639
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 1661
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 3035
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 39683
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 2087
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 23001
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 46934
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 4173
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 26185
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 2140
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "9",
+    "libelle": "ARIEGE",
+    "inscrits": 113831,
+    "votants": 99202,
+    "exprimes": 97658,
+    "abstentions": 14629,
+    "blancs_nuls": 1544,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 704
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 1125
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 4949
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 2610
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 2941
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 34179
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 1489
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 15370
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 21400
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 1634
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 9491
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 1766
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "10",
+    "libelle": "AUBE",
+    "inscrits": 204692,
+    "votants": 171162,
+    "exprimes": 169001,
+    "abstentions": 33530,
+    "blancs_nuls": 2161,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 521
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2476
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 6227
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 1592
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 2837
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 33280
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 2286
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 27128
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 59398
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 4980
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 26101
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 2175
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "11",
+    "libelle": "AUDE",
+    "inscrits": 254404,
+    "votants": 219939,
+    "exprimes": 216882,
+    "abstentions": 34465,
+    "blancs_nuls": 3057,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 4376
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2260
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 8905
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 3628
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 6077
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 66590
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 2577
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 30086
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 57024
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 3891
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 28635
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 2833
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "12",
+    "libelle": "AVEYRON",
+    "inscrits": 217981,
+    "votants": 192289,
+    "exprimes": 189000,
+    "abstentions": 25692,
+    "blancs_nuls": 3289,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 986
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 1907
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 7492
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 5579
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 2868
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 51344
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 2600
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 40810
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 54316
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 3807
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 13959
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 3332
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "13",
+    "libelle": "BOUCHES-DU-RHONE",
+    "inscrits": 1260916,
+    "votants": 1056954,
+    "exprimes": 1044239,
+    "abstentions": 203962,
+    "blancs_nuls": 12715,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 3917
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 10856
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 36107
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 14312
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 30895
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 248290
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 13945
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 157136
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 357593
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 17300
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 144807
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 9081
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "14",
+    "libelle": "CALVADOS",
+    "inscrits": 482677,
+    "votants": 417156,
+    "exprimes": 410904,
+    "abstentions": 65521,
+    "blancs_nuls": 6252,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 1251
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 6681
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 21490
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 5591
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 5407
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 103481
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 6786
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 83115
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 120191
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 10324
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 36939
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 9648
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "15",
+    "libelle": "CANTAL",
+    "inscrits": 123363,
+    "votants": 105850,
+    "exprimes": 104085,
+    "abstentions": 17513,
+    "blancs_nuls": 1765,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 573
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 1314
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 4022
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 1583
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 1502
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 24984
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 1235
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 20956
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 34726
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 2122
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 8501
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 2567
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "16",
+    "libelle": "CHARENTE",
+    "inscrits": 259756,
+    "votants": 220168,
+    "exprimes": 216748,
+    "abstentions": 39588,
+    "blancs_nuls": 3420,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 895
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3110
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 10239
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 3152
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 3866
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 65730
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 3105
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 37157
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 58769
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 7017
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 19833
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 3875
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "17",
+    "libelle": "CHARENTE-MARITIME",
+    "inscrits": 453394,
+    "votants": 384612,
+    "exprimes": 379254,
+    "abstentions": 68782,
+    "blancs_nuls": 5358,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 1353
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4662
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 15408
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 4987
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 5840
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 104916
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 5634
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 65306
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 114119
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 13997
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 33896
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 9136
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "18",
+    "libelle": "CHER",
+    "inscrits": 232301,
+    "votants": 191490,
+    "exprimes": 188173,
+    "abstentions": 40811,
+    "blancs_nuls": 3317,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 782
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3350
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 9750
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 2503
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 7238
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 44326
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 2673
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 33775
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 53656
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 5193
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 22076
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 2851
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "19",
+    "libelle": "CORREZE",
+    "inscrits": 187233,
+    "votants": 162919,
+    "exprimes": 159909,
+    "abstentions": 24314,
+    "blancs_nuls": 3010,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 781
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 1926
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 7193
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 2196
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 6176
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 47538
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 1890
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 28765
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 44839
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 3415
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 12125
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 3065
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "21",
+    "libelle": "COTE-D'OR",
+    "inscrits": 349518,
+    "votants": 299305,
+    "exprimes": 295757,
+    "abstentions": 50213,
+    "blancs_nuls": 3548,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 1057
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4005
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 11427
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 3626
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 3823
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 71385
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 4693
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 56946
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 94875
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 6746
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 34479
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 2695
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "22",
+    "libelle": "COTES-D'ARMOR",
+    "inscrits": 445906,
+    "votants": 393819,
+    "exprimes": 388820,
+    "abstentions": 52087,
+    "blancs_nuls": 4999,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 1263
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5539
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 19697
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 5918
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 9054
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 116827
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 7327
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 81973
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 100316
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 7714
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 28723
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 4469
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "23",
+    "libelle": "CREUSE",
+    "inscrits": 99799,
+    "votants": 83276,
+    "exprimes": 81585,
+    "abstentions": 16523,
+    "blancs_nuls": 1691,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 396
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 1288
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 4460
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 1388
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 2367
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 23674
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 1046
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 13596
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 22362
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 2155
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 7080
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 1773
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "24",
+    "libelle": "DORDOGNE",
+    "inscrits": 309106,
+    "votants": 272991,
+    "exprimes": 268438,
+    "abstentions": 36115,
+    "blancs_nuls": 4553,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 1279
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3283
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 11579
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 4630
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 8899
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 80031
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 3609
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 46876
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 72248
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 6002
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 25436
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 4566
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "25",
+    "libelle": "DOUBS",
+    "inscrits": 353132,
+    "votants": 303075,
+    "exprimes": 298775,
+    "abstentions": 50057,
+    "blancs_nuls": 4300,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 907
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4470
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 12419
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 4440
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 3248
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 74320
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 5637
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 50661
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 96760
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 6492
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 36584
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 2837
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "26",
+    "libelle": "DROME",
+    "inscrits": 338089,
+    "votants": 291578,
+    "exprimes": 287590,
+    "abstentions": 46511,
+    "blancs_nuls": 3988,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 1177
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3278
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 11895
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 5025
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 5307
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 69685
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 5351
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 53336
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 86063
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 7337
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 34402
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 4734
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "27",
+    "libelle": "EURE",
+    "inscrits": 404264,
+    "votants": 341318,
+    "exprimes": 336710,
+    "abstentions": 62946,
+    "blancs_nuls": 4608,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 1192
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5637
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 16775
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 3940
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 6223
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 71524
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 4854
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 61377
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 105755
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 9543
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 44462
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 5428
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "28",
+    "libelle": "EURE-ET-LOIR",
+    "inscrits": 293851,
+    "votants": 246686,
+    "exprimes": 243187,
+    "abstentions": 47165,
+    "blancs_nuls": 3499,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 1073
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3635
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 9834
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 2309
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 3281
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 53874
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 3434
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 44282
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 80563
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 7803
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 29798
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 3301
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "29",
+    "libelle": "FINISTERE",
+    "inscrits": 667662,
+    "votants": 583484,
+    "exprimes": 576869,
+    "abstentions": 84178,
+    "blancs_nuls": 6615,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 1527
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 7121
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 28839
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 8504
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 9574
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 168411
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 10659
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 131177
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 157307
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 10058
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 37600
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 6092
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "30",
+    "libelle": "GARD",
+    "inscrits": 488899,
+    "votants": 421444,
+    "exprimes": 416170,
+    "abstentions": 67455,
+    "blancs_nuls": 5274,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 1981
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4868
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 17331
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 7204
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 11920
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 97027
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 5505
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 65400
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 126711
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 8391
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 64248
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 5584
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "31",
+    "libelle": "HAUTE-GARONNE",
+    "inscrits": 789194,
+    "votants": 690638,
+    "exprimes": 682255,
+    "abstentions": 98556,
+    "blancs_nuls": 8383,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 2821
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 7009
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 25602
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 11221
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 11694
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 225769
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 10821
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 132091
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 182008
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 9997
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 57621
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 5601
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "32",
+    "libelle": "GERS",
+    "inscrits": 140324,
+    "votants": 124008,
+    "exprimes": 122010,
+    "abstentions": 16316,
+    "blancs_nuls": 1998,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 644
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 1202
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 4461
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 2000
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 2334
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 38049
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 1592
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 24680
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 31821
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 2365
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 10287
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 2575
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "33",
+    "libelle": "GIRONDE",
+    "inscrits": 953526,
+    "votants": 833538,
+    "exprimes": 823434,
+    "abstentions": 119988,
+    "blancs_nuls": 10104,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 3200
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 10122
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 33329
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 10566
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 15166
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 241019
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 12419
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 162668
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 230955
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 14302
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 75062
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 14626
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "34",
+    "libelle": "HERAULT",
+    "inscrits": 699684,
+    "votants": 600924,
+    "exprimes": 593411,
+    "abstentions": 98760,
+    "blancs_nuls": 7513,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 3228
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 6501
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 23186
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 11123
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 12808
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 154608
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 8610
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 90822
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 184815
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 9985
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 79191
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 8534
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "35",
+    "libelle": "ILLE-ET-VILAINE",
+    "inscrits": 665646,
+    "votants": 584655,
+    "exprimes": 577236,
+    "abstentions": 80991,
+    "blancs_nuls": 7419,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 1319
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 7398
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 25968
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 7582
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 5980
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 162903
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 12073
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 137432
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 162372
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 12793
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 35974
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 5442
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "36",
+    "libelle": "INDRE",
+    "inscrits": 177334,
+    "votants": 150217,
+    "exprimes": 147085,
+    "abstentions": 27117,
+    "blancs_nuls": 3132,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 729
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2741
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 7905
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 2275
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 3684
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 36873
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 2003
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 26364
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 39637
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 4679
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 17358
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 2837
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "37",
+    "libelle": "INDRE-ET-LOIRE",
+    "inscrits": 401678,
+    "votants": 343993,
+    "exprimes": 339116,
+    "abstentions": 57685,
+    "blancs_nuls": 4877,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 1233
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4772
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 15480
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 4180
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 5714
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 84345
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 5579
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 68641
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 104125
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 10391
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 30865
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 3791
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "38",
+    "libelle": "ISERE",
+    "inscrits": 784199,
+    "votants": 676859,
+    "exprimes": 668058,
+    "abstentions": 107340,
+    "blancs_nuls": 8801,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 2186
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 7651
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 25645
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 10300
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 13160
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 179413
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 12480
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 128983
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 201815
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 12995
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 67423
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 6007
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "39",
+    "libelle": "JURA",
+    "inscrits": 187083,
+    "votants": 161252,
+    "exprimes": 158560,
+    "abstentions": 25831,
+    "blancs_nuls": 2692,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 714
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2451
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 7013
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 2610
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 3084
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 35952
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 3413
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 29520
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 46144
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 4301
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 21167
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 2191
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "40",
+    "libelle": "LANDES",
+    "inscrits": 283071,
+    "votants": 248185,
+    "exprimes": 244644,
+    "abstentions": 34886,
+    "blancs_nuls": 3541,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 878
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2641
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 9453
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 2712
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 6355
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 76855
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 3039
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 48998
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 67087
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 3931
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 17300
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 5395
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "41",
+    "libelle": "LOIR-ET-CHER",
+    "inscrits": 240542,
+    "votants": 205142,
+    "exprimes": 201898,
+    "abstentions": 35400,
+    "blancs_nuls": 3244,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 749
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3034
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 9164
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 2358
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 3648
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 44272
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 3108
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 39214
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 60251
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 6918
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 25839
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 3343
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "42",
+    "libelle": "LOIRE",
+    "inscrits": 505865,
+    "votants": 431845,
+    "exprimes": 425707,
+    "abstentions": 74020,
+    "blancs_nuls": 6138,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 1634
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5918
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 17793
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 5892
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 8334
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 101389
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 6802
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 85007
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 126310
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 11381
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 50912
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 4335
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "43",
+    "libelle": "HAUTE-LOIRE",
+    "inscrits": 173258,
+    "votants": 150896,
+    "exprimes": 148273,
+    "abstentions": 22362,
+    "blancs_nuls": 2623,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 907
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2114
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 7002
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 2645
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 2167
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 33473
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 2236
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 31593
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 42710
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 3757
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 17341
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 2328
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "44",
+    "libelle": "LOIRE-ATLANTIQUE",
+    "inscrits": 892016,
+    "votants": 778034,
+    "exprimes": 768761,
+    "abstentions": 113982,
+    "blancs_nuls": 9273,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 2187
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 9604
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 33704
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 9946
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 10724
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 228851
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 14582
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 160022
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 215346
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 23947
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 50401
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 9447
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "45",
+    "libelle": "LOIRET",
+    "inscrits": 435658,
+    "votants": 368069,
+    "exprimes": 363075,
+    "abstentions": 67589,
+    "blancs_nuls": 4994,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 1130
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4747
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 13214
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 3770
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 6438
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 81664
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 5858
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 65901
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 122197
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 10736
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 42976
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 4444
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "46",
+    "libelle": "LOT",
+    "inscrits": 132896,
+    "votants": 118301,
+    "exprimes": 116514,
+    "abstentions": 14595,
+    "blancs_nuls": 1787,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 716
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 1352
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 5195
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 3025
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 2655
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 37260
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 1697
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 23210
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 28224
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 2251
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 8412
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 2517
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "47",
+    "libelle": "LOT-ET-GARONNE",
+    "inscrits": 238999,
+    "votants": 208463,
+    "exprimes": 205413,
+    "abstentions": 30536,
+    "blancs_nuls": 3050,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 933
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2183
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 7930
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 3280
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 4545
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 51813
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 2589
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 37930
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 59914
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 4681
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 25682
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 3933
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "48",
+    "libelle": "LOZERE",
+    "inscrits": 60016,
+    "votants": 52670,
+    "exprimes": 51925,
+    "abstentions": 7346,
+    "blancs_nuls": 745,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 275
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 532
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 2027
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 1260
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 868
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 11799
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 721
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 10950
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 16517
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 1011
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 4900
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 1065
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "49",
+    "libelle": "MAINE-ET-LOIRE",
+    "inscrits": 539902,
+    "votants": 474390,
+    "exprimes": 466598,
+    "abstentions": 65512,
+    "blancs_nuls": 7792,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 1463
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 6430
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 19717
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 5421
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 4893
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 108443
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 8669
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 108245
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 144495
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 20392
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 33201
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 5229
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "50",
+    "libelle": "MANCHE",
+    "inscrits": 371781,
+    "votants": 320286,
+    "exprimes": 315014,
+    "abstentions": 51495,
+    "blancs_nuls": 5272,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 1184
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5122
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 14185
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 4919
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 3788
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 67719
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 4700
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 65915
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 100989
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 8813
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 28953
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 8727
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "51",
+    "libelle": "MARNE",
+    "inscrits": 382287,
+    "votants": 311198,
+    "exprimes": 306839,
+    "abstentions": 71089,
+    "blancs_nuls": 4359,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 817
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5451
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 13099
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 2726
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 4982
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 63565
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 4697
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 54596
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 103561
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 7906
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 42514
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 2925
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "52",
+    "libelle": "HAUTE-MARNE",
+    "inscrits": 142353,
+    "votants": 118088,
+    "exprimes": 116007,
+    "abstentions": 24265,
+    "blancs_nuls": 2081,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 430
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2076
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 5457
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 1435
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 1611
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 23746
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 1656
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 17917
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 36790
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 3391
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 19722
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 1776
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "53",
+    "libelle": "MAYENNE",
+    "inscrits": 220022,
+    "votants": 192151,
+    "exprimes": 188525,
+    "abstentions": 27871,
+    "blancs_nuls": 3626,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 508
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2391
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 7755
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 2498
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 1678
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 42659
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 3551
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 44476
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 60553
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 6023
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 14256
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 2177
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "54",
+    "libelle": "MEURTHE-ET-MOSELLE",
+    "inscrits": 490248,
+    "votants": 411100,
+    "exprimes": 406056,
+    "abstentions": 79148,
+    "blancs_nuls": 5044,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 1234
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 7700
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 22067
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 4720
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 8712
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 103637
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 6424
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 74170
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 115573
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 7965
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 51044
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 2810
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "55",
+    "libelle": "MEUSE",
+    "inscrits": 141267,
+    "votants": 120310,
+    "exprimes": 118564,
+    "abstentions": 20957,
+    "blancs_nuls": 1746,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 391
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2079
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 5928
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 1501
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 1402
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 25053
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 1795
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 20823
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 35543
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 3019
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 19349
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 1681
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "56",
+    "libelle": "MORBIHAN",
+    "inscrits": 534901,
+    "votants": 467329,
+    "exprimes": 461409,
+    "abstentions": 67572,
+    "blancs_nuls": 5920,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 1060
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5604
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 19701
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 6480
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 7252
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 115949
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 8967
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 101406
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 137510
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 10647
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 41629
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 5204
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "57",
+    "libelle": "MOSELLE",
+    "inscrits": 738889,
+    "votants": 606898,
+    "exprimes": 597931,
+    "abstentions": 131991,
+    "blancs_nuls": 8967,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 1686
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 11490
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 31061
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 6301
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 6500
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 132024
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 9521
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 112502
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 182782
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 12070
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 88556
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 3438
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "58",
+    "libelle": "NIEVRE",
+    "inscrits": 169334,
+    "votants": 141674,
+    "exprimes": 139520,
+    "abstentions": 27660,
+    "blancs_nuls": 2154,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 538
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2319
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 7054
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 1812
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 4476
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 40954
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 1851
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 21544
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 36711
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 3514
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 16714
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 2033
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "59",
+    "libelle": "NORD",
+    "inscrits": 1776070,
+    "votants": 1435410,
+    "exprimes": 1414740,
+    "abstentions": 340660,
+    "blancs_nuls": 20670,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 3439
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 29563
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 73520
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 15149
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 43735
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 351223
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 20501
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 221217
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 414543
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 24034
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 195624
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 22192
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "60",
+    "libelle": "OISE",
+    "inscrits": 536752,
+    "votants": 448248,
+    "exprimes": 442346,
+    "abstentions": 88504,
+    "blancs_nuls": 5902,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 1461
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 8461
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 20606
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 4721
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 8225
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 94248
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 6528
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 70559
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 145518
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 11160
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 66040
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 4819
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "61",
+    "libelle": "ORNE",
+    "inscrits": 216406,
+    "votants": 185815,
+    "exprimes": 183136,
+    "abstentions": 30591,
+    "blancs_nuls": 2679,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 646
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2817
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 8221
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 2643
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 2002
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 37800
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 2875
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 34887
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 59216
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 6503
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 22494
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 3032
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "62",
+    "libelle": "PAS-DE-CALAIS",
+    "inscrits": 1078462,
+    "votants": 890610,
+    "exprimes": 875285,
+    "abstentions": 187852,
+    "blancs_nuls": 15325,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 2885
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 23105
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 54373
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 9444
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 30286
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 221798
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 10881
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 119477
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 224750
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 16648
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 140232
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 21406
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "63",
+    "libelle": "PUY-DE-DOME",
+    "inscrits": 443260,
+    "votants": 385768,
+    "exprimes": 379496,
+    "abstentions": 57492,
+    "blancs_nuls": 6272,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 1808
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 6138
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 19517
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 6658
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 8354
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 111275
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 5756
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 77146
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 99723
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 7559
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 31102
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 4460
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "64",
+    "libelle": "PYRENEES-ATLANTIQUES",
+    "inscrits": 474672,
+    "votants": 413823,
+    "exprimes": 408903,
+    "abstentions": 60849,
+    "blancs_nuls": 4920,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 1282
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3787
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 15939
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 6753
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 6826
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 107582
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 6629
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 121074
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 101954
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 5112
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 25185
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 6780
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "65",
+    "libelle": "HAUTES-PYRENEES",
+    "inscrits": 176279,
+    "votants": 152798,
+    "exprimes": 150633,
+    "abstentions": 23481,
+    "blancs_nuls": 2165,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 728
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 1621
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 6714
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 2182
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 4681
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 46510
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 1834
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 35270
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 34280
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 2337
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 11618
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 2858
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "66",
+    "libelle": "PYRENEES-ORIENTALES",
+    "inscrits": 314769,
+    "votants": 267591,
+    "exprimes": 263862,
+    "abstentions": 47178,
+    "blancs_nuls": 3729,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 1576
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3014
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 11149
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 4187
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 6917
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 65486
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 3374
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 37485
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 84952
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 4888
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 37494
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 3340
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "67",
+    "libelle": "BAS-RHIN",
+    "inscrits": 717337,
+    "votants": 596047,
+    "exprimes": 587844,
+    "abstentions": 121290,
+    "blancs_nuls": 8203,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 1452
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 7767
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 18631
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 7384
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 3195
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 100233
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 11897
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 131484
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 213050
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 12292
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 77555
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 2904
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "68",
+    "libelle": "HAUT-RHIN",
+    "inscrits": 506877,
+    "votants": 419884,
+    "exprimes": 413421,
+    "abstentions": 86993,
+    "blancs_nuls": 6463,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 1070
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 6054
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 14679
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 6374
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 2905
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 71050
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 8485
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 82855
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 149334
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 10200
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 58177
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 2238
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "69",
+    "libelle": "RHONE",
+    "inscrits": 1037635,
+    "votants": 896454,
+    "exprimes": 887277,
+    "abstentions": 141181,
+    "blancs_nuls": 9177,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 2056
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 8681
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 26840
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 10263
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 13295
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 211736
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 15484
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 185528
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 311204
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 17247
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 80674
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 4269
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "70",
+    "libelle": "HAUTE-SAONE",
+    "inscrits": 179506,
+    "votants": 153871,
+    "exprimes": 151088,
+    "abstentions": 25635,
+    "blancs_nuls": 2783,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 553
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2531
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 7273
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 2166
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 1914
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 35458
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 2386
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 22010
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 45990
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 3770
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 24894
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 2143
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "71",
+    "libelle": "SAONE-ET-LOIRE",
+    "inscrits": 408946,
+    "votants": 342267,
+    "exprimes": 336246,
+    "abstentions": 66679,
+    "blancs_nuls": 6021,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 1177
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5004
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 15049
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 4081
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 6383
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 86741
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 4222
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 61289
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 100475
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 8348
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 38975
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 4502
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "72",
+    "libelle": "SARTHE",
+    "inscrits": 401328,
+    "votants": 341008,
+    "exprimes": 333924,
+    "abstentions": 60320,
+    "blancs_nuls": 7084,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 1244
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5476
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 17862
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 4386
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 5765
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 85077
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 5590
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 61200
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 96903
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 12145
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 34994
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 3282
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "73",
+    "libelle": "SAVOIE",
+    "inscrits": 287948,
+    "votants": 248278,
+    "exprimes": 244865,
+    "abstentions": 39670,
+    "blancs_nuls": 3413,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 795
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2691
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 9555
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 4529
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 4491
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 53447
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 5236
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 49138
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 81109
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 5396
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 26325
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 2153
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "74",
+    "libelle": "HAUTE-SAVOIE",
+    "inscrits": 472822,
+    "votants": 404056,
+    "exprimes": 398932,
+    "abstentions": 68766,
+    "blancs_nuls": 5124,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 1055
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3786
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 11944
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 7020
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 3808
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 74808
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 8817
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 88107
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 149415
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 8573
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 38776
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 2823
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "75",
+    "libelle": "PARIS",
+    "inscrits": 1221993,
+    "votants": 1068274,
+    "exprimes": 1059541,
+    "abstentions": 153719,
+    "blancs_nuls": 8733,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 1770
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 6188
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 22099
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 10904
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 12872
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 336407
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 16261
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 219660
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 371604
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 11618
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 48481
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 1677
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "76",
+    "libelle": "SEINE-MARITIME",
+    "inscrits": 873585,
+    "votants": 728952,
+    "exprimes": 718317,
+    "abstentions": 144633,
+    "blancs_nuls": 10635,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 2412
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 14411
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 41537
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 8623
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 20153
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 186140
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 10852
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 123248
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 204170
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 16149
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 82333
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 8289
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "77",
+    "libelle": "SEINE-ET-MARNE",
+    "inscrits": 802133,
+    "votants": 684951,
+    "exprimes": 676526,
+    "abstentions": 117182,
+    "blancs_nuls": 8425,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 1819
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 8278
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 27180
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 6779
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 11812
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 161002
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 11269
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 126933
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 226884
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 14789
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 75584
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 4197
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "78",
+    "libelle": "YVELINES",
+    "inscrits": 894380,
+    "votants": 781884,
+    "exprimes": 774414,
+    "abstentions": 112496,
+    "blancs_nuls": 7470,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 1485
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 7010
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 21470
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 6753
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 9883
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 178943
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 12682
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 169312
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 291648
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 14911
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 56867
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 3450
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "79",
+    "libelle": "DEUX-SEVRES",
+    "inscrits": 269277,
+    "votants": 234278,
+    "exprimes": 229121,
+    "abstentions": 34999,
+    "blancs_nuls": 5157,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 734
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2676
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 9043
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 2543
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 2227
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 77655
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 3536
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 43418
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 60847
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 9489
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 13256
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 3697
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "80",
+    "libelle": "SOMME",
+    "inscrits": 410269,
+    "votants": 345897,
+    "exprimes": 340826,
+    "abstentions": 64372,
+    "blancs_nuls": 5071,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 1349
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 8254
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 20055
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 3551
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 7751
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 84835
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 4002
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 48694
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 94514
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 7445
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 48958
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 11418
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "81",
+    "libelle": "TARN",
+    "inscrits": 276354,
+    "votants": 244342,
+    "exprimes": 240326,
+    "abstentions": 32012,
+    "blancs_nuls": 4016,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 1383
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2799
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 9464
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 4436
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 4609
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 70425
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 3336
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 45128
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 64756
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 5066
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 25423
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 3501
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "82",
+    "libelle": "TARN-ET-GARONNE",
+    "inscrits": 165833,
+    "votants": 145968,
+    "exprimes": 143871,
+    "abstentions": 19865,
+    "blancs_nuls": 2097,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 796
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 1598
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 5300
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 2634
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 2294
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 38503
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 1898
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 25082
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 41287
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 3393
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 17956
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 3130
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "83",
+    "libelle": "VAR",
+    "inscrits": 716795,
+    "votants": 598281,
+    "exprimes": 591490,
+    "abstentions": 118514,
+    "blancs_nuls": 6791,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 2261
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5914
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 19014
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 6860
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 10618
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 110659
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 8107
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 90550
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 235068
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 13465
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 82292
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 6682
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "84",
+    "libelle": "VAUCLUSE",
+    "inscrits": 370625,
+    "votants": 316193,
+    "exprimes": 312145,
+    "abstentions": 54432,
+    "blancs_nuls": 4048,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 1373
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2998
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 11021
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 5149
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 5564
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 66955
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 4243
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 48263
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 101853
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 9068
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 51648
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 4010
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "85",
+    "libelle": "VENDEE",
+    "inscrits": 464249,
+    "votants": 409150,
+    "exprimes": 402532,
+    "abstentions": 55099,
+    "blancs_nuls": 6618,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 1079
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4580
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 14649
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 3560
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 3677
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 87244
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 6559
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 83626
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 119640
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 45388
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 25991
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 6539
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "86",
+    "libelle": "VIENNE",
+    "inscrits": 299185,
+    "votants": 256618,
+    "exprimes": 252554,
+    "abstentions": 42567,
+    "blancs_nuls": 4064,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 854
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3495
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 10908
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 3254
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 3964
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 73633
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 4035
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 48001
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 70350
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 8130
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 21089
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 4841
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "87",
+    "libelle": "HAUTE-VIENNE",
+    "inscrits": 265865,
+    "votants": 230676,
+    "exprimes": 225765,
+    "abstentions": 35189,
+    "blancs_nuls": 4911,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 1105
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3352
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 12388
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 3045
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 7152
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 71025
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 3208
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 40087
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 56671
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 5219
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 19320
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 3193
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "88",
+    "libelle": "VOSGES",
+    "inscrits": 288720,
+    "votants": 245336,
+    "exprimes": 241020,
+    "abstentions": 43384,
+    "blancs_nuls": 4316,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 889
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4305
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 11875
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 3571
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 2627
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 54882
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 3822
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 42703
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 70018
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 6129
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 37749
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 2450
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "89",
+    "libelle": "YONNE",
+    "inscrits": 245539,
+    "votants": 205734,
+    "exprimes": 202854,
+    "abstentions": 39805,
+    "blancs_nuls": 2880,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 836
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3112
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 8716
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 2777
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 3472
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 42014
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 2924
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 35434
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 65483
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 6363
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 28873
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 2850
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "90",
+    "libelle": "TERRITOIRE DE BELFORT",
+    "inscrits": 93779,
+    "votants": 79081,
+    "exprimes": 77872,
+    "abstentions": 14698,
+    "blancs_nuls": 1209,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 269
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 1427
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 3960
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 1144
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 955
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 19471
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 1441
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 11894
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 23356
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 1788
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 11527
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 640
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "91",
+    "libelle": "ESSONNE",
+    "inscrits": 742932,
+    "votants": 646909,
+    "exprimes": 639823,
+    "abstentions": 96023,
+    "blancs_nuls": 7086,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 1555
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 7178
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 23164
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 6619
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 12638
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 174519
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 11448
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 130961
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 201596
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 11773
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 55358
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 3014
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "92",
+    "libelle": "HAUTS-DE-SEINE",
+    "inscrits": 904665,
+    "votants": 786507,
+    "exprimes": 778300,
+    "abstentions": 118158,
+    "blancs_nuls": 8207,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 1373
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5402
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 19623
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 6555
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 13495
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 202149
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 11299
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 165812
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 297836
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 9843
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 43025
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 1888
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "93",
+    "libelle": "SEINE-SAINT-DENIS",
+    "inscrits": 708171,
+    "votants": 587920,
+    "exprimes": 580643,
+    "abstentions": 120251,
+    "blancs_nuls": 7277,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 1460
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 6489
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 24281
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 7157
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 20542
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 198180
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 7823
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 97058
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 155887
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 7774
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 52518
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 1474
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "94",
+    "libelle": "VAL-DE-MARNE",
+    "inscrits": 745956,
+    "votants": 638232,
+    "exprimes": 631148,
+    "abstentions": 107724,
+    "blancs_nuls": 7084,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 1549
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5875
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 22154
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 6766
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 19232
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 183058
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 10132
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 124697
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 200836
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 8951
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 46119
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 1779
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "95",
+    "libelle": "VAL-D'OISE",
+    "inscrits": 675114,
+    "votants": 578980,
+    "exprimes": 571892,
+    "abstentions": 96134,
+    "blancs_nuls": 7088,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 1377
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 6542
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 21276
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 5910
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 10496
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 158743
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 8973
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 108642
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 185134
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 9819
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 52610
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 2370
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "2A",
+    "libelle": "CORSE-DU-SUD",
+    "inscrits": 94555,
+    "votants": 71477,
+    "exprimes": 70445,
+    "abstentions": 23078,
+    "blancs_nuls": 1032,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 209
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 582
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 2988
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 762
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 2285
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 13836
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 972
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 9144
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 26443
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 955
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 11212
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 1057
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 1,
+    "code": "2B",
+    "libelle": "HAUTE-CORSE",
+    "inscrits": 111839,
+    "votants": 84356,
+    "exprimes": 83126,
+    "abstentions": 27483,
+    "blancs_nuls": 1230,
+    "candidats": [
+      {
+        "nom": "Gérard SCHIVARDI",
+        "parti": "PT",
+        "votes": 241
+      },
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 764
+      },
+      {
+        "nom": "Olivier BESANCENOT",
+        "parti": "LCR",
+        "votes": 2953
+      },
+      {
+        "nom": "José BOVE",
+        "parti": "DVG",
+        "votes": 897
+      },
+      {
+        "nom": "Marie-George BUFFET",
+        "parti": "PC",
+        "votes": 2879
+      },
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 19657
+      },
+      {
+        "nom": "Dominique VOYNET",
+        "parti": "VERTS",
+        "votes": 1148
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "UDF",
+        "votes": 9835
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 30376
+      },
+      {
+        "nom": "Philippe DE VILLIERS",
+        "parti": "MPF",
+        "votes": 953
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 12221
+      },
+      {
+        "nom": "Frédéric NIHOUS",
+        "parti": "CNPT",
+        "votes": 1202
+      }
+    ]
+  }
+]

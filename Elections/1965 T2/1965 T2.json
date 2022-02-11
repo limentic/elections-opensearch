@@ -1,0 +1,2072 @@
+[
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "1",
+    "libelle": "AIN",
+    "inscrits": 206473,
+    "votants": 167689,
+    "exprimes": 162964,
+    "abstentions": 38784,
+    "blancs_nuls": 4725,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 72066
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 90898
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "2",
+    "libelle": "AISNE",
+    "inscrits": 290593,
+    "votants": 253587,
+    "exprimes": 247031,
+    "abstentions": 37006,
+    "blancs_nuls": 6556,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 109130
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 137901
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "3",
+    "libelle": "ALLIER",
+    "inscrits": 244320,
+    "votants": 204904,
+    "exprimes": 199612,
+    "abstentions": 39416,
+    "blancs_nuls": 5292,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 109592
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 90020
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "4",
+    "libelle": "ALPES-DE-HAUTE-PROVENCE",
+    "inscrits": 62577,
+    "votants": 51601,
+    "exprimes": 50189,
+    "abstentions": 10976,
+    "blancs_nuls": 1412,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 28152
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 22037
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "5",
+    "libelle": "HAUTES-ALPES",
+    "inscrits": 57569,
+    "votants": 46962,
+    "exprimes": 45660,
+    "abstentions": 10607,
+    "blancs_nuls": 1302,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 21021
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 24639
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "6",
+    "libelle": "ALPES-MARITIMES",
+    "inscrits": 408942,
+    "votants": 338892,
+    "exprimes": 328576,
+    "abstentions": 70050,
+    "blancs_nuls": 10316,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 162699
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 165877
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "7",
+    "libelle": "ARDECHE",
+    "inscrits": 165572,
+    "votants": 138369,
+    "exprimes": 134423,
+    "abstentions": 27203,
+    "blancs_nuls": 3946,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 59920
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 74503
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "8",
+    "libelle": "ARDENNES",
+    "inscrits": 166734,
+    "votants": 143179,
+    "exprimes": 139583,
+    "abstentions": 23555,
+    "blancs_nuls": 3596,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 62329
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 77254
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "9",
+    "libelle": "ARIEGE",
+    "inscrits": 94742,
+    "votants": 79465,
+    "exprimes": 78118,
+    "abstentions": 15277,
+    "blancs_nuls": 1347,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 48828
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 29290
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "10",
+    "libelle": "AUBE",
+    "inscrits": 153399,
+    "votants": 131376,
+    "exprimes": 127174,
+    "abstentions": 22023,
+    "blancs_nuls": 4202,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 58062
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 69112
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "11",
+    "libelle": "AUDE",
+    "inscrits": 173913,
+    "votants": 151899,
+    "exprimes": 148259,
+    "abstentions": 22014,
+    "blancs_nuls": 3640,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 96225
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 52034
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "12",
+    "libelle": "AVEYRON",
+    "inscrits": 188848,
+    "votants": 159602,
+    "exprimes": 153383,
+    "abstentions": 29246,
+    "blancs_nuls": 6219,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 66905
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 86478
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "13",
+    "libelle": "BOUCHES-DU-RHONE",
+    "inscrits": 749793,
+    "votants": 605213,
+    "exprimes": 591144,
+    "abstentions": 144580,
+    "blancs_nuls": 14069,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 334228
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 256916
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "14",
+    "libelle": "CALVADOS",
+    "inscrits": 281530,
+    "votants": 236547,
+    "exprimes": 228140,
+    "abstentions": 44983,
+    "blancs_nuls": 8407,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 81277
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 146863
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "15",
+    "libelle": "CANTAL",
+    "inscrits": 110618,
+    "votants": 87425,
+    "exprimes": 85277,
+    "abstentions": 23193,
+    "blancs_nuls": 2148,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 32041
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 53236
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "16",
+    "libelle": "CHARENTE",
+    "inscrits": 206210,
+    "votants": 173268,
+    "exprimes": 168463,
+    "abstentions": 32942,
+    "blancs_nuls": 4805,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 78970
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 89493
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "17",
+    "libelle": "CHARENTE-MARITIME",
+    "inscrits": 290538,
+    "votants": 237724,
+    "exprimes": 231142,
+    "abstentions": 52814,
+    "blancs_nuls": 6582,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 113030
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 118112
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "18",
+    "libelle": "CHER",
+    "inscrits": 185981,
+    "votants": 156615,
+    "exprimes": 152517,
+    "abstentions": 29366,
+    "blancs_nuls": 4098,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 76057
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 76460
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "19",
+    "libelle": "CORREZE",
+    "inscrits": 161834,
+    "votants": 137208,
+    "exprimes": 134893,
+    "abstentions": 24626,
+    "blancs_nuls": 2315,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 73448
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 61445
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "20",
+    "libelle": "CORSE",
+    "inscrits": 178379,
+    "votants": 109318,
+    "exprimes": 107916,
+    "abstentions": 69061,
+    "blancs_nuls": 1402,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 43541
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 64375
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "21",
+    "libelle": "COTE-D'OR",
+    "inscrits": 232688,
+    "votants": 191900,
+    "exprimes": 184266,
+    "abstentions": 40788,
+    "blancs_nuls": 7634,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 86460
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 97806
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "22",
+    "libelle": "COTES-D'ARMOR",
+    "inscrits": 326442,
+    "votants": 282610,
+    "exprimes": 277702,
+    "abstentions": 43832,
+    "blancs_nuls": 4908,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 125512
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 152190
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "23",
+    "libelle": "CREUSE",
+    "inscrits": 113144,
+    "votants": 88860,
+    "exprimes": 87394,
+    "abstentions": 24284,
+    "blancs_nuls": 1466,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 45859
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 41535
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "24",
+    "libelle": "DORDOGNE",
+    "inscrits": 253017,
+    "votants": 217965,
+    "exprimes": 213294,
+    "abstentions": 35052,
+    "blancs_nuls": 4671,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 113186
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 100108
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "25",
+    "libelle": "DOUBS",
+    "inscrits": 219875,
+    "votants": 190786,
+    "exprimes": 186143,
+    "abstentions": 29089,
+    "blancs_nuls": 4643,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 77310
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 108833
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "26",
+    "libelle": "DROME",
+    "inscrits": 195204,
+    "votants": 162214,
+    "exprimes": 157707,
+    "abstentions": 32990,
+    "blancs_nuls": 4507,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 77721
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 79986
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "27",
+    "libelle": "EURE",
+    "inscrits": 213621,
+    "votants": 184479,
+    "exprimes": 178639,
+    "abstentions": 29142,
+    "blancs_nuls": 5840,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 78882
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 99757
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "28",
+    "libelle": "EURE-ET-LOIR",
+    "inscrits": 173872,
+    "votants": 148978,
+    "exprimes": 144161,
+    "abstentions": 24894,
+    "blancs_nuls": 4817,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 61688
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 82473
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "29",
+    "libelle": "FINISTERE",
+    "inscrits": 494879,
+    "votants": 419188,
+    "exprimes": 411748,
+    "abstentions": 75691,
+    "blancs_nuls": 7440,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 151697
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 260051
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "30",
+    "libelle": "GARD",
+    "inscrits": 279156,
+    "votants": 237691,
+    "exprimes": 230459,
+    "abstentions": 41465,
+    "blancs_nuls": 7232,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 138455
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 92004
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "31",
+    "libelle": "HAUTE-GARONNE",
+    "inscrits": 386737,
+    "votants": 325005,
+    "exprimes": 317290,
+    "abstentions": 61732,
+    "blancs_nuls": 7715,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 181861
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 135429
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "32",
+    "libelle": "GERS",
+    "inscrits": 115087,
+    "votants": 96049,
+    "exprimes": 93303,
+    "abstentions": 19038,
+    "blancs_nuls": 2746,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 60875
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 32428
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "33",
+    "libelle": "GIRONDE",
+    "inscrits": 581834,
+    "votants": 484753,
+    "exprimes": 473011,
+    "abstentions": 97081,
+    "blancs_nuls": 11742,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 231628
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 241383
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "34",
+    "libelle": "HERAULT",
+    "inscrits": 324912,
+    "votants": 273688,
+    "exprimes": 265043,
+    "abstentions": 51224,
+    "blancs_nuls": 8645,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 159238
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 105805
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "35",
+    "libelle": "ILLE-ET-VILAINE",
+    "inscrits": 381665,
+    "votants": 322875,
+    "exprimes": 313947,
+    "abstentions": 58790,
+    "blancs_nuls": 8928,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 101651
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 212296
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "36",
+    "libelle": "INDRE",
+    "inscrits": 161000,
+    "votants": 134252,
+    "exprimes": 129839,
+    "abstentions": 26748,
+    "blancs_nuls": 4413,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 69208
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 60631
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "37",
+    "libelle": "INDRE-ET-LOIRE",
+    "inscrits": 246813,
+    "votants": 207576,
+    "exprimes": 200440,
+    "abstentions": 39237,
+    "blancs_nuls": 7136,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 93633
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 106807
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "38",
+    "libelle": "ISERE",
+    "inscrits": 433983,
+    "votants": 357797,
+    "exprimes": 348618,
+    "abstentions": 76186,
+    "blancs_nuls": 9179,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 179424
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 169194
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "39",
+    "libelle": "JURA",
+    "inscrits": 141733,
+    "votants": 120111,
+    "exprimes": 116895,
+    "abstentions": 21622,
+    "blancs_nuls": 3216,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 51835
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 65060
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "40",
+    "libelle": "LANDES",
+    "inscrits": 176442,
+    "votants": 150670,
+    "exprimes": 147555,
+    "abstentions": 25772,
+    "blancs_nuls": 3115,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 68826
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 78729
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "41",
+    "libelle": "LOIR-ET-CHER",
+    "inscrits": 162347,
+    "votants": 138836,
+    "exprimes": 134226,
+    "abstentions": 23511,
+    "blancs_nuls": 4610,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 62892
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 71334
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "42",
+    "libelle": "LOIRE",
+    "inscrits": 411746,
+    "votants": 337983,
+    "exprimes": 324975,
+    "abstentions": 73763,
+    "blancs_nuls": 13008,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 150042
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 174933
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "43",
+    "libelle": "HAUTE-LOIRE",
+    "inscrits": 138645,
+    "votants": 112895,
+    "exprimes": 108318,
+    "abstentions": 25750,
+    "blancs_nuls": 4577,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 42856
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 65462
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "44",
+    "libelle": "LOIRE-ATLANTIQUE",
+    "inscrits": 489269,
+    "votants": 416761,
+    "exprimes": 402772,
+    "abstentions": 72508,
+    "blancs_nuls": 13989,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 158142
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 244630
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "45",
+    "libelle": "LOIRET",
+    "inscrits": 242971,
+    "votants": 207481,
+    "exprimes": 201227,
+    "abstentions": 35490,
+    "blancs_nuls": 6254,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 84173
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 117054
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "46",
+    "libelle": "LOT",
+    "inscrits": 101075,
+    "votants": 86201,
+    "exprimes": 84045,
+    "abstentions": 14874,
+    "blancs_nuls": 2156,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 42979
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 41066
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "47",
+    "libelle": "LOT-ET-GARONNE",
+    "inscrits": 173968,
+    "votants": 151053,
+    "exprimes": 146690,
+    "abstentions": 22915,
+    "blancs_nuls": 4363,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 87178
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 59512
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "48",
+    "libelle": "LOZERE",
+    "inscrits": 54132,
+    "votants": 43897,
+    "exprimes": 42717,
+    "abstentions": 10235,
+    "blancs_nuls": 1180,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 14193
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 28524
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "49",
+    "libelle": "MAINE-ET-LOIRE",
+    "inscrits": 332111,
+    "votants": 278775,
+    "exprimes": 267574,
+    "abstentions": 53336,
+    "blancs_nuls": 11201,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 86971
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 180603
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "50",
+    "libelle": "MANCHE",
+    "inscrits": 268178,
+    "votants": 224786,
+    "exprimes": 218023,
+    "abstentions": 43392,
+    "blancs_nuls": 6763,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 58195
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 159828
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "51",
+    "libelle": "MARNE",
+    "inscrits": 258446,
+    "votants": 217340,
+    "exprimes": 210617,
+    "abstentions": 41106,
+    "blancs_nuls": 6723,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 92877
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 117740
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "52",
+    "libelle": "HAUTE-MARNE",
+    "inscrits": 120178,
+    "votants": 102918,
+    "exprimes": 100223,
+    "abstentions": 17260,
+    "blancs_nuls": 2695,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 38085
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 62138
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "53",
+    "libelle": "MAYENNE",
+    "inscrits": 152468,
+    "votants": 131762,
+    "exprimes": 126147,
+    "abstentions": 20706,
+    "blancs_nuls": 5615,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 38182
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 87965
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "54",
+    "libelle": "MEURTHE-ET-MOSELLE",
+    "inscrits": 369449,
+    "votants": 317517,
+    "exprimes": 309868,
+    "abstentions": 51932,
+    "blancs_nuls": 7649,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 128010
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 181858
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "55",
+    "libelle": "MEUSE",
+    "inscrits": 120841,
+    "votants": 103990,
+    "exprimes": 101004,
+    "abstentions": 16851,
+    "blancs_nuls": 2986,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 33636
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 67368
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "56",
+    "libelle": "MORBIHAN",
+    "inscrits": 336716,
+    "votants": 279554,
+    "exprimes": 274400,
+    "abstentions": 57162,
+    "blancs_nuls": 5154,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 91979
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 182421
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "57",
+    "libelle": "MOSELLE",
+    "inscrits": 479238,
+    "votants": 413986,
+    "exprimes": 405160,
+    "abstentions": 65252,
+    "blancs_nuls": 8826,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 114315
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 290845
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "58",
+    "libelle": "NIEVRE",
+    "inscrits": 156252,
+    "votants": 134637,
+    "exprimes": 131872,
+    "abstentions": 21615,
+    "blancs_nuls": 2765,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 80474
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 51398
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "59",
+    "libelle": "NORD",
+    "inscrits": 1316766,
+    "votants": 1167907,
+    "exprimes": 1140656,
+    "abstentions": 148859,
+    "blancs_nuls": 27251,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 507483
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 633173
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "60",
+    "libelle": "OISE",
+    "inscrits": 283230,
+    "votants": 247068,
+    "exprimes": 240233,
+    "abstentions": 36162,
+    "blancs_nuls": 6835,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 103248
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 136985
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "61",
+    "libelle": "ORNE",
+    "inscrits": 169166,
+    "votants": 143321,
+    "exprimes": 138367,
+    "abstentions": 25845,
+    "blancs_nuls": 4954,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 45404
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 92963
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "62",
+    "libelle": "PAS-DE-CALAIS",
+    "inscrits": 754357,
+    "votants": 670846,
+    "exprimes": 657275,
+    "abstentions": 83511,
+    "blancs_nuls": 13571,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 322832
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 334443
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "63",
+    "libelle": "PUY-DE-DOME",
+    "inscrits": 315834,
+    "votants": 260931,
+    "exprimes": 254725,
+    "abstentions": 54903,
+    "blancs_nuls": 6206,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 122990
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 131735
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "64",
+    "libelle": "PYRENEES-ATLANTIQUES",
+    "inscrits": 307277,
+    "votants": 256264,
+    "exprimes": 248817,
+    "abstentions": 51013,
+    "blancs_nuls": 7447,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 101184
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 147633
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "65",
+    "libelle": "HAUTES-PYRENEES",
+    "inscrits": 139157,
+    "votants": 114675,
+    "exprimes": 112258,
+    "abstentions": 24482,
+    "blancs_nuls": 2417,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 62453
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 49805
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "66",
+    "libelle": "PYRENEES-ORIENTALES",
+    "inscrits": 162797,
+    "votants": 133124,
+    "exprimes": 129270,
+    "abstentions": 29673,
+    "blancs_nuls": 3854,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 74358
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 54912
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "67",
+    "libelle": "BAS-RHIN",
+    "inscrits": 467847,
+    "votants": 378287,
+    "exprimes": 372020,
+    "abstentions": 89560,
+    "blancs_nuls": 6267,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 74851
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 297169
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "68",
+    "libelle": "HAUT-RHIN",
+    "inscrits": 340182,
+    "votants": 288308,
+    "exprimes": 278098,
+    "abstentions": 51874,
+    "blancs_nuls": 10210,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 72296
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 205802
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "69",
+    "libelle": "RHONE",
+    "inscrits": 623065,
+    "votants": 513740,
+    "exprimes": 493110,
+    "abstentions": 109325,
+    "blancs_nuls": 20630,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 229694
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 263416
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "70",
+    "libelle": "HAUTE-SAONE",
+    "inscrits": 131810,
+    "votants": 114572,
+    "exprimes": 111418,
+    "abstentions": 17238,
+    "blancs_nuls": 3154,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 50592
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 60826
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "71",
+    "libelle": "SAONE-ET-LOIRE",
+    "inscrits": 330292,
+    "votants": 267036,
+    "exprimes": 259810,
+    "abstentions": 63256,
+    "blancs_nuls": 7226,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 126589
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 133221
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "72",
+    "libelle": "SARTHE",
+    "inscrits": 266850,
+    "votants": 227185,
+    "exprimes": 221057,
+    "abstentions": 39665,
+    "blancs_nuls": 6128,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 102672
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 118385
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "73",
+    "libelle": "SAVOIE",
+    "inscrits": 161238,
+    "votants": 130302,
+    "exprimes": 126904,
+    "abstentions": 30936,
+    "blancs_nuls": 3398,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 58468
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 68436
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "74",
+    "libelle": "HAUTE-SAVOIE",
+    "inscrits": 201024,
+    "votants": 166365,
+    "exprimes": 161583,
+    "abstentions": 34659,
+    "blancs_nuls": 4782,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 58941
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 102642
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "75",
+    "libelle": "SEINE",
+    "inscrits": 3218731,
+    "votants": 2716430,
+    "exprimes": 2639147,
+    "abstentions": 502301,
+    "blancs_nuls": 77283,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 1253300
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 1385847
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "76",
+    "libelle": "SEINE-MARITIME",
+    "inscrits": 620227,
+    "votants": 527938,
+    "exprimes": 511192,
+    "abstentions": 92289,
+    "blancs_nuls": 16746,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 247507
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 263685
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "77",
+    "libelle": "SEINE-ET-MARNE",
+    "inscrits": 323844,
+    "votants": 275482,
+    "exprimes": 267536,
+    "abstentions": 48362,
+    "blancs_nuls": 7946,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 117943
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 149593
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "78",
+    "libelle": "YVELINES",
+    "inscrits": 1413312,
+    "votants": 1222421,
+    "exprimes": 1189766,
+    "abstentions": 190891,
+    "blancs_nuls": 32655,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 573149
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 616617
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "79",
+    "libelle": "DEUX-SEVRES",
+    "inscrits": 199662,
+    "votants": 170287,
+    "exprimes": 164058,
+    "abstentions": 29375,
+    "blancs_nuls": 6229,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 68268
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 95790
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "80",
+    "libelle": "SOMME",
+    "inscrits": 296537,
+    "votants": 266563,
+    "exprimes": 260190,
+    "abstentions": 29974,
+    "blancs_nuls": 6373,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 120065
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 140125
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "81",
+    "libelle": "TARN",
+    "inscrits": 207872,
+    "votants": 183452,
+    "exprimes": 177425,
+    "abstentions": 24420,
+    "blancs_nuls": 6027,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 96445
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 80980
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "82",
+    "libelle": "TARN-ET-GARONNE",
+    "inscrits": 111259,
+    "votants": 96919,
+    "exprimes": 93950,
+    "abstentions": 14340,
+    "blancs_nuls": 2969,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 52388
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 41562
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "83",
+    "libelle": "VAR",
+    "inscrits": 312992,
+    "votants": 258302,
+    "exprimes": 251982,
+    "abstentions": 54690,
+    "blancs_nuls": 6320,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 132451
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 119531
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "84",
+    "libelle": "VAUCLUSE",
+    "inscrits": 194235,
+    "votants": 167152,
+    "exprimes": 161618,
+    "abstentions": 27083,
+    "blancs_nuls": 5534,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 94319
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 67299
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "85",
+    "libelle": "VENDEE",
+    "inscrits": 254126,
+    "votants": 221007,
+    "exprimes": 211983,
+    "abstentions": 33119,
+    "blancs_nuls": 9024,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 61147
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 150836
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "86",
+    "libelle": "VIENNE",
+    "inscrits": 206752,
+    "votants": 173258,
+    "exprimes": 167878,
+    "abstentions": 33494,
+    "blancs_nuls": 5380,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 71917
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 95961
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "87",
+    "libelle": "HAUTE-VIENNE",
+    "inscrits": 226734,
+    "votants": 193547,
+    "exprimes": 189829,
+    "abstentions": 33187,
+    "blancs_nuls": 3718,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 105539
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 84290
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "88",
+    "libelle": "VOSGES",
+    "inscrits": 230192,
+    "votants": 195662,
+    "exprimes": 189738,
+    "abstentions": 34530,
+    "blancs_nuls": 5924,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 70385
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 119353
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "89",
+    "libelle": "YONNE",
+    "inscrits": 172507,
+    "votants": 145253,
+    "exprimes": 140925,
+    "abstentions": 27254,
+    "blancs_nuls": 4328,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 62984
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 77941
+      }
+    ]
+  },
+  {
+    "election": 1965,
+    "tour": 2,
+    "code": "90",
+    "libelle": "TERRITOIRE DE BELFORT",
+    "inscrits": 64220,
+    "votants": 54277,
+    "exprimes": 52960,
+    "abstentions": 9943,
+    "blancs_nuls": 1317,
+    "candidats": [
+      {
+        "nom": "François MITTERRAND",
+        "parti": "CIR",
+        "votes": 24606
+      },
+      {
+        "nom": "Charles DE GAULLE",
+        "parti": "UNR",
+        "votes": 28354
+      }
+    ]
+  }
+]

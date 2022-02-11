@@ -1,0 +1,2210 @@
+[
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "1",
+    "libelle": "AIN",
+    "inscrits": 372955,
+    "votants": 319518,
+    "exprimes": 305854,
+    "abstentions": 53437,
+    "blancs_nuls": 13664,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 120689
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 185165
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "2",
+    "libelle": "AISNE",
+    "inscrits": 377355,
+    "votants": 317391,
+    "exprimes": 303007,
+    "abstentions": 59964,
+    "blancs_nuls": 14384,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 141342
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 161665
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "3",
+    "libelle": "ALLIER",
+    "inscrits": 259503,
+    "votants": 220677,
+    "exprimes": 209868,
+    "abstentions": 38826,
+    "blancs_nuls": 10809,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 107442
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 102426
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "4",
+    "libelle": "ALPES DE HAUTE PROVENCE",
+    "inscrits": 118928,
+    "votants": 103788,
+    "exprimes": 99044,
+    "abstentions": 15140,
+    "blancs_nuls": 4744,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 46360
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 52684
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "5",
+    "libelle": "HAUTES ALPES",
+    "inscrits": 103052,
+    "votants": 89694,
+    "exprimes": 85619,
+    "abstentions": 13358,
+    "blancs_nuls": 4075,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 39668
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 45951
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "6",
+    "libelle": "ALPES MARITIMES",
+    "inscrits": 721912,
+    "votants": 606765,
+    "exprimes": 586289,
+    "abstentions": 115147,
+    "blancs_nuls": 20476,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 187169
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 399120
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "7",
+    "libelle": "ARDECHE",
+    "inscrits": 235544,
+    "votants": 203934,
+    "exprimes": 194535,
+    "abstentions": 31610,
+    "blancs_nuls": 9399,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 94121
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 100414
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "8",
+    "libelle": "ARDENNES",
+    "inscrits": 199104,
+    "votants": 165433,
+    "exprimes": 158048,
+    "abstentions": 33671,
+    "blancs_nuls": 7385,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 73442
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 84606
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "9",
+    "libelle": "ARIEGE",
+    "inscrits": 113791,
+    "votants": 99560,
+    "exprimes": 95076,
+    "abstentions": 14231,
+    "blancs_nuls": 4484,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 56628
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 38448
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "10",
+    "libelle": "AUBE",
+    "inscrits": 204735,
+    "votants": 171764,
+    "exprimes": 164166,
+    "abstentions": 32971,
+    "blancs_nuls": 7598,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 62885
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 101281
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "11",
+    "libelle": "AUDE",
+    "inscrits": 254384,
+    "votants": 220301,
+    "exprimes": 210322,
+    "abstentions": 34083,
+    "blancs_nuls": 9979,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 109194
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 101128
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "12",
+    "libelle": "AVEYRON",
+    "inscrits": 217855,
+    "votants": 192588,
+    "exprimes": 183813,
+    "abstentions": 25267,
+    "blancs_nuls": 8775,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 90380
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 93433
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "13",
+    "libelle": "BOUCHES DU RHONE",
+    "inscrits": 1260808,
+    "votants": 1069367,
+    "exprimes": 1029310,
+    "abstentions": 191441,
+    "blancs_nuls": 40057,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 431992
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 597318
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "14",
+    "libelle": "CALVADOS",
+    "inscrits": 482675,
+    "votants": 414393,
+    "exprimes": 397606,
+    "abstentions": 68282,
+    "blancs_nuls": 16787,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 194023
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 203583
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "15",
+    "libelle": "CANTAL",
+    "inscrits": 123322,
+    "votants": 106618,
+    "exprimes": 102189,
+    "abstentions": 16704,
+    "blancs_nuls": 4429,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 45208
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 56981
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "16",
+    "libelle": "CHARENTE",
+    "inscrits": 259795,
+    "votants": 222344,
+    "exprimes": 212989,
+    "abstentions": 37451,
+    "blancs_nuls": 9355,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 112632
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 100357
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "17",
+    "libelle": "CHARENTE MARITIME",
+    "inscrits": 453397,
+    "votants": 388279,
+    "exprimes": 372389,
+    "abstentions": 65118,
+    "blancs_nuls": 15890,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 179017
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 193372
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "18",
+    "libelle": "CHER",
+    "inscrits": 232240,
+    "votants": 193636,
+    "exprimes": 183770,
+    "abstentions": 38604,
+    "blancs_nuls": 9866,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 89323
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 94447
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "19",
+    "libelle": "CORREZE",
+    "inscrits": 187179,
+    "votants": 164528,
+    "exprimes": 156457,
+    "abstentions": 22651,
+    "blancs_nuls": 8071,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 82909
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 73548
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "21",
+    "libelle": "COTE D'OR",
+    "inscrits": 349541,
+    "votants": 302195,
+    "exprimes": 288978,
+    "abstentions": 47346,
+    "blancs_nuls": 13217,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 126761
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 162217
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "22",
+    "libelle": "COTES D'ARMOR",
+    "inscrits": 445750,
+    "votants": 394042,
+    "exprimes": 379199,
+    "abstentions": 51708,
+    "blancs_nuls": 14843,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 210577
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 168622
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "23",
+    "libelle": "CREUSE",
+    "inscrits": 99791,
+    "votants": 84757,
+    "exprimes": 80818,
+    "abstentions": 15034,
+    "blancs_nuls": 3939,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 43043
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 37775
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "24",
+    "libelle": "DORDOGNE",
+    "inscrits": 309001,
+    "votants": 273749,
+    "exprimes": 261551,
+    "abstentions": 35252,
+    "blancs_nuls": 12198,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 139604
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 121947
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "25",
+    "libelle": "DOUBS",
+    "inscrits": 353154,
+    "votants": 306243,
+    "exprimes": 292079,
+    "abstentions": 46911,
+    "blancs_nuls": 14164,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 129107
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 162972
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "26",
+    "libelle": "DROME",
+    "inscrits": 338120,
+    "votants": 290776,
+    "exprimes": 277866,
+    "abstentions": 47344,
+    "blancs_nuls": 12910,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 125384
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 152482
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "27",
+    "libelle": "EURE",
+    "inscrits": 403691,
+    "votants": 343416,
+    "exprimes": 328396,
+    "abstentions": 60275,
+    "blancs_nuls": 15020,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 139980
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 188416
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "28",
+    "libelle": "EURE ET LOIR",
+    "inscrits": 293844,
+    "votants": 249003,
+    "exprimes": 238053,
+    "abstentions": 44841,
+    "blancs_nuls": 10950,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 99601
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 138452
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "29",
+    "libelle": "FINISTERE",
+    "inscrits": 667354,
+    "votants": 582964,
+    "exprimes": 560440,
+    "abstentions": 84390,
+    "blancs_nuls": 22524,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 301788
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 258652
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "30",
+    "libelle": "GARD",
+    "inscrits": 488820,
+    "votants": 421299,
+    "exprimes": 402938,
+    "abstentions": 67521,
+    "blancs_nuls": 18361,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 176806
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 226132
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "31",
+    "libelle": "HAUTE GARONNE",
+    "inscrits": 789412,
+    "votants": 684391,
+    "exprimes": 656882,
+    "abstentions": 105021,
+    "blancs_nuls": 27509,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 357716
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 299166
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "32",
+    "libelle": "GERS",
+    "inscrits": 140283,
+    "votants": 124572,
+    "exprimes": 118872,
+    "abstentions": 15711,
+    "blancs_nuls": 5700,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 62418
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 56454
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "33",
+    "libelle": "GIRONDE",
+    "inscrits": 953649,
+    "votants": 826882,
+    "exprimes": 791916,
+    "abstentions": 126767,
+    "blancs_nuls": 34966,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 409550
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 382366
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "34",
+    "libelle": "HERAULT",
+    "inscrits": 699655,
+    "votants": 600187,
+    "exprimes": 576531,
+    "abstentions": 99468,
+    "blancs_nuls": 23656,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 265066
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 311465
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "35",
+    "libelle": "ILLE ET VILAINE",
+    "inscrits": 665677,
+    "votants": 582288,
+    "exprimes": 558535,
+    "abstentions": 83389,
+    "blancs_nuls": 23753,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 292606
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 265929
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "36",
+    "libelle": "INDRE",
+    "inscrits": 177331,
+    "votants": 151359,
+    "exprimes": 143139,
+    "abstentions": 25972,
+    "blancs_nuls": 8220,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 71818
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 71321
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "37",
+    "libelle": "INDRE ET LOIRE",
+    "inscrits": 401748,
+    "votants": 346227,
+    "exprimes": 331420,
+    "abstentions": 55521,
+    "blancs_nuls": 14807,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 156774
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 174646
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "38",
+    "libelle": "ISERE",
+    "inscrits": 784188,
+    "votants": 671092,
+    "exprimes": 643386,
+    "abstentions": 113096,
+    "blancs_nuls": 27706,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 308263
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 335123
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "39",
+    "libelle": "JURA",
+    "inscrits": 187173,
+    "votants": 161792,
+    "exprimes": 153785,
+    "abstentions": 25381,
+    "blancs_nuls": 8007,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 69180
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 84605
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "40",
+    "libelle": "LANDES",
+    "inscrits": 282988,
+    "votants": 248153,
+    "exprimes": 237849,
+    "abstentions": 34835,
+    "blancs_nuls": 10304,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 125638
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 112211
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "41",
+    "libelle": "LOIR ET CHER",
+    "inscrits": 240584,
+    "votants": 205510,
+    "exprimes": 195333,
+    "abstentions": 35074,
+    "blancs_nuls": 10177,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 86101
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 109232
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "42",
+    "libelle": "LOIRE",
+    "inscrits": 505913,
+    "votants": 426888,
+    "exprimes": 407069,
+    "abstentions": 79025,
+    "blancs_nuls": 19819,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 185421
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 221648
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "43",
+    "libelle": "HAUTE LOIRE",
+    "inscrits": 173262,
+    "votants": 149885,
+    "exprimes": 142168,
+    "abstentions": 23377,
+    "blancs_nuls": 7717,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 65084
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 77084
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "44",
+    "libelle": "LOIRE ATLANTIQUE",
+    "inscrits": 892230,
+    "votants": 771863,
+    "exprimes": 741021,
+    "abstentions": 120367,
+    "blancs_nuls": 30842,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 391655
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 349366
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "45",
+    "libelle": "LOIRET",
+    "inscrits": 435575,
+    "votants": 371776,
+    "exprimes": 355021,
+    "abstentions": 63799,
+    "blancs_nuls": 16755,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 147160
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 207861
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "46",
+    "libelle": "LOT",
+    "inscrits": 132885,
+    "votants": 118599,
+    "exprimes": 113335,
+    "abstentions": 14286,
+    "blancs_nuls": 5264,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 63945
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 49390
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "47",
+    "libelle": "LOT ET GARONNE",
+    "inscrits": 238952,
+    "votants": 208312,
+    "exprimes": 198777,
+    "abstentions": 30640,
+    "blancs_nuls": 9535,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 91516
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 107261
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "48",
+    "libelle": "LOZERE",
+    "inscrits": 59990,
+    "votants": 52838,
+    "exprimes": 50405,
+    "abstentions": 7152,
+    "blancs_nuls": 2433,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 22307
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 28098
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "49",
+    "libelle": "MAINE ET LOIRE",
+    "inscrits": 539948,
+    "votants": 469465,
+    "exprimes": 447551,
+    "abstentions": 70483,
+    "blancs_nuls": 21914,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 205221
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 242330
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "50",
+    "libelle": "MANCHE",
+    "inscrits": 371790,
+    "votants": 318603,
+    "exprimes": 304520,
+    "abstentions": 53187,
+    "blancs_nuls": 14083,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 133482
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 171038
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "51",
+    "libelle": "MARNE",
+    "inscrits": 382293,
+    "votants": 313652,
+    "exprimes": 299016,
+    "abstentions": 68641,
+    "blancs_nuls": 14636,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 121988
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 177028
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "52",
+    "libelle": "HAUTE MARNE",
+    "inscrits": 142345,
+    "votants": 118995,
+    "exprimes": 112908,
+    "abstentions": 23350,
+    "blancs_nuls": 6087,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 46132
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 66776
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "53",
+    "libelle": "MAYENNE",
+    "inscrits": 219951,
+    "votants": 190472,
+    "exprimes": 181857,
+    "abstentions": 29479,
+    "blancs_nuls": 8615,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 81013
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 100844
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "54",
+    "libelle": "MEURTHE ET MOSELLE",
+    "inscrits": 490176,
+    "votants": 407928,
+    "exprimes": 390168,
+    "abstentions": 82248,
+    "blancs_nuls": 17760,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 190727
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 199441
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "55",
+    "libelle": "MEUSE",
+    "inscrits": 141227,
+    "votants": 119369,
+    "exprimes": 113652,
+    "abstentions": 21858,
+    "blancs_nuls": 5717,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 48951
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 64701
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "56",
+    "libelle": "MORBIHAN",
+    "inscrits": 534904,
+    "votants": 465991,
+    "exprimes": 446138,
+    "abstentions": 68913,
+    "blancs_nuls": 19853,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 218085
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 228053
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "57",
+    "libelle": "MOSELLE",
+    "inscrits": 738923,
+    "votants": 602730,
+    "exprimes": 575230,
+    "abstentions": 136193,
+    "blancs_nuls": 27500,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 249859
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 325371
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "58",
+    "libelle": "NIEVRE",
+    "inscrits": 169341,
+    "votants": 143168,
+    "exprimes": 136566,
+    "abstentions": 26173,
+    "blancs_nuls": 6602,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 72258
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 64308
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "59",
+    "libelle": "NORD",
+    "inscrits": 1776605,
+    "votants": 1456277,
+    "exprimes": 1394185,
+    "abstentions": 320328,
+    "blancs_nuls": 62092,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 672679
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 721506
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "60",
+    "libelle": "OISE",
+    "inscrits": 536646,
+    "votants": 453307,
+    "exprimes": 433618,
+    "abstentions": 83339,
+    "blancs_nuls": 19689,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 180890
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 252728
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "61",
+    "libelle": "ORNE",
+    "inscrits": 216350,
+    "votants": 184472,
+    "exprimes": 176275,
+    "abstentions": 31878,
+    "blancs_nuls": 8197,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 74641
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 101634
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "62",
+    "libelle": "PAS DE CALAIS",
+    "inscrits": 1078402,
+    "votants": 897261,
+    "exprimes": 855671,
+    "abstentions": 181141,
+    "blancs_nuls": 41590,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 445273
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 410398
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "63",
+    "libelle": "PUY DE DOME",
+    "inscrits": 443174,
+    "votants": 384472,
+    "exprimes": 366774,
+    "abstentions": 58702,
+    "blancs_nuls": 17698,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 197914
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 168860
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "64",
+    "libelle": "PYRENEES ATLANTIQUES",
+    "inscrits": 475022,
+    "votants": 411923,
+    "exprimes": 391510,
+    "abstentions": 63099,
+    "blancs_nuls": 20413,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 205497
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 186013
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "65",
+    "libelle": "HAUTES PYRENEES",
+    "inscrits": 176248,
+    "votants": 152606,
+    "exprimes": 145723,
+    "abstentions": 23642,
+    "blancs_nuls": 6883,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 83596
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 62127
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "66",
+    "libelle": "PYRENEES ORIENTALES",
+    "inscrits": 314805,
+    "votants": 267988,
+    "exprimes": 256827,
+    "abstentions": 46817,
+    "blancs_nuls": 11161,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 113784
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 143043
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "67",
+    "libelle": "BAS RHIN",
+    "inscrits": 717571,
+    "votants": 599677,
+    "exprimes": 574213,
+    "abstentions": 117894,
+    "blancs_nuls": 25464,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 197650
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 376563
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "68",
+    "libelle": "HAUT RHIN",
+    "inscrits": 506844,
+    "votants": 424035,
+    "exprimes": 404886,
+    "abstentions": 82809,
+    "blancs_nuls": 19149,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 140130
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 264756
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "69",
+    "libelle": "RHONE",
+    "inscrits": 1037922,
+    "votants": 884915,
+    "exprimes": 850606,
+    "abstentions": 153007,
+    "blancs_nuls": 34309,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 364978
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 485628
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "70",
+    "libelle": "HAUTE SAONE",
+    "inscrits": 179427,
+    "votants": 155318,
+    "exprimes": 146817,
+    "abstentions": 24109,
+    "blancs_nuls": 8501,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 64898
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 81919
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "71",
+    "libelle": "SAONE ET LOIRE",
+    "inscrits": 408844,
+    "votants": 344817,
+    "exprimes": 328050,
+    "abstentions": 64027,
+    "blancs_nuls": 16767,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 154157
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 173893
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "72",
+    "libelle": "SARTHE",
+    "inscrits": 401318,
+    "votants": 338324,
+    "exprimes": 322200,
+    "abstentions": 62994,
+    "blancs_nuls": 16124,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 159745
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 162455
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "73",
+    "libelle": "SAVOIE",
+    "inscrits": 288169,
+    "votants": 245194,
+    "exprimes": 234289,
+    "abstentions": 42975,
+    "blancs_nuls": 10905,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 99985
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 134304
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "74",
+    "libelle": "HAUTE SAVOIE",
+    "inscrits": 472858,
+    "votants": 400243,
+    "exprimes": 383046,
+    "abstentions": 72615,
+    "blancs_nuls": 17197,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 141581
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 241465
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "75",
+    "libelle": "PARIS",
+    "inscrits": 1222231,
+    "votants": 1055532,
+    "exprimes": 1020002,
+    "abstentions": 166699,
+    "blancs_nuls": 35530,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 508082
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 511920
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "76",
+    "libelle": "SEINE MARITIME",
+    "inscrits": 873623,
+    "votants": 738271,
+    "exprimes": 707162,
+    "abstentions": 135352,
+    "blancs_nuls": 31109,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 352174
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 354988
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "77",
+    "libelle": "SEINE ET MARNE",
+    "inscrits": 801895,
+    "votants": 680359,
+    "exprimes": 652572,
+    "abstentions": 121536,
+    "blancs_nuls": 27787,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 285492
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 367080
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "78",
+    "libelle": "YVELINES",
+    "inscrits": 893701,
+    "votants": 770145,
+    "exprimes": 740923,
+    "abstentions": 123556,
+    "blancs_nuls": 29222,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 305909
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 435014
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "79",
+    "libelle": "DEUX SEVRES",
+    "inscrits": 269099,
+    "votants": 236030,
+    "exprimes": 226676,
+    "abstentions": 33069,
+    "blancs_nuls": 9354,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 123966
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 102710
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "80",
+    "libelle": "SOMME",
+    "inscrits": 410186,
+    "votants": 349066,
+    "exprimes": 333597,
+    "abstentions": 61120,
+    "blancs_nuls": 15469,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 165280
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 168317
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "81",
+    "libelle": "TARN",
+    "inscrits": 276335,
+    "votants": 243815,
+    "exprimes": 232354,
+    "abstentions": 32520,
+    "blancs_nuls": 11461,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 117836
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 114518
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "82",
+    "libelle": "TARN ET GARONNE",
+    "inscrits": 165795,
+    "votants": 145708,
+    "exprimes": 139472,
+    "abstentions": 20087,
+    "blancs_nuls": 6236,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 65547
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 73925
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "83",
+    "libelle": "VAR",
+    "inscrits": 716810,
+    "votants": 606058,
+    "exprimes": 583413,
+    "abstentions": 110752,
+    "blancs_nuls": 22645,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 201069
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 382344
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "84",
+    "libelle": "VAUCLUSE",
+    "inscrits": 370699,
+    "votants": 318223,
+    "exprimes": 304215,
+    "abstentions": 52476,
+    "blancs_nuls": 14008,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 119509
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 184706
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "85",
+    "libelle": "VENDEE",
+    "inscrits": 464228,
+    "votants": 405337,
+    "exprimes": 386740,
+    "abstentions": 58891,
+    "blancs_nuls": 18597,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 166060
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 220680
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "86",
+    "libelle": "VIENNE",
+    "inscrits": 299239,
+    "votants": 258775,
+    "exprimes": 247108,
+    "abstentions": 40464,
+    "blancs_nuls": 11667,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 127029
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 120079
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "87",
+    "libelle": "HAUTE VIENNE",
+    "inscrits": 265881,
+    "votants": 232072,
+    "exprimes": 219813,
+    "abstentions": 33809,
+    "blancs_nuls": 12259,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 123518
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 96295
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "88",
+    "libelle": "VOSGES",
+    "inscrits": 288654,
+    "votants": 243164,
+    "exprimes": 229757,
+    "abstentions": 45490,
+    "blancs_nuls": 13407,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 104023
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 125734
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "89",
+    "libelle": "YONNE",
+    "inscrits": 245501,
+    "votants": 206567,
+    "exprimes": 196712,
+    "abstentions": 38934,
+    "blancs_nuls": 9855,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 81254
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 115458
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "90",
+    "libelle": "TERRITOIRE DE BELFORT",
+    "inscrits": 93863,
+    "votants": 80166,
+    "exprimes": 75967,
+    "abstentions": 13697,
+    "blancs_nuls": 4199,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 34307
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 41660
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "91",
+    "libelle": "ESSONNE",
+    "inscrits": 743095,
+    "votants": 638433,
+    "exprimes": 612822,
+    "abstentions": 104662,
+    "blancs_nuls": 25611,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 293652
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 319170
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "92",
+    "libelle": "HAUTS DE SEINE",
+    "inscrits": 905058,
+    "votants": 777472,
+    "exprimes": 748762,
+    "abstentions": 127586,
+    "blancs_nuls": 28710,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 332096
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 416666
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "93",
+    "libelle": "SEINE SAINT-DENIS",
+    "inscrits": 708163,
+    "votants": 583909,
+    "exprimes": 564542,
+    "abstentions": 124254,
+    "blancs_nuls": 19367,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 319205
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 245337
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "94",
+    "libelle": "VAL DE MARNE",
+    "inscrits": 746081,
+    "votants": 630540,
+    "exprimes": 607490,
+    "abstentions": 115541,
+    "blancs_nuls": 23050,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 304978
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 302512
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "95",
+    "libelle": "VAL D'OISE",
+    "inscrits": 675274,
+    "votants": 572186,
+    "exprimes": 550755,
+    "abstentions": 103088,
+    "blancs_nuls": 21431,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 262693
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 288062
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "2A",
+    "libelle": "CORSE SUD",
+    "inscrits": 94554,
+    "votants": 73997,
+    "exprimes": 71093,
+    "abstentions": 20557,
+    "blancs_nuls": 2904,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 27249
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 43844
+      }
+    ]
+  },
+  {
+    "election": 2007,
+    "tour": 2,
+    "code": "2B",
+    "libelle": "HAUTE CORSE",
+    "inscrits": 111875,
+    "votants": 88224,
+    "exprimes": 84887,
+    "abstentions": 23651,
+    "blancs_nuls": 3337,
+    "candidats": [
+      {
+        "nom": "Ségolène ROYAL",
+        "parti": "PS",
+        "votes": 34960
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 49927
+      }
+    ]
+  }
+]

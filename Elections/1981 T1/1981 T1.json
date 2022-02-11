@@ -1,0 +1,6050 @@
+[
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "1",
+    "libelle": "AIN",
+    "inscrits": 262049,
+    "votants": 205518,
+    "exprimes": 202275,
+    "abstentions": 56531,
+    "blancs_nuls": 3243,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4319
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 2910
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 22932
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 51280
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 5208
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 8560
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 64077
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 36190
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 3651
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 3148
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "2",
+    "libelle": "AISNE",
+    "inscrits": 359922,
+    "votants": 304776,
+    "exprimes": 299795,
+    "abstentions": 55146,
+    "blancs_nuls": 4981,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 8585
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 2134
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 65047
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 75984
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 4769
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 9751
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 76418
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 48819
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 5018
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 3270
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "3",
+    "libelle": "ALLIER",
+    "inscrits": 266534,
+    "votants": 222288,
+    "exprimes": 218640,
+    "abstentions": 44246,
+    "blancs_nuls": 3648,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5078
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 1332
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 49934
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 52072
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 3894
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 6804
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 55467
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 39294
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 2506
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 2259
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "4",
+    "libelle": "ALPES-DE-HAUTE-PROVENCE",
+    "inscrits": 87632,
+    "votants": 70907,
+    "exprimes": 69705,
+    "abstentions": 16725,
+    "blancs_nuls": 1202,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 1810
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 739
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 13419
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 17495
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 1294
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 3043
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 18935
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 10910
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 990
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 1070
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "5",
+    "libelle": "HAUTES-ALPES",
+    "inscrits": 75034,
+    "votants": 59206,
+    "exprimes": 58106,
+    "abstentions": 15828,
+    "blancs_nuls": 1100,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 1508
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 786
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 8948
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 14132
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 1124
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 2935
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 17338
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 9482
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 1050
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 803
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "6",
+    "libelle": "ALPES-MARITIMES",
+    "inscrits": 594882,
+    "votants": 471533,
+    "exprimes": 465062,
+    "abstentions": 123349,
+    "blancs_nuls": 6471,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 6641
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 3198
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 75566
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 98423
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 7762
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 17395
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 149690
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 94398
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 5768
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 6221
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "7",
+    "libelle": "ARDECHE",
+    "inscrits": 193197,
+    "votants": 156511,
+    "exprimes": 153971,
+    "abstentions": 36686,
+    "blancs_nuls": 2540,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3383
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 1990
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 24329
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 38828
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 2327
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 6111
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 48577
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 24250
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 2547
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 1629
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "8",
+    "libelle": "ARDENNES",
+    "inscrits": 192621,
+    "votants": 159888,
+    "exprimes": 157835,
+    "abstentions": 32733,
+    "blancs_nuls": 2053,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4018
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 1662
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 30986
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 42289
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 2405
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 5283
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 40303
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 25828
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 3209
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 1852
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "9",
+    "libelle": "ARIEGE",
+    "inscrits": 106918,
+    "votants": 86053,
+    "exprimes": 84748,
+    "abstentions": 20865,
+    "blancs_nuls": 1305,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2243
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 713
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 17343
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 27469
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 1742
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 2723
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 17625
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 13094
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 863
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 933
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "10",
+    "libelle": "AUBE",
+    "inscrits": 188500,
+    "votants": 154450,
+    "exprimes": 151881,
+    "abstentions": 34050,
+    "blancs_nuls": 2569,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3539
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 1141
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 23727
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 37441
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 2915
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 5709
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 45665
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 26225
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 3141
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 2378
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "11",
+    "libelle": "AUDE",
+    "inscrits": 205011,
+    "votants": 171158,
+    "exprimes": 168211,
+    "abstentions": 33853,
+    "blancs_nuls": 2947,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3482
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 1350
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 34310
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 57881
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 3068
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 5336
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 32195
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 27256
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 1817
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 1516
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "12",
+    "libelle": "AVEYRON",
+    "inscrits": 209707,
+    "votants": 173982,
+    "exprimes": 170524,
+    "abstentions": 35725,
+    "blancs_nuls": 3458,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4884
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 1939
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 16427
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 44109
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 2985
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 6532
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 51618
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 37425
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 2534
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 2071
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "13",
+    "libelle": "BOUCHES-DU-RHONE",
+    "inscrits": 1036072,
+    "votants": 812180,
+    "exprimes": 800797,
+    "abstentions": 223892,
+    "blancs_nuls": 11383,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 13308
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 6477
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 204643
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 190955
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 12824
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 29206
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 204419
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 118748
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 10009
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 10208
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "14",
+    "libelle": "CALVADOS",
+    "inscrits": 389724,
+    "votants": 322246,
+    "exprimes": 317584,
+    "abstentions": 67478,
+    "blancs_nuls": 4662,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 8435
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 3428
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 36413
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 85255
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 6858
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 13477
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 93118
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 61229
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 5042
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 4329
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "15",
+    "libelle": "CANTAL",
+    "inscrits": 124516,
+    "votants": 101072,
+    "exprimes": 100016,
+    "abstentions": 23444,
+    "blancs_nuls": 1056,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2175
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 652
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 10596
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 22108
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 1136
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 2142
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 25924
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 33455
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 893
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 935
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "16",
+    "libelle": "CHARENTE",
+    "inscrits": 245614,
+    "votants": 203505,
+    "exprimes": 200188,
+    "abstentions": 42109,
+    "blancs_nuls": 3317,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4573
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 1268
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 32051
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 55734
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 9672
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 5782
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 48486
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 37138
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 3006
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 2478
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "17",
+    "libelle": "CHARENTE-MARITIME",
+    "inscrits": 366238,
+    "votants": 293024,
+    "exprimes": 288745,
+    "abstentions": 73214,
+    "blancs_nuls": 4279,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5232
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 1893
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 37151
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 70519
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 34484
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 8464
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 76086
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 47265
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 4036
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 3615
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "18",
+    "libelle": "CHER",
+    "inscrits": 219990,
+    "votants": 182797,
+    "exprimes": 179628,
+    "abstentions": 37193,
+    "blancs_nuls": 3169,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4817
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 1356
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 36392
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 40999
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 3736
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 5866
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 49693
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 31467
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 3305
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 1997
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "19",
+    "libelle": "CORREZE",
+    "inscrits": 184072,
+    "votants": 159417,
+    "exprimes": 157637,
+    "abstentions": 24655,
+    "blancs_nuls": 1780,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2767
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 964
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 34459
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 32362
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 2062
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 3087
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 14461
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 65311
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 1163
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 1001
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "21",
+    "libelle": "COTE-D'OR",
+    "inscrits": 299836,
+    "votants": 241500,
+    "exprimes": 238117,
+    "abstentions": 58336,
+    "blancs_nuls": 3383,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5774
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 3032
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 24066
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 72931
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 5503
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 9693
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 63864
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 45145
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 4384
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 3725
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "22",
+    "libelle": "COTES-D'ARMOR",
+    "inscrits": 395841,
+    "votants": 334819,
+    "exprimes": 331556,
+    "abstentions": 61022,
+    "blancs_nuls": 3263,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 8641
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 5011
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 53724
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 92739
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 5047
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 12717
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 90308
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 56549
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 3847
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 2973
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "23",
+    "libelle": "CREUSE",
+    "inscrits": 113991,
+    "votants": 91020,
+    "exprimes": 89869,
+    "abstentions": 22971,
+    "blancs_nuls": 1151,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2688
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 607
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 18269
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 20826
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 1244
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 1921
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 17424
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 25317
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 719
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 854
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "24",
+    "libelle": "DORDOGNE",
+    "inscrits": 293705,
+    "votants": 248857,
+    "exprimes": 244662,
+    "abstentions": 44848,
+    "blancs_nuls": 4195,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5690
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 2126
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 50028
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 63830
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 5527
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 7027
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 51049
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 52966
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 3735
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 2684
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "25",
+    "libelle": "DOUBS",
+    "inscrits": 294723,
+    "votants": 240458,
+    "exprimes": 236711,
+    "abstentions": 54265,
+    "blancs_nuls": 3747,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 6090
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 3845
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 26731
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 68517
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 4235
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 10765
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 61215
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 47023
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 4626
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 3664
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "26",
+    "libelle": "DROME",
+    "inscrits": 256765,
+    "votants": 205935,
+    "exprimes": 202271,
+    "abstentions": 50830,
+    "blancs_nuls": 3664,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5043
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 2869
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 30399
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 57146
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 4191
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 9691
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 55028
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 31319
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 3787
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 2798
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "27",
+    "libelle": "EURE",
+    "inscrits": 308565,
+    "votants": 258422,
+    "exprimes": 253978,
+    "abstentions": 50143,
+    "blancs_nuls": 4444,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 6969
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 2244
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 34374
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 67675
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 5799
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 8999
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 72840
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 47723
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 4004
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 3351
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "28",
+    "libelle": "EURE-ET-LOIR",
+    "inscrits": 238034,
+    "votants": 199019,
+    "exprimes": 195583,
+    "abstentions": 39015,
+    "blancs_nuls": 3436,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5656
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 1827
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 23439
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 50906
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 5897
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 7473
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 59859
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 34194
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 3522
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 2810
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "29",
+    "libelle": "FINISTERE",
+    "inscrits": 595399,
+    "votants": 491333,
+    "exprimes": 486382,
+    "abstentions": 104066,
+    "blancs_nuls": 4951,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 10936
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 10055
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 48561
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 132338
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 8530
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 20793
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 149050
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 95083
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 6012
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 5024
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "30",
+    "libelle": "GARD",
+    "inscrits": 363870,
+    "votants": 295386,
+    "exprimes": 290111,
+    "abstentions": 68484,
+    "blancs_nuls": 5275,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 6259
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 2881
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 72917
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 70173
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 4991
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 11235
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 73594
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 40407
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 4390
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 3264
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "31",
+    "libelle": "HAUTE-GARONNE",
+    "inscrits": 528245,
+    "votants": 425976,
+    "exprimes": 419495,
+    "abstentions": 102269,
+    "blancs_nuls": 6481,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 9825
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 5133
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 64737
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 141538
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 10542
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 17394
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 92114
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 67123
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 5092
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 5997
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "32",
+    "libelle": "GERS",
+    "inscrits": 133581,
+    "votants": 110051,
+    "exprimes": 108281,
+    "abstentions": 23530,
+    "blancs_nuls": 1770,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2942
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 1071
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 14929
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 36958
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 2420
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 3729
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 24844
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 18887
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 1271
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 1230
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "33",
+    "libelle": "GIRONDE",
+    "inscrits": 735373,
+    "votants": 595876,
+    "exprimes": 587203,
+    "abstentions": 139497,
+    "blancs_nuls": 8673,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 13132
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 4753
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 82605
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 195151
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 15783
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 19549
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 137127
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 97860
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 12854
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 8389
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "34",
+    "libelle": "HERAULT",
+    "inscrits": 458322,
+    "votants": 370968,
+    "exprimes": 363304,
+    "abstentions": 87354,
+    "blancs_nuls": 7664,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 7075
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 3981
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 76020
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 95871
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 6797
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 13679
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 91952
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 58165
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 5547
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 4217
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "35",
+    "libelle": "ILLE-ET-VILAINE",
+    "inscrits": 591872,
+    "votants": 406283,
+    "exprimes": 400516,
+    "abstentions": 185589,
+    "blancs_nuls": 5767,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 11163
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 6028
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 29541
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 103118
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 7909
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 17973
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 132068
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 80919
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 6644
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 5153
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "36",
+    "libelle": "INDRE",
+    "inscrits": 180653,
+    "votants": 149728,
+    "exprimes": 146691,
+    "abstentions": 30925,
+    "blancs_nuls": 3037,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4114
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 1109
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 28294
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 34474
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 2930
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 4036
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 39110
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 28217
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 2621
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 1786
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "37",
+    "libelle": "INDRE-ET-LOIRE",
+    "inscrits": 329781,
+    "votants": 268266,
+    "exprimes": 263044,
+    "abstentions": 61515,
+    "blancs_nuls": 5222,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 6653
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 2701
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 31497
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 75217
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 8654
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 9707
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 72801
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 40231
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 11411
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 4172
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "38",
+    "libelle": "ISERE",
+    "inscrits": 559964,
+    "votants": 443844,
+    "exprimes": 436737,
+    "abstentions": 116120,
+    "blancs_nuls": 7107,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 10168
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 6675
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 72253
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 124378
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 9284
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 21353
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 112947
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 66019
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 7877
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 5783
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "39",
+    "libelle": "JURA",
+    "inscrits": 169848,
+    "votants": 138356,
+    "exprimes": 135844,
+    "abstentions": 31492,
+    "blancs_nuls": 2512,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3910
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 2190
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 18601
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 36078
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 2700
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 6212
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 38213
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 22579
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 3170
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 2191
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "40",
+    "libelle": "LANDES",
+    "inscrits": 219367,
+    "votants": 186104,
+    "exprimes": 183202,
+    "abstentions": 33263,
+    "blancs_nuls": 2902,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3487
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 1118
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 26095
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 62326
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 3095
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 4744
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 47017
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 30748
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 2625
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 1947
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "41",
+    "libelle": "LOIR-ET-CHER",
+    "inscrits": 208054,
+    "votants": 174034,
+    "exprimes": 170420,
+    "abstentions": 34020,
+    "blancs_nuls": 3614,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4893
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 1754
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 24732
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 43511
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 4032
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 5805
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 53259
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 25838
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 4077
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 2519
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "42",
+    "libelle": "LOIRE",
+    "inscrits": 475584,
+    "votants": 376877,
+    "exprimes": 370753,
+    "abstentions": 98707,
+    "blancs_nuls": 6124,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 7873
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 6247
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 58753
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 91612
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 7094
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 15179
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 108556
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 64021
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 6688
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 4730
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "43",
+    "libelle": "HAUTE-LOIRE",
+    "inscrits": 152718,
+    "votants": 123916,
+    "exprimes": 121990,
+    "abstentions": 28802,
+    "blancs_nuls": 1926,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2931
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 1463
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 10595
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 30687
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 1704
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 4453
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 45022
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 22028
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 1652
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 1455
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "44",
+    "libelle": "LOIRE-ATLANTIQUE",
+    "inscrits": 653079,
+    "votants": 531836,
+    "exprimes": 523938,
+    "abstentions": 121243,
+    "blancs_nuls": 7898,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 13395
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 7980
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 48923
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 149168
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 14811
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 23077
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 156173
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 93898
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 9783
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 6730
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "45",
+    "libelle": "LOIRET",
+    "inscrits": 340623,
+    "votants": 284186,
+    "exprimes": 278383,
+    "abstentions": 56437,
+    "blancs_nuls": 5803,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 7560
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 2665
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 35117
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 67198
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 7524
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 11977
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 85294
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 50854
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 5640
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 4554
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "46",
+    "libelle": "LOT",
+    "inscrits": 117141,
+    "votants": 99007,
+    "exprimes": 97543,
+    "abstentions": 18134,
+    "blancs_nuls": 1464,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2599
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 996
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 13337
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 30207
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 3341
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 3560
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 18258
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 22732
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 1339
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 1174
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "47",
+    "libelle": "LOT-ET-GARONNE",
+    "inscrits": 215100,
+    "votants": 179731,
+    "exprimes": 176582,
+    "abstentions": 35369,
+    "blancs_nuls": 3149,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4745
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 1346
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 31940
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 48332
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 4288
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 6653
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 43425
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 30944
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 2759
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 2150
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "48",
+    "libelle": "LOZERE",
+    "inscrits": 57252,
+    "votants": 46205,
+    "exprimes": 45542,
+    "abstentions": 11047,
+    "blancs_nuls": 663,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 1115
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 570
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 3862
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 10102
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 445
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 1546
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 17800
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 8837
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 760
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 505
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "49",
+    "libelle": "MAINE-ET-LOIRE",
+    "inscrits": 429921,
+    "votants": 358434,
+    "exprimes": 351677,
+    "abstentions": 71487,
+    "blancs_nuls": 6757,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 8584
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 4153
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 24657
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 84082
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 8245
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 15298
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 123998
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 70413
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 7696
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 4551
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "50",
+    "libelle": "MANCHE",
+    "inscrits": 327073,
+    "votants": 269819,
+    "exprimes": 265993,
+    "abstentions": 57254,
+    "blancs_nuls": 3826,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 6127
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 2366
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 18819
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 59442
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 4516
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 12729
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 96777
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 58008
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 4113
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 3096
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "51",
+    "libelle": "MARNE",
+    "inscrits": 342529,
+    "votants": 278913,
+    "exprimes": 274623,
+    "abstentions": 63616,
+    "blancs_nuls": 4290,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 6373
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 2628
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 42768
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 66625
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 5341
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 10845
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 82136
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 49545
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 4896
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 3466
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "52",
+    "libelle": "HAUTE-MARNE",
+    "inscrits": 144770,
+    "votants": 117512,
+    "exprimes": 115202,
+    "abstentions": 27258,
+    "blancs_nuls": 2310,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3049
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 1266
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 15390
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 32233
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 2008
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 4051
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 33061
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 20202
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 2188
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 1754
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "53",
+    "libelle": "MAYENNE",
+    "inscrits": 187955,
+    "votants": 160146,
+    "exprimes": 157081,
+    "abstentions": 27809,
+    "blancs_nuls": 3065,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3996
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 1659
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 8254
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 35983
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 2572
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 5964
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 56966
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 37213
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 2538
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 1936
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "54",
+    "libelle": "MEURTHE-ET-MOSELLE",
+    "inscrits": 464377,
+    "votants": 373881,
+    "exprimes": 368261,
+    "abstentions": 90496,
+    "blancs_nuls": 5620,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 9475
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 4339
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 65357
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 98127
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 6735
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 13283
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 108646
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 50775
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 6484
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 5040
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "55",
+    "libelle": "MEUSE",
+    "inscrits": 138804,
+    "votants": 115389,
+    "exprimes": 113306,
+    "abstentions": 23415,
+    "blancs_nuls": 2083,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3144
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 1086
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 13821
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 30668
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 1671
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 3974
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 37570
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 17834
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 2007
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 1531
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "56",
+    "libelle": "MORBIHAN",
+    "inscrits": 413783,
+    "votants": 344745,
+    "exprimes": 340699,
+    "abstentions": 69038,
+    "blancs_nuls": 4046,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 8148
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 4249
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 32806
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 85749
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 5645
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 13644
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 117064
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 65254
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 4588
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 3552
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "57",
+    "libelle": "MOSELLE",
+    "inscrits": 634070,
+    "votants": 516090,
+    "exprimes": 506549,
+    "abstentions": 117980,
+    "blancs_nuls": 9541,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 12576
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 5257
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 59767
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 132973
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 6842
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 19117
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 172231
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 82204
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 7924
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 7658
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "58",
+    "libelle": "NIEVRE",
+    "inscrits": 177002,
+    "votants": 144204,
+    "exprimes": 142168,
+    "abstentions": 32798,
+    "blancs_nuls": 2036,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3045
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 981
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 21524
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 55914
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 2277
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 3674
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 32145
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 19388
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 1749
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 1471
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "59",
+    "libelle": "NORD",
+    "inscrits": 1602010,
+    "votants": 1363612,
+    "exprimes": 1338746,
+    "abstentions": 238398,
+    "blancs_nuls": 24866,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 31078
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 9782
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 287069
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 346897
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 18482
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 46470
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 366297
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 195828
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 23763
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 13080
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "60",
+    "libelle": "OISE",
+    "inscrits": 409466,
+    "votants": 346109,
+    "exprimes": 340801,
+    "abstentions": 63357,
+    "blancs_nuls": 5308,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 10096
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 3085
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 61830
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 87030
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 7305
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 12942
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 88630
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 59313
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 5887
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 4683
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "61",
+    "libelle": "ORNE",
+    "inscrits": 205643,
+    "votants": 171596,
+    "exprimes": 168934,
+    "abstentions": 34047,
+    "blancs_nuls": 2662,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4521
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 1723
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 14598
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 39794
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 3158
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 6343
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 51827
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 42138
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 2710
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 2122
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "62",
+    "libelle": "PAS-DE-CALAIS",
+    "inscrits": 945534,
+    "votants": 816864,
+    "exprimes": 800384,
+    "abstentions": 128670,
+    "blancs_nuls": 16480,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 19881
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 4701
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 185427
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 221988
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 9491
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 21127
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 209454
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 110377
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 11348
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 6590
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "63",
+    "libelle": "PUY-DE-DOME",
+    "inscrits": 387673,
+    "votants": 321557,
+    "exprimes": 317271,
+    "abstentions": 66116,
+    "blancs_nuls": 4286,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 9194
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 3371
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 43495
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 88820
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 6094
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 11940
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 101027
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 46148
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 3109
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 4073
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "64",
+    "libelle": "PYRENEES-ATLANTIQUES",
+    "inscrits": 391922,
+    "votants": 320136,
+    "exprimes": 316214,
+    "abstentions": 71786,
+    "blancs_nuls": 3922,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 6436
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 3410
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 33384
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 90345
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 5618
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 11711
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 90864
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 65684
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 4998
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 3764
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "65",
+    "libelle": "HAUTES-PYRENEES",
+    "inscrits": 168040,
+    "votants": 133556,
+    "exprimes": 131460,
+    "abstentions": 34484,
+    "blancs_nuls": 2096,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2816
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 1192
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 25005
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 40716
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 3173
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 4075
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 30511
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 20612
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 1771
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 1589
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "66",
+    "libelle": "PYRENEES-ORIENTALES",
+    "inscrits": 224924,
+    "votants": 174891,
+    "exprimes": 171738,
+    "abstentions": 50033,
+    "blancs_nuls": 3153,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3746
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 1532
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 35850
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 43943
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 3815
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 6394
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 45555
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 26397
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 2325
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 2181
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "67",
+    "libelle": "BAS-RHIN",
+    "inscrits": 580138,
+    "votants": 467403,
+    "exprimes": 458289,
+    "abstentions": 112735,
+    "blancs_nuls": 9114,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 7893
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 4967
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 20865
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 101024
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 7170
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 21596
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 210105
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 69419
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 7956
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 7294
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "68",
+    "libelle": "HAUT-RHIN",
+    "inscrits": 413346,
+    "votants": 330843,
+    "exprimes": 322444,
+    "abstentions": 82503,
+    "blancs_nuls": 8399,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 7679
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 3731
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 18840
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 74679
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 5665
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 16953
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 125177
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 58109
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 6102
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 5509
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "69",
+    "libelle": "RHONE",
+    "inscrits": 849050,
+    "votants": 670325,
+    "exprimes": 660382,
+    "abstentions": 178725,
+    "blancs_nuls": 9943,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 13350
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 11770
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 87704
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 172694
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 15400
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 31243
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 190128
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 116161
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 11921
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 10011
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "70",
+    "libelle": "HAUTE-SAONE",
+    "inscrits": 159659,
+    "votants": 131085,
+    "exprimes": 128549,
+    "abstentions": 28574,
+    "blancs_nuls": 2536,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3625
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 1263
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 15353
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 37615
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 3067
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 4194
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 36404
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 23442
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 1936
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 1650
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "71",
+    "libelle": "SAONE-ET-LOIRE",
+    "inscrits": 388716,
+    "votants": 309891,
+    "exprimes": 304883,
+    "abstentions": 78825,
+    "blancs_nuls": 5008,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 6643
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 2788
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 46143
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 85970
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 6734
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 10509
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 88296
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 49566
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 4580
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 3654
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "72",
+    "libelle": "SARTHE",
+    "inscrits": 346102,
+    "votants": 288278,
+    "exprimes": 282878,
+    "abstentions": 57824,
+    "blancs_nuls": 5400,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 7751
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 2941
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 40089
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 72453
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 6129
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 9832
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 87241
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 48978
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 4445
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 3019
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "73",
+    "libelle": "SAVOIE",
+    "inscrits": 215347,
+    "votants": 168387,
+    "exprimes": 165870,
+    "abstentions": 46960,
+    "blancs_nuls": 2517,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3778
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 2285
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 22978
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 41896
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 3264
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 8184
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 46422
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 31700
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 3026
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 2337
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "74",
+    "libelle": "HAUTE-SAVOIE",
+    "inscrits": 301645,
+    "votants": 234767,
+    "exprimes": 230972,
+    "abstentions": 66878,
+    "blancs_nuls": 3795,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4845
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 3245
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 21354
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 53879
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 5136
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 12238
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 72619
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 47500
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 5794
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 4362
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "75",
+    "libelle": "PARIS",
+    "inscrits": 1272576,
+    "votants": 986045,
+    "exprimes": 975243,
+    "abstentions": 286531,
+    "blancs_nuls": 10802,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 16871
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 17532
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 89376
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 239812
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 20708
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 39696
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 253264
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 263100
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 17575
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 17309
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "76",
+    "libelle": "SEINE-MARITIME",
+    "inscrits": 783080,
+    "votants": 654221,
+    "exprimes": 644017,
+    "abstentions": 128859,
+    "blancs_nuls": 10204,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 17824
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 6317
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 123304
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 171161
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 12598
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 24046
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 180849
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 91403
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 9518
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 6997
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "77",
+    "libelle": "SEINE-ET-MARNE",
+    "inscrits": 537255,
+    "votants": 437478,
+    "exprimes": 430674,
+    "abstentions": 99777,
+    "blancs_nuls": 6804,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 10446
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 4736
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 66171
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 108955
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 11369
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 20343
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 111606
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 82611
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 7462
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 6975
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "78",
+    "libelle": "YVELINES",
+    "inscrits": 710334,
+    "votants": 582092,
+    "exprimes": 573464,
+    "abstentions": 128242,
+    "blancs_nuls": 8628,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 11870
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 8136
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 71739
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 139743
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 17241
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 28840
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 154481
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 118604
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 11251
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 11559
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "79",
+    "libelle": "DEUX-SEVRES",
+    "inscrits": 240274,
+    "votants": 201966,
+    "exprimes": 197975,
+    "abstentions": 38308,
+    "blancs_nuls": 3991,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4963
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 1834
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 16142
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 53503
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 8429
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 6588
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 65809
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 33635
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 3396
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 3676
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "80",
+    "libelle": "SOMME",
+    "inscrits": 372391,
+    "votants": 322247,
+    "exprimes": 316710,
+    "abstentions": 50144,
+    "blancs_nuls": 5537,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 9319
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 2440
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 70905
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 74806
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 4760
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 10244
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 83888
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 52199
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 4899
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 3250
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "81",
+    "libelle": "TARN",
+    "inscrits": 246658,
+    "votants": 210601,
+    "exprimes": 205783,
+    "abstentions": 36057,
+    "blancs_nuls": 4818,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5346
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 1984
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 29659
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 60853
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 4826
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 7842
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 51655
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 38058
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 2855
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 2705
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "82",
+    "libelle": "TARN-ET-GARONNE",
+    "inscrits": 137238,
+    "votants": 115502,
+    "exprimes": 113076,
+    "abstentions": 21736,
+    "blancs_nuls": 2426,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2903
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 1132
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 15403
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 31344
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 6656
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 4417
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 25963
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 22387
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 1484
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 1387
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "83",
+    "libelle": "VAR",
+    "inscrits": 470803,
+    "votants": 380410,
+    "exprimes": 374433,
+    "abstentions": 90393,
+    "blancs_nuls": 5977,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5632
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 2528
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 67294
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 85749
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 6585
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 13799
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 117514
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 64991
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 4876
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 5465
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "84",
+    "libelle": "VAUCLUSE",
+    "inscrits": 275600,
+    "votants": 226897,
+    "exprimes": 222033,
+    "abstentions": 48703,
+    "blancs_nuls": 4864,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4719
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 1996
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 42264
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 57430
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 4202
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 9306
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 59495
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 36103
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 3248
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 3270
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "85",
+    "libelle": "VENDEE",
+    "inscrits": 335692,
+    "votants": 287798,
+    "exprimes": 282738,
+    "abstentions": 47894,
+    "blancs_nuls": 5060,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5897
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 2831
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 18984
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 61118
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 11319
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 10026
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 104498
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 58980
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 5258
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 3827
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "86",
+    "libelle": "VIENNE",
+    "inscrits": 259373,
+    "votants": 215490,
+    "exprimes": 211292,
+    "abstentions": 43883,
+    "blancs_nuls": 4198,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4533
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 2183
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 28171
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 56615
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 7864
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 7272
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 58254
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 39792
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 3118
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 3490
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "87",
+    "libelle": "HAUTE-VIENNE",
+    "inscrits": 259988,
+    "votants": 220458,
+    "exprimes": 216512,
+    "abstentions": 39530,
+    "blancs_nuls": 3946,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4522
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 1616
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 52547
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 56052
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 4145
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 5844
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 37370
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 50251
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 2103
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 2062
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "88",
+    "libelle": "VOSGES",
+    "inscrits": 271274,
+    "votants": 223523,
+    "exprimes": 218363,
+    "abstentions": 47751,
+    "blancs_nuls": 5160,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 7031
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 2188
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 25136
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 59192
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 3777
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 8182
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 65346
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 39975
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 4364
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 3172
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "89",
+    "libelle": "YONNE",
+    "inscrits": 216320,
+    "votants": 176809,
+    "exprimes": 173574,
+    "abstentions": 39511,
+    "blancs_nuls": 3235,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4341
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 1729
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 24282
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 43671
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 3853
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 6702
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 52485
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 30758
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 3173
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 2580
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "90",
+    "libelle": "TERRITOIRE DE BELFORT",
+    "inscrits": 81325,
+    "votants": 66253,
+    "exprimes": 64984,
+    "abstentions": 15072,
+    "blancs_nuls": 1269,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2035
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 894
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 7718
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 21721
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 1304
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 2623
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 16125
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 10616
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 1088
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 860
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "91",
+    "libelle": "ESSONNE",
+    "inscrits": 594642,
+    "votants": 488085,
+    "exprimes": 480726,
+    "abstentions": 106557,
+    "blancs_nuls": 7359,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 11257
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 7545
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 80786
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 128184
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 13712
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 25736
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 110047
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 87089
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 8294
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 8076
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "92",
+    "libelle": "HAUTS-DE-SEINE",
+    "inscrits": 853119,
+    "votants": 684437,
+    "exprimes": 675274,
+    "abstentions": 168682,
+    "blancs_nuls": 9163,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 13720
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 10660
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 109047
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 158852
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 17521
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 32557
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 168480
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 139222
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 12620
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 12595
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "93",
+    "libelle": "SEINE-SAINT-DENIS",
+    "inscrits": 745572,
+    "votants": 590785,
+    "exprimes": 579422,
+    "abstentions": 154787,
+    "blancs_nuls": 11363,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 14634
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 7209
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 158133
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 141813
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 13985
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 25752
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 112843
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 89823
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 7866
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 7364
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "94",
+    "libelle": "VAL-DE-MARNE",
+    "inscrits": 716432,
+    "votants": 580208,
+    "exprimes": 572011,
+    "abstentions": 136224,
+    "blancs_nuls": 8197,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 12306
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 8290
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 122326
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 140970
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 14445
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 27028
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 124784
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 103773
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 9128
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 8961
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "95",
+    "libelle": "VAL-D'OISE",
+    "inscrits": 533942,
+    "votants": 436429,
+    "exprimes": 428931,
+    "abstentions": 97513,
+    "blancs_nuls": 7498,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 10172
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 5690
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 80651
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 110608
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 11920
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 21802
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 99926
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 74186
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 7067
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 6909
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "2A",
+    "libelle": "CORSE-DU-SUD",
+    "inscrits": 115613,
+    "votants": 73435,
+    "exprimes": 72699,
+    "abstentions": 42178,
+    "blancs_nuls": 736,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 550
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 404
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 12206
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 12863
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 7157
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 1247
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 17531
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 19825
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 460
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 456
+      }
+    ]
+  },
+  {
+    "election": 1981,
+    "tour": 1,
+    "code": "2B",
+    "libelle": "HAUTE-CORSE",
+    "inscrits": 90290,
+    "votants": 60166,
+    "exprimes": 59362,
+    "abstentions": 30124,
+    "blancs_nuls": 804,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 347
+      },
+      {
+        "nom": "Huguette BOUCHARDEAU",
+        "parti": "PSU",
+        "votes": 297
+      },
+      {
+        "nom": "Georges MARCHAIS",
+        "parti": "PCF",
+        "votes": 9172
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 13660
+      },
+      {
+        "nom": "Michel CREPEAU",
+        "parti": "MRG",
+        "votes": 629
+      },
+      {
+        "nom": "Brice LALONDE",
+        "parti": "ECO",
+        "votes": 1004
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "UDF",
+        "votes": 17150
+      },
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "RPR",
+        "votes": 16251
+      },
+      {
+        "nom": "Michel DEBRE",
+        "parti": "DVD",
+        "votes": 451
+      },
+      {
+        "nom": "Marie-France GARAUD",
+        "parti": "DVD",
+        "votes": 401
+      }
+    ]
+  }
+]

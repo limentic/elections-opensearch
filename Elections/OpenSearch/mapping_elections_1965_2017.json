@@ -1,0 +1,45 @@
+{
+    "properties": {
+        "election": {
+            "type": "integer"
+        },
+        "tour": {
+            "type": "integer"
+        },
+        "code": {
+            "type": "text"
+        },
+        "libelle": {
+            "type": "text"
+        },
+        "inscrits": {
+            "type": "long"
+        },
+        "votants": {
+            "type": "long"
+        },
+        "exprimes": {
+            "type": "long"
+        },
+        "abstentions": {
+            "type": "long"
+        },
+        "blancs_nuls": {
+            "type": "long"
+        },
+        "candidats": {
+            "type": "nested",
+            "properties": {
+                "nom": {
+                    "type": "text"
+                },
+                "parti": {
+                    "type": "text"
+                },
+                "votes": {
+                    "type": "long"
+                }
+            }
+        }
+    }
+}

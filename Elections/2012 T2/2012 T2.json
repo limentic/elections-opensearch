@@ -1,0 +1,2210 @@
+[
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "1",
+    "libelle": "AIN",
+    "inscrits": 393866,
+    "votants": 326587,
+    "exprimes": 307074,
+    "abstentions": 67279,
+    "blancs_nuls": 19513,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 131333
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 175741
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "2",
+    "libelle": "AISNE",
+    "inscrits": 376073,
+    "votants": 302076,
+    "exprimes": 281020,
+    "abstentions": 73997,
+    "blancs_nuls": 21056,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 147260
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 133760
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "3",
+    "libelle": "ALLIER",
+    "inscrits": 256211,
+    "votants": 211132,
+    "exprimes": 196208,
+    "abstentions": 45079,
+    "blancs_nuls": 14924,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 111615
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 84593
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "4",
+    "libelle": "ALPES-DE-HAUTE-PROVENCE",
+    "inscrits": 123895,
+    "votants": 103581,
+    "exprimes": 96942,
+    "abstentions": 20314,
+    "blancs_nuls": 6639,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 49498
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 47444
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "5",
+    "libelle": "HAUTES-ALPES",
+    "inscrits": 106875,
+    "votants": 89405,
+    "exprimes": 83380,
+    "abstentions": 17470,
+    "blancs_nuls": 6025,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 42435
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 40945
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "6",
+    "libelle": "ALPES-MARITIMES",
+    "inscrits": 745493,
+    "votants": 599239,
+    "exprimes": 569172,
+    "abstentions": 146254,
+    "blancs_nuls": 30067,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 203117
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 366055
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "7",
+    "libelle": "ARDECHE",
+    "inscrits": 243351,
+    "votants": 203930,
+    "exprimes": 189955,
+    "abstentions": 39421,
+    "blancs_nuls": 13975,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 101526
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 88429
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "8",
+    "libelle": "ARDENNES",
+    "inscrits": 196603,
+    "votants": 156061,
+    "exprimes": 145753,
+    "abstentions": 40542,
+    "blancs_nuls": 10308,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 75631
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 70122
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "9",
+    "libelle": "ARIEGE",
+    "inscrits": 116357,
+    "votants": 98333,
+    "exprimes": 91918,
+    "abstentions": 18024,
+    "blancs_nuls": 6415,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 59466
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 32452
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "10",
+    "libelle": "AUBE",
+    "inscrits": 203585,
+    "votants": 165175,
+    "exprimes": 153762,
+    "abstentions": 38410,
+    "blancs_nuls": 11413,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 65549
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 88213
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "11",
+    "libelle": "AUDE",
+    "inscrits": 263998,
+    "votants": 220698,
+    "exprimes": 205151,
+    "abstentions": 43300,
+    "blancs_nuls": 15547,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 115400
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 89751
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "12",
+    "libelle": "AVEYRON",
+    "inscrits": 218289,
+    "votants": 187180,
+    "exprimes": 175108,
+    "abstentions": 31109,
+    "blancs_nuls": 12072,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 95302
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 79806
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "13",
+    "libelle": "BOUCHES-DU-RHONE",
+    "inscrits": 1314755,
+    "votants": 1063977,
+    "exprimes": 1006356,
+    "abstentions": 250778,
+    "blancs_nuls": 57621,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 474704
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 531652
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "14",
+    "libelle": "CALVADOS",
+    "inscrits": 490680,
+    "votants": 409483,
+    "exprimes": 386948,
+    "abstentions": 81197,
+    "blancs_nuls": 22535,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 205544
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 181404
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "15",
+    "libelle": "CANTAL",
+    "inscrits": 120931,
+    "votants": 101853,
+    "exprimes": 95640,
+    "abstentions": 19078,
+    "blancs_nuls": 6213,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 49543
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 46097
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "16",
+    "libelle": "CHARENTE",
+    "inscrits": 260728,
+    "votants": 214597,
+    "exprimes": 200748,
+    "abstentions": 46131,
+    "blancs_nuls": 13849,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 118100
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 82648
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "17",
+    "libelle": "CHARENTE-MARITIME",
+    "inscrits": 472024,
+    "votants": 388708,
+    "exprimes": 365331,
+    "abstentions": 83316,
+    "blancs_nuls": 23377,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 188387
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 176944
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "18",
+    "libelle": "CHER",
+    "inscrits": 231015,
+    "votants": 185230,
+    "exprimes": 171816,
+    "abstentions": 45785,
+    "blancs_nuls": 13414,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 92857
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 78959
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "19",
+    "libelle": "CORREZE",
+    "inscrits": 186621,
+    "votants": 161152,
+    "exprimes": 152266,
+    "abstentions": 25469,
+    "blancs_nuls": 8886,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 98764
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 53502
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "21",
+    "libelle": "COTE-D'OR",
+    "inscrits": 354805,
+    "votants": 295945,
+    "exprimes": 278493,
+    "abstentions": 58860,
+    "blancs_nuls": 17452,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 134936
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 143557
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "22",
+    "libelle": "COTES-D'ARMOR",
+    "inscrits": 451014,
+    "votants": 388474,
+    "exprimes": 367639,
+    "abstentions": 62540,
+    "blancs_nuls": 20835,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 217609
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 150030
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "23",
+    "libelle": "CREUSE",
+    "inscrits": 96857,
+    "votants": 80716,
+    "exprimes": 75176,
+    "abstentions": 16141,
+    "blancs_nuls": 5540,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 45870
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 29306
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "24",
+    "libelle": "DORDOGNE",
+    "inscrits": 311783,
+    "votants": 267855,
+    "exprimes": 250291,
+    "abstentions": 43928,
+    "blancs_nuls": 17564,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 148011
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 102280
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "25",
+    "libelle": "DOUBS",
+    "inscrits": 359184,
+    "votants": 299056,
+    "exprimes": 279854,
+    "abstentions": 60128,
+    "blancs_nuls": 19202,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 134575
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 145279
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "26",
+    "libelle": "DROME",
+    "inscrits": 353114,
+    "votants": 292984,
+    "exprimes": 274395,
+    "abstentions": 60130,
+    "blancs_nuls": 18589,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 134959
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 139436
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "27",
+    "libelle": "EURE",
+    "inscrits": 417805,
+    "votants": 340272,
+    "exprimes": 318276,
+    "abstentions": 77533,
+    "blancs_nuls": 21996,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 151327
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 166949
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "28",
+    "libelle": "EURE-ET-LOIR",
+    "inscrits": 297762,
+    "votants": 242011,
+    "exprimes": 227128,
+    "abstentions": 55751,
+    "blancs_nuls": 14883,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 105676
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 121452
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "29",
+    "libelle": "FINISTERE",
+    "inscrits": 676503,
+    "votants": 572626,
+    "exprimes": 543271,
+    "abstentions": 103877,
+    "blancs_nuls": 29355,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 319789
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 223482
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "30",
+    "libelle": "GARD",
+    "inscrits": 513007,
+    "votants": 424811,
+    "exprimes": 396482,
+    "abstentions": 88196,
+    "blancs_nuls": 28329,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 193487
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 202995
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "31",
+    "libelle": "HAUTE-GARONNE",
+    "inscrits": 845444,
+    "votants": 700316,
+    "exprimes": 661461,
+    "abstentions": 145128,
+    "blancs_nuls": 38855,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 388800
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 272661
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "32",
+    "libelle": "GERS",
+    "inscrits": 143775,
+    "votants": 123872,
+    "exprimes": 115828,
+    "abstentions": 19903,
+    "blancs_nuls": 8044,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 65606
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 50222
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "33",
+    "libelle": "GIRONDE",
+    "inscrits": 1007800,
+    "votants": 841139,
+    "exprimes": 792500,
+    "abstentions": 166661,
+    "blancs_nuls": 48639,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 448634
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 343866
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "34",
+    "libelle": "HERAULT",
+    "inscrits": 746809,
+    "votants": 614713,
+    "exprimes": 577662,
+    "abstentions": 132096,
+    "blancs_nuls": 37051,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 296422
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 281240
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "35",
+    "libelle": "ILLE-ET-VILAINE",
+    "inscrits": 697094,
+    "votants": 588574,
+    "exprimes": 558032,
+    "abstentions": 108520,
+    "blancs_nuls": 30542,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 310905
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 247127
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "36",
+    "libelle": "INDRE",
+    "inscrits": 173772,
+    "votants": 142702,
+    "exprimes": 132259,
+    "abstentions": 31070,
+    "blancs_nuls": 10443,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 73616
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 58643
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "37",
+    "libelle": "INDRE-ET-LOIRE",
+    "inscrits": 412935,
+    "votants": 342339,
+    "exprimes": 322667,
+    "abstentions": 70596,
+    "blancs_nuls": 19672,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 165293
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 157374
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "38",
+    "libelle": "ISERE",
+    "inscrits": 821554,
+    "votants": 673763,
+    "exprimes": 635877,
+    "abstentions": 147791,
+    "blancs_nuls": 37886,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 331448
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 304429
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "39",
+    "libelle": "JURA",
+    "inscrits": 188216,
+    "votants": 157462,
+    "exprimes": 146325,
+    "abstentions": 30754,
+    "blancs_nuls": 11137,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 72321
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 74004
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "40",
+    "libelle": "LANDES",
+    "inscrits": 296719,
+    "votants": 251779,
+    "exprimes": 236664,
+    "abstentions": 44940,
+    "blancs_nuls": 15115,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 134872
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 101792
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "41",
+    "libelle": "LOIR-ET-CHER",
+    "inscrits": 243119,
+    "votants": 200966,
+    "exprimes": 187457,
+    "abstentions": 42153,
+    "blancs_nuls": 13509,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 89182
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 98275
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "42",
+    "libelle": "LOIRE",
+    "inscrits": 509732,
+    "votants": 416137,
+    "exprimes": 389143,
+    "abstentions": 93595,
+    "blancs_nuls": 26994,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 196522
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 192621
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "43",
+    "libelle": "HAUTE-LOIRE",
+    "inscrits": 176028,
+    "votants": 148572,
+    "exprimes": 137191,
+    "abstentions": 27456,
+    "blancs_nuls": 11381,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 70488
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 66703
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "44",
+    "libelle": "LOIRE-ATLANTIQUE",
+    "inscrits": 935620,
+    "votants": 785223,
+    "exprimes": 744377,
+    "abstentions": 150397,
+    "blancs_nuls": 40846,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 419484
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 324893
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "45",
+    "libelle": "LOIRET",
+    "inscrits": 442970,
+    "votants": 363108,
+    "exprimes": 339960,
+    "abstentions": 79862,
+    "blancs_nuls": 23148,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 156289
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 183671
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "46",
+    "libelle": "LOT",
+    "inscrits": 135211,
+    "votants": 117120,
+    "exprimes": 109843,
+    "abstentions": 18091,
+    "blancs_nuls": 7277,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 67981
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 41862
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "47",
+    "libelle": "LOT-ET-GARONNE",
+    "inscrits": 240698,
+    "votants": 202645,
+    "exprimes": 188429,
+    "abstentions": 38053,
+    "blancs_nuls": 14216,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 96766
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 91663
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "48",
+    "libelle": "LOZERE",
+    "inscrits": 59885,
+    "votants": 51507,
+    "exprimes": 48027,
+    "abstentions": 8378,
+    "blancs_nuls": 3480,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 23991
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 24036
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "49",
+    "libelle": "MAINE-ET-LOIRE",
+    "inscrits": 553191,
+    "votants": 464518,
+    "exprimes": 437255,
+    "abstentions": 88673,
+    "blancs_nuls": 27263,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 213611
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 223644
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "50",
+    "libelle": "MANCHE",
+    "inscrits": 375776,
+    "votants": 312897,
+    "exprimes": 294597,
+    "abstentions": 62879,
+    "blancs_nuls": 18300,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 147006
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 147591
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "51",
+    "libelle": "MARNE",
+    "inscrits": 382133,
+    "votants": 301325,
+    "exprimes": 282316,
+    "abstentions": 80808,
+    "blancs_nuls": 19009,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 126156
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 156160
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "52",
+    "libelle": "HAUTE-MARNE",
+    "inscrits": 138781,
+    "votants": 111350,
+    "exprimes": 103050,
+    "abstentions": 27431,
+    "blancs_nuls": 8300,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 46965
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 56085
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "53",
+    "libelle": "MAYENNE",
+    "inscrits": 221494,
+    "votants": 186063,
+    "exprimes": 174569,
+    "abstentions": 35431,
+    "blancs_nuls": 11494,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 81922
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 92647
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "54",
+    "libelle": "MEURTHE-ET-MOSELLE",
+    "inscrits": 495452,
+    "votants": 395005,
+    "exprimes": 370557,
+    "abstentions": 100447,
+    "blancs_nuls": 24448,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 196628
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 173929
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "55",
+    "libelle": "MEUSE",
+    "inscrits": 140113,
+    "votants": 114289,
+    "exprimes": 105758,
+    "abstentions": 25824,
+    "blancs_nuls": 8531,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 48860
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 56898
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "56",
+    "libelle": "MORBIHAN",
+    "inscrits": 555655,
+    "votants": 470236,
+    "exprimes": 443141,
+    "abstentions": 85419,
+    "blancs_nuls": 27095,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 229248
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 213893
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "57",
+    "libelle": "MOSELLE",
+    "inscrits": 745761,
+    "votants": 582470,
+    "exprimes": 544649,
+    "abstentions": 163291,
+    "blancs_nuls": 37821,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 253281
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 291368
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "58",
+    "libelle": "NIEVRE",
+    "inscrits": 164915,
+    "votants": 133825,
+    "exprimes": 124845,
+    "abstentions": 31090,
+    "blancs_nuls": 8980,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 73424
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 51421
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "59",
+    "libelle": "NORD",
+    "inscrits": 1792610,
+    "votants": 1396198,
+    "exprimes": 1309155,
+    "abstentions": 396412,
+    "blancs_nuls": 87043,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 692273
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 616882
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "60",
+    "libelle": "OISE",
+    "inscrits": 549097,
+    "votants": 443013,
+    "exprimes": 413433,
+    "abstentions": 106084,
+    "blancs_nuls": 29580,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 195701
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 217732
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "61",
+    "libelle": "ORNE",
+    "inscrits": 212505,
+    "votants": 176445,
+    "exprimes": 164666,
+    "abstentions": 36060,
+    "blancs_nuls": 11779,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 77579
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 87087
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "62",
+    "libelle": "PAS-DE-CALAIS",
+    "inscrits": 1083666,
+    "votants": 863054,
+    "exprimes": 801118,
+    "abstentions": 220612,
+    "blancs_nuls": 61936,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 450103
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 351015
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "63",
+    "libelle": "PUY-DE-DOME",
+    "inscrits": 449281,
+    "votants": 376328,
+    "exprimes": 351592,
+    "abstentions": 72953,
+    "blancs_nuls": 24736,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 212597
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 138995
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "64",
+    "libelle": "PYRENEES-ATLANTIQUES",
+    "inscrits": 488982,
+    "votants": 409114,
+    "exprimes": 383338,
+    "abstentions": 79868,
+    "blancs_nuls": 25776,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 218964
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 164374
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "65",
+    "libelle": "HAUTES-PYRENEES",
+    "inscrits": 177439,
+    "votants": 148284,
+    "exprimes": 138971,
+    "abstentions": 29155,
+    "blancs_nuls": 9313,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 86809
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 52162
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "66",
+    "libelle": "PYRENEES-ORIENTALES",
+    "inscrits": 329293,
+    "votants": 270679,
+    "exprimes": 252293,
+    "abstentions": 58614,
+    "blancs_nuls": 18386,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 127625
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 124668
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "67",
+    "libelle": "BAS-RHIN",
+    "inscrits": 748128,
+    "votants": 599728,
+    "exprimes": 565902,
+    "abstentions": 148400,
+    "blancs_nuls": 33826,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 206891
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 359011
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "68",
+    "libelle": "HAUT-RHIN",
+    "inscrits": 519575,
+    "votants": 415937,
+    "exprimes": 389259,
+    "abstentions": 103638,
+    "blancs_nuls": 26678,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 142724
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 246535
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "69",
+    "libelle": "RHONE",
+    "inscrits": 1100976,
+    "votants": 893838,
+    "exprimes": 852269,
+    "abstentions": 207138,
+    "blancs_nuls": 41569,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 408899
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 443370
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "70",
+    "libelle": "HAUTE-SAONE",
+    "inscrits": 180598,
+    "votants": 150840,
+    "exprimes": 138315,
+    "abstentions": 29758,
+    "blancs_nuls": 12525,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 68656
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 69659
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "71",
+    "libelle": "SAONE-ET-LOIRE",
+    "inscrits": 409846,
+    "votants": 333255,
+    "exprimes": 309994,
+    "abstentions": 76591,
+    "blancs_nuls": 23261,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 160751
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 149243
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "72",
+    "libelle": "SARTHE",
+    "inscrits": 406896,
+    "votants": 332188,
+    "exprimes": 309429,
+    "abstentions": 74708,
+    "blancs_nuls": 22759,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 162975
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 146454
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "73",
+    "libelle": "SAVOIE",
+    "inscrits": 298887,
+    "votants": 246308,
+    "exprimes": 230919,
+    "abstentions": 52579,
+    "blancs_nuls": 15389,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 108686
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 122233
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "74",
+    "libelle": "HAUTE-SAVOIE",
+    "inscrits": 504553,
+    "votants": 410553,
+    "exprimes": 387550,
+    "abstentions": 94000,
+    "blancs_nuls": 23003,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 154622
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 232928
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "75",
+    "libelle": "PARIS",
+    "inscrits": 1253919,
+    "votants": 1041049,
+    "exprimes": 1007961,
+    "abstentions": 212870,
+    "blancs_nuls": 33088,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 560461
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 447500
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "76",
+    "libelle": "SEINE-MARITIME",
+    "inscrits": 876129,
+    "votants": 710630,
+    "exprimes": 667273,
+    "abstentions": 165499,
+    "blancs_nuls": 43357,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 366616
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 300657
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "77",
+    "libelle": "SEINE-ET-MARNE",
+    "inscrits": 843992,
+    "votants": 679739,
+    "exprimes": 640723,
+    "abstentions": 164253,
+    "blancs_nuls": 39016,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 315576
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 325147
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "78",
+    "libelle": "YVELINES",
+    "inscrits": 926633,
+    "votants": 762405,
+    "exprimes": 728762,
+    "abstentions": 164228,
+    "blancs_nuls": 33643,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 333079
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 395683
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "79",
+    "libelle": "DEUX-SEVRES",
+    "inscrits": 270641,
+    "votants": 227869,
+    "exprimes": 214385,
+    "abstentions": 42772,
+    "blancs_nuls": 13484,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 122858
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 91527
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "80",
+    "libelle": "SOMME",
+    "inscrits": 409366,
+    "votants": 336177,
+    "exprimes": 313423,
+    "abstentions": 73189,
+    "blancs_nuls": 22754,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 170529
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 142894
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "81",
+    "libelle": "TARN",
+    "inscrits": 283870,
+    "votants": 242110,
+    "exprimes": 225244,
+    "abstentions": 41760,
+    "blancs_nuls": 16866,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 125133
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 100111
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "82",
+    "libelle": "TARN-ET-GARONNE",
+    "inscrits": 175337,
+    "votants": 148676,
+    "exprimes": 138893,
+    "abstentions": 26661,
+    "blancs_nuls": 9783,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 71186
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 67707
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "83",
+    "libelle": "VAR",
+    "inscrits": 757310,
+    "votants": 615827,
+    "exprimes": 581850,
+    "abstentions": 141483,
+    "blancs_nuls": 33977,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 217384
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 364466
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "84",
+    "libelle": "VAUCLUSE",
+    "inscrits": 388058,
+    "votants": 319125,
+    "exprimes": 299039,
+    "abstentions": 68933,
+    "blancs_nuls": 20086,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 130281
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 168758
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "85",
+    "libelle": "VENDEE",
+    "inscrits": 488788,
+    "votants": 415669,
+    "exprimes": 391170,
+    "abstentions": 73119,
+    "blancs_nuls": 24499,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 173686
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 217484
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "86",
+    "libelle": "VIENNE",
+    "inscrits": 303613,
+    "votants": 251141,
+    "exprimes": 235731,
+    "abstentions": 52472,
+    "blancs_nuls": 15410,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 134754
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 100977
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "87",
+    "libelle": "HAUTE-VIENNE",
+    "inscrits": 264859,
+    "votants": 224016,
+    "exprimes": 208562,
+    "abstentions": 40843,
+    "blancs_nuls": 15454,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 133467
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 75095
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "88",
+    "libelle": "VOSGES",
+    "inscrits": 285407,
+    "votants": 233854,
+    "exprimes": 214775,
+    "abstentions": 51553,
+    "blancs_nuls": 19079,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 105371
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 109404
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "89",
+    "libelle": "YONNE",
+    "inscrits": 245241,
+    "votants": 198349,
+    "exprimes": 184732,
+    "abstentions": 46892,
+    "blancs_nuls": 13617,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 86610
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 98122
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "90",
+    "libelle": "TERRITOIRE DE BELFORT",
+    "inscrits": 94858,
+    "votants": 76863,
+    "exprimes": 70989,
+    "abstentions": 17995,
+    "blancs_nuls": 5874,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 35866
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 35123
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "91",
+    "libelle": "ESSONNE",
+    "inscrits": 767568,
+    "votants": 627452,
+    "exprimes": 594522,
+    "abstentions": 140116,
+    "blancs_nuls": 32930,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 317663
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 276859
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "92",
+    "libelle": "HAUTS-DE-SEINE",
+    "inscrits": 939121,
+    "votants": 777070,
+    "exprimes": 745944,
+    "abstentions": 162051,
+    "blancs_nuls": 31126,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 369128
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 376816
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "93",
+    "libelle": "SEINE-SAINT-DENIS",
+    "inscrits": 740925,
+    "votants": 566384,
+    "exprimes": 540822,
+    "abstentions": 174541,
+    "blancs_nuls": 25562,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 353260
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 187562
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "94",
+    "libelle": "VAL-DE-MARNE",
+    "inscrits": 767965,
+    "votants": 617936,
+    "exprimes": 590247,
+    "abstentions": 150029,
+    "blancs_nuls": 27689,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 333347
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 256900
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "95",
+    "libelle": "VAL-D'OISE",
+    "inscrits": 704950,
+    "votants": 564550,
+    "exprimes": 537061,
+    "abstentions": 140400,
+    "blancs_nuls": 27489,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 289520
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 247541
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "2A",
+    "libelle": "CORSE-DU-SUD",
+    "inscrits": 101674,
+    "votants": 76999,
+    "exprimes": 72626,
+    "abstentions": 24675,
+    "blancs_nuls": 4373,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 30791
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 41835
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 2,
+    "code": "2B",
+    "libelle": "HAUTE-CORSE",
+    "inscrits": 118641,
+    "votants": 91170,
+    "exprimes": 86322,
+    "abstentions": 27471,
+    "blancs_nuls": 4848,
+    "candidats": [
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 39357
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 46965
+      }
+    ]
+  }
+]

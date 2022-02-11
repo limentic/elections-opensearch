@@ -1,0 +1,2210 @@
+[
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "1",
+    "libelle": "AIN",
+    "inscrits": 338196,
+    "votants": 273803,
+    "exprimes": 258991,
+    "abstentions": 64393,
+    "blancs_nuls": 14812,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 204031
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 54960
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "2",
+    "libelle": "AISNE",
+    "inscrits": 366892,
+    "votants": 295097,
+    "exprimes": 275637,
+    "abstentions": 71795,
+    "blancs_nuls": 19460,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 207910
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 67727
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "3",
+    "libelle": "ALLIER",
+    "inscrits": 256085,
+    "votants": 207091,
+    "exprimes": 193181,
+    "abstentions": 48994,
+    "blancs_nuls": 13910,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 164610
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 28571
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "4",
+    "libelle": "ALPES-DE-HAUTE-PROVENCE",
+    "inscrits": 108901,
+    "votants": 90088,
+    "exprimes": 84303,
+    "abstentions": 18813,
+    "blancs_nuls": 5785,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 66456
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 17847
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "5",
+    "libelle": "HAUTES-ALPES",
+    "inscrits": 95075,
+    "votants": 78542,
+    "exprimes": 73708,
+    "abstentions": 16533,
+    "blancs_nuls": 4834,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 60756
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 12952
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "6",
+    "libelle": "ALPES-MARITIMES",
+    "inscrits": 690131,
+    "votants": 524995,
+    "exprimes": 500791,
+    "abstentions": 165136,
+    "blancs_nuls": 24204,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 357143
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 143648
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "7",
+    "libelle": "ARDECHE",
+    "inscrits": 219803,
+    "votants": 182389,
+    "exprimes": 170739,
+    "abstentions": 37414,
+    "blancs_nuls": 11650,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 140208
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 30531
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "8",
+    "libelle": "ARDENNES",
+    "inscrits": 192409,
+    "votants": 150940,
+    "exprimes": 140658,
+    "abstentions": 41469,
+    "blancs_nuls": 10282,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 106793
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 33865
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "9",
+    "libelle": "ARIEGE",
+    "inscrits": 108986,
+    "votants": 90159,
+    "exprimes": 82743,
+    "abstentions": 18827,
+    "blancs_nuls": 7416,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 69400
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 13343
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "10",
+    "libelle": "AUBE",
+    "inscrits": 193761,
+    "votants": 155607,
+    "exprimes": 146288,
+    "abstentions": 38154,
+    "blancs_nuls": 9319,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 112457
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 33831
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "11",
+    "libelle": "AUDE",
+    "inscrits": 236813,
+    "votants": 194686,
+    "exprimes": 179456,
+    "abstentions": 42127,
+    "blancs_nuls": 15230,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 139857
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 39599
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "12",
+    "libelle": "AVEYRON",
+    "inscrits": 214793,
+    "votants": 182009,
+    "exprimes": 170509,
+    "abstentions": 32784,
+    "blancs_nuls": 11500,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 150292
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 20217
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "13",
+    "libelle": "BOUCHES-DU-RHONE",
+    "inscrits": 1145020,
+    "votants": 926102,
+    "exprimes": 880502,
+    "abstentions": 218918,
+    "blancs_nuls": 45600,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 638688
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 241814
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "14",
+    "libelle": "CALVADOS",
+    "inscrits": 458079,
+    "votants": 371075,
+    "exprimes": 352453,
+    "abstentions": 87004,
+    "blancs_nuls": 18622,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 295887
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 56566
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "15",
+    "libelle": "CANTAL",
+    "inscrits": 123815,
+    "votants": 102619,
+    "exprimes": 97246,
+    "abstentions": 21196,
+    "blancs_nuls": 5373,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 86078
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 11168
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "16",
+    "libelle": "CHARENTE",
+    "inscrits": 255097,
+    "votants": 207202,
+    "exprimes": 193714,
+    "abstentions": 47895,
+    "blancs_nuls": 13488,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 165014
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 28700
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "17",
+    "libelle": "CHARENTE-MARITIME",
+    "inscrits": 417808,
+    "votants": 339450,
+    "exprimes": 320473,
+    "abstentions": 78358,
+    "blancs_nuls": 18977,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 268309
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 52164
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "18",
+    "libelle": "CHER",
+    "inscrits": 228040,
+    "votants": 182721,
+    "exprimes": 171437,
+    "abstentions": 45319,
+    "blancs_nuls": 11284,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 142411
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 29026
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "19",
+    "libelle": "CORREZE",
+    "inscrits": 184162,
+    "votants": 158452,
+    "exprimes": 148522,
+    "abstentions": 25710,
+    "blancs_nuls": 9930,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 134991
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 13531
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "21",
+    "libelle": "COTE-D'OR",
+    "inscrits": 330297,
+    "votants": 270405,
+    "exprimes": 254500,
+    "abstentions": 59892,
+    "blancs_nuls": 15905,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 207876
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 46624
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "22",
+    "libelle": "COTES-D'ARMOR",
+    "inscrits": 428721,
+    "votants": 360722,
+    "exprimes": 339774,
+    "abstentions": 67999,
+    "blancs_nuls": 20948,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 300021
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 39753
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "23",
+    "libelle": "CREUSE",
+    "inscrits": 101802,
+    "votants": 82452,
+    "exprimes": 77328,
+    "abstentions": 19350,
+    "blancs_nuls": 5124,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 68314
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 9014
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "24",
+    "libelle": "DORDOGNE",
+    "inscrits": 303848,
+    "votants": 257396,
+    "exprimes": 239208,
+    "abstentions": 46452,
+    "blancs_nuls": 18188,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 204993
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 34215
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "25",
+    "libelle": "DOUBS",
+    "inscrits": 334629,
+    "votants": 277383,
+    "exprimes": 260022,
+    "abstentions": 57246,
+    "blancs_nuls": 17361,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 212719
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 47303
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "26",
+    "libelle": "DROME",
+    "inscrits": 309535,
+    "votants": 254001,
+    "exprimes": 239698,
+    "abstentions": 55534,
+    "blancs_nuls": 14303,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 190048
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 49650
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "27",
+    "libelle": "EURE",
+    "inscrits": 378241,
+    "votants": 305393,
+    "exprimes": 289010,
+    "abstentions": 72848,
+    "blancs_nuls": 16383,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 226071
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 62939
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "28",
+    "libelle": "EURE-ET-LOIR",
+    "inscrits": 277973,
+    "votants": 224269,
+    "exprimes": 212214,
+    "abstentions": 53704,
+    "blancs_nuls": 12055,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 168207
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 44007
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "29",
+    "libelle": "FINISTERE",
+    "inscrits": 635432,
+    "votants": 525179,
+    "exprimes": 499381,
+    "abstentions": 110253,
+    "blancs_nuls": 25798,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 446636
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 52745
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "30",
+    "libelle": "GARD",
+    "inscrits": 445500,
+    "votants": 363760,
+    "exprimes": 339394,
+    "abstentions": 81740,
+    "blancs_nuls": 24366,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 248906
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 90488
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "31",
+    "libelle": "HAUTE-GARONNE",
+    "inscrits": 710535,
+    "votants": 586043,
+    "exprimes": 551532,
+    "abstentions": 124492,
+    "blancs_nuls": 34511,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 463850
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 87682
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "32",
+    "libelle": "GERS",
+    "inscrits": 135345,
+    "votants": 114853,
+    "exprimes": 106878,
+    "abstentions": 20492,
+    "blancs_nuls": 7975,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 91057
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 15821
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "33",
+    "libelle": "GIRONDE",
+    "inscrits": 867552,
+    "votants": 711304,
+    "exprimes": 669679,
+    "abstentions": 156248,
+    "blancs_nuls": 41625,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 561009
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 108670
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "34",
+    "libelle": "HERAULT",
+    "inscrits": 632246,
+    "votants": 514956,
+    "exprimes": 480649,
+    "abstentions": 117290,
+    "blancs_nuls": 34307,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 363019
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 117630
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "35",
+    "libelle": "ILLE-ET-VILAINE",
+    "inscrits": 618255,
+    "votants": 512953,
+    "exprimes": 489449,
+    "abstentions": 105302,
+    "blancs_nuls": 23504,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 439600
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 49849
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "36",
+    "libelle": "INDRE",
+    "inscrits": 176656,
+    "votants": 145247,
+    "exprimes": 135548,
+    "abstentions": 31409,
+    "blancs_nuls": 9699,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 113006
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 22542
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "37",
+    "libelle": "INDRE-ET-LOIRE",
+    "inscrits": 381143,
+    "votants": 309808,
+    "exprimes": 294034,
+    "abstentions": 71335,
+    "blancs_nuls": 15774,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 249483
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 44551
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "38",
+    "libelle": "ISERE",
+    "inscrits": 708476,
+    "votants": 577589,
+    "exprimes": 549544,
+    "abstentions": 130887,
+    "blancs_nuls": 28045,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 449082
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 100462
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "39",
+    "libelle": "JURA",
+    "inscrits": 181313,
+    "votants": 149443,
+    "exprimes": 139119,
+    "abstentions": 31870,
+    "blancs_nuls": 10324,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 112892
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 26227
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "40",
+    "libelle": "LANDES",
+    "inscrits": 258814,
+    "votants": 215577,
+    "exprimes": 200914,
+    "abstentions": 43237,
+    "blancs_nuls": 14663,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 174994
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 25920
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "41",
+    "libelle": "LOIR-ET-CHER",
+    "inscrits": 232656,
+    "votants": 190074,
+    "exprimes": 179180,
+    "abstentions": 42582,
+    "blancs_nuls": 10894,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 144758
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 34422
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "42",
+    "libelle": "LOIRE",
+    "inscrits": 483994,
+    "votants": 385496,
+    "exprimes": 364619,
+    "abstentions": 98498,
+    "blancs_nuls": 20877,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 289594
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 75025
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "43",
+    "libelle": "HAUTE-LOIRE",
+    "inscrits": 166306,
+    "votants": 137517,
+    "exprimes": 128484,
+    "abstentions": 28789,
+    "blancs_nuls": 9033,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 105116
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 23368
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "44",
+    "libelle": "LOIRE-ATLANTIQUE",
+    "inscrits": 814580,
+    "votants": 663938,
+    "exprimes": 632254,
+    "abstentions": 150642,
+    "blancs_nuls": 31684,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 561600
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 70654
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "45",
+    "libelle": "LOIRET",
+    "inscrits": 409225,
+    "votants": 333761,
+    "exprimes": 317045,
+    "abstentions": 75464,
+    "blancs_nuls": 16716,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 257597
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 59448
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "46",
+    "libelle": "LOT",
+    "inscrits": 128161,
+    "votants": 109627,
+    "exprimes": 102026,
+    "abstentions": 18534,
+    "blancs_nuls": 7601,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 89690
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 12336
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "47",
+    "libelle": "LOT-ET-GARONNE",
+    "inscrits": 228982,
+    "votants": 191034,
+    "exprimes": 177508,
+    "abstentions": 37948,
+    "blancs_nuls": 13526,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 138348
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 39160
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "48",
+    "libelle": "LOZERE",
+    "inscrits": 58814,
+    "votants": 49493,
+    "exprimes": 46411,
+    "abstentions": 9321,
+    "blancs_nuls": 3082,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 39715
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 6696
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "49",
+    "libelle": "MAINE-ET-LOIRE",
+    "inscrits": 509928,
+    "votants": 421907,
+    "exprimes": 401606,
+    "abstentions": 88021,
+    "blancs_nuls": 20301,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 353118
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 48488
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "50",
+    "libelle": "MANCHE",
+    "inscrits": 358880,
+    "votants": 292034,
+    "exprimes": 277925,
+    "abstentions": 66846,
+    "blancs_nuls": 14109,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 237090
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 40835
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "51",
+    "libelle": "MARNE",
+    "inscrits": 372023,
+    "votants": 288939,
+    "exprimes": 273863,
+    "abstentions": 83084,
+    "blancs_nuls": 15076,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 218629
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 55234
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "52",
+    "libelle": "HAUTE-MARNE",
+    "inscrits": 143608,
+    "votants": 113520,
+    "exprimes": 105892,
+    "abstentions": 30088,
+    "blancs_nuls": 7628,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 80660
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 25232
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "53",
+    "libelle": "MAYENNE",
+    "inscrits": 214052,
+    "votants": 176752,
+    "exprimes": 168173,
+    "abstentions": 37300,
+    "blancs_nuls": 8579,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 148982
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 19191
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "54",
+    "libelle": "MEURTHE-ET-MOSELLE",
+    "inscrits": 469424,
+    "votants": 371694,
+    "exprimes": 351392,
+    "abstentions": 97730,
+    "blancs_nuls": 20302,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 287148
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 64244
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "55",
+    "libelle": "MEUSE",
+    "inscrits": 138887,
+    "votants": 111743,
+    "exprimes": 104714,
+    "abstentions": 27144,
+    "blancs_nuls": 7029,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 81905
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 22809
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "56",
+    "libelle": "MORBIHAN",
+    "inscrits": 499055,
+    "votants": 412428,
+    "exprimes": 391496,
+    "abstentions": 86627,
+    "blancs_nuls": 20932,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 337131
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 54365
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "57",
+    "libelle": "MOSELLE",
+    "inscrits": 712201,
+    "votants": 552923,
+    "exprimes": 523388,
+    "abstentions": 159278,
+    "blancs_nuls": 29535,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 408850
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 114538
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "58",
+    "libelle": "NIEVRE",
+    "inscrits": 170333,
+    "votants": 134578,
+    "exprimes": 124843,
+    "abstentions": 35755,
+    "blancs_nuls": 9735,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 102078
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 22765
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "59",
+    "libelle": "NORD",
+    "inscrits": 1721144,
+    "votants": 1337078,
+    "exprimes": 1263436,
+    "abstentions": 384066,
+    "blancs_nuls": 73642,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 989046
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 274390
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "60",
+    "libelle": "OISE",
+    "inscrits": 506792,
+    "votants": 406858,
+    "exprimes": 383117,
+    "abstentions": 99934,
+    "blancs_nuls": 23741,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 287054
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 96063
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "61",
+    "libelle": "ORNE",
+    "inscrits": 214187,
+    "votants": 175890,
+    "exprimes": 167158,
+    "abstentions": 38297,
+    "blancs_nuls": 8732,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 135900
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 31258
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "62",
+    "libelle": "PAS-DE-CALAIS",
+    "inscrits": 1048035,
+    "votants": 827015,
+    "exprimes": 771828,
+    "abstentions": 221020,
+    "blancs_nuls": 55187,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 600597
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 171231
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "63",
+    "libelle": "PUY-DE-DOME",
+    "inscrits": 425361,
+    "votants": 351015,
+    "exprimes": 329628,
+    "abstentions": 74346,
+    "blancs_nuls": 21387,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 286928
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 42700
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "64",
+    "libelle": "PYRENEES-ATLANTIQUES",
+    "inscrits": 450389,
+    "votants": 371793,
+    "exprimes": 347886,
+    "abstentions": 78596,
+    "blancs_nuls": 23907,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 304383
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 43503
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "65",
+    "libelle": "HAUTES-PYRENEES",
+    "inscrits": 169123,
+    "votants": 139937,
+    "exprimes": 129981,
+    "abstentions": 29186,
+    "blancs_nuls": 9956,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 112495
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 17486
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "66",
+    "libelle": "PYRENEES-ORIENTALES",
+    "inscrits": 285942,
+    "votants": 230535,
+    "exprimes": 214439,
+    "abstentions": 55407,
+    "blancs_nuls": 16096,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 160563
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 53876
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "67",
+    "libelle": "BAS-RHIN",
+    "inscrits": 675014,
+    "votants": 539336,
+    "exprimes": 511943,
+    "abstentions": 135678,
+    "blancs_nuls": 27393,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 406057
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 105886
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "68",
+    "libelle": "HAUT-RHIN",
+    "inscrits": 478476,
+    "votants": 382671,
+    "exprimes": 361476,
+    "abstentions": 95805,
+    "blancs_nuls": 21195,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 280701
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 80775
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "69",
+    "libelle": "RHONE",
+    "inscrits": 932615,
+    "votants": 755174,
+    "exprimes": 723245,
+    "abstentions": 177441,
+    "blancs_nuls": 31929,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 587749
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 135496
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "70",
+    "libelle": "HAUTE-SAONE",
+    "inscrits": 174459,
+    "votants": 142796,
+    "exprimes": 130862,
+    "abstentions": 31663,
+    "blancs_nuls": 11934,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 99154
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 31708
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "71",
+    "libelle": "SAONE-ET-LOIRE",
+    "inscrits": 398397,
+    "votants": 316714,
+    "exprimes": 295141,
+    "abstentions": 81683,
+    "blancs_nuls": 21573,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 241719
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 53422
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "72",
+    "libelle": "SARTHE",
+    "inscrits": 385345,
+    "votants": 310468,
+    "exprimes": 291785,
+    "abstentions": 74877,
+    "blancs_nuls": 18683,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 246356
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 45429
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "73",
+    "libelle": "SAVOIE",
+    "inscrits": 264962,
+    "votants": 213089,
+    "exprimes": 201324,
+    "abstentions": 51873,
+    "blancs_nuls": 11765,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 163588
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 37736
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "74",
+    "libelle": "HAUTE-SAVOIE",
+    "inscrits": 421166,
+    "votants": 337402,
+    "exprimes": 320984,
+    "abstentions": 83764,
+    "blancs_nuls": 16418,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 262567
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 58417
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "75",
+    "libelle": "PARIS",
+    "inscrits": 1081313,
+    "votants": 896811,
+    "exprimes": 872242,
+    "abstentions": 184502,
+    "blancs_nuls": 24569,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 784741
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 87501
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "76",
+    "libelle": "SEINE-MARITIME",
+    "inscrits": 837492,
+    "votants": 672998,
+    "exprimes": 637760,
+    "abstentions": 164494,
+    "blancs_nuls": 35238,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 526653
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 111107
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "77",
+    "libelle": "SEINE-ET-MARNE",
+    "inscrits": 721811,
+    "votants": 579033,
+    "exprimes": 551652,
+    "abstentions": 142778,
+    "blancs_nuls": 27381,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 444844
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 106808
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "78",
+    "libelle": "YVELINES",
+    "inscrits": 825316,
+    "votants": 676467,
+    "exprimes": 650557,
+    "abstentions": 148849,
+    "blancs_nuls": 25910,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 556802
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 93755
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "79",
+    "libelle": "DEUX-SEVRES",
+    "inscrits": 260916,
+    "votants": 218259,
+    "exprimes": 207972,
+    "abstentions": 42657,
+    "blancs_nuls": 10287,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 186376
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 21596
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "80",
+    "libelle": "SOMME",
+    "inscrits": 399858,
+    "votants": 325298,
+    "exprimes": 303302,
+    "abstentions": 74560,
+    "blancs_nuls": 21996,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 237353
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 65949
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "81",
+    "libelle": "TARN",
+    "inscrits": 261407,
+    "votants": 221446,
+    "exprimes": 205658,
+    "abstentions": 39961,
+    "blancs_nuls": 15788,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 169494
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 36164
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "82",
+    "libelle": "TARN-ET-GARONNE",
+    "inscrits": 153680,
+    "votants": 129607,
+    "exprimes": 120635,
+    "abstentions": 24073,
+    "blancs_nuls": 8972,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 94589
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 26046
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "83",
+    "libelle": "VAR",
+    "inscrits": 645310,
+    "votants": 512681,
+    "exprimes": 485559,
+    "abstentions": 132629,
+    "blancs_nuls": 27122,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 346241
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 139318
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "84",
+    "libelle": "VAUCLUSE",
+    "inscrits": 342814,
+    "votants": 281346,
+    "exprimes": 265147,
+    "abstentions": 61468,
+    "blancs_nuls": 16199,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 186546
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 78601
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "85",
+    "libelle": "VENDEE",
+    "inscrits": 427854,
+    "votants": 356532,
+    "exprimes": 339193,
+    "abstentions": 71322,
+    "blancs_nuls": 17339,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 297854
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 41339
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "86",
+    "libelle": "VIENNE",
+    "inscrits": 286957,
+    "votants": 238101,
+    "exprimes": 225983,
+    "abstentions": 48856,
+    "blancs_nuls": 12118,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 198063
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 27920
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "87",
+    "libelle": "HAUTE-VIENNE",
+    "inscrits": 260919,
+    "votants": 218884,
+    "exprimes": 205125,
+    "abstentions": 42035,
+    "blancs_nuls": 13759,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 182431
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 22694
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "88",
+    "libelle": "VOSGES",
+    "inscrits": 283162,
+    "votants": 228679,
+    "exprimes": 213866,
+    "abstentions": 54483,
+    "blancs_nuls": 14813,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 168540
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 45326
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "89",
+    "libelle": "YONNE",
+    "inscrits": 235558,
+    "votants": 190246,
+    "exprimes": 179468,
+    "abstentions": 45312,
+    "blancs_nuls": 10778,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 138779
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 40689
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "90",
+    "libelle": "TERRITOIRE DE BELFORT",
+    "inscrits": 89632,
+    "votants": 73127,
+    "exprimes": 67800,
+    "abstentions": 16505,
+    "blancs_nuls": 5327,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 52827
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 14973
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "91",
+    "libelle": "ESSONNE",
+    "inscrits": 681798,
+    "votants": 552303,
+    "exprimes": 528391,
+    "abstentions": 129495,
+    "blancs_nuls": 23912,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 448940
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 79451
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "92",
+    "libelle": "HAUTS-DE-SEINE",
+    "inscrits": 813982,
+    "votants": 657996,
+    "exprimes": 636946,
+    "abstentions": 155986,
+    "blancs_nuls": 21050,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 560435
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 76511
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "93",
+    "libelle": "SEINE-SAINT-DENIS",
+    "inscrits": 630857,
+    "votants": 483069,
+    "exprimes": 463189,
+    "abstentions": 147788,
+    "blancs_nuls": 19880,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 382424
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 80765
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "94",
+    "libelle": "VAL-DE-MARNE",
+    "inscrits": 677072,
+    "votants": 540156,
+    "exprimes": 520007,
+    "abstentions": 136916,
+    "blancs_nuls": 20149,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 448375
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 71632
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "95",
+    "libelle": "VAL-D'OISE",
+    "inscrits": 604201,
+    "votants": 483279,
+    "exprimes": 462895,
+    "abstentions": 120922,
+    "blancs_nuls": 20384,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 382990
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 79905
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "2A",
+    "libelle": "CORSE-DU-SUD",
+    "inscrits": 86430,
+    "votants": 59736,
+    "exprimes": 56059,
+    "abstentions": 26694,
+    "blancs_nuls": 3677,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 43557
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 12502
+      }
+    ]
+  },
+  {
+    "election": 2002,
+    "tour": 2,
+    "code": "2B",
+    "libelle": "HAUTE-CORSE",
+    "inscrits": 104842,
+    "votants": 69901,
+    "exprimes": 65163,
+    "abstentions": 34941,
+    "blancs_nuls": 4738,
+    "candidats": [
+      {
+        "nom": "Jacques CHIRAC",
+        "parti": "UMP",
+        "votes": 53154
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 12009
+      }
+    ]
+  }
+]

@@ -1,0 +1,6937 @@
+[
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "1",
+    "libelle": "AIN",
+    "inscrits": 212727,
+    "votants": 175507,
+    "exprimes": 174053,
+    "abstentions": 37220,
+    "blancs_nuls": 1454,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4603
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 556
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 68990
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 1023
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 2370
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 67653
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 22551
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 286
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 4491
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 1217
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 81
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 232
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "2",
+    "libelle": "AISNE",
+    "inscrits": 304967,
+    "votants": 265686,
+    "exprimes": 263134,
+    "abstentions": 39281,
+    "blancs_nuls": 2552,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 8392
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1490
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 127512
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 1811
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 2779
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 71611
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 39922
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 577
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 6708
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 1683
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 158
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 491
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "3",
+    "libelle": "ALLIER",
+    "inscrits": 241214,
+    "votants": 205198,
+    "exprimes": 203175,
+    "abstentions": 36016,
+    "blancs_nuls": 2023,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5818
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 821
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 99487
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 1231
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 1687
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 67529
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 19738
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 354
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 4964
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 1227
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 77
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 242
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "4",
+    "libelle": "ALPES-DE-HAUTE-PROVENCE",
+    "inscrits": 70130,
+    "votants": 59368,
+    "exprimes": 58799,
+    "abstentions": 10762,
+    "blancs_nuls": 569,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 1611
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 275
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 28262
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 336
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 1029
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 17601
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 7767
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 123
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 1112
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 532
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 34
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 117
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "5",
+    "libelle": "HAUTES-ALPES",
+    "inscrits": 62530,
+    "votants": 52215,
+    "exprimes": 51657,
+    "abstentions": 10315,
+    "blancs_nuls": 558,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 1414
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 197
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 21950
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 256
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 863
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 16530
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 8521
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 120
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 1272
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 420
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 27
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 87
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "6",
+    "libelle": "ALPES-MARITIMES",
+    "inscrits": 462512,
+    "votants": 392107,
+    "exprimes": 388691,
+    "abstentions": 70405,
+    "blancs_nuls": 3416,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4171
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 968
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 169029
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 1658
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 4942
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 151753
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 41899
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 596
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 7987
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 4752
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 202
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 734
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "7",
+    "libelle": "ARDECHE",
+    "inscrits": 169460,
+    "votants": 144451,
+    "exprimes": 143096,
+    "abstentions": 25009,
+    "blancs_nuls": 1355,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3765
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 462
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 60246
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 703
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 1613
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 46817
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 24235
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 225
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 3894
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 838
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 70
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 228
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "8",
+    "libelle": "ARDENNES",
+    "inscrits": 167658,
+    "votants": 143726,
+    "exprimes": 142380,
+    "abstentions": 23932,
+    "blancs_nuls": 1346,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3750
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 839
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 68283
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 963
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 1443
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 44680
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 17102
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 269
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 3914
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 886
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 71
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 180
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "9",
+    "libelle": "ARIEGE",
+    "inscrits": 96240,
+    "votants": 80264,
+    "exprimes": 79582,
+    "abstentions": 15976,
+    "blancs_nuls": 682,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2494
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 414
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 45149
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 288
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 762
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 14618
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 13673
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 107
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 1287
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 672
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 32
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 86
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "10",
+    "libelle": "AUBE",
+    "inscrits": 161059,
+    "votants": 137502,
+    "exprimes": 136142,
+    "abstentions": 23557,
+    "blancs_nuls": 1360,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3434
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 607
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 58536
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 862
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 1413
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 46375
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 19082
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 297
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 4468
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 829
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 47
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 192
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "11",
+    "libelle": "AUDE",
+    "inscrits": 180546,
+    "votants": 155599,
+    "exprimes": 153635,
+    "abstentions": 24947,
+    "blancs_nuls": 1964,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3526
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 954
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 86453
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 671
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 1441
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 32363
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 23907
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 270
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 2484
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 1313
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 69
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 184
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "12",
+    "libelle": "AVEYRON",
+    "inscrits": 189169,
+    "votants": 161719,
+    "exprimes": 159961,
+    "abstentions": 27450,
+    "blancs_nuls": 1758,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4814
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 452
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 60709
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 708
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 1297
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 65075
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 19257
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 276
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 6264
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 810
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 96
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 203
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "13",
+    "libelle": "BOUCHES-DU-RHONE",
+    "inscrits": 818674,
+    "votants": 661492,
+    "exprimes": 655647,
+    "abstentions": 157182,
+    "blancs_nuls": 5845,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 11052
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 2994
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 341419
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 2738
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 9210
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 195924
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 71304
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 1231
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 10476
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 7421
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 407
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 1471
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "14",
+    "libelle": "CALVADOS",
+    "inscrits": 314480,
+    "votants": 269971,
+    "exprimes": 267919,
+    "abstentions": 44509,
+    "blancs_nuls": 2052,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 6498
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 985
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 102871
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 1702
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 3809
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 99850
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 38994
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 484
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 9824
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 2313
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 150
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 439
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "15",
+    "libelle": "CANTAL",
+    "inscrits": 111833,
+    "votants": 91470,
+    "exprimes": 90805,
+    "abstentions": 20363,
+    "blancs_nuls": 665,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3657
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 280
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 29864
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 328
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 500
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 42227
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 11007
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 173
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 2077
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 543
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 42
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 107
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "16",
+    "libelle": "CHARENTE",
+    "inscrits": 209166,
+    "votants": 177986,
+    "exprimes": 175969,
+    "abstentions": 31180,
+    "blancs_nuls": 2017,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5449
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 507
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 78122
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 768
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 1327
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 39658
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 42687
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 349
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 5240
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 1445
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 86
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 331
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "17",
+    "libelle": "CHARENTE-MARITIME",
+    "inscrits": 307757,
+    "votants": 253013,
+    "exprimes": 250485,
+    "abstentions": 54744,
+    "blancs_nuls": 2528,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 6686
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 788
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 104743
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 1166
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 2471
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 63981
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 58691
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 657
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 8407
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 2246
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 152
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 497
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "18",
+    "libelle": "CHER",
+    "inscrits": 190913,
+    "votants": 162971,
+    "exprimes": 161484,
+    "abstentions": 27942,
+    "blancs_nuls": 1487,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5326
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 572
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 72588
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 895
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 1462
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 50375
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 21323
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 292
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 7209
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 1150
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 78
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 214
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "19",
+    "libelle": "CORREZE",
+    "inscrits": 165292,
+    "votants": 143111,
+    "exprimes": 141914,
+    "abstentions": 22181,
+    "blancs_nuls": 1197,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4190
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 405
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 70585
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 522
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 941
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 39583
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 22079
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 200
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 2456
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 705
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 71
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 177
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "20",
+    "libelle": "CORSE",
+    "inscrits": 258801,
+    "votants": 188378,
+    "exprimes": 187297,
+    "abstentions": 70423,
+    "blancs_nuls": 1081,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 1838
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 447
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 83037
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 579
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 1576
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 53315
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 42131
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 181
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 2392
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 1514
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 128
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 159
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "21",
+    "libelle": "COTE-D'OR",
+    "inscrits": 258336,
+    "votants": 219265,
+    "exprimes": 217730,
+    "abstentions": 39071,
+    "blancs_nuls": 1535,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5039
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 660
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 93274
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 1202
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 2758
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 79060
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 27624
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 354
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 5825
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 1507
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 150
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 277
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "22",
+    "libelle": "COTES-D'ARMOR",
+    "inscrits": 304496,
+    "votants": 262322,
+    "exprimes": 260614,
+    "abstentions": 42174,
+    "blancs_nuls": 1708,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 6934
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 684
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 120797
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 904
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 2343
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 90255
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 29879
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 390
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 6220
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 1636
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 234
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 338
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "23",
+    "libelle": "CREUSE",
+    "inscrits": 125351,
+    "votants": 105442,
+    "exprimes": 104488,
+    "abstentions": 19909,
+    "blancs_nuls": 954,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3211
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 342
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 51539
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 369
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 744
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 24171
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 20784
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 155
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 2328
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 684
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 46
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 115
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "24",
+    "libelle": "DORDOGNE",
+    "inscrits": 281954,
+    "votants": 242598,
+    "exprimes": 240145,
+    "abstentions": 39356,
+    "blancs_nuls": 2453,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 6954
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1007
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 108482
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 1321
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 2438
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 62094
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 49543
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 448
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 5557
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 1822
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 113
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 366
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "25",
+    "libelle": "DOUBS",
+    "inscrits": 228051,
+    "votants": 194956,
+    "exprimes": 193480,
+    "abstentions": 33095,
+    "blancs_nuls": 1476,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5574
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 748
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 84816
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 1348
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 2594
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 66939
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 23956
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 351
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 5458
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 1366
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 109
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 221
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "26",
+    "libelle": "DROME",
+    "inscrits": 207226,
+    "votants": 176313,
+    "exprimes": 174736,
+    "abstentions": 30913,
+    "blancs_nuls": 1577,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4794
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 758
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 78285
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 1042
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 2502
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 55301
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 24739
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 388
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 5054
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 1462
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 118
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 293
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "27",
+    "libelle": "EURE",
+    "inscrits": 233574,
+    "votants": 204623,
+    "exprimes": 202517,
+    "abstentions": 28951,
+    "blancs_nuls": 2106,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5747
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 754
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 85285
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 1459
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 2511
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 68337
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 29967
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 377
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 6002
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 1574
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 132
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 372
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "28",
+    "libelle": "EURE-ET-LOIR",
+    "inscrits": 195077,
+    "votants": 168272,
+    "exprimes": 166601,
+    "abstentions": 26805,
+    "blancs_nuls": 1671,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4615
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 608
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 68308
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 994
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 2185
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 58937
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 22822
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 326
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 6034
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 1270
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 201
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 301
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "29",
+    "libelle": "FINISTERE",
+    "inscrits": 524515,
+    "votants": 442605,
+    "exprimes": 440195,
+    "abstentions": 81910,
+    "blancs_nuls": 2410,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 9022
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1356
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 168102
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 1575
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 5069
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 179430
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 59206
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 516
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 11144
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 3662
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 469
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 644
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "30",
+    "libelle": "GARD",
+    "inscrits": 276883,
+    "votants": 236688,
+    "exprimes": 234428,
+    "abstentions": 40195,
+    "blancs_nuls": 2260,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5226
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1215
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 118355
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 1034
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 2978
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 67261
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 30578
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 507
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 4700
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 1999
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 185
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 390
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "31",
+    "libelle": "HAUTE-GARONNE",
+    "inscrits": 429007,
+    "votants": 363191,
+    "exprimes": 359864,
+    "abstentions": 65816,
+    "blancs_nuls": 3327,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 9465
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1611
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 181668
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 1454
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 4600
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 99261
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 51167
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 564
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 5749
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 3471
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 206
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 648
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "32",
+    "libelle": "GERS",
+    "inscrits": 129616,
+    "votants": 107806,
+    "exprimes": 107067,
+    "abstentions": 21810,
+    "blancs_nuls": 739,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2212
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 393
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 45311
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 416
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 1175
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 22403
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 31195
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 166
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 2563
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 1012
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 48
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 173
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "33",
+    "libelle": "GIRONDE",
+    "inscrits": 624717,
+    "votants": 525709,
+    "exprimes": 522030,
+    "abstentions": 99008,
+    "blancs_nuls": 3679,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 10475
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1735
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 226940
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 2204
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 5909
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 87761
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 169180
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 755
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 10868
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 5046
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 271
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 886
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "34",
+    "libelle": "HERAULT",
+    "inscrits": 357419,
+    "votants": 298416,
+    "exprimes": 295966,
+    "abstentions": 59003,
+    "blancs_nuls": 2450,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5411
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1330
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 143256
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 1237
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 3945
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 90378
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 38001
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 534
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 8128
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 3154
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 218
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 374
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "35",
+    "libelle": "ILLE-ET-VILAINE",
+    "inscrits": 384461,
+    "votants": 329984,
+    "exprimes": 327056,
+    "abstentions": 54477,
+    "blancs_nuls": 2928,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 8215
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 790
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 110165
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 1391
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 3475
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 137073
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 49612
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 441
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 13154
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 2084
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 217
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 439
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "36",
+    "libelle": "INDRE",
+    "inscrits": 176305,
+    "votants": 146494,
+    "exprimes": 145162,
+    "abstentions": 29811,
+    "blancs_nuls": 1332,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3960
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 466
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 59666
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 621
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 1221
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 35223
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 14788
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 168
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 28026
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 783
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 70
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 170
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "37",
+    "libelle": "INDRE-ET-LOIRE",
+    "inscrits": 262677,
+    "votants": 223730,
+    "exprimes": 222051,
+    "abstentions": 38947,
+    "blancs_nuls": 1679,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4254
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 624
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 82560
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 846
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 2748
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 51275
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 19679
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 328
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 58281
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 1118
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 109
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 229
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "38",
+    "libelle": "ISERE",
+    "inscrits": 453997,
+    "votants": 380313,
+    "exprimes": 377538,
+    "abstentions": 73684,
+    "blancs_nuls": 2775,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 10760
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1255
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 175274
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 2238
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 6736
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 118847
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 47930
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 719
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 9944
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 3159
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 166
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 510
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "39",
+    "libelle": "JURA",
+    "inscrits": 135933,
+    "votants": 115847,
+    "exprimes": 114842,
+    "abstentions": 20086,
+    "blancs_nuls": 1005,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3312
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 470
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 49783
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 669
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 1247
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 30854
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 24115
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 226
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 3042
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 880
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 59
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 185
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "40",
+    "libelle": "LANDES",
+    "inscrits": 192684,
+    "votants": 167288,
+    "exprimes": 165791,
+    "abstentions": 25396,
+    "blancs_nuls": 1497,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3552
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 520
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 72889
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 772
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 1301
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 38398
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 38319
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 232
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 8291
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 1155
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 92
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 270
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "41",
+    "libelle": "LOIR-ET-CHER",
+    "inscrits": 159384,
+    "votants": 133370,
+    "exprimes": 131957,
+    "abstentions": 26014,
+    "blancs_nuls": 1413,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3772
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 438
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 55023
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 745
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 1159
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 42392
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 16795
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 187
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 10380
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 800
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 67
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 199
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "42",
+    "libelle": "LOIRE",
+    "inscrits": 438304,
+    "votants": 361789,
+    "exprimes": 358426,
+    "abstentions": 76515,
+    "blancs_nuls": 3363,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 9714
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1154
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 141492
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 2066
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 4372
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 134934
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 47411
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 706
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 13249
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 2651
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 194
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 483
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "43",
+    "libelle": "HAUTE-LOIRE",
+    "inscrits": 152286,
+    "votants": 124442,
+    "exprimes": 123666,
+    "abstentions": 27844,
+    "blancs_nuls": 776,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2851
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 412
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 48241
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 548
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 1674
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 49527
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 14248
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 177
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 4863
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 893
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 87
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 145
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "44",
+    "libelle": "LOIRE-ATLANTIQUE",
+    "inscrits": 521692,
+    "votants": 446008,
+    "exprimes": 442459,
+    "abstentions": 75684,
+    "blancs_nuls": 3549,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 9849
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1098
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 161362
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 2243
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 5885
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 170125
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 67996
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 613
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 19739
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 2765
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 232
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 552
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "45",
+    "libelle": "LOIRET",
+    "inscrits": 250377,
+    "votants": 217671,
+    "exprimes": 215352,
+    "abstentions": 32706,
+    "blancs_nuls": 2319,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 6455
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 768
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 87093
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 1289
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 2743
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 71613
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 32875
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 390
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 10139
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 1557
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 118
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 312
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "46",
+    "libelle": "LOT",
+    "inscrits": 120137,
+    "votants": 103000,
+    "exprimes": 102021,
+    "abstentions": 17137,
+    "blancs_nuls": 979,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2938
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 372
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 47715
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 504
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 973
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 26646
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 19324
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 200
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 2290
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 803
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 56
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 200
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "47",
+    "libelle": "LOT-ET-GARONNE",
+    "inscrits": 144894,
+    "votants": 123440,
+    "exprimes": 122227,
+    "abstentions": 21454,
+    "blancs_nuls": 1213,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3713
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 465
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 55178
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 573
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 1169
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 31151
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 25599
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 242
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 2667
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 1195
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 69
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 206
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "48",
+    "libelle": "LOZERE",
+    "inscrits": 77055,
+    "votants": 63813,
+    "exprimes": 63248,
+    "abstentions": 13242,
+    "blancs_nuls": 565,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 1493
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 182
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 21001
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 311
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 818
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 26446
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 8425
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 96
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 3981
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 385
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 30
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 80
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "49",
+    "libelle": "MAINE-ET-LOIRE",
+    "inscrits": 357367,
+    "votants": 307617,
+    "exprimes": 304532,
+    "abstentions": 49750,
+    "blancs_nuls": 3085,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 7403
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 712
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 89207
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 1457
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 3151
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 127288
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 43902
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 543
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 28579
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 1766
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 134
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 390
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "50",
+    "libelle": "MANCHE",
+    "inscrits": 296341,
+    "votants": 252248,
+    "exprimes": 250231,
+    "abstentions": 44093,
+    "blancs_nuls": 2017,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5715
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 819
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 85407
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 1522
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 3071
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 101606
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 37993
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 424
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 11505
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 1650
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 121
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 398
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "51",
+    "libelle": "MARNE",
+    "inscrits": 276511,
+    "votants": 233921,
+    "exprimes": 231824,
+    "abstentions": 42590,
+    "blancs_nuls": 2097,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5907
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 975
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 97880
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 1856
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 3406
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 80224
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 32644
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 463
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 6313
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 1693
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 108
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 355
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "52",
+    "libelle": "HAUTE-MARNE",
+    "inscrits": 120308,
+    "votants": 103449,
+    "exprimes": 102290,
+    "abstentions": 16859,
+    "blancs_nuls": 1159,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2677
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 293
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 39434
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 591
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 1069
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 38834
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 14542
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 191
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 3869
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 593
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 60
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 137
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "53",
+    "libelle": "MAYENNE",
+    "inscrits": 166293,
+    "votants": 143075,
+    "exprimes": 141303,
+    "abstentions": 23218,
+    "blancs_nuls": 1772,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3079
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 349
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 46952
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 877
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 1582
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 60692
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 19223
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 288
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 7079
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 852
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 97
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 233
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "54",
+    "libelle": "MEURTHE-ET-MOSELLE",
+    "inscrits": 391508,
+    "votants": 332223,
+    "exprimes": 329253,
+    "abstentions": 59285,
+    "blancs_nuls": 2970,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 6075
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1156
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 150793
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 2240
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 3956
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 120333
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 33587
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 531
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 8206
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 1757
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 189
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 430
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "55",
+    "libelle": "MEUSE",
+    "inscrits": 124840,
+    "votants": 106982,
+    "exprimes": 106170,
+    "abstentions": 17858,
+    "blancs_nuls": 812,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2032
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 274
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 34577
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 436
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 1079
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 49688
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 13546
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 164
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 3347
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 792
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 81
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 154
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "56",
+    "libelle": "MORBIHAN",
+    "inscrits": 369521,
+    "votants": 313174,
+    "exprimes": 310927,
+    "abstentions": 56347,
+    "blancs_nuls": 2247,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 6521
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 805
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 120134
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 1039
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 3402
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 131646
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 35892
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 365
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 7703
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 2692
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 310
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 418
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "57",
+    "libelle": "MOSELLE",
+    "inscrits": 491224,
+    "votants": 416022,
+    "exprimes": 410590,
+    "abstentions": 75202,
+    "blancs_nuls": 5432,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 7945
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1311
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 177983
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 3439
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 4381
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 153884
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 49203
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 694
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 8699
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 1901
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 525
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 625
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "58",
+    "libelle": "NIEVRE",
+    "inscrits": 146473,
+    "votants": 124952,
+    "exprimes": 123746,
+    "abstentions": 21521,
+    "blancs_nuls": 1206,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2541
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 386
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 62268
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 641
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 1264
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 37819
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 14312
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 216
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 3333
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 741
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 58
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 167
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "59",
+    "libelle": "NORD",
+    "inscrits": 1386532,
+    "votants": 1214143,
+    "exprimes": 1200301,
+    "abstentions": 172389,
+    "blancs_nuls": 13842,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 30500
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 5760
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 579470
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 7517
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 13773
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 342188
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 184006
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 2015
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 26029
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 6488
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 695
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 1860
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "60",
+    "libelle": "OISE",
+    "inscrits": 318231,
+    "votants": 276120,
+    "exprimes": 273323,
+    "abstentions": 42111,
+    "blancs_nuls": 2797,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 7660
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1223
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 117943
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 1896
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 3732
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 84529
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 42766
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 529
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 10102
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 2212
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 185
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 546
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "61",
+    "libelle": "ORNE",
+    "inscrits": 185618,
+    "votants": 162304,
+    "exprimes": 160761,
+    "abstentions": 23314,
+    "blancs_nuls": 1543,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4583
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 544
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 64788
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 997
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 1888
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 55365
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 24672
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 307
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 6192
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 1094
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 71
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 260
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "62",
+    "libelle": "PAS-DE-CALAIS",
+    "inscrits": 816378,
+    "votants": 718566,
+    "exprimes": 710371,
+    "abstentions": 97812,
+    "blancs_nuls": 8195,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 20926
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 3458
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 364069
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 3905
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 6305
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 190271
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 100938
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 1131
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 14465
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 3549
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 388
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 966
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "63",
+    "libelle": "PUY-DE-DOME",
+    "inscrits": 354890,
+    "votants": 299006,
+    "exprimes": 296934,
+    "abstentions": 55884,
+    "blancs_nuls": 2072,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 9522
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 988
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 121568
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 1203
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 3031
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 123956
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 27422
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 507
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 6147
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 1976
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 236
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 378
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "64",
+    "libelle": "PYRENEES-ATLANTIQUES",
+    "inscrits": 291785,
+    "votants": 243056,
+    "exprimes": 240965,
+    "abstentions": 48729,
+    "blancs_nuls": 2091,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5658
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 788
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 94650
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 920
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 1971
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 61878
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 65445
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 417
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 5907
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 1877
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 1038
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 416
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "65",
+    "libelle": "HAUTES-PYRENEES",
+    "inscrits": 178749,
+    "votants": 146898,
+    "exprimes": 145404,
+    "abstentions": 31851,
+    "blancs_nuls": 1494,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3007
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 631
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 72686
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 604
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 1531
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 39842
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 21754
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 298
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 2789
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 1803
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 218
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 241
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "66",
+    "libelle": "PYRENEES-ORIENTALES",
+    "inscrits": 124320,
+    "votants": 101106,
+    "exprimes": 100253,
+    "abstentions": 23214,
+    "blancs_nuls": 853,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 1394
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 383
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 44581
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 1170
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 1591
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 35242
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 12440
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 160
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 2119
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 765
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 268
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 140
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "67",
+    "libelle": "BAS-RHIN",
+    "inscrits": 511104,
+    "votants": 425571,
+    "exprimes": 418380,
+    "abstentions": 85533,
+    "blancs_nuls": 7191,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 6845
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 900
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 127142
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 16541
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 6345
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 182688
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 64519
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 679
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 8273
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 1860
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 1778
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 810
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "68",
+    "libelle": "HAUT-RHIN",
+    "inscrits": 347932,
+    "votants": 289911,
+    "exprimes": 285952,
+    "abstentions": 58021,
+    "blancs_nuls": 3959,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4658
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 736
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 93207
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 19772
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 4829
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 110353
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 44156
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 410
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 5116
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 1313
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 938
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 464
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "69",
+    "libelle": "RHONE",
+    "inscrits": 721990,
+    "votants": 606047,
+    "exprimes": 601790,
+    "abstentions": 115943,
+    "blancs_nuls": 4257,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 12685
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1770
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 251044
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 3636
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 9772
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 237731
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 61538
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 949
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 16730
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 4649
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 275
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 1011
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "70",
+    "libelle": "HAUTE-SAONE",
+    "inscrits": 140587,
+    "votants": 118210,
+    "exprimes": 116849,
+    "abstentions": 22377,
+    "blancs_nuls": 1361,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2997
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 455
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 53518
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 798
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 1060
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 40434
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 13841
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 230
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 2595
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 728
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 54
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 139
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "71",
+    "libelle": "SAONE-ET-LOIRE",
+    "inscrits": 324895,
+    "votants": 270915,
+    "exprimes": 268391,
+    "abstentions": 53980,
+    "blancs_nuls": 2524,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 6183
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 796
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 118532
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 1596
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 2327
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 90044
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 37662
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 453
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 8587
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 1738
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 143
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 330
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "72",
+    "libelle": "SARTHE",
+    "inscrits": 295665,
+    "votants": 252673,
+    "exprimes": 250164,
+    "abstentions": 42992,
+    "blancs_nuls": 2509,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 6900
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 745
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 106798
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 1427
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 2817
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 76359
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 37992
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 476
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 14551
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 1478
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 148
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 473
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "73",
+    "libelle": "SAVOIE",
+    "inscrits": 208865,
+    "votants": 173376,
+    "exprimes": 172236,
+    "abstentions": 35489,
+    "blancs_nuls": 1140,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4448
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 557
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 69263
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 965
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 3280
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 60167
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 26400
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 373
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 5129
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 1254
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 118
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 282
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "74",
+    "libelle": "HAUTE-SAVOIE",
+    "inscrits": 173454,
+    "votants": 141259,
+    "exprimes": 140113,
+    "abstentions": 32195,
+    "blancs_nuls": 1146,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2996
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 496
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 51504
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 936
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 2717
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 55950
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 18645
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 276
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 5037
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 1202
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 100
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 254
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "75",
+    "libelle": "PARIS",
+    "inscrits": 1286494,
+    "votants": 1068106,
+    "exprimes": 1062227,
+    "abstentions": 218388,
+    "blancs_nuls": 5879,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 16828
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 4451
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 398879
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 5832
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 24367
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 419235
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 145628
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 1560
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 33090
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 9858
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 532
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 1967
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "76",
+    "libelle": "SEINE-MARITIME",
+    "inscrits": 705259,
+    "votants": 603232,
+    "exprimes": 597658,
+    "abstentions": 102027,
+    "blancs_nuls": 5574,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 15001
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 2438
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 281501
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 4025
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 8570
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 192531
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 73964
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 1031
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 13098
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 4113
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 358
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 1028
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "77",
+    "libelle": "SEINE-ET-MARNE",
+    "inscrits": 343473,
+    "votants": 292050,
+    "exprimes": 289674,
+    "abstentions": 51423,
+    "blancs_nuls": 2376,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 7399
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1114
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 123861
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 2055
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 5393
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 93472
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 43046
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 550
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 9596
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 2496
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 148
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 544
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "78",
+    "libelle": "YVELINES",
+    "inscrits": 553149,
+    "votants": 475547,
+    "exprimes": 472088,
+    "abstentions": 77602,
+    "blancs_nuls": 3459,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 10234
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1738
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 191473
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 2851
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 10008
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 170648
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 64038
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 830
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 15253
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 3962
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 287
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 766
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "79",
+    "libelle": "DEUX-SEVRES",
+    "inscrits": 205791,
+    "votants": 178927,
+    "exprimes": 176826,
+    "abstentions": 26864,
+    "blancs_nuls": 2101,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4860
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 485
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 65889
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 1269
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 1944
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 60877
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 28415
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 261
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 11277
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 1177
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 83
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 289
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "80",
+    "libelle": "SOMME",
+    "inscrits": 313062,
+    "votants": 280031,
+    "exprimes": 276769,
+    "abstentions": 33031,
+    "blancs_nuls": 3262,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 8880
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1372
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 130955
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 5160
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 2626
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 74355
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 43879
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 477
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 6738
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 1763
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 169
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 395
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "81",
+    "libelle": "TARN",
+    "inscrits": 196009,
+    "votants": 172291,
+    "exprimes": 170053,
+    "abstentions": 23718,
+    "blancs_nuls": 2238,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5008
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 637
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 71667
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 797
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 1776
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 49489
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 34041
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 322
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 4167
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 1776
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 105
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 268
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "82",
+    "libelle": "TARN-ET-GARONNE",
+    "inscrits": 140907,
+    "votants": 120386,
+    "exprimes": 119081,
+    "abstentions": 20521,
+    "blancs_nuls": 1305,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3034
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 516
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 59129
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 592
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 1393
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 33237
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 17262
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 247
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 2141
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 1230
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 78
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 222
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "83",
+    "libelle": "VAR",
+    "inscrits": 364246,
+    "votants": 304062,
+    "exprimes": 301331,
+    "abstentions": 60184,
+    "blancs_nuls": 2731,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4294
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 952
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 137296
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 1342
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 4127
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 103931
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 38170
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 516
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 5858
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 4144
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 191
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 510
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "84",
+    "libelle": "VAUCLUSE",
+    "inscrits": 201002,
+    "votants": 175275,
+    "exprimes": 172755,
+    "abstentions": 25727,
+    "blancs_nuls": 2520,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 4545
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 728
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 71577
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 895
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 2217
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 57169
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 26685
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 455
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 6325
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 1675
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 144
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 340
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "85",
+    "libelle": "VENDEE",
+    "inscrits": 293441,
+    "votants": 254995,
+    "exprimes": 251959,
+    "abstentions": 38446,
+    "blancs_nuls": 3036,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 6702
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 646
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 77798
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 1103
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 2452
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 98591
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 46891
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 498
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 14825
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 1920
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 125
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 408
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "86",
+    "libelle": "VIENNE",
+    "inscrits": 209477,
+    "votants": 179511,
+    "exprimes": 177327,
+    "abstentions": 29966,
+    "blancs_nuls": 2184,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5454
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 630
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 80192
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 717
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 1384
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 46630
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 29504
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 314
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 11159
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 949
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 90
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 304
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "87",
+    "libelle": "HAUTE-VIENNE",
+    "inscrits": 228695,
+    "votants": 195464,
+    "exprimes": 192798,
+    "abstentions": 33231,
+    "blancs_nuls": 2666,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5916
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 878
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 95492
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 1023
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 1760
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 54006
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 27494
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 331
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 4368
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 1120
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 115
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 295
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "88",
+    "libelle": "VOSGES",
+    "inscrits": 223551,
+    "votants": 190394,
+    "exprimes": 187575,
+    "abstentions": 33157,
+    "blancs_nuls": 2819,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 5676
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 727
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 75387
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 1964
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 2222
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 70145
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 23367
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 457
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 5931
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 1255
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 99
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 345
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "89",
+    "libelle": "YONNE",
+    "inscrits": 164392,
+    "votants": 140484,
+    "exprimes": 139113,
+    "abstentions": 23908,
+    "blancs_nuls": 1371,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 3369
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 458
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 59617
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 1152
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 1798
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 47815
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 19068
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 277
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 4215
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 1094
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 71
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 179
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "90",
+    "libelle": "TERRITOIRE DE BELFORT",
+    "inscrits": 129481,
+    "votants": 111814,
+    "exprimes": 111020,
+    "abstentions": 17667,
+    "blancs_nuls": 794,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 2710
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 478
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 52782
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 898
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 2255
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 33281
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 14612
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 209
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 2754
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 835
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 55
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 151
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "91",
+    "libelle": "ESSONNE",
+    "inscrits": 363883,
+    "votants": 316877,
+    "exprimes": 314860,
+    "abstentions": 47006,
+    "blancs_nuls": 2017,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 7116
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1350
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 151376
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 2015
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 6871
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 94189
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 39461
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 502
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 8668
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 2650
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 157
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 505
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "92",
+    "libelle": "HAUTS-DE-SEINE",
+    "inscrits": 807945,
+    "votants": 687181,
+    "exprimes": 683127,
+    "abstentions": 120764,
+    "blancs_nuls": 4054,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 12351
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 2839
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 298836
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 4144
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 15755
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 235203
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 88392
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 997
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 17742
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 5420
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 377
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 1071
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "93",
+    "libelle": "SEINE-SAINT-DENIS",
+    "inscrits": 642135,
+    "votants": 543155,
+    "exprimes": 539111,
+    "abstentions": 98980,
+    "blancs_nuls": 4044,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 12167
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 2318
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 297414
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 3496
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 9031
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 133326
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 62431
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 894
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 12396
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 4296
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 277
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 1065
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "94",
+    "libelle": "VAL-DE-MARNE",
+    "inscrits": 619152,
+    "votants": 533460,
+    "exprimes": 530073,
+    "abstentions": 85692,
+    "blancs_nuls": 3387,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 10415
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 2213
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 250428
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 3445
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 10848
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 166921
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 65131
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 842
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 14286
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 4381
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 266
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 897
+      }
+    ]
+  },
+  {
+    "election": 1974,
+    "tour": 1,
+    "code": "95",
+    "libelle": "VAL-D'OISE",
+    "inscrits": 329519,
+    "votants": 282695,
+    "exprimes": 280775,
+    "abstentions": 46824,
+    "blancs_nuls": 1920,
+    "candidats": [
+      {
+        "nom": "Arlette LAGUILLER",
+        "parti": "LO",
+        "votes": 6074
+      },
+      {
+        "nom": "Alain KRIVINE",
+        "parti": "LCR",
+        "votes": 1197
+      },
+      {
+        "nom": "François MITTERRAND",
+        "parti": "PS",
+        "votes": 136742
+      },
+      {
+        "nom": "Emile MULLER",
+        "parti": "MDSR",
+        "votes": 1801
+      },
+      {
+        "nom": "René DUMONT",
+        "parti": "ECO",
+        "votes": 5612
+      },
+      {
+        "nom": "Valéry GISCARD D'ESTAING",
+        "parti": "RI",
+        "votes": 85340
+      },
+      {
+        "nom": "Jacques CHABAN-DELMAS",
+        "parti": "UDR",
+        "votes": 34116
+      },
+      {
+        "nom": "Bertrand RENOUVIN",
+        "parti": "NAR",
+        "votes": 472
+      },
+      {
+        "nom": "Jean ROYER",
+        "parti": "DVD",
+        "votes": 6462
+      },
+      {
+        "nom": "Jean-Marie LE PEN",
+        "parti": "FN",
+        "votes": 2343
+      },
+      {
+        "nom": "Guy HERAUD",
+        "parti": "DIV",
+        "votes": 134
+      },
+      {
+        "nom": "Jean-Claude SEBAG",
+        "parti": "DIV",
+        "votes": 482
+      }
+    ]
+  }
+]

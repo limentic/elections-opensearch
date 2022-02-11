@@ -1,0 +1,2187 @@
+[
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "1",
+    "libelle": "AIN",
+    "inscrits": 202239,
+    "votants": 135183,
+    "exprimes": 128937,
+    "abstentions": 67056,
+    "blancs_nuls": 6246,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 75667
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 53270
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "2",
+    "libelle": "AISNE",
+    "inscrits": 296738,
+    "votants": 213081,
+    "exprimes": 193278,
+    "abstentions": 83657,
+    "blancs_nuls": 19803,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 106414
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 86864
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "3",
+    "libelle": "ALLIER",
+    "inscrits": 243779,
+    "votants": 156483,
+    "exprimes": 139603,
+    "abstentions": 87296,
+    "blancs_nuls": 16880,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 80773
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 58830
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "4",
+    "libelle": "ALPES-DE-HAUTE-PROVENCE",
+    "inscrits": 65485,
+    "votants": 47011,
+    "exprimes": 43302,
+    "abstentions": 18474,
+    "blancs_nuls": 3709,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 22365
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 20937
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "5",
+    "libelle": "HAUTES-ALPES",
+    "inscrits": 58734,
+    "votants": 41329,
+    "exprimes": 38307,
+    "abstentions": 17405,
+    "blancs_nuls": 3022,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 21711
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 16596
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "6",
+    "libelle": "ALPES-MARITIMES",
+    "inscrits": 426582,
+    "votants": 291393,
+    "exprimes": 268225,
+    "abstentions": 135189,
+    "blancs_nuls": 23168,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 138523
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 129702
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "7",
+    "libelle": "ARDECHE",
+    "inscrits": 167157,
+    "votants": 119031,
+    "exprimes": 111807,
+    "abstentions": 48126,
+    "blancs_nuls": 7224,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 65203
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 46604
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "8",
+    "libelle": "ARDENNES",
+    "inscrits": 166706,
+    "votants": 114180,
+    "exprimes": 106060,
+    "abstentions": 52526,
+    "blancs_nuls": 8120,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 60933
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 45127
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "9",
+    "libelle": "ARIEGE",
+    "inscrits": 94833,
+    "votants": 68718,
+    "exprimes": 63213,
+    "abstentions": 26115,
+    "blancs_nuls": 5505,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 31757
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 31456
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "10",
+    "libelle": "AUBE",
+    "inscrits": 155992,
+    "votants": 111840,
+    "exprimes": 105701,
+    "abstentions": 44152,
+    "blancs_nuls": 6139,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 58467
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 47234
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "11",
+    "libelle": "AUDE",
+    "inscrits": 176905,
+    "votants": 131382,
+    "exprimes": 121028,
+    "abstentions": 45523,
+    "blancs_nuls": 10354,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 59064
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 61964
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "12",
+    "libelle": "AVEYRON",
+    "inscrits": 188614,
+    "votants": 148048,
+    "exprimes": 140486,
+    "abstentions": 40566,
+    "blancs_nuls": 7562,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 91377
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 49109
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "13",
+    "libelle": "BOUCHES-DU-RHONE",
+    "inscrits": 767855,
+    "votants": 457316,
+    "exprimes": 422748,
+    "abstentions": 310539,
+    "blancs_nuls": 34568,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 223654
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 199094
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "14",
+    "libelle": "CALVADOS",
+    "inscrits": 293125,
+    "votants": 211536,
+    "exprimes": 202392,
+    "abstentions": 81589,
+    "blancs_nuls": 9144,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 119306
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 83086
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "15",
+    "libelle": "CANTAL",
+    "inscrits": 110360,
+    "votants": 82640,
+    "exprimes": 77794,
+    "abstentions": 27720,
+    "blancs_nuls": 4846,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 64511
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 13283
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "16",
+    "libelle": "CHARENTE",
+    "inscrits": 207021,
+    "votants": 149948,
+    "exprimes": 136942,
+    "abstentions": 57073,
+    "blancs_nuls": 13006,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 75226
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 61716
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "17",
+    "libelle": "CHARENTE-MARITIME",
+    "inscrits": 297115,
+    "votants": 206511,
+    "exprimes": 195297,
+    "abstentions": 90604,
+    "blancs_nuls": 11214,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 102949
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 92348
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "18",
+    "libelle": "CHER",
+    "inscrits": 187582,
+    "votants": 123868,
+    "exprimes": 113032,
+    "abstentions": 63714,
+    "blancs_nuls": 10836,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 63605
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 49427
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "19",
+    "libelle": "CORREZE",
+    "inscrits": 161858,
+    "votants": 116020,
+    "exprimes": 100766,
+    "abstentions": 45838,
+    "blancs_nuls": 15254,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 64920
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 35846
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "20",
+    "libelle": "CORSE",
+    "inscrits": 181364,
+    "votants": 108910,
+    "exprimes": 107310,
+    "abstentions": 72454,
+    "blancs_nuls": 1600,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 68553
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 38757
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "21",
+    "libelle": "COTE-D'OR",
+    "inscrits": 239094,
+    "votants": 168425,
+    "exprimes": 161600,
+    "abstentions": 70669,
+    "blancs_nuls": 6825,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 88399
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 73201
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "22",
+    "libelle": "COTES-D'ARMOR",
+    "inscrits": 331467,
+    "votants": 238680,
+    "exprimes": 221402,
+    "abstentions": 92787,
+    "blancs_nuls": 17278,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 127925
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 93477
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "23",
+    "libelle": "CREUSE",
+    "inscrits": 110772,
+    "votants": 69896,
+    "exprimes": 62778,
+    "abstentions": 40876,
+    "blancs_nuls": 7118,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 36910
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 25868
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "24",
+    "libelle": "DORDOGNE",
+    "inscrits": 253591,
+    "votants": 193044,
+    "exprimes": 174771,
+    "abstentions": 60547,
+    "blancs_nuls": 18273,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 92100
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 82671
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "25",
+    "libelle": "DOUBS",
+    "inscrits": 229086,
+    "votants": 164649,
+    "exprimes": 155422,
+    "abstentions": 64437,
+    "blancs_nuls": 9227,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 95635
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 59787
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "26",
+    "libelle": "DROME",
+    "inscrits": 203138,
+    "votants": 143367,
+    "exprimes": 134510,
+    "abstentions": 59771,
+    "blancs_nuls": 8857,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 68129
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 66381
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "27",
+    "libelle": "EURE",
+    "inscrits": 221839,
+    "votants": 162843,
+    "exprimes": 153633,
+    "abstentions": 58996,
+    "blancs_nuls": 9210,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 81498
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 72135
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "28",
+    "libelle": "EURE-ET-LOIR",
+    "inscrits": 179777,
+    "votants": 132366,
+    "exprimes": 124371,
+    "abstentions": 47411,
+    "blancs_nuls": 7995,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 69313
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 55058
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "29",
+    "libelle": "FINISTERE",
+    "inscrits": 500540,
+    "votants": 362056,
+    "exprimes": 343584,
+    "abstentions": 138484,
+    "blancs_nuls": 18472,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 230814
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 112770
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "30",
+    "libelle": "GARD",
+    "inscrits": 287719,
+    "votants": 180745,
+    "exprimes": 165059,
+    "abstentions": 106974,
+    "blancs_nuls": 15686,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 92281
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 72778
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "31",
+    "libelle": "HAUTE-GARONNE",
+    "inscrits": 398749,
+    "votants": 293976,
+    "exprimes": 274435,
+    "abstentions": 104773,
+    "blancs_nuls": 19541,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 136790
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 137645
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "32",
+    "libelle": "GERS",
+    "inscrits": 115119,
+    "votants": 85980,
+    "exprimes": 81216,
+    "abstentions": 29139,
+    "blancs_nuls": 4764,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 35022
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 46194
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "33",
+    "libelle": "GIRONDE",
+    "inscrits": 597506,
+    "votants": 424632,
+    "exprimes": 402365,
+    "abstentions": 172874,
+    "blancs_nuls": 22267,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 203222
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 199143
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "34",
+    "libelle": "HERAULT",
+    "inscrits": 339415,
+    "votants": 227654,
+    "exprimes": 212326,
+    "abstentions": 111761,
+    "blancs_nuls": 15328,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 113365
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 98961
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "35",
+    "libelle": "ILLE-ET-VILAINE",
+    "inscrits": 392368,
+    "votants": 291877,
+    "exprimes": 281096,
+    "abstentions": 100491,
+    "blancs_nuls": 10781,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 175415
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 105681
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "36",
+    "libelle": "INDRE",
+    "inscrits": 161332,
+    "votants": 113724,
+    "exprimes": 103117,
+    "abstentions": 47608,
+    "blancs_nuls": 10607,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 50870
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 52247
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "37",
+    "libelle": "INDRE-ET-LOIRE",
+    "inscrits": 253517,
+    "votants": 179739,
+    "exprimes": 170905,
+    "abstentions": 73778,
+    "blancs_nuls": 8834,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 86682
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 84223
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "38",
+    "libelle": "ISERE",
+    "inscrits": 457712,
+    "votants": 300273,
+    "exprimes": 283125,
+    "abstentions": 157439,
+    "blancs_nuls": 17148,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 150072
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 133053
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "39",
+    "libelle": "JURA",
+    "inscrits": 144478,
+    "votants": 105539,
+    "exprimes": 99821,
+    "abstentions": 38939,
+    "blancs_nuls": 5718,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 54391
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 45430
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "40",
+    "libelle": "LANDES",
+    "inscrits": 180699,
+    "votants": 140095,
+    "exprimes": 129611,
+    "abstentions": 40604,
+    "blancs_nuls": 10484,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 74700
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 54911
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "41",
+    "libelle": "LOIR-ET-CHER",
+    "inscrits": 165374,
+    "votants": 121300,
+    "exprimes": 113648,
+    "abstentions": 44074,
+    "blancs_nuls": 7652,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 54631
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 59017
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "42",
+    "libelle": "LOIRE",
+    "inscrits": 417404,
+    "votants": 271695,
+    "exprimes": 256148,
+    "abstentions": 145709,
+    "blancs_nuls": 15547,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 152158
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 103990
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "43",
+    "libelle": "HAUTE-LOIRE",
+    "inscrits": 137977,
+    "votants": 103565,
+    "exprimes": 98321,
+    "abstentions": 34412,
+    "blancs_nuls": 5244,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 62022
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 36299
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "44",
+    "libelle": "LOIRE-ATLANTIQUE",
+    "inscrits": 507597,
+    "votants": 368061,
+    "exprimes": 353844,
+    "abstentions": 139536,
+    "blancs_nuls": 14217,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 213435
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 140409
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "45",
+    "libelle": "LOIRET",
+    "inscrits": 252010,
+    "votants": 182623,
+    "exprimes": 171345,
+    "abstentions": 69387,
+    "blancs_nuls": 11278,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 99415
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 71930
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "46",
+    "libelle": "LOT",
+    "inscrits": 101415,
+    "votants": 81678,
+    "exprimes": 76392,
+    "abstentions": 19737,
+    "blancs_nuls": 5286,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 44887
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 31505
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "47",
+    "libelle": "LOT-ET-GARONNE",
+    "inscrits": 178358,
+    "votants": 135937,
+    "exprimes": 124012,
+    "abstentions": 42421,
+    "blancs_nuls": 11925,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 59356
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 64656
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "48",
+    "libelle": "LOZERE",
+    "inscrits": 53265,
+    "votants": 39967,
+    "exprimes": 38298,
+    "abstentions": 13298,
+    "blancs_nuls": 1669,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 27817
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 10481
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "49",
+    "libelle": "MAINE-ET-LOIRE",
+    "inscrits": 340093,
+    "votants": 247685,
+    "exprimes": 238528,
+    "abstentions": 92408,
+    "blancs_nuls": 9157,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 151860
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 86668
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "50",
+    "libelle": "MANCHE",
+    "inscrits": 270424,
+    "votants": 202758,
+    "exprimes": 196756,
+    "abstentions": 67666,
+    "blancs_nuls": 6002,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 126858
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 69898
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "51",
+    "libelle": "MARNE",
+    "inscrits": 267759,
+    "votants": 179117,
+    "exprimes": 167394,
+    "abstentions": 88642,
+    "blancs_nuls": 11723,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 98525
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 68869
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "52",
+    "libelle": "HAUTE-MARNE",
+    "inscrits": 122625,
+    "votants": 88966,
+    "exprimes": 83808,
+    "abstentions": 33659,
+    "blancs_nuls": 5158,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 49479
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 34329
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "53",
+    "libelle": "MAYENNE",
+    "inscrits": 154557,
+    "votants": 120951,
+    "exprimes": 116144,
+    "abstentions": 33606,
+    "blancs_nuls": 4807,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 72709
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 43435
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "54",
+    "libelle": "MEURTHE-ET-MOSELLE",
+    "inscrits": 378213,
+    "votants": 249936,
+    "exprimes": 233463,
+    "abstentions": 128277,
+    "blancs_nuls": 16473,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 135757
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 97706
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "55",
+    "libelle": "MEUSE",
+    "inscrits": 121014,
+    "votants": 88432,
+    "exprimes": 83787,
+    "abstentions": 32582,
+    "blancs_nuls": 4645,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 49877
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 33910
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "56",
+    "libelle": "MORBIHAN",
+    "inscrits": 340344,
+    "votants": 247113,
+    "exprimes": 236438,
+    "abstentions": 93231,
+    "blancs_nuls": 10675,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 158126
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 78312
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "57",
+    "libelle": "MOSELLE",
+    "inscrits": 495336,
+    "votants": 355625,
+    "exprimes": 335097,
+    "abstentions": 139711,
+    "blancs_nuls": 20528,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 202958
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 132139
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "58",
+    "libelle": "NIEVRE",
+    "inscrits": 156459,
+    "votants": 112222,
+    "exprimes": 105591,
+    "abstentions": 44237,
+    "blancs_nuls": 6631,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 48061
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 57530
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "59",
+    "libelle": "NORD",
+    "inscrits": 1336423,
+    "votants": 934966,
+    "exprimes": 845504,
+    "abstentions": 401457,
+    "blancs_nuls": 89462,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 504348
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 341156
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "60",
+    "libelle": "OISE",
+    "inscrits": 294322,
+    "votants": 206293,
+    "exprimes": 188904,
+    "abstentions": 88029,
+    "blancs_nuls": 17389,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 107086
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 81818
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "61",
+    "libelle": "ORNE",
+    "inscrits": 170261,
+    "votants": 129460,
+    "exprimes": 124678,
+    "abstentions": 40801,
+    "blancs_nuls": 4782,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 68427
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 56251
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "62",
+    "libelle": "PAS-DE-CALAIS",
+    "inscrits": 772822,
+    "votants": 551131,
+    "exprimes": 491487,
+    "abstentions": 221691,
+    "blancs_nuls": 59644,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 273985
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 217502
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "63",
+    "libelle": "PUY-DE-DOME",
+    "inscrits": 323866,
+    "votants": 219571,
+    "exprimes": 202356,
+    "abstentions": 104295,
+    "blancs_nuls": 17215,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 121627
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 80729
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "64",
+    "libelle": "PYRENEES-ATLANTIQUES",
+    "inscrits": 315272,
+    "votants": 239292,
+    "exprimes": 227868,
+    "abstentions": 75980,
+    "blancs_nuls": 11424,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 136804
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 91064
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "65",
+    "libelle": "HAUTES-PYRENEES",
+    "inscrits": 141310,
+    "votants": 98689,
+    "exprimes": 91811,
+    "abstentions": 42621,
+    "blancs_nuls": 6878,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 48597
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 43214
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "66",
+    "libelle": "PYRENEES-ORIENTALES",
+    "inscrits": 169909,
+    "votants": 114911,
+    "exprimes": 105679,
+    "abstentions": 54998,
+    "blancs_nuls": 9232,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 55543
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 50136
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "67",
+    "libelle": "BAS-RHIN",
+    "inscrits": 470873,
+    "votants": 337975,
+    "exprimes": 327004,
+    "abstentions": 132898,
+    "blancs_nuls": 10971,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 215581
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 111423
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "68",
+    "libelle": "HAUT-RHIN",
+    "inscrits": 343511,
+    "votants": 257011,
+    "exprimes": 246086,
+    "abstentions": 86500,
+    "blancs_nuls": 10925,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 161240
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 84846
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "69",
+    "libelle": "RHONE",
+    "inscrits": 639372,
+    "votants": 421496,
+    "exprimes": 396356,
+    "abstentions": 217876,
+    "blancs_nuls": 25140,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 225884
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 170472
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "70",
+    "libelle": "HAUTE-SAONE",
+    "inscrits": 133204,
+    "votants": 102273,
+    "exprimes": 97023,
+    "abstentions": 30931,
+    "blancs_nuls": 5250,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 51593
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 45430
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "71",
+    "libelle": "SAONE-ET-LOIRE",
+    "inscrits": 334460,
+    "votants": 219698,
+    "exprimes": 206064,
+    "abstentions": 114762,
+    "blancs_nuls": 13634,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 116571
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 89493
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "72",
+    "libelle": "SARTHE",
+    "inscrits": 272996,
+    "votants": 186460,
+    "exprimes": 175350,
+    "abstentions": 86536,
+    "blancs_nuls": 11110,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 94858
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 80492
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "73",
+    "libelle": "SAVOIE",
+    "inscrits": 166938,
+    "votants": 110469,
+    "exprimes": 105017,
+    "abstentions": 56469,
+    "blancs_nuls": 5452,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 59141
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 45876
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "74",
+    "libelle": "HAUTE-SAVOIE",
+    "inscrits": 212622,
+    "votants": 148162,
+    "exprimes": 141636,
+    "abstentions": 64460,
+    "blancs_nuls": 6526,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 81360
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 60276
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "75",
+    "libelle": "PARIS",
+    "inscrits": 1445406,
+    "votants": 943508,
+    "exprimes": 898097,
+    "abstentions": 501898,
+    "blancs_nuls": 45411,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 524353
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 373744
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "76",
+    "libelle": "SEINE-MARITIME",
+    "inscrits": 637829,
+    "votants": 410516,
+    "exprimes": 379857,
+    "abstentions": 227313,
+    "blancs_nuls": 30659,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 220054
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 159803
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "77",
+    "libelle": "SEINE-ET-MARNE",
+    "inscrits": 341203,
+    "votants": 231807,
+    "exprimes": 214806,
+    "abstentions": 109396,
+    "blancs_nuls": 17001,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 126103
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 88703
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "78",
+    "libelle": "YVELINES",
+    "inscrits": 456051,
+    "votants": 309152,
+    "exprimes": 288427,
+    "abstentions": 146899,
+    "blancs_nuls": 20725,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 170404
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 118023
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "79",
+    "libelle": "DEUX-SEVRES",
+    "inscrits": 201697,
+    "votants": 153547,
+    "exprimes": 147755,
+    "abstentions": 48150,
+    "blancs_nuls": 5792,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 83637
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 64118
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "80",
+    "libelle": "SOMME",
+    "inscrits": 302977,
+    "votants": 224958,
+    "exprimes": 202139,
+    "abstentions": 78019,
+    "blancs_nuls": 22819,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 110987
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 91152
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "81",
+    "libelle": "TARN",
+    "inscrits": 211456,
+    "votants": 170782,
+    "exprimes": 158653,
+    "abstentions": 40674,
+    "blancs_nuls": 12129,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 87051
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 71602
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "82",
+    "libelle": "TARN-ET-GARONNE",
+    "inscrits": 112893,
+    "votants": 89727,
+    "exprimes": 84224,
+    "abstentions": 23166,
+    "blancs_nuls": 5503,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 43418
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 40806
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "83",
+    "libelle": "VAR",
+    "inscrits": 329023,
+    "votants": 215617,
+    "exprimes": 200514,
+    "abstentions": 113406,
+    "blancs_nuls": 15103,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 110587
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 89927
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "84",
+    "libelle": "VAUCLUSE",
+    "inscrits": 203853,
+    "votants": 152768,
+    "exprimes": 141092,
+    "abstentions": 51085,
+    "blancs_nuls": 11676,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 62595
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 78497
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "85",
+    "libelle": "VENDEE",
+    "inscrits": 260320,
+    "votants": 206067,
+    "exprimes": 198408,
+    "abstentions": 54253,
+    "blancs_nuls": 7659,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 134565
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 63843
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "86",
+    "libelle": "VIENNE",
+    "inscrits": 208077,
+    "votants": 152044,
+    "exprimes": 142601,
+    "abstentions": 56033,
+    "blancs_nuls": 9443,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 78013
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 64588
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "87",
+    "libelle": "HAUTE-VIENNE",
+    "inscrits": 228404,
+    "votants": 150712,
+    "exprimes": 130160,
+    "abstentions": 77692,
+    "blancs_nuls": 20552,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 77159
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 53001
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "88",
+    "libelle": "VOSGES",
+    "inscrits": 233502,
+    "votants": 169819,
+    "exprimes": 159803,
+    "abstentions": 63683,
+    "blancs_nuls": 10016,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 94010
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 65793
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "89",
+    "libelle": "YONNE",
+    "inscrits": 174965,
+    "votants": 126538,
+    "exprimes": 118508,
+    "abstentions": 48427,
+    "blancs_nuls": 8030,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 66431
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 52077
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "90",
+    "libelle": "TERRITOIRE DE BELFORT",
+    "inscrits": 65292,
+    "votants": 45463,
+    "exprimes": 42516,
+    "abstentions": 19829,
+    "blancs_nuls": 2947,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 24088
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 18428
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "91",
+    "libelle": "ESSONNE",
+    "inscrits": 348879,
+    "votants": 230958,
+    "exprimes": 213217,
+    "abstentions": 117921,
+    "blancs_nuls": 17741,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 121661
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 91556
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "92",
+    "libelle": "HAUTS-DE-SEINE",
+    "inscrits": 797875,
+    "votants": 496984,
+    "exprimes": 464564,
+    "abstentions": 300891,
+    "blancs_nuls": 32420,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 277702
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 186862
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "93",
+    "libelle": "SEINE-SAINT-DENIS",
+    "inscrits": 628930,
+    "votants": 316089,
+    "exprimes": 288456,
+    "abstentions": 312841,
+    "blancs_nuls": 27633,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 171383
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 117073
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "94",
+    "libelle": "VAL-DE-MARNE",
+    "inscrits": 595435,
+    "votants": 341374,
+    "exprimes": 317741,
+    "abstentions": 254061,
+    "blancs_nuls": 23633,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 187320
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 130421
+      }
+    ]
+  },
+  {
+    "election": 1969,
+    "tour": 2,
+    "code": "95",
+    "libelle": "VAL-D'OISE",
+    "inscrits": 361563,
+    "votants": 218939,
+    "exprimes": 202464,
+    "abstentions": 142624,
+    "blancs_nuls": 16475,
+    "candidats": [
+      {
+        "nom": "Georges POMPIDOU",
+        "parti": "UDR",
+        "votes": 118876
+      },
+      {
+        "nom": "Alain POHER",
+        "parti": "CD",
+        "votes": 83588
+      }
+    ]
+  }
+]

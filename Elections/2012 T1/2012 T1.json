@@ -1,0 +1,6050 @@
+[
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "1",
+    "libelle": "AIN",
+    "inscrits": 393808,
+    "votants": 327812,
+    "exprimes": 321359,
+    "abstentions": 65996,
+    "blancs_nuls": 6453,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1794
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 3323
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 30898
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 73096
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 7268
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 32650
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 97722
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 7208
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 66540
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 860
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "2",
+    "libelle": "AISNE",
+    "inscrits": 376068,
+    "votants": 303140,
+    "exprimes": 297944,
+    "abstentions": 72928,
+    "blancs_nuls": 5196,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2490
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 3860
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 30360
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 80751
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 3455
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 19895
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 72090
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 5853
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 78452
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 738
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "3",
+    "libelle": "ALLIER",
+    "inscrits": 256275,
+    "votants": 211009,
+    "exprimes": 205950,
+    "abstentions": 45266,
+    "blancs_nuls": 5059,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1482
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 2584
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 27969
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 61131
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 3232
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 17814
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 49477
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 4068
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 37736
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 457
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "4",
+    "libelle": "ALPES-DE-HAUTE-PROVENCE",
+    "inscrits": 123933,
+    "votants": 102899,
+    "exprimes": 100788,
+    "abstentions": 21034,
+    "blancs_nuls": 2111,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 487
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 1394
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 15269
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 24551
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 2933
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 7483
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 25668
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 1845
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 20875
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 283
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "5",
+    "libelle": "HAUTES-ALPES",
+    "inscrits": 106865,
+    "votants": 88619,
+    "exprimes": 86777,
+    "abstentions": 18246,
+    "blancs_nuls": 1842,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 488
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 1152
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 12175
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 21248
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 3147
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 8559
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 22655
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 1782
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 15359
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 212
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "6",
+    "libelle": "ALPES-MARITIMES",
+    "inscrits": 745288,
+    "votants": 591905,
+    "exprimes": 582842,
+    "abstentions": 153383,
+    "blancs_nuls": 9063,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1576
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 4048
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 49493
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 111990
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 12556
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 38980
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 216738
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 9241
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 136982
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 1238
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "7",
+    "libelle": "ARDECHE",
+    "inscrits": 243351,
+    "votants": 204791,
+    "exprimes": 200718,
+    "abstentions": 38560,
+    "blancs_nuls": 4073,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1257
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 2750
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 28247
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 52156
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 5621
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 18373
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 47687
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 3890
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 40216
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 521
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "8",
+    "libelle": "ARDENNES",
+    "inscrits": 196579,
+    "votants": 156071,
+    "exprimes": 153591,
+    "abstentions": 40508,
+    "blancs_nuls": 2480,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1185
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 1981
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 14260
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 44441
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 1868
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 11551
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 37524
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 2787
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 37628
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 366
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "9",
+    "libelle": "ARIEGE",
+    "inscrits": 116370,
+    "votants": 97868,
+    "exprimes": 96048,
+    "abstentions": 18502,
+    "blancs_nuls": 1820,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 528
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 1396
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 16197
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 33003
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 2742
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 6411
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 17979
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 1446
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 16125
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 221
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "10",
+    "libelle": "AUBE",
+    "inscrits": 203590,
+    "votants": 165651,
+    "exprimes": 162185,
+    "abstentions": 37939,
+    "blancs_nuls": 3466,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 990
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 1632
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 12860
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 36967
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 2294
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 13575
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 49196
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 3524
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 40740
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 407
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "11",
+    "libelle": "AUDE",
+    "inscrits": 264288,
+    "votants": 220647,
+    "exprimes": 216348,
+    "abstentions": 43641,
+    "blancs_nuls": 4299,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1116
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 2724
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 28456
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 65783
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 4516
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 13076
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 46801
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 3184
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 50234
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 458
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "12",
+    "libelle": "AVEYRON",
+    "inscrits": 218347,
+    "votants": 186252,
+    "exprimes": 181713,
+    "abstentions": 32095,
+    "blancs_nuls": 4539,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 969
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 2417
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 22282
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 53493
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 4243
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 22809
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 46351
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 3095
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 25619
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 435
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "13",
+    "libelle": "BOUCHES-DU-RHONE",
+    "inscrits": 1314766,
+    "votants": 1057334,
+    "exprimes": 1040623,
+    "abstentions": 257432,
+    "blancs_nuls": 16711,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 3641
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 8293
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 139719
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 255052
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 21977
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 66082
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 286175
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 14087
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 243348
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 2249
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "14",
+    "libelle": "CALVADOS",
+    "inscrits": 490547,
+    "votants": 408049,
+    "exprimes": 401432,
+    "abstentions": 82498,
+    "blancs_nuls": 6617,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2641
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 5385
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 42396
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 117773
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 8569
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 40562
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 109745
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 8227
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 65126
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 1008
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "15",
+    "libelle": "CANTAL",
+    "inscrits": 120962,
+    "votants": 100596,
+    "exprimes": 98406,
+    "abstentions": 20366,
+    "blancs_nuls": 2190,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 587
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 1218
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 8836
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 30353
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 1534
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 10980
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 28151
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 1630
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 14877
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 240
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "16",
+    "libelle": "CHARENTE",
+    "inscrits": 260765,
+    "votants": 214124,
+    "exprimes": 209459,
+    "abstentions": 46641,
+    "blancs_nuls": 4665,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1460
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 3084
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 23707
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 68691
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 3843
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 18461
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 48291
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 4278
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 37121
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 523
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "17",
+    "libelle": "CHARENTE-MARITIME",
+    "inscrits": 471947,
+    "votants": 386469,
+    "exprimes": 378741,
+    "abstentions": 85478,
+    "blancs_nuls": 7728,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2161
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 5392
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 39313
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 107821
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 8378
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 34381
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 106431
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 7900
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 66076
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 888
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "18",
+    "libelle": "CHER",
+    "inscrits": 230917,
+    "votants": 185622,
+    "exprimes": 181615,
+    "abstentions": 45295,
+    "blancs_nuls": 4007,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1387
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 2218
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 25079
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 48608
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 2861
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 16048
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 45331
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 3825
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 35825
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 433
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "19",
+    "libelle": "CORREZE",
+    "inscrits": 186701,
+    "votants": 159369,
+    "exprimes": 156095,
+    "abstentions": 27332,
+    "blancs_nuls": 3274,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 659
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 1581
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 16462
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 67070
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 2155
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 10824
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 33706
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 2577
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 20784
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 277
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "21",
+    "libelle": "COTE-D'OR",
+    "inscrits": 354789,
+    "votants": 294505,
+    "exprimes": 289071,
+    "abstentions": 60284,
+    "blancs_nuls": 5434,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1631
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 3070
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 27496
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 80321
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 6073
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 27086
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 82588
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 5640
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 54472
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 694
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "22",
+    "libelle": "COTES-D'ARMOR",
+    "inscrits": 450961,
+    "votants": 386508,
+    "exprimes": 379537,
+    "abstentions": 64453,
+    "blancs_nuls": 6971,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2552
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 5054
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 46303
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 125333
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 10545
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 40240
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 90555
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 6494
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 51552
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 909
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "23",
+    "libelle": "CREUSE",
+    "inscrits": 96875,
+    "votants": 79657,
+    "exprimes": 77750,
+    "abstentions": 17218,
+    "blancs_nuls": 1907,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 557
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 1156
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 10117
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 26447
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 1369
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 6476
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 17280
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 1502
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 12651
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 195
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "24",
+    "libelle": "DORDOGNE",
+    "inscrits": 311933,
+    "votants": 264647,
+    "exprimes": 258814,
+    "abstentions": 47286,
+    "blancs_nuls": 5833,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1480
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 3533
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 35489
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 83050
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 5525
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 20898
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 59347
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 4847
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 44035
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 610
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "25",
+    "libelle": "DOUBS",
+    "inscrits": 359193,
+    "votants": 297416,
+    "exprimes": 291412,
+    "abstentions": 61777,
+    "blancs_nuls": 6004,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1882
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 3445
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 31936
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 76592
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 6847
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 25639
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 83036
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 5364
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 55921
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 750
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "26",
+    "libelle": "DROME",
+    "inscrits": 353056,
+    "votants": 293501,
+    "exprimes": 288253,
+    "abstentions": 59555,
+    "blancs_nuls": 5248,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2057
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 3187
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 34877
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 72207
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 8263
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 25610
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 75291
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 5578
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 60424
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 759
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "27",
+    "libelle": "EURE",
+    "inscrits": 417830,
+    "votants": 340560,
+    "exprimes": 334475,
+    "abstentions": 77270,
+    "blancs_nuls": 6085,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2189
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 4584
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 34572
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 82464
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 5544
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 28144
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 92910
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 7074
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 76104
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 890
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "28",
+    "libelle": "EURE-ET-LOIR",
+    "inscrits": 297784,
+    "votants": 241195,
+    "exprimes": 236815,
+    "abstentions": 56589,
+    "blancs_nuls": 4380,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1587
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 2899
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 21230
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 60882
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 3788
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 21842
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 69591
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 5307
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 49067
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 622
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "29",
+    "libelle": "FINISTERE",
+    "inscrits": 676771,
+    "votants": 569595,
+    "exprimes": 560072,
+    "abstentions": 107176,
+    "blancs_nuls": 9523,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 3347
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 8273
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 64505
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 188720
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 16536
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 63121
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 136994
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 9944
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 67101
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 1531
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "30",
+    "libelle": "GARD",
+    "inscrits": 513138,
+    "votants": 425148,
+    "exprimes": 418026,
+    "abstentions": 87990,
+    "blancs_nuls": 7122,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1946
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 4215
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 55731
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 100778
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 8855
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 28893
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 103927
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 6087
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 106646
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 948
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "31",
+    "libelle": "HAUTE-GARONNE",
+    "inscrits": 845035,
+    "votants": 705353,
+    "exprimes": 693593,
+    "abstentions": 139682,
+    "blancs_nuls": 11760,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2839
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 7672
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 92798
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 227695
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 21069
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 64648
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 158407
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 10601
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 106161
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 1703
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "32",
+    "libelle": "GERS",
+    "inscrits": 143798,
+    "votants": 123390,
+    "exprimes": 120666,
+    "abstentions": 20408,
+    "blancs_nuls": 2724,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 646
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 1486
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 14558
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 38446
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 2715
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 12003
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 29133
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 2191
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 19190
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 298
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "33",
+    "libelle": "GIRONDE",
+    "inscrits": 1007663,
+    "votants": 832946,
+    "exprimes": 818906,
+    "abstentions": 174717,
+    "blancs_nuls": 14040,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 3671
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 13626
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 96165
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 260043
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 19940
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 79277
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 203396
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 13082
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 127811
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 1895
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "34",
+    "libelle": "HERAULT",
+    "inscrits": 746616,
+    "votants": 613422,
+    "exprimes": 602944,
+    "abstentions": 133194,
+    "blancs_nuls": 10478,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2397
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 6221
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 80036
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 160931
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 15223
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 41351
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 152614
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 8462
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 134343
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 1366
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "35",
+    "libelle": "ILLE-ET-VILAINE",
+    "inscrits": 697043,
+    "votants": 590071,
+    "exprimes": 579026,
+    "abstentions": 106972,
+    "blancs_nuls": 11045,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 3876
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 7066
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 59901
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 183935
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 18367
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 71491
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 150685
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 10601
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 71727
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 1377
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "36",
+    "libelle": "INDRE",
+    "inscrits": 173772,
+    "votants": 142436,
+    "exprimes": 138948,
+    "abstentions": 31336,
+    "blancs_nuls": 3488,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1190
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 1985
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 15645
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 41505
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 2015
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 12473
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 33564
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 3014
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 27164
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 393
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "37",
+    "libelle": "INDRE-ET-LOIRE",
+    "inscrits": 412904,
+    "votants": 341546,
+    "exprimes": 335255,
+    "abstentions": 71358,
+    "blancs_nuls": 6291,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2272
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 4303
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 36657
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 94210
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 7488
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 34420
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 94680
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 6738
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 53586
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 901
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "38",
+    "libelle": "ISERE",
+    "inscrits": 821279,
+    "votants": 678372,
+    "exprimes": 666339,
+    "abstentions": 142907,
+    "blancs_nuls": 12033,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 3450
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 6846
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 82657
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 185538
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 20189
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 60608
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 166290
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 12658
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 126377
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 1726
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "39",
+    "libelle": "JURA",
+    "inscrits": 188252,
+    "votants": 157335,
+    "exprimes": 154093,
+    "abstentions": 30917,
+    "blancs_nuls": 3242,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1084
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 2028
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 19338
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 37910
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 3691
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 14819
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 39808
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 3532
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 31458
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 425
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "40",
+    "libelle": "LANDES",
+    "inscrits": 296740,
+    "votants": 248667,
+    "exprimes": 243830,
+    "abstentions": 48073,
+    "blancs_nuls": 4837,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1161
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 3605
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 30508
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 79861
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 4466
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 25437
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 59887
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 4008
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 34381
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 516
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "41",
+    "libelle": "LOIR-ET-CHER",
+    "inscrits": 243061,
+    "votants": 201276,
+    "exprimes": 197301,
+    "abstentions": 41785,
+    "blancs_nuls": 3975,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1384
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 2594
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 19437
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 49347
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 3418
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 19256
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 55944
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 4213
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 41190
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 518
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "42",
+    "libelle": "LOIRE",
+    "inscrits": 509701,
+    "votants": 420475,
+    "exprimes": 412423,
+    "abstentions": 89226,
+    "blancs_nuls": 8052,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2503
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 4464
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 46104
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 109122
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 8090
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 40209
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 103410
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 8705
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 88877
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 939
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "43",
+    "libelle": "HAUTE-LOIRE",
+    "inscrits": 176103,
+    "votants": 148878,
+    "exprimes": 145099,
+    "abstentions": 27225,
+    "blancs_nuls": 3779,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1067
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 1931
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 16214
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 38253
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 3041
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 16212
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 35438
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 3021
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 29600
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 322
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "44",
+    "libelle": "LOIRE-ATLANTIQUE",
+    "inscrits": 935254,
+    "votants": 787893,
+    "exprimes": 773722,
+    "abstentions": 147361,
+    "blancs_nuls": 14171,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 4458
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 9635
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 90140
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 245708
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 24410
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 87453
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 201671
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 14238
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 94249
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 1760
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "45",
+    "libelle": "LOIRET",
+    "inscrits": 442928,
+    "votants": 362731,
+    "exprimes": 356045,
+    "abstentions": 80197,
+    "blancs_nuls": 6686,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2007
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 3610
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 33923
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 90617
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 6744
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 33133
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 104350
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 7512
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 73264
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 885
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "46",
+    "libelle": "LOT",
+    "inscrits": 135178,
+    "votants": 116440,
+    "exprimes": 114070,
+    "abstentions": 18738,
+    "blancs_nuls": 2370,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 623
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 1650
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 16400
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 39369
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 3046
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 10648
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 24447
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 2212
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 15376
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 299
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "47",
+    "libelle": "LOT-ET-GARONNE",
+    "inscrits": 240926,
+    "votants": 200620,
+    "exprimes": 196532,
+    "abstentions": 40306,
+    "blancs_nuls": 4088,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 974
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 2699
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 22966
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 52893
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 3775
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 17394
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 49768
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 3522
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 42080
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 461
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "48",
+    "libelle": "LOZERE",
+    "inscrits": 59890,
+    "votants": 51033,
+    "exprimes": 50006,
+    "abstentions": 8857,
+    "blancs_nuls": 1027,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 263
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 647
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 6208
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 12579
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 1307
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 5505
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 13885
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 843
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 8650
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 119
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "49",
+    "libelle": "MAINE-ET-LOIRE",
+    "inscrits": 553014,
+    "votants": 466628,
+    "exprimes": 455773,
+    "abstentions": 86386,
+    "blancs_nuls": 10855,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 3426
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 6338
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 42601
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 123534
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 10737
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 58196
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 136420
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 10087
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 63252
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 1182
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "50",
+    "libelle": "MANCHE",
+    "inscrits": 375716,
+    "votants": 312081,
+    "exprimes": 306129,
+    "abstentions": 63635,
+    "blancs_nuls": 5952,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2206
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 4131
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 30167
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 82773
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 5601
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 34272
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 88234
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 6936
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 50927
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 882
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "51",
+    "libelle": "MARNE",
+    "inscrits": 382003,
+    "votants": 301964,
+    "exprimes": 296987,
+    "abstentions": 80039,
+    "blancs_nuls": 4977,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1949
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 3534
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 25292
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 71432
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 4482
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 28210
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 88707
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 6029
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 66640
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 712
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "52",
+    "libelle": "HAUTE-MARNE",
+    "inscrits": 138929,
+    "votants": 111584,
+    "exprimes": 109353,
+    "abstentions": 27345,
+    "blancs_nuls": 2231,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 860
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 1455
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 9720
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 25970
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 1506
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 8712
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 30604
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 2637
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 27624
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 265
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "53",
+    "libelle": "MAYENNE",
+    "inscrits": 221493,
+    "votants": 186972,
+    "exprimes": 182271,
+    "abstentions": 34521,
+    "blancs_nuls": 4701,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1415
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 2392
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 15136
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 47146
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 3864
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 25118
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 55945
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 3897
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 26930
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 428
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "54",
+    "libelle": "MEURTHE-ET-MOSELLE",
+    "inscrits": 495506,
+    "votants": 396145,
+    "exprimes": 389903,
+    "abstentions": 99361,
+    "blancs_nuls": 6242,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2582
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 4988
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 47042
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 108870
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 7058
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 33871
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 94415
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 7447
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 82538
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 1092
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "55",
+    "libelle": "MEUSE",
+    "inscrits": 140133,
+    "votants": 114529,
+    "exprimes": 112454,
+    "abstentions": 25604,
+    "blancs_nuls": 2075,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 789
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 1688
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 9951
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 26313
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 1794
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 10375
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 29863
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 2299
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 29038
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 344
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "56",
+    "libelle": "MORBIHAN",
+    "inscrits": 555819,
+    "votants": 469696,
+    "exprimes": 461158,
+    "abstentions": 86123,
+    "blancs_nuls": 8538,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2818
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 6300
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 47220
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 130453
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 12948
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 50050
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 129838
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 8548
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 71715
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 1268
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "57",
+    "libelle": "MOSELLE",
+    "inscrits": 745678,
+    "votants": 582730,
+    "exprimes": 572072,
+    "abstentions": 162948,
+    "blancs_nuls": 10658,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 4350
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 7924
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 54455
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 140323
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 9875
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 53160
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 148328
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 10658
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 141477
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 1522
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "58",
+    "libelle": "NIEVRE",
+    "inscrits": 164911,
+    "votants": 133190,
+    "exprimes": 130596,
+    "abstentions": 31721,
+    "blancs_nuls": 2594,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 934
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 1675
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 15601
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 42631
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 2143
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 9746
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 29400
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 2563
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 25565
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 338
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "59",
+    "libelle": "NORD",
+    "inscrits": 1792359,
+    "votants": 1395836,
+    "exprimes": 1371099,
+    "abstentions": 396523,
+    "blancs_nuls": 24737,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 9545
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 15138
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 173037
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 383471
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 23976
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 102511
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 338714
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 21160
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 300362
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 3185
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "60",
+    "libelle": "OISE",
+    "inscrits": 548845,
+    "votants": 444203,
+    "exprimes": 435969,
+    "abstentions": 104642,
+    "blancs_nuls": 8234,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 3391
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 5338
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 44057
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 108574
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 6598
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 33160
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 115926
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 8505
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 109339
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 1081
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "61",
+    "libelle": "ORNE",
+    "inscrits": 212521,
+    "votants": 177143,
+    "exprimes": 173754,
+    "abstentions": 35378,
+    "blancs_nuls": 3389,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1294
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 2515
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 15501
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 42159
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 3109
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 18326
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 51498
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 4173
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 34757
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 422
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "62",
+    "libelle": "PAS-DE-CALAIS",
+    "inscrits": 1083728,
+    "votants": 865561,
+    "exprimes": 849139,
+    "abstentions": 218167,
+    "blancs_nuls": 16422,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 7246
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 10948
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 97974
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 249971
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 10315
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 54354
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 185632
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 14122
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 216753
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 1824
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "63",
+    "libelle": "PUY-DE-DOME",
+    "inscrits": 449247,
+    "votants": 377666,
+    "exprimes": 369444,
+    "abstentions": 71581,
+    "blancs_nuls": 8222,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2372
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 4595
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 51691
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 122244
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 7549
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 36771
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 79124
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 6555
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 57555
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 988
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "64",
+    "libelle": "PYRENEES-ATLANTIQUES",
+    "inscrits": 488946,
+    "votants": 402158,
+    "exprimes": 393657,
+    "abstentions": 86788,
+    "blancs_nuls": 8501,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1826
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 6812
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 46749
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 117823
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 11345
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 61681
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 92967
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 5728
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 47844
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 882
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "65",
+    "libelle": "HAUTES-PYRENEES",
+    "inscrits": 177417,
+    "votants": 147673,
+    "exprimes": 144704,
+    "abstentions": 29744,
+    "blancs_nuls": 2969,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 780
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 1967
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 21934
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 47983
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 3007
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 15265
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 29512
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 2376
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 21580
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 300
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "66",
+    "libelle": "PYRENEES-ORIENTALES",
+    "inscrits": 329243,
+    "votants": 269306,
+    "exprimes": 264194,
+    "abstentions": 59937,
+    "blancs_nuls": 5112,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1305
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 3265
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 33739
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 68593
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 5564
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 16608
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 66870
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 3652
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 64007
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 591
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "67",
+    "libelle": "BAS-RHIN",
+    "inscrits": 748087,
+    "votants": 597183,
+    "exprimes": 585932,
+    "abstentions": 150904,
+    "blancs_nuls": 11251,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 3779
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 5993
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 42302
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 114702
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 16188
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 69940
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 196968
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 10141
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 124264
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 1655
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "68",
+    "libelle": "HAUT-RHIN",
+    "inscrits": 521174,
+    "votants": 413808,
+    "exprimes": 405411,
+    "abstentions": 107366,
+    "blancs_nuls": 8397,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2608
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 4824
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 30076
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 76580
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 10980
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 46176
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 129349
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 8508
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 94988
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 1322
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "69",
+    "libelle": "RHONE",
+    "inscrits": 1100632,
+    "votants": 897884,
+    "exprimes": 883651,
+    "abstentions": 202748,
+    "blancs_nuls": 14233,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 4220
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 7412
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 94876
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 237779
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 25611
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 91042
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 271922
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 15203
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 133322
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 2264
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "70",
+    "libelle": "HAUTE-SAONE",
+    "inscrits": 180646,
+    "votants": 150218,
+    "exprimes": 146536,
+    "abstentions": 30428,
+    "blancs_nuls": 3682,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1126
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 1999
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 14125
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 38661
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 2315
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 11147
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 36967
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 2982
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 36807
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 407
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "71",
+    "libelle": "SAONE-ET-LOIRE",
+    "inscrits": 409987,
+    "votants": 332410,
+    "exprimes": 324826,
+    "abstentions": 77577,
+    "blancs_nuls": 7584,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2048
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 3971
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 34548
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 93198
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 5435
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 28683
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 84499
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 6588
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 65054
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 802
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "72",
+    "libelle": "SARTHE",
+    "inscrits": 406858,
+    "votants": 334335,
+    "exprimes": 326102,
+    "abstentions": 72523,
+    "blancs_nuls": 8233,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2452
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 4379
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 35143
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 91722
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 6153
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 29802
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 86174
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 7012
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 62516
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 749
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "73",
+    "libelle": "SAVOIE",
+    "inscrits": 298785,
+    "votants": 248247,
+    "exprimes": 243115,
+    "abstentions": 50538,
+    "blancs_nuls": 5132,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1213
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 2890
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 27875
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 57469
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 8313
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 24034
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 69544
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 5120
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 45993
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 664
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "74",
+    "libelle": "HAUTE-SAVOIE",
+    "inscrits": 504674,
+    "votants": 409358,
+    "exprimes": 402015,
+    "abstentions": 95316,
+    "blancs_nuls": 7343,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1793
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 4514
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 37117
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 82482
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 14446
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 47547
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 136946
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 9345
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 66583
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 1242
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "75",
+    "libelle": "PARIS",
+    "inscrits": 1253322,
+    "votants": 1004567,
+    "exprimes": 992474,
+    "abstentions": 248755,
+    "blancs_nuls": 12093,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2719
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 6644
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 110101
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 345635
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 41495
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 92664
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 319482
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 9959
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 61503
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 2272
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "76",
+    "libelle": "SEINE-MARITIME",
+    "inscrits": 876165,
+    "votants": 708871,
+    "exprimes": 695401,
+    "abstentions": 167294,
+    "blancs_nuls": 13470,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 4918
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 8918
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 91759
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 204448
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 11356
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 54446
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 174024
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 12445
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 131416
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 1671
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "77",
+    "libelle": "SEINE-ET-MARNE",
+    "inscrits": 843673,
+    "votants": 657276,
+    "exprimes": 645798,
+    "abstentions": 186397,
+    "blancs_nuls": 11478,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2995
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 6584
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 71097
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 178537
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 12684
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 55187
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 176116
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 14055
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 126889
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 1654
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "78",
+    "libelle": "YVELINES",
+    "inscrits": 926619,
+    "votants": 730379,
+    "exprimes": 719313,
+    "abstentions": 196240,
+    "blancs_nuls": 11066,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2505
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 5720
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 65520
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 196485
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 17974
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 80848
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 246328
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 12434
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 89491
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 2008
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "79",
+    "libelle": "DEUX-SEVRES",
+    "inscrits": 270711,
+    "votants": 227115,
+    "exprimes": 221715,
+    "abstentions": 43596,
+    "blancs_nuls": 5400,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1612
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 3550
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 22709
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 73911
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 4480
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 24395
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 55462
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 4952
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 30077
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 567
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "80",
+    "libelle": "SOMME",
+    "inscrits": 409444,
+    "votants": 335149,
+    "exprimes": 329137,
+    "abstentions": 74295,
+    "blancs_nuls": 6012,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2917
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 4222
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 36213
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 93379
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 4031
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 24066
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 78680
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 6653
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 78250
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 726
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "81",
+    "libelle": "TARN",
+    "inscrits": 283884,
+    "votants": 242060,
+    "exprimes": 236714,
+    "abstentions": 41824,
+    "blancs_nuls": 5346,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1212
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 2962
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 28800
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 72647
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 5064
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 21724
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 55099
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 3850
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 44806
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 550
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "82",
+    "libelle": "TARN-ET-GARONNE",
+    "inscrits": 175312,
+    "votants": 149010,
+    "exprimes": 145844,
+    "abstentions": 26302,
+    "blancs_nuls": 3166,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 698
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 1769
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 16313
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 40297
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 2867
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 12075
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 36666
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 2564
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 32228
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 367
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "83",
+    "libelle": "VAR",
+    "inscrits": 757180,
+    "votants": 610163,
+    "exprimes": 600730,
+    "abstentions": 147017,
+    "blancs_nuls": 9433,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2094
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 5239
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 54553
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 118023
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 11334
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 40004
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 209233
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 9809
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 149187
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 1254
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "84",
+    "libelle": "VAUCLUSE",
+    "inscrits": 388052,
+    "votants": 318435,
+    "exprimes": 312889,
+    "abstentions": 69617,
+    "blancs_nuls": 5546,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1207
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 2981
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 34879
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 69878
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 7062
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 21070
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 85898
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 4679
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 84585
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 650
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "85",
+    "libelle": "VENDEE",
+    "inscrits": 488819,
+    "votants": 417101,
+    "exprimes": 407384,
+    "abstentions": 71718,
+    "blancs_nuls": 9717,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2584
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 5893
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 34471
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 101079
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 7652
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 49402
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 133985
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 9486
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 61859
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 973
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "86",
+    "libelle": "VIENNE",
+    "inscrits": 303653,
+    "votants": 251096,
+    "exprimes": 245690,
+    "abstentions": 52557,
+    "blancs_nuls": 5406,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1741
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 3321
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 27037
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 78591
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 5335
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 23565
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 60188
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 5038
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 40321
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 553
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "87",
+    "libelle": "HAUTE-VIENNE",
+    "inscrits": 264914,
+    "votants": 223889,
+    "exprimes": 217939,
+    "abstentions": 41025,
+    "blancs_nuls": 5950,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1435
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 2641
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 31304
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 78249
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 3925
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 17189
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 43225
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 3634
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 35821
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 516
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "88",
+    "libelle": "VOSGES",
+    "inscrits": 285410,
+    "votants": 234076,
+    "exprimes": 228902,
+    "abstentions": 51334,
+    "blancs_nuls": 5174,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1716
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 3573
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 22162
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 56495
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 4026
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 21516
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 57964
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 5450
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 55339
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 661
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "89",
+    "libelle": "YONNE",
+    "inscrits": 245258,
+    "votants": 198023,
+    "exprimes": 194476,
+    "abstentions": 47235,
+    "blancs_nuls": 3547,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 1324
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 2477
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 19540
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 46667
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 3426
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 16472
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 53719
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 4310
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 46057
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 484
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "90",
+    "libelle": "TERRITOIRE DE BELFORT",
+    "inscrits": 94889,
+    "votants": 76507,
+    "exprimes": 74923,
+    "abstentions": 18382,
+    "blancs_nuls": 1584,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 523
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 988
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 8547
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 19484
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 1516
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 6630
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 17891
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 1343
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 17786
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 215
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "91",
+    "libelle": "ESSONNE",
+    "inscrits": 767292,
+    "votants": 607528,
+    "exprimes": 597251,
+    "abstentions": 159764,
+    "blancs_nuls": 10277,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2462
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 5591
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 73240
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 181506
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 14027
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 55738
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 152079
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 20392
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 90760
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 1456
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "92",
+    "libelle": "HAUTS-DE-SEINE",
+    "inscrits": 938538,
+    "votants": 745378,
+    "exprimes": 733652,
+    "abstentions": 193160,
+    "blancs_nuls": 11726,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2187
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 5031
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 75911
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 221233
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 20086
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 78397
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 256570
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 9851
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 62447
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 1939
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "93",
+    "libelle": "SEINE-SAINT-DENIS",
+    "inscrits": 740536,
+    "votants": 544019,
+    "exprimes": 533915,
+    "abstentions": 196517,
+    "blancs_nuls": 10104,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2708
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 4936
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 90710
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 206537
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 11781
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 32661
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 104010
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 6978
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 72335
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 1259
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "94",
+    "libelle": "VAL-DE-MARNE",
+    "inscrits": 767571,
+    "votants": 594863,
+    "exprimes": 585362,
+    "abstentions": 172708,
+    "blancs_nuls": 9501,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2217
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 4946
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 81950
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 192781
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 15392
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 51892
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 155552
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 9735
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 69399
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 1498
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "95",
+    "libelle": "VAL-D'OISE",
+    "inscrits": 704810,
+    "votants": 542467,
+    "exprimes": 532715,
+    "abstentions": 162343,
+    "blancs_nuls": 9752,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 2340
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 5109
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 63679
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 172658
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 10907
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 44683
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 139863
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 9049
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 83102
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 1325
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "2A",
+    "libelle": "CORSE-DU-SUD",
+    "inscrits": 101682,
+    "votants": 75509,
+    "exprimes": 74215,
+    "abstentions": 26173,
+    "blancs_nuls": 1294,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 220
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 873
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 7191
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 16540
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 1658
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 4069
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 23623
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 797
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 19081
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 163
+      }
+    ]
+  },
+  {
+    "election": 2012,
+    "tour": 1,
+    "code": "2B",
+    "libelle": "HAUTE-CORSE",
+    "inscrits": 118667,
+    "votants": 88144,
+    "exprimes": 86517,
+    "abstentions": 30523,
+    "blancs_nuls": 1627,
+    "candidats": [
+      {
+        "nom": "Nathalie ARTHAUD",
+        "parti": "LO",
+        "votes": 282
+      },
+      {
+        "nom": "Philippe POUTOU",
+        "parti": "NPA",
+        "votes": 1001
+      },
+      {
+        "nom": "Jean-Luc MELENCHON",
+        "parti": "FG",
+        "votes": 8643
+      },
+      {
+        "nom": "François HOLLANDE",
+        "parti": "PS",
+        "votes": 22489
+      },
+      {
+        "nom": "Eva JOLY",
+        "parti": "EELV",
+        "votes": 2020
+      },
+      {
+        "nom": "François BAYROU",
+        "parti": "MODEM",
+        "votes": 3981
+      },
+      {
+        "nom": "Nicolas SARKOZY",
+        "parti": "UMP",
+        "votes": 26869
+      },
+      {
+        "nom": "Nicolas DUPONT-AIGNAN",
+        "parti": "DLR",
+        "votes": 930
+      },
+      {
+        "nom": "Marine LE PEN",
+        "parti": "FN",
+        "votes": 20128
+      },
+      {
+        "nom": "Jacques CHEMINADE",
+        "parti": "SP",
+        "votes": 174
+      }
+    ]
+  }
+]
