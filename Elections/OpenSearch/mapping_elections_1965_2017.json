@@ -7,10 +7,20 @@
             "type": "integer"
         },
         "code": {
-            "type": "text"
+            "type": "text",
+            "fields": {
+                "keyword": {
+                    "type":"keyword"
+                }
+            }
         },
         "libelle": {
-            "type": "text"
+            "type": "text",
+            "fields": {
+                "keyword": {
+                    "type":"keyword"
+                }
+            }
         },
         "inscrits": {
             "type": "long"
@@ -31,10 +41,20 @@
             "type": "nested",
             "properties": {
                 "nom": {
-                    "type": "text"
+                    "type": "text",
+                    "fields": {
+                        "keyword": {
+                            "type":"keyword"
+                        }
+                    }
                 },
                 "parti": {
-                    "type": "text"
+                    "type": "text",
+                    "fields": {
+                        "keyword": {
+                            "type":"keyword"
+                        }
+                    }
                 },
                 "votes": {
                     "type": "long"

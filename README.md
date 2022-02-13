@@ -75,6 +75,411 @@ Enfin nous pouvons importer les données :
 curl -u admin:admin --insecure -XPUT https://localhost:9200/_bulk -H "Content-Type: application/json" --data-binary @results_elections_1965_2017.json
 ```
 
+## Reqûetes & Aggrégations:
+
+1) Pour l'année 1965, quel département à eu le plus d'abstentionnistes ?
+
+```json
+// URL - https://localhost:9200/presidentielles/_search?size=1
+
+// Input
+{
+	"query": {
+		"term": {
+			"election": 1965
+		}
+	},
+	"sort": [{"abstentions": "desc"}]
+}
+
+// Output :
+{
+	"took": 6,
+	"timed_out": false,
+	"_shards": {
+		"total": 1,
+		"successful": 1,
+		"skipped": 0,
+		"failed": 0
+	},
+	"hits": {
+		"total": {
+			"value": 180,
+			"relation": "eq"
+		},
+		"max_score": null,
+		"hits": [
+			{
+				"_index": "presidentielles",
+				"_type": "_doc",
+				"_id": "165",
+				"_score": null,
+				"_source": {
+					"election": 1965,
+					"tour": 2,
+					"code": "75",
+					"libelle": "SEINE",
+					"inscrits": 3218731,
+					"votants": 2716430,
+					"exprimes": 2639147,
+					"abstentions": 502301,
+					"blancs_nuls": 77283,
+					"candidats": [
+						{
+							"nom": "François MITTERRAND",
+							"parti": "CIR",
+							"votes": 1253300
+						},
+						{
+							"nom": "Charles DE GAULLE",
+							"parti": "UNR",
+							"votes": 1385847
+						}
+					]
+				},
+				"sort": [
+					502301
+				]
+			}
+		]
+	}
+}
+```
+
+2) Combien de votes blancs et nuls, on été comptabilsés en 1974 ?
+
+```json
+// URL - https://localhost:9200/presidentielles/_search
+
+// Input
+{
+	"size": 0,
+	"query": {
+		"term": {
+				"election": 1974
+			}
+	},
+	"aggs": {
+		"somme_blancs_nuls": {
+			"sum": {
+				"field": "blancs_nuls"
+			}
+		}
+	}
+}
+
+// Output
+{
+	"took": 9,
+	"timed_out": false,
+	"_shards": {
+		"total": 1,
+		"successful": 1,
+		"skipped": 0,
+		"failed": 0
+	},
+	"hits": {
+		"total": {
+			"value": 190,
+			"relation": "eq"
+		},
+		"max_score": null,
+		"hits": [
+		]
+	},
+	"aggregations": {
+		"somme_blancs_nuls": {
+			"value": 576122.0
+		}
+	}
+}
+```
+
+3) Qui à été élu dans le 79, au deuxième tour, en 1988.
+
+```json
+// URL - https://localhost:9200/presidentielles/_search
+
+// Input
+{
+	"size": 1,
+	"query": {
+		"bool": {
+			"should": [
+				{
+					"term": {
+						"election": 1988
+					}
+				},
+				{
+					"term": {
+						"tour": 2
+					}
+				},
+				{
+					"term": {
+						"code": "79"
+					}
+				}
+			]
+		}
+	}
+}
+
+// Output
+{
+	"took": 3,
+	"timed_out": false,
+	"_shards": {
+		"total": 1,
+		"successful": 1,
+		"skipped": 0,
+		"failed": 0
+	},
+	"hits": {
+		"total": {
+			"value": 1057,
+			"relation": "eq"
+		},
+		"max_score": 6.531812,
+		"hits": [
+			{
+				"_index": "presidentielles",
+				"_type": "_doc",
+				"_id": "926",
+				"_score": 6.531812,
+				"_source": {
+					"election": 1988,
+					"tour": 2,
+					"code": "79",
+					"libelle": "DEUX-SEVRES",
+					"inscrits": 250082,
+					"votants": 216436,
+					"exprimes": 208701,
+					"abstentions": 33646,
+					"blancs_nuls": 7735,
+					"candidats": [
+						{
+							"nom": "François MITTERRAND",
+							"parti": "PS",
+							"votes": 112010
+						},
+						{
+							"nom": "Jacques CHIRAC",
+							"parti": "RPR",
+							"votes": 96691
+						}
+					]
+				}
+			}
+		]
+	}
+}
+```
+
+4) En quelle année y'a t'il eu le plus d'abstentions ?
+
+```json
+/* Pour cette question et celle d'après j'ai temporairement modifié le mapping pour le champ, election. Il est passé de integer à date. */
+
+// URL - https://localhost:9200/presidentielles/_search
+
+// Input
+{
+  "size": 0,
+  "aggs": {
+    "logs_per_month": {
+      "date_histogram": {
+        "field": "election",
+        "interval": "year"
+      },
+      "aggs": {
+        "sumAbstentions": {
+          "sum": {
+            "field": "abstentions"
+          }
+        },
+        "vote_bucket_sort": {
+          "bucket_sort": {
+            "sort": [
+              {
+                "sumAbstentions": {
+                  "order": "desc"
+                }
+              }
+            ],
+            "size": 1
+          }
+        }
+      }
+    }
+  }
+}
+
+// Output
+{
+	"took": 7,
+	"timed_out": false,
+	"_shards": {
+		"total": 1,
+		"successful": 1,
+		"skipped": 0,
+		"failed": 0
+	},
+	"hits": {
+		"total": {
+			"value": 1904,
+			"relation": "eq"
+		},
+		"max_score": null,
+		"hits": [
+		]
+	},
+	"aggregations": {
+		"logs_per_month": {
+			"buckets": [
+				{
+					"key_as_string": "2017-01-01T00:00:00.000Z",
+					"key": 1483228800000,
+					"doc_count": 192,
+					"sumAbstentions": {
+						"value": 1.9426725E7
+					}
+				}
+			]
+		}
+	}
+}
+```
+
+5) En quelle année y'a t'il eu le plus de votants ?
+
+```json
+// URL - https://localhost:9200/presidentielles/_search
+
+// Input
+{
+  "size": 0,
+  "aggs": {
+    "logs_per_month": {
+      "date_histogram": {
+        "field": "election",
+        "interval": "year"
+      },
+      "aggs": {
+        "sumAbstentions": {
+          "sum": {
+            "field": "votants"
+          }
+        },
+        "vote_bucket_sort": {
+          "bucket_sort": {
+            "sort": [
+              {
+                "sumAbstentions": {
+                  "order": "desc"
+                }
+              }
+            ],
+            "size": 1
+          }
+        }
+      }
+    }
+  }
+}
+
+// Output
+{
+	"took": 9,
+	"timed_out": false,
+	"_shards": {
+		"total": 1,
+		"successful": 1,
+		"skipped": 0,
+		"failed": 0
+	},
+	"hits": {
+		"total": {
+			"value": 1904,
+			"relation": "eq"
+		},
+		"max_score": null,
+		"hits": [
+		]
+	},
+	"aggregations": {
+		"logs_per_month": {
+			"buckets": [
+				{
+					"key_as_string": "2007-01-01T00:00:00.000Z",
+					"key": 1167609600000,
+					"doc_count": 192,
+					"sumAbstentions": {
+						"value": 7.1825472E7
+					}
+				}
+			]
+		}
+	}
+}
+```
+
+6) Quels candidats ce sont présentés plus de 2x ?
+
+```json
+// URL - https://localhost:9200/presidentielles/_search
+
+// Input
+
+// Output
+
+```
+
+7) Quel candidat à été élu en 1995 ?
+
+```json
+// URL - https://localhost:9200/presidentielles/_search
+
+// Input
+
+// Output
+
+```
+
+8) Combien y'a t'il eu de candidats LO (Lutte ouvrière) ?
+
+```json
+// URL - https://localhost:9200/presidentielles/_search
+
+// Input
+
+// Output
+
+```
+
+9) Quel parti s'est présenté le plus grand nombre de fois ?
+
+```json
+// URL - https://localhost:9200/presidentielles/_search
+
+// Input
+
+// Output
+
+```
+
+10) Qui est arrivé en 2e position lors du 1er tour de 2007 ?
+
+```json
+// URL - https://localhost:9200/presidentielles/_search
+
+// Input
+
+// Output
+
+```
+
 ## Sources :
 Ce dataset à été constitué par moi même ([limentic](https://github.com/limentic)), grace à ces différentes sources :
 
@@ -82,8 +487,9 @@ Ce dataset à été constitué par moi même ([limentic](https://github.com/lime
 
 https://www.data.gouv.fr/fr/pages/donnees-des-elections/
 
-- Le Gouvernement français pour les élections de 2017
- - Science Po, pour les éléctions de 1965 à 2012
+Pour les data brutes, et spécifiquement :
+  - Le Gouvernement français pour les élections de 2017
+  - Science Po, pour les éléctions de 1965 à 2012
 
 ---
 
